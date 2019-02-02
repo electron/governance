@@ -1,5 +1,7 @@
 # Releases WG
 
+Oversees all release branches, and tooling to support releases.
+
 ## Membership
 
 | Avatar | Name | Role | Time Zone |
