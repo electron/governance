@@ -13,12 +13,10 @@ Oversees the technical implementation, design, and style of the Electron website
 
 ## Areas of Responsibility
 
-* Releasing Electron according to schedule
-* Release timeline coordination
-  * When to cut new branches for major and minor release lines (e.g. `v3.0` -> `v3.1`)
-  * Planning beta cycles, timelines, etc.
-  * Listening and responding to feedback
-* Management of Heroku apps for [associated repositories](#associated-repositories)
+* Implementation and design of the Electron website
+* Management of Heroku apps for the site and [associated repositories](#associated-repositories)
+* Management of the Algolia search tooling
+* Management of translations via Crowdin
 
 ## Associated Repositories
 
