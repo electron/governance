@@ -36,4 +36,4 @@ Oversees all release branches, and tooling to support releases.
 - **Sync Meeting** 30min Weekly @ 4:30PM PST
 - **Major Release Cadence Meeting** 1 hour Weekly @ 5:00PM PST
 
-Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/releases-wg/meeting-minutes/)
+Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-releases/meeting-minutes/)
