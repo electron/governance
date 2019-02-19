@@ -6,8 +6,8 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documenta
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Director | CST (New Orleans) |
-| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | **WG Director** | PST (San Francisco) |
+| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | **WG Director** | CST (New Orleans) |
+| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PST (San Francisco) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PST (Seattle) |
@@ -51,6 +51,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documenta
 - [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 - [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 - [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
+
 
 - [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
 - [`electron-userland/electron-packager`](https://github.com/electron-userland/electron-packager)
