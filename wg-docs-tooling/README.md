@@ -47,6 +47,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documenta
 - [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
 - [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 - [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
+- [`electron/windows-installer`](https://github.com/electron/windows-installer)
 - [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 - [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 - [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
