@@ -27,6 +27,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documenta
     * Rebuild
     * Quickstart & API Demo repos
     * Update server (update.electronjs.org)
+    * Windows Installer (`electron-winstaller`)
   * Tools (Userland)
     * Forge
     * Packager
