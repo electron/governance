@@ -27,7 +27,7 @@ All active members of Governance are granted "Write" permissions to all
 * [`electron/electron`](https://github.com/electron/electron)
 * [`electron/trop`](https://github.com/electron/trop)
 * [`electron/nightlies`](https://github.com/electron/nightlies)
-* [`electron/archaeologist`](https://github.com/electron/nightlies)
+* [`electron/archaeologist`](https://github.com/electron/archaeologist)
 * [`electron/debian-sysroot-image-creator`](https://github.com/electron/debian-sysroot-image-creator)
 * [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
