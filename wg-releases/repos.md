@@ -1,4 +1,4 @@
-# Repositores that `wg-releases` "owns"
+# Repositories that `wg-releases` owns
 
 - [`electron/electron`](https://github.com/electron/electron)
 - [`electron/trop`](https://github.com/electron/trop)

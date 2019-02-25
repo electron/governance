@@ -1,4 +1,4 @@
-# Repositores that `wg-website` "owns"
+# Repositories that `wg-website` owns
 
 - [`electron/electron`](https://github.com/electron/electron)
 - [`electron/node`](https://github.com/electron/node)

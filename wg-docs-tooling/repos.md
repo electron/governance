@@ -1,4 +1,4 @@
-# Repositores that `wg-docs-tooling` "owns"
+# Repositories that `wg-docs-tooling` owns
 
 * [`electron/fiddle`](https://github.com/electron/fiddle)
 * [`electron/spectron`](https://github.com/electron/spectron)
