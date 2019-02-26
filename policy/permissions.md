@@ -1,12 +1,12 @@
 # Permissions
 
-> The goal of this document is to strictly outline the permissions that maintainers will receive on certain services depending on their roles
+> The goal of this document is to strictly outline the permissions that maintainers will receive on certain services depending on their roles.
 
 ## GitHub
 
 ### Organization Owners
 
-The Chair of the Administrative Working Group is always an Organization Owner. Every other user is granted ownership based on a need-focused approval process.
+Maintainers are granted ownership based on a need-focused approval process.
 
 All approved owners shall be listed below:
 
@@ -40,13 +40,13 @@ If a repository has multiple Working Group stakeholders, access will be determin
 
 ### Repository Read Access
 
-Repositories in the Electron Organization are public / open-source by default. Read access should never have to be granted explicitly to a repository.
+Repositories in the Electron Organization should be public / open-source by default. Read access should never have to be granted explicitly to a repository.  Some sensitive repositories can be private but they must have a good reason for being kept private.
 
 ## Slack
 
 ### Slack Owners / Admins
 
-Due to current Slack requirements [Jacob Groundwater](https://github.com/groundwater) is the Primary Owner of the Slack Workspace. Every other user is granted ownership based on a need-focused approval process.
+Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace. Every other user is granted ownership based on a need-focused approval process.
 
 All approved owners shall be listed below:
 
@@ -61,7 +61,7 @@ All [maintainers](TODO: Link to definitions) shall have a full-access Slack acco
 
 ### Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some users may be added as Guests to the Electron HQ Slack.
+In a variety of situations, some [collaborators](TODO: Link to definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 * Members of the AFP should be added as single-channel guests to the
@@ -71,15 +71,15 @@ Before a Guest is added to a channel it must be announced in that channel to ens
 
 ### Private Slack Channels
 
-Private channels are discouraged unless there is a clear need, e.g. security
+Private channels are discouraged unless there is a clear need, e.g. for sensitive information such as discussion of vulnerability reports.
 
 ## Twitter
 
-The Twitter account is current owned by GitHub and access is managed by them.  In the future we'd like for this account to be owned by the Outreach Working Group.
+The Twitter account is currently owned by GitHub and access is managed by them.  In the future we'd like for this account to be owned by the Outreach Working Group.
 
 ## Exceptions
 
-Exceptions to these rules may sometimes be necessary. When it's appropriate to make one-off exceptions rather than amending the rules, you must list it below along with the reasoning for the exception. Exceptions can only be granted by vote of the directors of _all_ working groups. 
+Exceptions to these rules may sometimes be necessary. When it's appropriate to make one-off exceptions rather than amending the rules, you must list it below along with the reasoning for the exception. Exceptions can only be granted by vote of the chairs of _all_ working groups. 
 
 | Name | GitHub Username | Permission Granted | Reason |
 |------|-----------------|--------------------|--------|

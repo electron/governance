@@ -1,9 +1,9 @@
 # Administration Files
 */repositories.md @electron/wg-admin
-policy @electron/wg-admin
+/policy/ @electron/wg-admin
 
 # Working Group Directories
-wg-docs-tools @electron/wg-docs-tools
-wg-releases @electron/wg-releases
-wg-upgrades @electron/wg-upgrades
-wg-website @electron/wg-website
+/wg-docs-tools/ @electron/wg-docs-tools
+/wg-releases/ @electron/wg-releases
+/wg-upgrades/ @electron/wg-upgrades
+/wg-website/ @electron/wg-website
