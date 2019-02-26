@@ -3,7 +3,7 @@
 policy @electron/wg-admin
 
 # Working Group Directories
-wg-docs-tooling @electron/wg-docs-tools
+wg-docs-tools @electron/wg-docs-tools
 wg-releases @electron/wg-releases
 wg-upgrades @electron/wg-upgrades
 wg-website @electron/wg-website
