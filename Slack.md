@@ -22,12 +22,13 @@ Slack uses channels to organize work into "chat rooms". You can read more about 
  * `announce-`: Announcement channels, not used for general chatter – and excellent for following along.
  * `proj-`: Project-specific channels, like `proj-typescript` or `proj-newsletter`.
  * `bot-`: Channels used by bots and apps, like `bot-twitter` or `bot-electron-repo`.
- * `idea-`: A channel about a project that's not quite a project yet, but worth of its own channel.
+ * `idea-`: A channel about a project that's not quite a project yet, but worthy of its own channel.
  * `wg-`: Channels for governance working groups.
  * `event-`: Channels for individual events.
+ * `app-`: Channels for specific apps, like `app-slack`.
 
 As a general rule, we have channels for each major release line of `electron/electron` - as an example, `5-x-y`.
 
 ### Prefer Channels, Avoid Direct Messages
 
-Keeping communication and decision-making processes allows future contributors to read up on what decision were made – and how the people present at the time got there. Preserving context and allowing other contributors, both future and present, to catch up is one of the big benefits of using Slack. With that in mind, we heavily recommend that you use channels and avoid direct messages.
+Keeping communication and decision-making processes allows future contributors to learn how, and why, decisions were made. Preserving context and allowing other contributors, both future and present, to catch up is one of the big benefits of using Slack. With that in mind, we heavily recommend that you use channels and avoid direct messages.
