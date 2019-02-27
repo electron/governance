@@ -24,7 +24,7 @@ Requesting changes in the service of these goals is strongly encouraged, but alw
 
 ## Merging
 
-Squash-and-merge is preferred.
+All PRs should be Squash-and-merged with the exception of Chromium upgrades that should be merged maintaining commit history.
 
 ## Further Reading
 
