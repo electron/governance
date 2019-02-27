@@ -7,5 +7,5 @@
 - [Upgrades WG](https://hackmd.io/46GxW0JYTZO7-xLjqTTWTA)
 - [Releases WG](https://hackmd.io/UulAOzHORt62Hbbptv3Vig)
 - [Docs & Tooling WG](https://hackmd.io/vGzeV75VTE2CMjHQdOYxiA)
-- [Website WG](...)
+- [Website WG](https://hackmd.io/1EvunGbDRsmfyrka9XU1wQ)
 - [Outreach WG](...)
