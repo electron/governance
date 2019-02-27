@@ -7,7 +7,7 @@ Playbooks for Electron issue triage, moderation, security incidents, etc
 * [Issue Triage](issue-triage.md)
 * [Pull Request Triage](pull-request-triage.md)
 * [Code of Conduct Violations](code-of-conduct-violations.md)
-* [Security Incidents](security-incidents.md)
+* [Security Incidents](FIXME @MarshallOfSound)
 
 ## See Also
 
