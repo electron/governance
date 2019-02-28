@@ -38,7 +38,7 @@ These projects are sorted alphabetically, their order does not reflect that any 
     * osx-sign
     * Packager
 
-...and all other tools that the community would consider maintained by Electron.
+...and all other tools third party community based Electron tools.
 
 ## Associated Repositories
 
