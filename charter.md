@@ -10,13 +10,13 @@ These are our core values, as voted by the maintainers, in order of importance. 
    We take the time to include all good-faith contributors.
    The project works around the lives of real people, and people shouldn’t sacrifice a reasonable livelihood to participate.
 2. **Intellectual Safety**
-   This is a characteristic of an environment in which a person feels comfortable sharing ideas and opinions without fear of harsh judgment or repercussions.
+   We work to cultivate and maintain an environment where participants feel comfortable sharing ideas and opinions without fear of harsh judgments or repercussions.
 3. **Transparency**
    Be transparent in as wide of a group as is reasonable.
 4. **Accountability**
    People need a channel for safely communicating feedback to other maintainers.
 5. **Shipping**
-   Constantly strive to improve through iteration. Some ships will sink, so we build processes to accommodate expected failures as a safety net.
+   We constantly strive to improve through iteration. Some ships will sink, so we build processes to accommodate expected failures as a safety net.
 6. **Sharing**
    We seek to share knowledge of the project between maintainers. We share responsibilities and seek to meet objectives as a team.
 
@@ -25,7 +25,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
  * A _maintainer_ is anyone who plays an active role in governance.
  * A _collaborator_ is active in a the community, but not in governance.
  * A _participant_ is anyone who is a maintainer or collaborator.
- * A _working group_ is group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
+ * A _working group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
  * A [_chair_](#Leadership) leads a working group.
 
 ## Participation
@@ -49,7 +49,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 ### Responsibilities
 
-All Working Groups have core responsibilities:
+All Working Groups have these core responsibilities:
  * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
  * They shall [select](#Leadership-Terms-and-Selection) a chair to [represent](#Leadership-Responsiblities) the group.
  * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
@@ -58,7 +58,7 @@ All Working Groups have core responsibilities:
 
 Group members live and work in many time zones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
 
-Members should have the opportunity to read a summary of the meeting and share pertinent opinions before the a is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenent for the members.
+Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenent for the members.
 
 ### Leadership
 
@@ -67,13 +67,13 @@ Members should have the opportunity to read a summary of the meeting and share p
 Each Working Group shall be led by a Chair.
 
 <!--  -->
-The Chair shall have a four month term. A person is eligible to chair the group only if they satisfy all conditions:
-  1. They are willing (no one can be forced)
-  1. They are a member of the group
-  1. They are not the chair of more than 1 other group.  (i.e. One person may chair a maximum of two groups at a time)
-  1. They have not led the group more recently than any eligible member. (Think of “shuffle play” music)
+The Chair shall have a four month term. A person is eligible to chair the Working Group if and only if they satisfy all conditions:
+  1. They wish to serve as Chair.
+  1. They are a member of the Working Group.
+  1. They are not the chair of more than 1 other Working Group.  (i.e. One person may chair a maximum of two Working Group at a time)
+  1. They have not Chaired that Working Group more recently than any eligible member. (Think of “shuffle play” music)
 
-A group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by [Admin](#Administrative-Working-Group).
+A Working Group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by [Admin](#Administrative-Working-Group).
 
 The group will make a reasonable effort to notify potential candidates that a new term is coming so that interested parties can declare their eligibility.
 
@@ -81,21 +81,21 @@ A chair is selected at random from the set of eligible candidates. The candidate
 
 A chair's term does not need to begin at the same time as other chairs' terms.
 
-If a chair steps down, a new one is selected and a new four-month term begins (i.e., interim chairs are not needed)
+If a chair steps down, a new one is selected and a new four-month term begins (i.e., interim Chairs are not needed)
 
-#### Leadership Responsiblities
+#### Leadership Responsibilities
 
-Chairs have responsibilities to their group: they represent the collective will of that group to others.
+Chairs have responsibilities to their Working Group: they represent the collective will of that group to others.
 
-Chairs have responsibilities to their parent group: they ensure that their group is carrying out its mission.
+Chairs have responsibilities to their parent Working Group: they ensure that their Working Group is carrying out its mission.
 
 Chairs have responsibility to all participants in transparently reporting the group's activity.
 
 ### Reaching Agreement
 
-If an issue affects only one working group, that group can make decisions [on its own](#Meetings).
+If an issue affects only one Working Group, that group can make decisions [on its own](#Meetings).
 
-If an issue affects more than one working group, those groups are encouraged to work towards agreement together.
+If an issue affects more than one Working Group, those groups are encouraged to work towards agreement together.
 
 If agreement cannot be reached, the directors of all Working Groups shall try to decide the matter with a vote. A reasonable effort shall be made to let all interested directors participate in this, but any director may abstain.
 
