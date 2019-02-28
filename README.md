@@ -3,7 +3,6 @@
 
 ## Upcoming Agendas
 
-- [Community & Safety WG](...)
 - [Docs & Tooling WG](https://hackmd.io/vGzeV75VTE2CMjHQdOYxiA)
 - [Outreach WG](https://hackmd.io/v2xd8N3jSfWB58ZoEs6rag)
 - [Releases WG](https://hackmd.io/UulAOzHORt62Hbbptv3Vig)
