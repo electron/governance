@@ -70,7 +70,7 @@ Each Working Group shall be led by a Chair.
 The Chair shall have a four month term. A person is eligible to chair the Working Group if and only if they satisfy all conditions:
   1. They wish to serve as Chair.
   1. They are a member of the Working Group.
-  1. They are not the chair of more than 1 other Working Group.  (i.e. One person may chair a maximum of two Working Group at a time)
+  1. They are not the chair of more than one other Working Group. (i.e. One person may chair a maximum of two Working Groups at a time)
   1. They have not Chaired that Working Group more recently than any eligible member. (Think of “shuffle play” music)
 
 A Working Group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by [Admin](#Administrative-Working-Group).
