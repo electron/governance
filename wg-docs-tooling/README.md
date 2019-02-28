@@ -1,6 +1,6 @@
 # Documentation and Tools WG
 
-Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documentation across the website and `electron/*` repositories.
+Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation across the website and `electron/*` repositories, and the maintainer’s group outreach to 3rd party modules.
 
 ## Membership
 
@@ -59,7 +59,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 - [`electron/windows-installer`](https://github.com/electron/windows-installer)
 
 
-- [`electron-userland/electron-builder`](https://github.com/electron-userland/electron-builder)
 - [`electron-userland/electron-download`](https://github.com/electron-userland/electron-download)
 - [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
 - [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
