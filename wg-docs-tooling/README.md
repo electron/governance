@@ -31,7 +31,6 @@ These projects are sorted alphabetically, their order does not reflect that any 
     * Update server (update.electronjs.org)
     * Windows Installer (`electron-winstaller`)
   * Tools (Userland)
-    * Builder
     * Download
     * electron-compile
     * electron-installer-*
