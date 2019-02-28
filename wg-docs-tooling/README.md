@@ -1,4 +1,4 @@
-# Documentation and Tooling WG
+# Documentation and Tools WG
 
 Oversees externally-focused tooling (e.g. Fiddle, Forge), and Electron documentation across the website and `electron/*` repositories.
 
