@@ -23,7 +23,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 ## Definitions
 
  * A _maintainer_ is anyone who plays an active role in governance.
- * A _collaborator_ is active in a the community, but not in governance.
+ * A _collaborator_ is active in the community, but not in governance.
  * A _participant_ is anyone who is a maintainer or collaborator.
  * A _working group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
  * A [_chair_](#Leadership) leads a working group.
