@@ -96,7 +96,7 @@ If an issue affects only one Working Group, that group can make decisions [on it
 
 If an issue affects more than one Working Group, those groups are encouraged to work towards agreement together.
 
-If agreement cannot be reached, the directors of all Working Groups shall try to decide the matter with a vote. A reasonable effort shall be made to let all interested directors participate in this, but any director may abstain.
+If agreement cannot be reached, the chairs of all Working Groups shall try to decide the matter with a vote. A reasonable effort shall be made to let all interested chairs participate in this, but any chair may abstain.
 
 If agreement still cannot be reached, the issue may be brought to the Administrative Working Group, which has final say.
 
