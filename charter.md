@@ -66,7 +66,6 @@ Members should have the opportunity to read a summary of the meeting and share p
 
 Each Working Group shall be led by a Chair.
 
-<!--  -->
 The Chair shall have a four month term. A person is eligible to chair the Working Group if and only if they satisfy all conditions:
   1. They wish to serve as Chair.
   1. They are a member of the Working Group.
