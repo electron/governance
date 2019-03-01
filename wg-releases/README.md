@@ -25,11 +25,7 @@ Oversees all release branches, and tooling to support releases.
 
 ## Associated Repositories
 
-- [`electron/electron`](https://github.com/electron/electron)
-- [`electron/trop`](https://github.com/electron/trop)
-- [`electron/sudowoodo`](https://github.com/electron/sudowoodo)
-- [`electron/nightlies`](https://github.com/electron/nightlies)
-- [`electron/clerk`](https://github.com/electron/clerk)
+See [repos.md](repos.md)
 
 ## Meeting Schedule
 
