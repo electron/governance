@@ -12,7 +12,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 2. **Intellectual Safety**
    We work to cultivate and maintain an environment where participants feel comfortable sharing ideas and opinions without fear of harsh judgments or repercussions. We practice blameless analyses of our missteps.
 3. **Transparency**
-   Be transparent in as wide of a group as is reasonable.
+   We make our governance public whenever reasonable. By doing this, we are able to create a shared and sharable understanding of what we're trying to do.
 4. **Accountability**
    People need a channel for safely communicating feedback to other maintainers.
 5. **Shipping**
