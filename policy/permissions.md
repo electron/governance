@@ -21,7 +21,7 @@ There is currently no direct-grant of "Admin" permissions for repositories.  If 
 
 ### Repository Write Access
 
-All [maintainers](TODO: Link to definitions) are granted "Write" permissions to all
+All [maintainers](../charter.md#definitions) are granted "Write" permissions to all
 **public** `electron/*` repositories with the following exceptions:
 
 * [`electron/archaeologist`](https://github.com/electron/archaeologist)
@@ -46,22 +46,17 @@ Repositories in the Electron Organization should be public / open-source by defa
 
 ### Slack Owners / Admins
 
-Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace. Every other user is granted ownership based on a need-focused approval process.
+Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace.
 
-All approved owners shall be listed below:
-
-| Name | Slack Username | Date Granted |
-|------|----------------|--------------|
-
-Adding and removing people from this list requires good reasoning and a vote from the Community & Safety Working Group. If you wish to request a change to this list please follow the process outlined in the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md). If the request is approved a member of the Community & Safety Working Group shall make a pull request to this file to update the above list.
+Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md)
 
 ### Full Users
 
-All [maintainers](TODO: Link to definitions) shall have a full-access Slack account on Electron HQ.
+All [maintainers](../charter.md#definitions) shall have a full-access Slack account on Electron HQ.
 
 ### Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some [collaborators](TODO: Link to definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md).
+In a variety of situations, some [collaborators](../charter.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 * Members of the AFP should be added as single-channel guests to the
