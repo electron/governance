@@ -72,7 +72,7 @@ The Chair shall have a four month term. A person is eligible to chair the Workin
   1. They are not the chair of more than one other Working Group. (i.e. One person may chair a maximum of two Working Groups at a time)
   1. They have not Chaired that Working Group more recently than any eligible member. (Think of “shuffle play” music)
 
-A Working Group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by [Admin](#Administrative-Working-Group).
+A Working Group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by the Administrative Working Group.
 
 The group will make a reasonable effort to notify potential candidates that a new term is coming so that interested parties can declare their eligibility.
 
