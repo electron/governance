@@ -58,7 +58,7 @@ All Working Groups have these core responsibilities:
 
 Group members live and work in many time zones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
 
-Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenent for the members.
+Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenient for the members.
 
 ### Leadership
 
