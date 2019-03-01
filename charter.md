@@ -10,7 +10,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
    We take the time to include all good-faith contributors.
    The project works around the lives of real people, and people shouldn’t sacrifice a reasonable livelihood to participate.
 2. **Intellectual Safety**
-   We work to cultivate and maintain an environment where participants feel comfortable sharing ideas and opinions without fear of harsh judgments or repercussions.
+   We work to cultivate and maintain an environment where participants feel comfortable sharing ideas and opinions without fear of harsh judgments or repercussions. We practice blameless analyses of our missteps.
 3. **Transparency**
    Be transparent in as wide of a group as is reasonable.
 4. **Accountability**
