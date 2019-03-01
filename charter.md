@@ -53,6 +53,7 @@ All Working Groups have these core responsibilities:
  * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
  * They shall [select](#Leadership-Terms-and-Selection) a chair to [represent](#Leadership-Responsiblities) the group.
  * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
+ * They shall be collaborative and work [in good faith](#Core-Values) with other Working Groups.
 
 ### Meetings
 
