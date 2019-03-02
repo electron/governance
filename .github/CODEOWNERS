@@ -4,6 +4,7 @@
 
 # Working Group Directories
 /wg-docs-tools/ @electron/wg-docs-tools
+/wg-community-safety/ @electron/wg-community-safety
 /wg-releases/ @electron/wg-releases
 /wg-upgrades/ @electron/wg-upgrades
 /wg-website/ @electron/wg-website
