@@ -48,7 +48,7 @@ Repositories in the Electron Organization should be public / open-source by defa
 
 Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace.
 
-Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md)
+Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md)
 
 ### Full Users
 
@@ -56,7 +56,7 @@ All [maintainers](../charter.md#definitions) shall have a full-access Slack acco
 
 ### Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some [collaborators](../charter.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-and-safety/slack-access.md).
+In a variety of situations, some [collaborators](../charter.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 * Members of the AFP should be added as single-channel guests to the
