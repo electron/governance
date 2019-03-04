@@ -29,7 +29,7 @@ All repositories under electron org.
 
 ## Meeting Schedule
 
-- **Sync Meeting** 60 min Biweekly (every other week) @ 4:00PM GMT
+- **Sync Meeting** 60 min Biweekly (every other week) @ 4:00PM GMT on Wednesdays
 - On an as needed basis
 
 Meeting notes may be viewed in [meeting notes](https://github.com/electron/governance/tree/master/wg-community-safety/meeting-notes/).
