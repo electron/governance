@@ -103,3 +103,6 @@ If agreement still cannot be reached, the issue may be brought to the Administra
 
 Regardless of how agreement is reached, the participating groups shall make a reasonable effort to record and post their decisions for transparency.
 
+## Modifying the Charter
+
+Changes to this charter may be proposed by any participant. Ratification requires approval from the Administrative Working Group.
