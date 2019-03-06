@@ -2,7 +2,7 @@
 
 ## Owners
 
-All members of the Administritive Working Group shall be granted the "Owner" role in Slack.
+All members of the Administrative Working Group shall be granted the "Owner" role in Slack.
 
 ## Admins
 
