@@ -8,7 +8,7 @@ Moving forward, I would recommend reading and following the advice in [Creators,
 
 Just to be clear, you are welcome to continue participating in the following ways:
 
-1. submitting bug reports with enough detail to reproduce - ideally a [Fiddle](https://github.com/electron/fiddle) example
+1. submitting bug reports with enough detail to reproduce - ideally a [Fiddle](https://electronjs.org/fiddle) example
 1. a new feature request with context
 1. logistical questions that may not be covered in the docs (e.g. asking about release timelines in a polite way)
 
