@@ -27,6 +27,12 @@ Oversees all release branches, and tooling to support releases.
 
 See [repos.md](repos.md)
 
+## Rules for Membership
+1. Attend three consecutive meetings
+2. Request entry into Releases Working Group
+3. Entry request is voted on at a subsequent meeting, during a portion of the weekly meeting which the requester does not attend
+4. Record outcome
+
 ## Meeting Schedule
 
 - **Sync Meeting** 30min Weekly @ 4:30PM PST
