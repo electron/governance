@@ -6,7 +6,7 @@ Oversees all release branches, and tooling to support releases.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **WG Director** | PST (San Francisco) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | PST (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/binarymuse.png" width=100 alt="@binarymuse">  | Michelle Tilley [@BinaryMuse](https://github.com/binarymuse) | Member | PST (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PST (Vancouver) |
