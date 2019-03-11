@@ -30,4 +30,4 @@ Oversees the technical implementation, design, and style of the Electron website
 
 **Sync Meeting** 30min Bi-Weekly @ 9:00AM PST
 
-Meeting notes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-website/meeting-notes)
+Meeting notes may be viewed in [meeting-notes](https://github.com/electron/governance/tree/master/wg-website/meeting-notes).

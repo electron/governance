@@ -23,4 +23,4 @@ Grows the Electron community
 ## Meeting Schedule
 60 minute meeting bi-weekly (every other week) at TBD
 
-Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-outreach/meeting-notes/)
+Meeting notes may be viewed in [meeting-notes](https://github.com/electron/governance/tree/master/wg-outreach/meeting-notes/).
