@@ -37,15 +37,15 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 ## Working Groups
 
-| Working Group  | Links | Description | 
+| Working Group  | Repo | Description | 
 |:---------------|:------|-------------|
-| Community      | [Slack](https://electronhq.slack.com/messages/CGFP1R38Q), [Repo](/wg-community-safety) | Handles Code of Conduct issues |
-| Docs and Tools | [Slack](https://electronhq.slack.com/messages/CG8ME4622), [Repo](/wg-docs-tools) | Docs, tools, and Userland |
-| Outreach       | [Slack](https://electronhq.slack.com/messages/CBCRYJA79), [Repo](/wg-outreach) | Grows the community |
-| Releases       | [Slack](https://electronhq.slack.com/messages/CC80G2R6H), [Repo](/wg-releases) | Coordinates new releases |
-| Security       | [Slack](https://electronhq.slack.com/messages/C3ANJ97H6), [Repo](/wg-security) | Security review & response |
-| Upgrades       | [Slack](https://electronhq.slack.com/messages/C5VT8SQ8K), [Repo](/wg-upgrades) | Ongoing Node & Chromium upgrades |
-| Website        | [Slack](https://electronhq.slack.com/messages/C43E13N0J), [Repo](/wg-website) | Maintains [electronjs.org](https://www.electronjs.org) |
+| Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
+| Docs and Tools | [wg-docs-tools](../wg-docs-tools/) | Docs, tools, and Userland |
+| Outreach       | [wg-outreach](../wg-outreach/) | Grows the community |
+| Releases       | [wg-releases](../wg-releases/) | Coordinates new releases |
+| Security       | [wg-security](../wg-security/) | Security review & response |
+| Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
+| Website        | [wg-website](../wg-website/) | Maintains [electronjs.org](https://www.electronjs.org) |
 
 ### Responsibilities
 
