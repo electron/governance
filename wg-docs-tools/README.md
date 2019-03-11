@@ -77,4 +77,3 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 **Sync Meeting** 30min Bi-Weekly on Thursdays @ 5:00PM PST
 
 Meeting notes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-docs-tooling/meeting-notes)
-)
