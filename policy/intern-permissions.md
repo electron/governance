@@ -4,7 +4,7 @@
 
 ## In Working Groups
 
-Any interns working on the Electron project on behalf of a company already represented in governance can be nominated as an observer for that Working Group.
+Any interns working on the Electron project on behalf of a company already represented in a Working Group can be nominated as an observer for that Working Group.
 
 People acting as observers do not have voting rights in the Working Group.
 
