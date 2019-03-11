@@ -16,4 +16,4 @@ As a Working Group observer that intern would be granted the access that that wo
 
 This means they would be granted Full User access on Slack, and GitHub permissions in accordance with members of that Working Group. If their nominating party is the Chair, they would not be granted the extra permissions the Chair may have; only those of primary group members.
 
-This access will be revoked at the end of their Electron internship assuming they do not join a working group of their own volition.
+Observer-based access will be revoked at the end of a the Electron internship.
