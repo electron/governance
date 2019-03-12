@@ -35,7 +35,7 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 30min Weekly @ 4:30PM PST
+- **Sync Meeting** 45min Weekly @ 4:00PM PST
 - **Major Release Cadence Meeting** 1 hour Weekly @ 5:00PM PST
 
 Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-releases/meeting-minutes/)
