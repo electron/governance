@@ -4,7 +4,7 @@ Grows the Electron community
 ## Membership
 | Avatar | Name | Role | Time Zone |
 | ------ | ---- | ---- | --------- |
-| <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | **WG Director** | PST (San Francisco) |
+| <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | **Chair** | PST (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/cruzerld.png" width=100 alt="@cruzerld">  | David Cruz [@cruzerld](https://github.com/cruzerld) | Member | CST (Austin) |
 | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PST (San Francisco) |
@@ -23,4 +23,4 @@ Grows the Electron community
 ## Meeting Schedule
 60 minute meeting bi-weekly (every other week) at TBD
 
-Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-outreach/meeting-notes/)
+Meeting notes may be viewed in [meeting-notes](meeting-notes).

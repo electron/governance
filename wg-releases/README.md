@@ -6,7 +6,7 @@ Oversees all release branches, and tooling to support releases.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **WG Director** | PST (San Francisco) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | PST (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/binarymuse.png" width=100 alt="@binarymuse">  | Michelle Tilley [@BinaryMuse](https://github.com/binarymuse) | Member | PST (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PST (Vancouver) |
@@ -38,4 +38,4 @@ See [repos.md](repos.md)
 - **Sync Meeting** 30min Weekly @ 4:30PM PST
 - **Major Release Cadence Meeting** 1 hour Weekly @ 5:00PM PST
 
-Meeting minutes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-releases/meeting-minutes/)
+Meeting notes may be viewed in [meeting-notes](meeting-notes).

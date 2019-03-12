@@ -6,7 +6,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | **WG Director** | CST (New Orleans) |
+| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | **Chair** | CST (New Orleans) |
 | <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PST (San Francisco) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
@@ -76,5 +76,4 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 **Sync Meeting** 30min Bi-Weekly on Thursdays @ 5:00PM PST
 
-Meeting notes may be viewed in [meeting-minutes](https://github.com/electron/governance/tree/master/wg-docs-tooling/meeting-notes)
-)
+Meeting notes may be viewed in [meeting-notes](meeting-notes).
