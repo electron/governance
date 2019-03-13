@@ -13,15 +13,14 @@ Oversees removal/bans from community.
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PST (San Francisco) |
 
-
 ## Areas of Responsibility
 
-- Approval of adding and removing Slack Owners / Admins.
-- Adding and removing Slack members.
-    - Non governance members are multi channel guests.
-- Dealing with Code of Conduct issues that happen during events, in Slack, and on GitHub.
-- Banning GitHub users on repos and issues.
-- Helping arbitrate disagreements between contributors.
+* Approval of adding and removing Slack Owners / Admins.
+* Adding and removing Slack members.
+  * Non governance members are multi channel guests.
+* Dealing with Code of Conduct issues that happen during events, in Slack, and on GitHub.
+* Banning GitHub users on repos and issues.
+* Helping arbitrate disagreements between contributors.
 
 ## Associated Repositories
 
@@ -29,7 +28,7 @@ All repositories under electron org.
 
 ## Meeting Schedule
 
-- **Sync Meeting** 60 min Biweekly (every other week) @ 4:00PM GMT on Thursdays
-- On an as needed basis
+* **Sync Meeting** 60 min Biweekly (every other week) @ 4:00PM GMT on Thursdays
+* On an as needed basis
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

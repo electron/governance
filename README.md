@@ -1,6 +1,6 @@
 # Electron Governance
 
-The Electron governance system is comprised of Working Groups that oversee different aspects of the Electron ecosystem, and and Administrative working group that functions to resolve conflicts between them.
+The Electron governance system is comprised of Working Groups that oversee different aspects of the Electron ecosystem, and an Administrative working group that functions to resolve conflicts between them.
 
 ## Working Groups
 
@@ -17,6 +17,9 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 | +----------------------+ +----------------------+ +----------------------+ |
 | |        Website       | |  Community & Safety  | |       Releases       | |
 | +----------------------+ +----------------------+ +----------------------+ |
+|                          +----------------------+                          |
+|                          |       Security       |                          |
+|                          +----------------------+                          |
 +----------------------------------------------------------------------------+
 ```
 
@@ -26,7 +29,6 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Meeting Notes](wg-docs-tools/meeting-notes)
 * [Outreach WG](wg-outreach)
   * [Overview](wg-outreach/README.md)
-  * [Associated Repositories](wg-outreach/repos.md)
   * [Meeting Notes](wg-outreach/meeting-notes)
 * [Releases WG](wg-releases)
   * [Overview](wg-releases/README.md)
@@ -42,8 +44,10 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Meeting Notes](wg-website/meeting-notes)
 * [Community & Safety WG](wg-community-safety)
   * [Overview](wg-community-safety/README.md)
-  * [Associated Repositories](wg-community-safety/repos.md)
   * [Meeting Notes](wg-community-safety/meeting-notes)
+* [Security WG](wg-security)
+  * [Overview](wg-security/README.md)
+  * [Meeting Notes](wg-security/meeting-notes)
 * [Administrative WG](wg-administrative)
 
 ## Definitions

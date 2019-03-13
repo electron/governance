@@ -13,7 +13,7 @@ Interest groups are a mechanism in Electron governance that allow individuals to
 
 ## Membership
 
-embership into interest groups are open to anyone in the Electron Maintainers group in good standing.
+Membership into interest groups are open to anyone in the Electron Maintainers group in good standing.
 Interest groups will be listed in this repository with a link for maintainers to fill out a form to join an interest group.
 
 ## Interest Group PR Workflow
