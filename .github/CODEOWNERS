@@ -8,3 +8,4 @@
 /wg-releases/ @electron/wg-releases
 /wg-upgrades/ @electron/wg-upgrades
 /wg-website/ @electron/wg-website
+/wg-security/ @electron/wg-security
