@@ -55,7 +55,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 - [`electron/fiddle`](https://github.com/electron/fiddle)
 - [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 - [`electron/rcedit`](https://github.com/electron/rcedit)
-- [`electron/releases`](https://github.com/electron/electron)
+- [`electron/releases`](https://github.com/electron/releases)
 - [`electron/spectron`](https://github.com/electron/spectron)
 - [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 - [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
