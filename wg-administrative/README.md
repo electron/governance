@@ -26,6 +26,6 @@ It is important that other working groups have autonomy and agency to fulfill th
 
 ## Meeting Schedule
 
-TBD <!-- likely **Sync Meeting** Monthly @ 9:00AM PST -->
+TBD <!-- likely **Sync Meeting** Monthly @ 9:00AM PT -->
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
