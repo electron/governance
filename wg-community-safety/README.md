@@ -19,7 +19,7 @@ Oversees removal/bans from community.
 - Approval of adding and removing Slack Owners / Admins.
 - Adding and removing Slack members.
     - Non governance members are multi channel guests.
-- Dealing with CoC issues that happen during events, in Slack, and on GitHub.
+- Dealing with Code of Conduct issues that happen during events, in Slack, and on GitHub.
 - Banning GitHub users on repos and issues.
 - Helping arbitrate disagreements between contributors.
 

@@ -7,7 +7,7 @@ Due to the Security Working Group's sensitive role in responding to newly-report
 
 People who want to join the Security WG should apply by notifying the WG, which will then vote at the next meeting. The vote shall be recorded only as "was accepted" or "was not accepted" rather than how each member voted.
 
-When voting, members should consider: has the person shown a history of Electron maintainence that indicates they could contribute to the fixing of security issues? For example, do they have a history of commits to Electron? Have they worked with other maintainers in a constructive way?
+When voting, members should consider: has the person shown a history of Electron maintenance that indicates they could contribute to the fixing of security issues? For example, do they have a history of commits to Electron? Have they worked with other maintainers in a constructive way?
 
 Based on that criteria, the WG encourages people whose applications were declined to continue collaborating with other maintainers, to continue landing PRs, to participate in other Working Groups, and to re-apply in the future. 
 

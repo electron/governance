@@ -12,7 +12,7 @@ If the PR fixes an issue, the PR must mention that issue in the PR body, e.g. [F
 
 Pull Requests whose changes affect end-users should stay open for at least 24 hours. This is to allow for input from all timezones
 
-Unless other argeements have been made, people should allow 24 hours before pinging folks for review or re-review.
+Unless other agreements have been made, people should allow 24 hours before pinging folks for review or re-review.
 
 If a PR has a time constraint, the person requesting review should use their best judgement for when to ping people.
 

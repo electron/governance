@@ -1,6 +1,6 @@
 # Interest Groups
 Interest groups are a mechanism in Electron governance that allow individuals to provide input into specific categories of Electron development.  These groups would provide input into Electron development via the following processes:
-* Reviewing [electron/electron](https://github.com/electron/electron) PRs that have revelance to the interest group.
+* Reviewing [electron/electron](https://github.com/electron/electron) PRs that have relevance to the interest group.
 * Creating and commenting on RFCs/Intent To Ship issues related to the interest group.
 
 ## Possible Interest Groups
