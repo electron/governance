@@ -6,7 +6,7 @@ Oversees the technical implementation, design, and style of the Electron website
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | **Chair** | PST (San Francisco) |
+| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | **Chair** | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
@@ -28,6 +28,6 @@ Oversees the technical implementation, design, and style of the Electron website
 
 ## Meeting Schedule
 
-**Sync Meeting** 30min Bi-Weekly @ 9:00AM PST
+**Sync Meeting** 30min Bi-Weekly @ 9:00AM PT
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
