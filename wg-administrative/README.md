@@ -12,7 +12,7 @@ the group should also seek to add a representative from the rest of governance,
 and a non-governance member who can represent the community at-large.
 
 The AWG should not make individual technical decisions.
-It is important that other working groups have autonomy and agency to fulfil their responsibilites.
+It is important that other working groups have autonomy and agency to fulfill their responsibilities.
 
 ## Membership
 
