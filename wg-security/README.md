@@ -43,6 +43,6 @@ See [Membership and Notifications](membership-and-notifications.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 1hr Weekly @ Wednesday 9:30AM PST
+- **Sync Meeting** 1hr Weekly @ Wednesday 9:30AM PT
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes) as they become available.
