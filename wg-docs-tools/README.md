@@ -31,6 +31,7 @@ These projects are sorted alphabetically, their order does not reflect that any 
     * Typescript Generator
     * Update server (update.electronjs.org)
     * Windows Installer (`electron-winstaller`)
+    * rcedit
   * Tools (Userland)
     * Download
     * electron-compile
@@ -52,6 +53,8 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 - [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 - [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
 - [`electron/fiddle`](https://github.com/electron/fiddle)
+- [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
+- [`electron/rcedit`](https://github.com/electron/rcedit)
 - [`electron/releases`](https://github.com/electron/electron)
 - [`electron/spectron`](https://github.com/electron/spectron)
 - [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
