@@ -19,7 +19,7 @@ It is important that other working groups have autonomy and agency to fulfill th
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | **Chair** | PT (San Francisco) |
-| <img src="https://github.com/mgc.png" width=100 alt="@mgc">  | Matt Crocker [@mgc](https://github.com/mgc) | Member | PST (San Francisco) |
+| <img src="https://github.com/mgc.png" width=100 alt="@mgc">  | Matt Crocker [@mgc](https://github.com/mgc) | Member | PT (San Francisco) |
 | <img src="https://github.com/ZacWalk.png" width=100 alt="@ZacWalk">  | Zac Walker [@ZacWalk](https://github.com/ZacWalk) | Member | CET (Prague) |
 | | Governance Representative | Member | |
 | | Community Representative | Member | |
