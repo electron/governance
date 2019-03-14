@@ -115,6 +115,38 @@ If agreement still cannot be reached, the issue may be brought to the Administra
 
 Regardless of how agreement is reached, the participating groups shall make a reasonable effort to record and post their decisions for transparency.
 
-## Modifying the Charter
+# Electorate
 
-Changes to this charter may be proposed by any participant. Ratification requires approval from the Administrative Working Group.
+The **Electorate** is the body who holds the ability to alter the charter and appoint members of the administrative working group.
+
+Designing a new Electorate is currently out-of-scope for this charter.
+Instead we make the implicit status-quo explicit.
+GitHub will act as the Electorate with the intention of overseeing a replacement after the current governance is rolled out.
+
+We want an Electorate which can balance several factors:
+
+1. new contributors
+2. long-time contributors
+3. corporate sponsorship
+4. financial contributions
+5. tenured contributions
+
+There is no explicit timeline around this,
+but this charter expects it to be addressed in a reasonable timeframe.
+
+## Administrative Working Group
+
+See the [Working Group README](../administrative-wg)
+
+The Administrative Working Group (AWG) is chartered with the responsibility to ensure governance is serving the best needs of the project and community.
+The AWG has authority to act on the project, granted by the electorate.
+The AWG in turn delegates its authority to all other working groups.
+
+To prevent the AWG from becoming the sole political power of the project,
+it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other working groups.
+The AWG should principally serve as a _circuit breaker_.
+If a delegate working group is failing to meet its responsibilities, the AWG may intervent up to and including alterning group members, or altering the groups authority, responsibilities, or existence.
+
+**Authors note:**
+
+> The current Electorate/AWG mix places almost all the power in the hands of a few large corporatations at the outset. While not ideal to many, this was chosen because it represents today's status-quo. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
