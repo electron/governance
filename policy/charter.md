@@ -50,6 +50,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 | Working Group  | Repo | Description | 
 |:---------------|:------|-------------|
+| Administrative | [wg-administrative](../wg-administrative) | Administrates Governance |
 | Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
 | Docs and Tools | [wg-docs-tools](../wg-docs-tools/) | Docs, tools, and Userland |
 | Outreach       | [wg-outreach](../wg-outreach/) | Grows the community |
