@@ -24,6 +24,11 @@ It is important that other working groups have autonomy and agency to fulfill th
 | | Governance Representative | Member | |
 | | Community Representative | Member | |
 
+The *Governance Representative* is decided by the other working groups. They can be replaced any time, at the discretion of the other working groups.
+
+The *Community Representative* is a non-governance person.
+The process for electing this person has not yet been defined.
+
 ## Meeting Schedule
 
 TBD <!-- likely **Sync Meeting** Monthly @ 9:00AM PT -->
