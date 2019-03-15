@@ -5,7 +5,7 @@ The Administrative Working Group (AWG) oversees the entire governance and projec
 AWG members should consist of folks who manage a substantial investment in the project.
 To avoid the AWG becoming the _superpower_ group,
 members should not participate in other technical working groups.
-The initial group members consists of management from GitHub, Microsoft, and Slack whose teams contain full-time Electron contributors.
+The initial group members consist of management from GitHub, Microsoft, and Slack whose teams contain full-time Electron contributors.
 
 In order to have a balance of voices,
 the group should also seek to add a representative from the rest of governance,
