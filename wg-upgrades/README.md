@@ -14,18 +14,17 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PST (Vancouver) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | PST (San Francisco) |
 
-
 ## Areas of Responsibility
 
 * Ensuring that Chromium and Node upgrades happen in a timely fashion
 * Upgrade-related tooling such as patch scripts, roller-bot
 * Advising on maintenance burden of feature support for Chromium features
-    * When an Electron feature depends on or heavily integrates with Chromium,
+* When an Electron feature depends on or heavily integrates with Chromium,
     the upgrades working group will be responsible for assessing ongoing
     maintenance burden.
 * Upstreaming patches
 * Adding/dropping dependencies
-    * e.g. `native_mate`
+  * e.g. `native_mate`
 
 ## Associated Repositories
 
@@ -33,6 +32,6 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 60 min weekly @ 16:00 UTC on Tuesdays
+* **Sync Meeting** 60 min weekly @ 16:00 UTC on Tuesdays
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

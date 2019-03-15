@@ -12,20 +12,20 @@ You can "react" to messages with emoji. Apps and bots can, in turn, [perform ope
 
 Slack allows users to ping everyone present in a channel using three groups: `@here` for all currently active members in a channel, `@channel` for everyone in a channel, and `@everyone` for literally everyone. While we haven't disabled those groups, _do not use them unless absolutely necessary_. Push notifications are the equivalent of texting someone, only use `@`-mentions with exactly the people you _need to reach_.
 
- * Do not use @everyone.
- * Do not use @here or @channel in channels with more than 10 users – and only if you want to reach all those people.
+* Do not use **@everyone**.
+* Do not use **@here** or **@channel** in channels with more than 10 users – and then only if you want to reach all those people.
 
 ### Channel Names
 
 Slack uses channels to organize work into "chat rooms". You can read more about Slack channels and [how to use them here](https://slackhq.com/how-to-organize-your-work-life-into-slack-channels). In order to organize channels, we're using _prefixes_. We recommend that you consider using one when creating new channels:
 
- * `announce-`: Announcement channels, not used for general chatter – and excellent for following along.
- * `proj-`: Project-specific channels, like `proj-typescript` or `proj-newsletter`.
- * `bot-`: Channels used by bots and apps, like `bot-twitter` or `bot-electron-repo`.
- * `idea-`: A channel about a project that's not quite a project yet, but worthy of its own channel.
- * `wg-`: Channels for governance working groups.
- * `event-`: Channels for individual events.
- * `app-`: Channels for specific apps, like `app-slack`.
+* `announce-`: Announcement channels, not used for general chatter – and excellent for following along.
+* `proj-`: Project-specific channels, like `proj-typescript` or `proj-newsletter`.
+* `bot-`: Channels used by bots and apps, like `bot-twitter` or `bot-electron-repo`.
+* `idea-`: A channel about a project that's not quite a project yet, but worthy of its own channel.
+* `wg-`: Channels for governance working groups.
+* `event-`: Channels for individual events.
+* `app-`: Channels for specific apps, like `app-slack`.
 
 As a general rule, we have channels for each major release line of `electron/electron` - as an example, `5-x-y`.
 
