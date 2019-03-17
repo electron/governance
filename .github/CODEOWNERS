@@ -1,6 +1,7 @@
 # Administration Files
 */repositories.md @electron/wg-admin
 /policy/ @electron/wg-admin
+/charter/README.md @electron/wg-admin
 
 # Working Group Directories
 /wg-docs-tools/ @electron/wg-docs-tools
