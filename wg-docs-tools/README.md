@@ -75,6 +75,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ## Meeting Schedule
 
-**Sync Meeting** 30min Bi-Weekly on Thursdays @ 5:00PM PT
+**Sync Meeting** 30min every other Thursday @ 16:00 UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

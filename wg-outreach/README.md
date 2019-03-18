@@ -21,6 +21,6 @@ Grows the Electron community
 - Electron meetup events
 
 ## Meeting Schedule
-60 minute meeting bi-weekly (every other week) at TBD
+- **Sync Meeting** 60 min meeting every other Monday @ 17:00 UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

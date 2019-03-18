@@ -29,7 +29,7 @@ All repositories under electron org.
 
 ## Meeting Schedule
 
-- **Sync Meeting** 60 min Biweekly (every other week) @ 4:00PM GMT on Thursdays
+- **Sync Meeting** 60 min every other Thursday at 15:00 UTC
 - On an as needed basis
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

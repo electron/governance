@@ -33,6 +33,6 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 60 min weekly @ 16:00 UTC on Tuesdays
+- **Sync Meeting** 60 min every Tuesday @ 16:00 UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

@@ -35,7 +35,7 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 45min Weekly @ 4:00PM PT
-- **Major Release Cadence Meeting** 1 hour Weekly @ 5:00PM PT
+- **Sync Meeting** 45 min every Wednesday at 11:00PM UTC
+- **Major Release Cadence Meeting** 1 hour every Thursday at 12:00AM UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

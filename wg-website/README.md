@@ -28,6 +28,6 @@ Oversees the technical implementation, design, and style of the Electron website
 
 ## Meeting Schedule
 
-**Sync Meeting** 30min Bi-Weekly @ 9:00AM PT
+**Sync Meeting** 30min every other Thursday @ 16:00 UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
