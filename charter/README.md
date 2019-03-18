@@ -136,7 +136,7 @@ but this charter expects it to be addressed in a reasonable timeframe.
 
 ## Administrative Working Group
 
-See the [Working Group README](../administrative-wg)
+See the [Working Group README](../wg-administrative)
 
 The Administrative Working Group (AWG) is chartered with the responsibility to ensure governance is serving the best needs of the project and community.
 The AWG has authority to act on the project, granted by the electorate.
