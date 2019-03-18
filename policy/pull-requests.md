@@ -10,9 +10,9 @@ If the PR fixes an issue, the PR must mention that issue in the PR body, e.g. [F
 
 ## Getting Feedback
 
-Pull Requests whose changes affect end-users should stay open for at least 24 hours. This is to allow for input from all timezones
+Pull Requests whose changes affect end-users should stay open for at least **24 hours**. This is to allow for input from all timezones.
 
-Unless other argeements have been made, people should allow 24 hours before pinging folks for review or re-review.
+Unless other agreements have been made, people should allow 24 hours before pinging folks for review or re-review.
 
 If a PR has a time constraint, the person requesting review should use their best judgement for when to ping people.
 
@@ -24,10 +24,10 @@ Requesting changes in the service of these goals is strongly encouraged, but alw
 
 ## Merging
 
-All PRs should be Squash-and-merged with the exception of Chromium upgrades that should be merged maintaining commit history.
+All PRs should be **squash-and-merged** with the exception of Chromium upgrades that should be merged in order to maintain commit history.
 
 ## Further Reading
 
- * [Pull Request Etiquette](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)
- * [How to raise a good pull request](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)
- * [Code review etiquette](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)
+* [Pull Request Etiquette](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)
+* [How to raise a good pull request](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)
+* [Code review etiquette](https://gist.github.com/naupaka/184e2d81e7eb8ae4fe541de02e8081c0)

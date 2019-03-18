@@ -11,9 +11,9 @@ Additionally, we want to encourage helpful feedback and meaningful participation
 ## Goals
 
 * Communicate clearly and effectively
-    * What the maintainers will work on
-    * What pull requests will be reviewed for acceptance
-    * What pull requests *will not* be reviewed for acceptance
+  * What the maintainers will work on
+  * What pull requests will be reviewed for acceptance
+  * What pull requests *will not* be reviewed for acceptance
 * Outline exactly what is expected for an issue to meet the "triage bar" so that issues that don't meet the bar can be closed
 * Reduce the amount of time and back-and-forth needed to take an issue from being first-opened to `triaged` or closed
 * Accept input from the community that helps us deliver meaningful results back to the Atom community

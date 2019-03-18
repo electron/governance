@@ -28,6 +28,7 @@ Oversees all release branches, and tooling to support releases.
 See [repos.md](repos.md)
 
 ## Rules for Membership
+
 1. Attend three consecutive meetings
 2. Request entry into Releases Working Group by asking the current Chair
 3. Entry request is voted on at a subsequent meeting, during a portion of the meeting which the requester shall not attend
@@ -35,7 +36,7 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 45 min every Wednesday at 11:00PM UTC
-- **Major Release Cadence Meeting** 1 hour every Thursday at 12:00AM UTC
+* **Sync Meeting** 45 min every Wednesday at 11:00PM UTC
+* **Major Release Cadence Meeting** 1 hour every Thursday at 12:00AM UTC
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
