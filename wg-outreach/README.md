@@ -14,6 +14,7 @@ Grows the Electron community
 | <img src="https://github.com/tonyganch.png" width=100 alt="@tonyganch">  | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
 
 ## Areas of Responsibility
+
 - Onboarding for new members
 - Reaching out to companies
 - Developer Evangelism / Developer Relations / Developer Advocate

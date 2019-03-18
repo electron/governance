@@ -20,24 +20,25 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
 
-  * The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
-  * Tools (Core)
-    * Devtron
-    * Docs Linter
-    * Fiddle
-    * Quickstart & API Demo repos
-    * Rebuild
-    * Spectron
-    * Typescript Generator
-    * Update server (update.electronjs.org)
-    * Windows Installer (`electron-winstaller`)
-  * Tools (Userland)
-    * Download
-    * electron-compile
-    * electron-installer-*
-    * Forge
-    * osx-sign
-    * Packager
+* The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
+* Tools (Core)
+  * Devtron
+  * Docs Linter
+  * Fiddle
+  * Quickstart & API Demo repos
+  * Rebuild
+  * Spectron
+  * Typescript Generator
+  * Update server (update.electronjs.org)
+  * Windows Installer (`electron-winstaller`)
+  * rcedit
+* Tools (Userland)
+  * Download
+  * electron-compile
+  * electron-installer-*
+  * Forge
+  * osx-sign
+  * Packager
 
 ...and all other tools third party community based Electron tools.
 
@@ -45,31 +46,36 @@ These projects are sorted alphabetically, their order does not reflect that any 
 
 These repos are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
 
-- [`electron/devtron`](https://github.com/electron/devtron)
-- [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
-- [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
-- [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
-- [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
-- [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
-- [`electron/fiddle`](https://github.com/electron/fiddle)
-- [`electron/releases`](https://github.com/electron/electron)
-- [`electron/spectron`](https://github.com/electron/spectron)
-- [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
-- [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
-- [`electron/windows-installer`](https://github.com/electron/windows-installer)
+### Electron Organization
 
+* [`electron/devtron`](https://github.com/electron/devtron)
+* [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
+* [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
+* [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
+* [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
+* [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
+* [`electron/fiddle`](https://github.com/electron/fiddle)
+* [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
+* [`electron/rcedit`](https://github.com/electron/rcedit)
+* [`electron/releases`](https://github.com/electron/releases)
+* [`electron/spectron`](https://github.com/electron/spectron)
+* [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
+* [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
+* [`electron/windows-installer`](https://github.com/electron/windows-installer)
 
-- [`electron-userland/electron-download`](https://github.com/electron-userland/electron-download)
-- [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
-- [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
-- [`electron-userland/electron-installer-debian`](https://github.com/electron-userland/electron-installer-debian)
-- [`electron-userland/electron-installer-dmg`](https://github.com/electron-userland/electron-installer-dmg)
-- [`electron-userland/electron-installer-redhat`](https://github.com/electron-userland/electron-installer-redhat)
-- [`electron-userland/electron-installer-snap`](https://github.com/electron-userland/electron-installer-snap)
-- [`electron-userland/electron-installer-squirrel-windows`](https://github.com/electron-userland/electron-installer-squirrel-windows)
-- [`electron-userland/electron-installer-windows`](https://github.com/electron-userland/electron-installer-windows)
-- [`electron-userland/electron-installer-zip`](https://github.com/electron-userland/electron-installer-zip)
-- [`electron-userland/electron-packager`](https://github.com/electron-userland/electron-packager)
+### Electron Userland Organization
+
+* [`electron-userland/electron-download`](https://github.com/electron-userland/electron-download)
+* [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
+* [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
+* [`electron-userland/electron-installer-debian`](https://github.com/electron-userland/electron-installer-debian)
+* [`electron-userland/electron-installer-dmg`](https://github.com/electron-userland/electron-installer-dmg)
+* [`electron-userland/electron-installer-redhat`](https://github.com/electron-userland/electron-installer-redhat)
+* [`electron-userland/electron-installer-snap`](https://github.com/electron-userland/electron-installer-snap)
+* [`electron-userland/electron-installer-squirrel-windows`](https://github.com/electron-userland/electron-installer-squirrel-windows)
+* [`electron-userland/electron-installer-windows`](https://github.com/electron-userland/electron-installer-windows)
+* [`electron-userland/electron-installer-zip`](https://github.com/electron-userland/electron-installer-zip)
+* [`electron-userland/electron-packager`](https://github.com/electron-userland/electron-packager)
 
 ...and all other repositories that the community would consider maintained by Electron.
 
