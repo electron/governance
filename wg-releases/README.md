@@ -36,7 +36,7 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-* **Sync Meeting** 45 min every Wednesday at 11:00PM UTC
-* **Major Release Cadence Meeting** 1 hour every Thursday at 12:00AM UTC
+* **Sync Meeting** 45 min every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
+* **Major Release Cadence Meeting** 1 hour every Thursday at [00:00AM UTC](https://duckduckgo.com/?q=00%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

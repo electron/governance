@@ -32,6 +32,6 @@ See [repos.md](repos.md)
 
 ## Meeting Schedule
 
-* **Sync Meeting** 60 min every Tuesday @ 16:00 UTC
+* **Sync Meeting** 60 min every Tuesday @ [16:00 UTC](https://duckduckgo.com/?q=16%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

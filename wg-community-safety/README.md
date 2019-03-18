@@ -28,7 +28,7 @@ All repositories under electron org.
 
 ## Meeting Schedule
 
-* **Sync Meeting** 60 min every other Thursday at 15:00 UTC
+* **Sync Meeting** 60 min every other Thursday at [15:00 UTC](https://duckduckgo.com/?q=15%3A00+UTC&ia=answer)
 * On an as needed basis
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

@@ -35,7 +35,7 @@ These projects are sorted alphabetically, their order does not reflect that any 
 * Tools (Userland)
   * Download
   * electron-compile
-  * electron-installer-*
+  * electron-installer-\*
   * Forge
   * osx-sign
   * Packager
@@ -81,6 +81,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ## Meeting Schedule
 
-**Sync Meeting** 30min every other Thursday @ 16:00 UTC
+**Sync Meeting** 30min every other Thursday @ [16:00 UTC](https://duckduckgo.com/?q=16%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
