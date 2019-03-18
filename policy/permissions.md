@@ -21,7 +21,7 @@ There is currently no direct-grant of "Admin" permissions for repositories.  If 
 
 ### Repository Write Access
 
-All [maintainers](../charter.md#definitions) are granted "Write" permissions to all
+All [maintainers](../charter/README.md#definitions) are granted "Write" permissions to all
 **public** `electron/*` repositories with the following exceptions:
 
 * [`electron/archaeologist`](https://github.com/electron/archaeologist)
@@ -52,11 +52,11 @@ Slack Owners / Admins are assigned as per the [Community & Safety Working Group 
 
 ### Full Users
 
-All [maintainers](../charter.md#definitions) shall have a full-access Slack account on Electron HQ.
+All [maintainers](../charter/README.md#definitions) shall have a full-access Slack account on Electron HQ.
 
 ### Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some [collaborators](../charter.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
+In a variety of situations, some [collaborators](../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 * Members of the AFP should be added as single-channel guests to the
@@ -76,7 +76,7 @@ The Twitter account is currently owned by GitHub and access is managed by them. 
 
 ### Access to the "electron" Organization on NPM
 
-All [maintainers](../charter.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default you will be added to the `developers` team.  At a minimum your `npm` account must have `auth-and-write` 2FA configured.
+All [maintainers](../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default you will be added to the `developers` team.  At a minimum your `npm` account must have `auth-and-write` 2FA configured.
 
 #### NPM Teams
 
@@ -104,7 +104,7 @@ Credentials for the "electron-cfa" user will be stored on the 1-Password, access
 
 ## Exceptions
 
-Exceptions to these rules may sometimes be necessary. When it's appropriate to make one-off exceptions rather than amending the rules, you must list it below along with the reasoning for the exception. Exceptions can only be granted by vote of the chairs of _all_ working groups. 
+Exceptions to these rules may sometimes be necessary. When it's appropriate to make one-off exceptions rather than amending the rules, you must list it below along with the reasoning for the exception. Exceptions can only be granted by vote of the chairs of _all_ working groups.
 
 | Name | GitHub Username | Permission Granted | Reason |
 |------|-----------------|--------------------|--------|
