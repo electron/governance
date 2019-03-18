@@ -67,7 +67,7 @@ All Working Groups have these core responsibilities:
 * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
 * They shall be collaborative and work [in good faith](charter/README.md#Core-Values) with other Working Groups.
 
-See [charter/README.md] for more information.
+See [charter/README.md](./charter/README.md) for more information.
 
 ## Code of Conduct
 
