@@ -2,5 +2,5 @@ Open source is largely volunteer-driven and collaborative. Because of this, time
 
 * We might not have an ETA for when an issue will get investigated or fixed.
 * Something you want implemented might not get implemented.
-* We may decide that we aren't going to accept a change that you want merged
+* A change you want merged might not get merged.
 * Insisting on or making demands for any of the above is considered against [the Electron Code of Conduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md)
