@@ -12,7 +12,7 @@ Based on that criteria, the WG encourages people whose applications were decline
 
 ## Notifications
 
-### Friends and Family
+### Need To Know
 
 These notifications are limited-information advance warnings that say that a new release is coming and, depending on the sensitivity and availability of invitation, _perhaps_ some of the following:
 
@@ -30,7 +30,7 @@ These notifications will be made via a private Slack channel on ElectronHQ. If y
 
 ### Public Notifications
 
-Public notifications are a wider disclosure of vulnerabilities. Unlike the "Friends and Family" notifications, these will give some information about the vulnerability, e.g. what features are affected, mitigation strategies, and how the vulnerability was discovered.
+Public notifications are a wider disclosure of vulnerabilities. Unlike the "Need To Know" notifications, these will give some information about the vulnerability, e.g. what features are affected, mitigation strategies, and how the vulnerability was discovered.
 
 These announcements will typically be made alongside new releases which fix the issue.
 
