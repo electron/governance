@@ -26,7 +26,7 @@ For example:
 
 The intent of these is to help Electron-based apps do short-term planning so that they can get security fixes to their users as soon as possible.
 
-These notifications will be made via a private Slack channel on ElectronHQ. If you'd like to join this channel and are an app developer with a history of working with Electron's maintainers, e.g. as a contributor or as a member of the [App Feedback Program](https://electronjs.org/blog/app-feedback-program), please contact the Security WG.
+These notifications will be made via a private Slack channel on ElectronHQ. If you'd like to join this channel, please contact the Security WG.
 
 ### Public Notifications
 
