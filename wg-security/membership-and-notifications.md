@@ -12,7 +12,7 @@ Based on that criteria, the WG encourages people whose applications were decline
 
 ## Notifications
 
-### Friends and Family
+### Need To Know
 
 These notifications are limited-information advance warnings that say that a new release is coming and, depending on the sensitivity and availability of invitation, _perhaps_ some of the following:
 
@@ -26,11 +26,11 @@ For example:
 
 The intent of these is to help Electron-based apps do short-term planning so that they can get security fixes to their users as soon as possible.
 
-These notifications will be made via a private Slack channel on ElectronHQ. If you'd like to join this channel and are an app developer with a history of working with Electron's maintainers, e.g. as a contributor or as a member of the [App Feedback Program](https://electronjs.org/blog/app-feedback-program), please contact the Security WG.
+These notifications will be made via a private Slack channel on ElectronHQ. If you'd like to join this channel, please contact the Security WG.
 
 ### Public Notifications
 
-Public notifications are a wider disclosure of vulnerabilities. Unlike the "Friends and Family" notifications, these will give some information about the vulnerability, e.g. what features are affected, mitigation strategies, and how the vulnerability was discovered.
+Public notifications are a wider disclosure of vulnerabilities. Unlike the "Need To Know" notifications, these will give some information about the vulnerability, e.g. what features are affected, mitigation strategies, and how the vulnerability was discovered.
 
 These announcements will typically be made alongside new releases which fix the issue.
 
