@@ -1,4 +1,4 @@
-# Repositories that `wg-docs-tooling` owns
+# Repositories that `wg-docs-tools` owns
 
 * [`electron/api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/devtron`](https://github.com/electron/devtron)
