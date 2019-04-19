@@ -1,10 +1,13 @@
 # Repositories that `wg-docs-tools` owns
 
 * [`electron/api-demos`](https://github.com/electron/electron-api-demos)
+* [`electron/asar`](https://github.com/electron/asar)
 * [`electron/devtron`](https://github.com/electron/devtron)
 * [`electron/docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
+* [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 * [`electron/quick-start`](https://github.com/electron/electron-quick-start)
+* [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/spectron`](https://github.com/electron/spectron)
 * [`electron/typescript-generator`](https://github.com/electron/electron-typescript-generator)
