@@ -34,5 +34,9 @@ Sometimes Sudowoodo hits roadblocks and can't complete the release on its own. I
   * Owing to a long-standing bug in GitHub's asset upload code, assets can become corrupted such that the assets fail to upload but exist as strange ghost assets, such that they cannot be deleted or re-uploaded.
   * Unfortunately, the only solution in these cases is to clean up the build and re-trigger a new one.
 3. Sudowoodo fails after all builds have been completed
+**Symptoms**
+  * Sudowoodo fails and the logs in Slack clearly show "Build Completed"
+  * Check the logs in Papertrail to determine the actual cause of failure if it is not clear from the logs visible in Slack
+**How to fix**
   * This might be because of a failure in later scripts
   * Should this occur, the release process can be continued by invoking `/blasting-off-again {COMMIT_HASH}` as a backslash command in `#bot-releases`.
