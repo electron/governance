@@ -19,6 +19,10 @@ In order to trigger a new release:
 Sometimes Sudowoodo hits roadblocks and can't complete the release on its own. In nearly all cases, these roadblocks fall into one of a small number of categories.
 
 1. CircleCI timeouts
+**Symptoms**
+  * Sudowoodo fails due to "Build waiter failed"
+  * Check the build that it failed to wait for and see whether it was a command time out
+**How to fix**
   * This happens sometimes as a result of failures of CircleCI infrastructure that cause builds to be rerun within their containers. 
   * Sudowoodo has built-in resilience to this.
   * Should this occur, the release process can be continued by invoking `/blasting-off-again {COMMIT_HASH}` as a backslash command in `#bot-releases`.
