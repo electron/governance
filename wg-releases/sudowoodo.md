@@ -40,3 +40,4 @@ Sometimes Sudowoodo hits roadblocks and can't complete the release on its own. I
 **How to fix**
   * This might be because of a failure in later scripts
   * Should this occur, the release process can be continued by invoking `/blasting-off-again {COMMIT_HASH}` as a backslash command in `#bot-releases`.
+  * Do not run `/blasting-off-again` blindly in this scenario, check the papertrail logs and do not continue until you know what went wrong.  If you are ensure please ping @releases-wg for debugging assistance.
