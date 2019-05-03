@@ -14,6 +14,7 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh"> | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | PT (San Francisco) |
+| <img src="https://github.com/ryzokuken.png" width=100 alt="@ryzokuken">  | Ujjwal Sharma [@ryzokuken](https://github.com/ryzokuken) | Member | ? |
 
 ## Areas of Responsibility
 
