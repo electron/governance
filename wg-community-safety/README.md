@@ -12,6 +12,7 @@ Oversees removal/bans from community.
 | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+| <img src="https://github.com/lee-dohm.png" width=100 alt="@lee-dohm"> | Lee Dohm [@lee-dohm](https://github.com/lee-dohm) | Member | PT (Seattle) |
 
 ## Areas of Responsibility
 
