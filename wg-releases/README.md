@@ -13,6 +13,7 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | ? |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+| <img src="https://github.com/deermichel.png" width=100 alt="@deermichel">  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Observer | PT (San Francisco) |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Observer | PT (San Francisco) |
 
 ## Areas of Responsibility
