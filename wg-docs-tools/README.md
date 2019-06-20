@@ -85,3 +85,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 **Sync Meeting** 30min every other Thursday @ [16:00 UTC](https://duckduckgo.com/?q=16%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
+
+## Membership
+
+Prospective new members should reach out to an existing member to ask to be invited to the regular meetings and to be added as a Slack guest to #wg-upgrades. That person may be added to the working group by a 2/3rds vote of WG members at a WG meeting. The prospective member should leave the meeting while the deliberation & vote is underway, and be informed only of the outcome of the vote (approved/not approved).
