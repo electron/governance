@@ -15,6 +15,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
+| <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey">  | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
 
 ## Areas of Responsibility
 
