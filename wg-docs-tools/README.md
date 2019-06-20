@@ -9,12 +9,13 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | **Chair** | CT (New Orleans) |
 | <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
+| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
+| <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey">  | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
 
 ## Areas of Responsibility
 
@@ -84,3 +85,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 **Sync Meeting** 30min every other Thursday @ [16:00 UTC](https://duckduckgo.com/?q=16%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
+
+## Membership
+
+Prospective new members should reach out to an existing member to ask to be invited to the regular meetings and to be added as a Slack guest to #wg-docs-and-tools. That person may be added to the working group by a 2/3rds vote of WG members at a WG meeting. The prospective member should leave the meeting while the deliberation & vote is underway, and be informed only of the outcome of the vote (approved/not approved).
