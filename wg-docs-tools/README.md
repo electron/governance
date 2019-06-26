@@ -23,23 +23,23 @@ These projects are sorted alphabetically, their order does not reflect that any 
 
 * The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
 * Tools (Core)
-  * Devtron
   * Docs Linter
   * Fiddle
   * Quickstart & API Demo repos
   * Rebuild
-  * Spectron
   * Typescript Generator
   * Update server (update.electronjs.org)
   * Windows Installer (`electron-winstaller`)
   * rcedit
 * Tools (Userland)
+  * Devtron
   * Download
   * electron-compile
   * electron-installer-\*
   * Forge
   * osx-sign
   * Packager
+  * Spectron
 
 ...and all other tools third party community based Electron tools.
 
@@ -49,7 +49,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ### Electron Organization
 
-* [`electron/devtron`](https://github.com/electron/devtron)
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
@@ -59,13 +58,13 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 * [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/releases`](https://github.com/electron/releases)
-* [`electron/spectron`](https://github.com/electron/spectron)
 * [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 * [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
 * [`electron/windows-installer`](https://github.com/electron/windows-installer)
 
 ### Electron Userland Organization
 
+* [`electron-userland/devtron`](https://github.com/electron/devtron)
 * [`electron-userland/electron-download`](https://github.com/electron-userland/electron-download)
 * [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
 * [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
@@ -77,6 +76,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron-userland/electron-installer-windows`](https://github.com/electron-userland/electron-installer-windows)
 * [`electron-userland/electron-installer-zip`](https://github.com/electron-userland/electron-installer-zip)
 * [`electron-userland/electron-packager`](https://github.com/electron-userland/electron-packager)
+* [`electron-userland/spectron`](https://github.com/electron/spectron)
 
 ...and all other repositories that the community would consider maintained by Electron.
 
