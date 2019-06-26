@@ -24,7 +24,9 @@ These projects are sorted alphabetically, their order does not reflect that any 
 * The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
 * Tools (Core)
   * Docs Linter
+  * Download (`@electron/get`)
   * Fiddle
+  * Notarize
   * Quickstart & API Demo repos
   * rcedit
   * Rebuild
@@ -33,7 +35,6 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Windows Installer (`electron-winstaller`)
 * Tools (Userland)
   * Devtron
-  * Download
   * electron-compile
   * electron-installer-\*
   * Forge
@@ -51,10 +52,12 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
+* [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
+* [`electron/get`](https://github.com/electron/get)
 * [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 * [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/releases`](https://github.com/electron/releases)
@@ -65,7 +68,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 ### Electron Userland Organization
 
 * [`electron-userland/devtron`](https://github.com/electron/devtron)
-* [`electron-userland/electron-download`](https://github.com/electron-userland/electron-download)
 * [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
 * [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
 * [`electron-userland/electron-installer-debian`](https://github.com/electron-userland/electron-installer-debian)
