@@ -26,11 +26,11 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Docs Linter
   * Fiddle
   * Quickstart & API Demo repos
+  * rcedit
   * Rebuild
   * Typescript Generator
   * Update server (update.electronjs.org)
   * Windows Installer (`electron-winstaller`)
-  * rcedit
 * Tools (Userland)
   * Devtron
   * Download
