@@ -11,7 +11,6 @@ Grows the Electron community
 | <img src="https://github.com/jdalton.png" width=100 alt="@jdalton">  | John-David Dalton [@jdalton](https://github.com/jdalton) | Member | PT (Seattle) |
 | <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/tonyganch.png" width=100 alt="@tonyganch">  | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
 
 ## Areas of Responsibility
 
