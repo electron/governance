@@ -1,6 +1,6 @@
 Hi $REQUESTER,
 
-I'm $NAME, the current chair of Electron’s Website Working group. Thank you for your email and thank you for your interest in supporting Electron!
+I'm $NAME, [the current chair | a member] of Electron’s Website working group. Thank you for your email and thank you for your interest in supporting Electron!
 
 The logos displayed under "Built on Electron" are from our App Feedback Program members. This is a program for companies using Electron for their apps where they can give early feedback on testing betas of our major versions. This helps us prioritize the work that makes the greatest impact for them. If this interests you, please check out this page with more information on how to join: [Electron App Feedback Program](https://electronjs.org/blog/app-feedback-program).
 
