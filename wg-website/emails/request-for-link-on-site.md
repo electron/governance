@@ -1,4 +1,4 @@
-Hi Michaela,
+Hi $REQUESTER,
 
 I'm $NAME, the current chair of Electron’s Website Working group. Thank you for your email and thank you for your interest in supporting Electron!
 
