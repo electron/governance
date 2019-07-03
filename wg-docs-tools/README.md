@@ -27,6 +27,7 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Download (`@electron/get`)
   * Fiddle
   * Notarize
+  * osx-sign
   * Quickstart & API Demo repos
   * rcedit
   * Rebuild
@@ -38,7 +39,6 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * electron-compile
   * electron-installer-\*
   * Forge
-  * osx-sign
   * Packager
   * Spectron
 
@@ -53,6 +53,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
+* [`electron/electron-osx-sign`](https://github.com/electron/electron-osx-sign)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
