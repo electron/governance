@@ -60,6 +60,6 @@ For this, we need to ensure the following:
   * If we've just released `v6.0.0`, this means that `7-0-x` is about to become the beta line, and so we would need to procure a NMV for `8-0-x`
 * Sudowoodo is capable of handling betas for the new major line
 * [`node-abi`](https://github.com/lgeiger/node-abi) beta update
-  * We should ensure that  abi version information is added for the first beta in the new major stabilization line
+  * We should ensure that ABI version information is added for the first beta in the new major stabilization line
     * See [this PR](https://github.com/lgeiger/node-abi/pull/67) for an example
   
