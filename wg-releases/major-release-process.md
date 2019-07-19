@@ -1,6 +1,6 @@
 # Major Release Process
 
-This document outlines the major release stable promotion process.
+This document outlines the beta -> stable promotion process for a major release.
 
 ## Final Beta Release
 
