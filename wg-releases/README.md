@@ -36,6 +36,12 @@ See [repos.md](repos.md)
 3. Entry request is voted on at a subsequent meeting, during a portion of the meeting which the requester shall not attend
 4. Record outcome
 
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the Releases WG confers notable permissions.
+
 ## Meeting Schedule
 
 * **Sync Meeting** 45 min every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
