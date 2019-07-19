@@ -46,3 +46,10 @@
 | Week 11 | 2019-10-18 | Stable prep items due | Stable Prep Week 🚧 |
 | Week 12 | 2019-10-21 | Kick off 7.0.0 release | Action Item |
 | Week 12 | 2019-10-22 | 7.0.0 | Stable Deadline ✨ |
+
+## 8.0.0
+| Week # | Date  | Event | Comments |
+| ------ | ----- | ----- | -------- |
+| Week 0 | 2019-10-23 | Kick off 8.0.0-beta.1 | Action Item |
+| Week 0 | 2019-10-24 | 8.0.0-beta.1 | beta.1 deadline |
+| Week 1 | 2019-10-28 | | |
