@@ -4,7 +4,7 @@ This document outlines the major release stable promotion process.
 
 ## Final Beta Release
 
-One week before stable promotion for a given release line, we should release a final beta with ideally few changes. This means that for a stable release date of Tuesday, we should be releasing a final beta the friday a full > 1 week preceding that Tuesday, to allow for a quiet period week to account for complications.
+One week before stable promotion for a given release line, we should release a final beta with ideally few changes. This means that for a stable release date of Tuesday, we should be releasing a final beta the Friday a full > 1 week preceding that Tuesday, to allow for a quiet period week to account for complications.
 
 Before releasing the final beta, we need to ensure that there remain no unmerged pull requests targeting that branch. This entails two tasks:
 
@@ -13,19 +13,23 @@ Before releasing the final beta, we need to ensure that there remain no unmerged
 
 If both tasks are complete, proceed with the final beta release.
 
-## Communications Preparation
+## Stable Preparation
 
 We need to ensure the following have owners and have been completed:
 
-1) Blog Post
+* Blog Post
   * This post should contain the following:
-    * An update for which versions are now supported, and the new types of support for each of those (security-only, etc.)
+    * An update for which versions are now supported, and the new types of support for each of those (security-only, full support, etc.)
     * Link to timeline for subsequent major release
     * A list of breaking changes in the current stable line
     * References to any upcoming notable changes or deprecations
-2) Tweet - a tweet about the latest stable line & blog post from the official `@electronjs` twitter account
-3) Updates to [Supported Versions](https://github.com/electron/electron/blob/master/docs/tutorial/support.md#currently-supported-versions)
-4) Timeline for subsequent [major release version](https://electronjs.org/docs/tutorial/electron-timelines)
+* Tweet - a tweet about the latest stable line & blog post from the official `@electronjs` twitter account
+* Updates to [Supported Versions](https://github.com/electron/electron/blob/master/docs/tutorial/support.md#currently-supported-versions)
+* Timeline for subsequent [major release version](https://electronjs.org/docs/tutorial/electron-timelines)
+* [`node-abi`](https://github.com/lgeiger/node-abi) stable update
+  * Ensure that ABI version information is added for the first new stable version (Ex. `v6.0.0`)
+* [Spectron](https://github.com/electron-userland/spectron) update - a version of Spectron should be published compatible with the new stable release
+* [Chromedriver](https://github.com/electron/chromedriver) update - a version of Chromedriver should be published compatible with the version of Chromium being shipped in the new stable version
 
 ## Stable Release Promotion
 
@@ -42,16 +46,20 @@ Release Type: `Stable`
 
 Immediately following the release, we need to ensure the following:
 
-1) The [Electron Website](https://electronjs.org) reflects the latest stable version
-2) The `latest` tag on npm correctly reflects the new latest major release line
-3) The blog post has been successfully published to the [Electron Website](https://electronjs.org)
+* The [Electron Website](https://electronjs.org) reflects the latest stable version
+* The `latest` tag on npm correctly reflects the new latest major release line
+* The blog post has been successfully published to the [Electron Website](https://electronjs.org)
 
-## New Stable Preparations
+## Subsequent Release Line Preparations
 
 After a new major line has been officially stabilized, we should begin to prepare for the beta process of the next line.
 
 For this, we need to ensure the following:
 
-1) We have a new Node Module Version (NMV) for the line that follows what is about to become the new `master` major.
-  * If we've just released `v6.0.0`, this means that `7-0-x` is about to become the beta line, and so we would need to procure a NMV for `8-0-x`.
-2) Sudowoodo is capable of handling betas for the new major line.
+* We have a new Node Module Version (NMV) for the line that follows what is about to become the new `master` major
+  * If we've just released `v6.0.0`, this means that `7-0-x` is about to become the beta line, and so we would need to procure a NMV for `8-0-x`
+* Sudowoodo is capable of handling betas for the new major line
+* [`node-abi`](https://github.com/lgeiger/node-abi) beta update
+  * We should ensure that  abi version information is added for the first beta in the new major stabilization line
+    * See [this PR](https://github.com/lgeiger/node-abi/pull/67) for an example
+  
