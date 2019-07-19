@@ -5,6 +5,7 @@
 * [`electron/docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
 * [`electron/electron-osx-sign`](https://github.com/electron/electron-osx-sign)
+* [`electron/electron-packager`](https://github.com/electron/electron-packager)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/fiddle`](https://github.com/electron/fiddle)

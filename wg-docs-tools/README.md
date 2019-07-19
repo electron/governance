@@ -28,6 +28,7 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Fiddle
   * Notarize
   * osx-sign
+  * Packager
   * Quickstart & API Demo repos
   * rcedit
   * Rebuild
@@ -39,7 +40,6 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * electron-compile
   * electron-installer-\*
   * Forge
-  * Packager
   * Spectron
 
 ...and all other tools third party community based Electron tools.
@@ -54,6 +54,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
 * [`electron/electron-osx-sign`](https://github.com/electron/electron-osx-sign)
+* [`electron/electron-packager`](https://github.com/electron/electron-packager)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
@@ -78,7 +79,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron-userland/electron-installer-squirrel-windows`](https://github.com/electron-userland/electron-installer-squirrel-windows)
 * [`electron-userland/electron-installer-windows`](https://github.com/electron-userland/electron-installer-windows)
 * [`electron-userland/electron-installer-zip`](https://github.com/electron-userland/electron-installer-zip)
-* [`electron-userland/electron-packager`](https://github.com/electron-userland/electron-packager)
 * [`electron-userland/spectron`](https://github.com/electron/spectron)
 
 ...and all other repositories that the community would consider maintained by Electron.
