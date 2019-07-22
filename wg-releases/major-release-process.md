@@ -57,8 +57,7 @@ After a new major line has been officially stabilized, we should begin to prepar
 For this, we need to ensure the following:
 
 * We have a new Node Module Version (NMV) for the line that follows what is about to become the new `master` major
-  * If we've just released `v6.0.0`, this means that `7-0-x` is about to become the beta line, and so we would need to procure a NMV for `8-0-x`
-* Sudowoodo is capable of handling betas for the new major line
+* Sudowoodo is capable of handling betas for the new major line in its [release options](https://github.com/electron/sudowoodo/blob/master/src/slack-manager.ts#L240-L265)
 * [`node-abi`](https://github.com/lgeiger/node-abi) beta update
   * We should ensure that ABI version information is added for the first beta in the new major stabilization line
     * See [this PR](https://github.com/lgeiger/node-abi/pull/67) for an example
