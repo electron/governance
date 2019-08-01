@@ -30,6 +30,13 @@ We need to ensure the following have owners and have been completed:
   * Ensure that ABI version information is added for the first new stable version (Ex. `v6.0.0`)
 * [Spectron](https://github.com/electron-userland/spectron) update - a version of Spectron should be published compatible with the new stable release
 * [Chromedriver](https://github.com/electron/chromedriver) update - a version of Chromedriver should be published compatible with the version of Chromium being shipped in the new stable version
+* Release notes
+    * Update stable version release notes with copyedited notes
+    * Ensure the following:
+        * Correct spelling, grammar, capitalization, etc.
+        * Items are categorized and organized properly, e.g., in Fixes or Other Changes
+        * Notes include the items merged after the last beta release
+    * Example: [v6.0.0 release notes](https://github.com/electron/electron/releases/tag/v6.0.0)
 
 ## Stable Release Promotion
 
@@ -61,4 +68,3 @@ For this, we need to ensure the following:
 * [`node-abi`](https://github.com/lgeiger/node-abi) beta update
   * We should ensure that ABI version information is added for the first beta in the new major stabilization line
     * See [this PR](https://github.com/lgeiger/node-abi/pull/67) for an example
-  
