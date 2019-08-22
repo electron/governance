@@ -1,0 +1,25 @@
+# Website Working Group
+
+August 08, 2019
+
+## Attendees
+
+- @HashimotoYT
+- @Kilian
+
+## Discussion
+
+- [Who is Steve and Why Steve need?](https://hackmd.io/@lapJtcKBRcilS3HAcibsLA/BybwgYy7S) - If you see this now, read now.
+- Access to Crowdin dashboard
+- Vlad will ping people interested in translating @HashimotoYT https://github.com/electron/i18n/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Alanguage-request
+
+## Review Needed
+
+- [Download and localize blog posts](https://github.com/electron/i18n/pull/717)
+	- Frontend Part: https://github.com/electron/electronjs.org/pull/2847
+
+## Updates
+
+- Multi versioned docs fully done :tada: 
+
+## Action Items
