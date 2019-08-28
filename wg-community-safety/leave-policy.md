@@ -8,8 +8,8 @@ Because leaves of absence may be for private, personal reasons, notification of 
 
 ## When notified that an Electron maintainer has begun their leave of absence
 
-* If that maintainer is a Slack Owner or Admin, change their role in Slack to Full Member
+* If that maintainer is a Slack Owner or Admin, change their account type in Slack to Full Member.
 
 ## When notified that an Electron maintainer has returned from their leave of absence
 
-* Restore any previous role the maintainer had before their leave
+* Restore the Slack account type the maintainer had before their leave.
