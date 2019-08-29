@@ -6,6 +6,13 @@ Because leaves of absence may be for private, personal reasons, notification of 
 
 [coc-email]: ../CODE_OF_CONDUCT.md#enforcement
 
+## Notification
+
+It is highly preferred, but not required, that the person who is taking the leave of absence notify the Community and Safety Working Group of that fact. If notified by a third party, the Working Group will:
+
+1. Take reasonable steps to verify with the person taking leave _before_ taking action.
+1. Notify the person taking leave of the exact action that was taken and link them to this policy.
+
 ## When notified that an Electron maintainer has begun their leave of absence
 
 * If that maintainer is a Slack Owner or Admin, change their account type in Slack to Full Member.
