@@ -18,8 +18,8 @@ It is important that other working groups have autonomy and agency to fulfill th
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | **Chair** | PT (San Francisco) |
-| <img src="https://github.com/mgc.png" width=100 alt="@mgc">  | Matt Crocker [@mgc](https://github.com/mgc) | Member | PT (San Francisco) |
+| <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
+| <img src="https://github.com/mgc.png" width=100 alt="@mgc">  | Matt Crocker [@mgc](https://github.com/mgc) | **Chair** | PT (San Francisco) |
 | <img src="https://github.com/ZacWalk.png" width=100 alt="@ZacWalk">  | Zac Walker [@ZacWalk](https://github.com/ZacWalk) | Member | CET (Prague) |
 | | Governance Representative | Member | |
 | | Community Representative | Member | |
@@ -31,6 +31,6 @@ The process for electing this person has not yet been defined.
 
 ## Meeting Schedule
 
-TBD <!-- likely **Sync Meeting** Monthly @ 9:00AM PT -->
+Next sync meeting Nov 7, 2019 8 AM PST
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
