@@ -6,13 +6,13 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Apthorp [@nornagon](https://github.com/nornagon) | **Chair** | PT (San Francisco) |
+| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | **Chair** | PT (Vancouver) |
 | <img src="https://github.com/alexeykuzmin.png" width=100 alt="@alexeykuzmin">  | Alexey Kuzmin [@alexeykuzmin](https://github.com/alexeykuzmin) | Member | CET (Prague) |
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | ? |
 | <img src="https://github.com/brenca.png" width=100 alt="@brenca">  | Heilig Benedek [@brenca](https://github.com/brenca) | Member | CET (Budapest) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh"> | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Apthorp [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | PT (San Francisco) |
 | <img src="https://github.com/ryzokuken.png" width=100 alt="@ryzokuken">  | Ujjwal Sharma [@ryzokuken](https://github.com/ryzokuken) | Member | ? |
 
