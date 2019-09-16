@@ -6,12 +6,12 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | **Chair** | CT (New Orleans) |
+| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | **Chair** | PT (Seattle) |
 | <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
 | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
-| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
+| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
