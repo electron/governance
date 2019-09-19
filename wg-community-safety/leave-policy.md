@@ -16,7 +16,9 @@ It is highly preferred, but not required, that the person who is taking the leav
 ## When notified that an Electron maintainer has begun their leave of absence
 
 * If that maintainer is a Slack Owner or Admin, change their account type in Slack to Full Member.
+* If that maintainer is an Admin of the @electron organization on GitHub, reduce their permissions to Write.
 
 ## When notified that an Electron maintainer has returned from their leave of absence
 
 * Restore the Slack account type the maintainer had before their leave.
+* Restore the @electron organization rights on GitHub to what they had before their leave.
