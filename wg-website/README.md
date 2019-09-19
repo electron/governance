@@ -9,7 +9,6 @@ Oversees the technical implementation, design, and style of the Electron website
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | **Chair** | CET (Netherlands) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
-| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
 | <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
 
 
