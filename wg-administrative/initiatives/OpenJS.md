@@ -24,6 +24,7 @@ We will strive for unanimous consensus, and failing that will look for majority 
 # Addition
 
 1. Individuals may be added by majority approval of existing members plus chair.
+2. Members of this initiative are not necessarily members of governance.
 
 # Members
 
