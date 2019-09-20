@@ -8,7 +8,7 @@
 2. This initiative may negotiate with OpenJS about implementation specifics and tradeoffs.
 3. This initiative *does not* have final authority to move the project.
 4. This initiative is tasked to bring the application and negotiation to a final agreement that will be voted on by all working groups.
-5. Any member of the initiative may inetract with members of the OpenJS Foundation directly.
+5. Any member of the initiative may interact with members of the OpenJS Foundation directly.
 
 # Consensus
 
