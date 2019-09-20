@@ -9,8 +9,11 @@ Grows the Electron community
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/cruzerld.png" width=100 alt="@cruzerld">  | David Cruz [@cruzerld](https://github.com/cruzerld) | Member | ET (New York City) |
 | <img src="https://github.com/jdalton.png" width=100 alt="@jdalton">  | John-David Dalton [@jdalton](https://github.com/jdalton) | Member | PT (Seattle) |
-| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/bnb.png" width=100 alt="@bnb">  | Tierney Cyren [@bnb](https://github.com/bnb) | Member | ET (New York City) |
+| <img src="https://github.com/erikmellum.png" width=100 alt="@erikmellum">  | Erik Mellum [@erikmellum](https://github.com/erikmellum) | Member | PT (Chico) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | ET (Montreal) |
+| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 
 ## Areas of Responsibility
 
