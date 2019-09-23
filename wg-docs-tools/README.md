@@ -55,6 +55,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ### Electron Organization
 
+* [`electron/apps`](https://github.com/electron/apps)
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
@@ -63,8 +64,10 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
+* [`electron/electronjs.org`](https://github.com/electron/electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
 * [`electron/get`](https://github.com/electron/get)
+* [`electron/i18n`](https://github.com/electron/i18n)
 * [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 * [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/releases`](https://github.com/electron/releases)
