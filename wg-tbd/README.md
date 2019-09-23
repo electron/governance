@@ -1,6 +1,8 @@
-# Documentation and Tools WG
+# TBD WG
 
-Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation across the website and `electron/*` repositories, and the maintainer’s group outreach to 3rd party modules.
+Oversees the projects that make Electron easier to use.
+Oversees the projects that make Electron apps more producive.
+Oversees the Electron website, documentation across the `electron/*` repositories, externally-focused tooling (e.g. Fiddle, Forge), and the maintainer’s group outreach to 3rd party modules.
 
 ## Membership
 

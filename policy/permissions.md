@@ -100,7 +100,7 @@ Credentials for the "electron-bot" user will be stored on the 1-Password, access
 
 ### `electron-cfa` credentials
 
-Credentials for the "electron-cfa" user will be stored on the 1-Password, access to these credentials will be controlled by the Docs and Tools Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Docs and Tools Working Group needs the 2FA secret to approve releases.
+Credentials for the "electron-cfa" user will be stored on the 1-Password, access to these credentials will be controlled by the TBD Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the TBD Working Group needs the 2FA secret to approve releases.
 
 ## Exceptions
 

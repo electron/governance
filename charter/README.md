@@ -52,12 +52,11 @@ These are our core values, as voted by the maintainers, in order of importance. 
 |:---------------|:------|-------------|
 | Administrative | [wg-administrative](../wg-administrative) | Administrates Governance |
 | Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
-| Docs and Tools | [wg-docs-tools](../wg-docs-tools/) | Docs, tools, and Userland |
 | Outreach       | [wg-outreach](../wg-outreach/) | Grows the community |
 | Releases       | [wg-releases](../wg-releases/) | Coordinates new releases |
 | Security       | [wg-security](../wg-security/) | Security review & response |
+| TBD            | [wg-tbd](../wg-website/) | Maintains the public Electron stack |
 | Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
-| Website        | [wg-website](../wg-website/) | Maintains [electronjs.org](https://www.electronjs.org) |
 
 ### Responsibilities
 
