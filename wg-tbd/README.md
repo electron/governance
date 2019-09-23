@@ -1,8 +1,6 @@
 # TBD WG
 
-Oversees the projects that make Electron easier to use.
-Oversees the projects that make Electron apps more producive.
-Oversees the Electron website, documentation across the `electron/*` repositories, externally-focused tooling (e.g. Fiddle, Forge), and the maintainer’s group outreach to 3rd party modules.
+Mission statement TBD
 
 ## Membership
 

@@ -55,7 +55,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 | Outreach       | [wg-outreach](../wg-outreach/) | Grows the community |
 | Releases       | [wg-releases](../wg-releases/) | Coordinates new releases |
 | Security       | [wg-security](../wg-security/) | Security review & response |
-| TBD            | [wg-tbd](../wg-website/) | Maintains the public Electron stack |
+| TBD            | [wg-tbd](../wg-website/) | TBD |
 | Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
 
 ### Responsibilities
