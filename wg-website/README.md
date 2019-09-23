@@ -2,13 +2,6 @@
 
 Oversees the technical implementation, design, and style of the Electron website and associated tooling.
 
-## Areas of Responsibility
-
-* Implementation and design of the Electron website
-* Management of Heroku apps for the site and [associated repositories](#associated-repositories)
-* Management of the Algolia search tooling
-* Management of translations via Crowdin
-
 ## Associated Repositories
 
 * [`electron/electronjs.org`](https://github.com/electron/electronjs.org)

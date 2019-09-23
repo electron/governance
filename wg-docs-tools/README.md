@@ -22,7 +22,11 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
 
-* The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
+* Documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
+* Implementation and design of the Electron website
+  * Management of Heroku apps for the site and [associated repositories](#associated-repositories)
+  * Management of the Algolia search tooling
+  * Management of translations via Crowdin
 * Tools (Core)
   * Docs Linter
   * Download (`@electron/get`)
