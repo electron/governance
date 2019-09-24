@@ -20,15 +20,15 @@ incidents, and oversees rollout of fixes.
 ## Current Objective and Key Results
 **Objective:**
 
-Electron is used/trusted by organizations iwth enterprise and corporate-high-security environments.
+Electron is used/trusted by organizations with enterprise and corporate-high-security environments.
 
 **Key Results:**
-1. Increase adoption of electron security best-practices & tooling in AFP and **partner applications**
+1. Increase adoption of Electron security best-practices & tooling in AFP and **partner applications**
 2. Increase engagement of website security documentation (i.e. MOAR pageviews)
 3. Increase **measurable security** for self-identified enterprise apps.
 
 * _Partner Applications_: an app reporting feedback to Electron but outside the AFP
-* _AFP_: App feedback program
+* _AFP_: App Feedback Program
 * _measurable security_: an audit tool like https://github.com/doyensec/electronegativity, or self-report
 
 ## Areas of Responsibility

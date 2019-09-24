@@ -23,7 +23,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 As a newcomer or experienced app developer, you can use Electron’s tooling and documentation to build your app well.
 
 **Key Results:**
-* Increase adoption of electron-provided tooling.
+* Increase adoption of Electron-provided tooling.
 * Decrease cases of documented poor-practices - normalized against the randomness and size of the samples
 * Increase views on /docs
 
