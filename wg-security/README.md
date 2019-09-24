@@ -17,7 +17,7 @@ incidents, and oversees rollout of fixes.
 | <img src="https://github.com/ppontes.png" width=100 alt="@ppontes">  | Pedro Pontes [@ppontes](https://github.com/ppontes) | Member | CET (Prague) |
 | <img src="https://github.com/StevenEBarbaro.png" width=100 alt="@StevenEBarbaro">  | Steve Barbaro [@StevenEBarbaro](https://github.com/StevenEBarbaro) | Member | ? |
 
-## Objectives and Key Results
+## Current Objective and Key Results
 **Objective:**
 
 Electron is used/trusted by organizations iwth enterprise and corporate-high-security environments.

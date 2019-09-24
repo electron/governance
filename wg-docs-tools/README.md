@@ -17,7 +17,7 @@ Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
 | <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey">  | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
 
-## Objectives and Key Results
+## Current Objective and Key Results
 **Objective:**
 
 As a newcomer or experienced app developer, you can use Electron’s tooling and documentation to build your app well.
