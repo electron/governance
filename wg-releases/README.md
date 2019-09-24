@@ -13,6 +13,16 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | PT (Vancouver) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
 
+## Objectives and Key Results
+**Objective:**
+
+Save expensive human time by offloading work to inexpensive computers.
+
+**Key Results:**
+* Reduce time-to-first-green, and time-to-all-greens in development.
+* Reduce number of times tests need to be re-run.
+* Reduce time to generate and deploy release builds.
+
 ## Areas of Responsibility
 
 * Releasing Electron according to schedule
