@@ -15,6 +15,16 @@ Grows the Electron community
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | ET (Montreal) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 
+## Objectives and Key Results
+**Objective:**
+
+Electron is easy for new people to approach and make meaningful contributions.
+
+**Key Results:**
+* reduce time needed to setup dev env
+* increase breadth of contributors
+* increase the number of regular contributors (rolling 90-day active)
+
 ## Areas of Responsibility
 
 - Onboarding for new members
