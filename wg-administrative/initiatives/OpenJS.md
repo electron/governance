@@ -29,7 +29,7 @@ We will strive for unanimous consensus, and failing that will look for majority 
 # Members
 
 - @ckerr
-- @codebytre
+- @codebytere
 - @cruzerld
 - @felix
 - @groundwater [initial chair]
