@@ -32,8 +32,8 @@ We will strive for unanimous consensus, and failing that will look for majority 
 - @codebytere
 - @cruzerld
 - @felix
-- @groundwater [initial chair]
-- @jkleinsc
+- @groundwater
+- @jkleinsc [initial chair]
 - @keegan
 - @nornagon
 - @tierney
