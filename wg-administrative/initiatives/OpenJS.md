@@ -28,12 +28,11 @@ We will strive for unanimous consensus, and failing that will look for majority 
 
 # Members
 
-- @ckerr
-- @codebytere
-- @cruzerld
-- @felix
-- @groundwater
-- @jkleinsc [initial chair]
-- @keegan
-- @nornagon
-- @tierney
+- [@bnb](https://github.com/bnb)
+- [@ckerr](https://github.com/ckerr)
+- [@cruzerld](https://github.com/cruzerld)
+- [@felixrieseberg](https://github.com/felixrieseberg)
+- [@groundwater](https://github.com/groundwater)
+- [@jkleinsc](https://github.com/jkleinsc) [initial chair]
+- [@lee-dohm](https://github.com/lee-dohm)
+- [@nornagon](https://github.com/nornagon)
