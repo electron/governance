@@ -21,9 +21,9 @@ Grows the Electron community
 Electron is easy for new people to approach and make meaningful contributions.
 
 **Key Results:**
-* reduce time needed to setup dev env
-* increase breadth of contributors
-* increase the number of regular contributors (rolling 90-day active)
+* Reduce time needed to set up developer environment
+* Increase breadth of contributors across organizations
+* Increase the number of regular contributors (rolling 90-day active)
 
 ## Areas of Responsibility
 

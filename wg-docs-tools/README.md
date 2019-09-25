@@ -25,7 +25,7 @@ As a newcomer or experienced app developer, you can use Electron’s tooling and
 **Key Results:**
 * Increase adoption of Electron-provided tooling.
 * Decrease cases of documented poor-practices - normalized against the randomness and size of the samples
-* Increase views on /docs
+* Increase views on https://electronjs.org/docs
 
 ## Areas of Responsibility
 
