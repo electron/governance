@@ -19,7 +19,7 @@ We will strive for unanimous consensus, and failing that will look for majority 
 
 1. Individuals may voluntarily relinquish their membership.
 2. If all other members vote to remove a member.
-3. The chair can remove a member, but should provide an explaination to other members. (e.g. to alleviate a deadlock where we want to remove TWO inactive members)
+3. The chair can remove a member, but should provide an explanation to other members. (e.g. to alleviate a deadlock where we want to remove TWO inactive members)
 
 # Addition
 
