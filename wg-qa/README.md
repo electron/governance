@@ -1,20 +1,18 @@
-# Releases WG
+# QA Working Group
 
 Oversees stability, quality, and testing criteria within Electron.
 
 ## Membership
 
-| Name |
-| -----------------|
-| Maria (Pending)  |
-| Keeley (Pending) |
-| David            |
-| Alexey           |
-| Sofia            |
+| Avatar| Name | Role | Time Zone |
+| ----------------- | ----------------- | ----------------- | ----------------- |
+| <img src="https://github.com/MariaBeliaeva.png" width=100 alt="@MariaBeliaeva">  | Maria Beliaeva [@MariaBeliaeva](https://github.com/MariaBeliaeva)| **Chair** | PT (San Francisco) |
+| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/cruzerld.png" width=100 alt="@cruzerld">  | David Cruz [@cruzerld](https://github.com/cruzerld) | Member | ET (New York City) |
+| <img src="https://github.com/alexeykuzmin.png" width=100 alt="@alexeykuzmin">  | Alexey Kuzmin [@alexeykuzmin](https://github.com/alexeykuzmin) | Member | CET (Prague) |
+| <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
 
-## Chair
 
-* Maria
 
 ## Parent Group
 
@@ -27,8 +25,4 @@ Oversees stability, quality, and testing criteria within Electron.
 
 ## Meeting Schedule
 
-* **Sync Meeting** Every 4 weeks, wed 9:30am-PST (https://calendar.google.com/event?action=TEMPLATE&tmeid=NGp0NGU4OGtiYzExOGVvbWJkcmNpNGlyY2hfMjAxOTA5MjVUMTYzMDAwWiBjYzM3dmx1c2w2Z3Y2dnVvbjhrZGNqYzc3a0Bn&tmsrc=cc37vlusl6gv6vuon8kdcjc77k%40group.calendar.google.com&scp=ALL)
-* **Sync Meeting** 45 min every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
-* **Major Release Cadence Meeting** 1 hour every Thursday at [00:00AM UTC](https://duckduckgo.com/?q=00%3A00+UTC&ia=answer)
-
-Meeting notes may be viewed in [meeting-notes](meeting-notes).
+* **Sync Meeting** Every 4 weeks, wed 9:30am-PST (https://bit.ly/2n31SNx)
