@@ -15,7 +15,7 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 | |        Security      | |       Outreach       | |       Upgrades       | |
 | +----------------------+ +----------------------+ +----------------------+ |
 | +----------------------+ +----------------------+ +----------------------+ |
-| |          TBD         | |  Community & Safety  | |       Releases       | |
+| |       Ecosystem      | |  Community & Safety  | |       Releases       | |
 | +----------------------+ +----------------------+ +----------------------+ |
 +----------------------------------------------------------------------------+
 ```
@@ -31,10 +31,10 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Overview](wg-upgrades/README.md)
   * [Associated Repositories](wg-upgrades/repos.md)
   * [Meeting Notes](wg-upgrades/meeting-notes)
-* [TBD WG](wg-tbd)
-  * [Overview](wg-tbd/README.md)
-  * [Associated Repositories](wg-tbd/repos.md)
-  * [Meeting Notes](wg-tbd/meeting-notes)
+* [Ecosystem WG](wg-ecosystem)
+  * [Overview](wg-ecosystem/README.md)
+  * [Associated Repositories](wg-ecosystem/repos.md)
+  * [Meeting Notes](wg-ecosystem/meeting-notes)
 * [Community & Safety WG](wg-community-safety)
   * [Overview](wg-community-safety/README.md)
   * [Meeting Notes](wg-community-safety/meeting-notes)

@@ -1,6 +1,6 @@
-# TBD WG
+# Ecosystem WG
 
-Mission statement TBD
+Oversees the projects that make Electron app development easier.
 
 ## Membership
 

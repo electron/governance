@@ -1,4 +1,4 @@
-# Repositories that `wg-tbd` owns
+# Repositories that `wg-ecosystem` owns
 
 * [`electron/api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/apps`](https://github.com/electron/apps)
