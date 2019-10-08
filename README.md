@@ -12,14 +12,27 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 |                                                                            |
 |                               WORKING GROUPS                               |
 | +----------------------+ +----------------------+ +----------------------+ |
-| |        Security      | |       Outreach       | |       Upgrades       | |
+| |         API          | |  Community & Safety  | |       Ecosystem      | |
 | +----------------------+ +----------------------+ +----------------------+ |
 | +----------------------+ +----------------------+ +----------------------+ |
-| |       Ecosystem      | |  Community & Safety  | |       Releases       | |
+| |       Outreach       | |       Releases       | |       Security       | |
 | +----------------------+ +----------------------+ +----------------------+ |
+|                          +----------------------+                          |
+|                          |       Upgrades       |                          |
+|                          +----------------------+                          |
 +----------------------------------------------------------------------------+
 ```
 
+* [API WG](wg-api)
+  * [Overview](wg-api/README.md)
+  * [Meeting Notes](wg-api/meeting-notes)
+* [Community & Safety WG](wg-community-safety)
+  * [Overview](wg-community-safety/README.md)
+  * [Meeting Notes](wg-community-safety/meeting-notes)
+* [Ecosystem WG](wg-ecosystem)
+  * [Overview](wg-ecosystem/README.md)
+  * [Associated Repositories](wg-ecosystem/repos.md)
+  * [Meeting Notes](wg-ecosystem/meeting-notes)
 * [Outreach WG](wg-outreach)
   * [Overview](wg-outreach/README.md)
   * [Meeting Notes](wg-outreach/meeting-notes)
@@ -27,20 +40,13 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Overview](wg-releases/README.md)
   * [Associated Repositories](wg-releases/repos.md)
   * [Meeting Notes](wg-releases/meetig-notes)
+* [Security WG](wg-security)
+  * [Overview](wg-security/README.md)
+  * [Meeting Notes](wg-security/meeting-notes)
 * [Upgrades WG](wg-upgrades)
   * [Overview](wg-upgrades/README.md)
   * [Associated Repositories](wg-upgrades/repos.md)
   * [Meeting Notes](wg-upgrades/meeting-notes)
-* [Ecosystem WG](wg-ecosystem)
-  * [Overview](wg-ecosystem/README.md)
-  * [Associated Repositories](wg-ecosystem/repos.md)
-  * [Meeting Notes](wg-ecosystem/meeting-notes)
-* [Community & Safety WG](wg-community-safety)
-  * [Overview](wg-community-safety/README.md)
-  * [Meeting Notes](wg-community-safety/meeting-notes)
-* [Security WG](wg-security)
-  * [Overview](wg-security/README.md)
-  * [Meeting Notes](wg-security/meeting-notes)
 * [Administrative WG](wg-administrative)
 
 ## Definitions
