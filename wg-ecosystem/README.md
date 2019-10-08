@@ -1,21 +1,22 @@
-# Documentation and Tools WG
+# Ecosystem WG
 
-Oversees externally-focused tooling (e.g. Fiddle, Forge), Electron documentation across the website and `electron/*` repositories, and the maintainer’s group outreach to 3rd party modules.
+Oversees the projects that make Electron app development easier.
 
 ## Membership
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | **Chair** | PT (Seattle) |
-| <img src="https://github.com/BinaryMuse.png" width=100 alt="@BinaryMuse">  | Michelle Tilley [@BinaryMuse](https://github.com/BinaryMuse) | Member | PT (San Francisco) |
-| <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
-| <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
+| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Chair | PT (Seattle) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
+| <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
+| <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
 | <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey">  | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
+| <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
+
 
 ## Current Objective and Key Results
 **Objective:**
@@ -31,7 +32,11 @@ As a newcomer or experienced app developer, you can use Electron’s tooling and
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
 
-* The documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
+* Documentation across all `electron/*` repositories, primarily focusing on `electron/electron/docs` in the repo and the website
+* Implementation and design of the Electron website
+  * Management of Heroku apps for the site and [associated repositories](#associated-repositories)
+  * Management of the Algolia search tooling
+  * Management of translations via Crowdin
 * Tools (Core)
   * Docs Linter
   * Download (`@electron/get`)
@@ -60,6 +65,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ### Electron Organization
 
+* [`electron/apps`](https://github.com/electron/apps)
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
@@ -68,8 +74,10 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electron-typescript-definitions`](https://github.com/electron/electron-typescript-definitions)
+* [`electron/electronjs.org`](https://github.com/electron/electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
 * [`electron/get`](https://github.com/electron/get)
+* [`electron/i18n`](https://github.com/electron/i18n)
 * [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
 * [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/releases`](https://github.com/electron/releases)

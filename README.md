@@ -12,21 +12,14 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 |                                                                            |
 |                               WORKING GROUPS                               |
 | +----------------------+ +----------------------+ +----------------------+ |
-| |    Docs & Tooling    | |       Outreach       | |       Upgrades       | |
+| |        Security      | |       Outreach       | |       Upgrades       | |
 | +----------------------+ +----------------------+ +----------------------+ |
 | +----------------------+ +----------------------+ +----------------------+ |
-| |        Website       | |  Community & Safety  | |       Releases       | |
+| |       Ecosystem      | |  Community & Safety  | |       Releases       | |
 | +----------------------+ +----------------------+ +----------------------+ |
-|                          +----------------------+                          |
-|                          |       Security       |                          |
-|                          +----------------------+                          |
 +----------------------------------------------------------------------------+
 ```
 
-* [Docs & Tooling WG](wg-docs-tools)
-  * [Overview](wg-docs-tools/README.md)
-  * [Associated Repositories](wg-docs-tools/repos.md)
-  * [Meeting Notes](wg-docs-tools/meeting-notes)
 * [Outreach WG](wg-outreach)
   * [Overview](wg-outreach/README.md)
   * [Meeting Notes](wg-outreach/meeting-notes)
@@ -38,10 +31,10 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Overview](wg-upgrades/README.md)
   * [Associated Repositories](wg-upgrades/repos.md)
   * [Meeting Notes](wg-upgrades/meeting-notes)
-* [Website WG](wg-website)
-  * [Overview](wg-website/README.md)
-  * [Associated Repositories](wg-website/repos.md)
-  * [Meeting Notes](wg-website/meeting-notes)
+* [Ecosystem WG](wg-ecosystem)
+  * [Overview](wg-ecosystem/README.md)
+  * [Associated Repositories](wg-ecosystem/repos.md)
+  * [Meeting Notes](wg-ecosystem/meeting-notes)
 * [Community & Safety WG](wg-community-safety)
   * [Overview](wg-community-safety/README.md)
   * [Meeting Notes](wg-community-safety/meeting-notes)
