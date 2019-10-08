@@ -13,7 +13,6 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
-| <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh">  | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
 | <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey">  | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
 | <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
 
