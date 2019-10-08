@@ -14,30 +14,14 @@ Oversees public API design based on project principles.
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | **Chair** | PT (Vancouver) |
+| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/itsananderson.png" width=100 alt="@itsananderson">  | Will Anderson [@itsananderson](https://github.com/itsananderson) | Member | PT (Seattle) |
 
 ## Areas of Responsibility
 
-* Review and unblocks API PRs in a timely way.
-* Resolve API disagreements.
 * Define the process for which API changes are reviewed and approved.
 * Create initiatives to develop/modify/change API implementations.
 * Increase participation with web standards groups.
-
-## Changing API
-
-1. Contributors should follow the [best practices guide](./best-practices.md) when applicable.
-1. When creating change issues / PRs, contributors should mention `@wg-api` in the description and request review from `wg-api`.
-1. WG members should watch for these notifications and give review in a timely manner.
-1. Ideally, this will be enough! :rocket:
-
-If consensus isn't reached on a PR, an interested party should add the PR's URL to the WG's next meeting agenda:
-
-* If the PR needs reviewers, the WG will find volunteers to review.
-* If the PR needs consensus, the WG will resolve the issue by majority vote. Votes should be made in consideration of the [best practices guide](./best-practices.md).
-* WG members should read the meeting agenda _in advance_ to be able to unblock PRs in a well-informed way.
-* Members unable to attend a meeting's vote may submit their vote to the Chair prior to the meeting.
 
 ## Associated Repositories
 
