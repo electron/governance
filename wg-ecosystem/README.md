@@ -18,6 +18,16 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
 
 
+## Current Objective and Key Results
+**Objective:**
+
+As a newcomer or experienced app developer, you can use Electron’s tooling and documentation to build your app well.
+
+**Key Results:**
+* Increase adoption of Electron-provided tooling.
+* Decrease percentage of documented poor-practices
+* Increase views on https://electronjs.org/docs
+
 ## Areas of Responsibility
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
