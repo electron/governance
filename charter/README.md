@@ -42,38 +42,9 @@ These are our core values, as voted by the maintainers, in order of importance. 
 ## Participation
 
  * [Code of Conduct](../CODE_OF_CONDUCT.md)
- * [Joining](#joining_governance)
  * [Using Slack](https://github.com/electron/governance/blob/master/policy/slack.md)
  * [Triaging Issues](https://github.com/electron/governance/blob/master/playbooks/README.md)
 <!-- * [Using Pull Requests](FIXME: link to PR etiquette doc) -->
-
-### Joining
-
-Thank you for wanting to contribute to Electron!
-
-If you're not already on the Electron Slack, please sign this
-[Code of Conduct form](https://electronjs.org/maintainers/join).
-The [Community and Safety Working Group](../wg-community-safety) will
-process your application and, if everything is alright, you'll be given
-guest access to Electron's Slack.
-
-To join a [Working Group](README.md#working-groups), you should contact
-an existing member of the group on Electron's Slack about how to join.
-Requirements differ from group to group &ndash; for example,
-[Security](../wg-security) has stricter [rules](../wg-security/membership-and-notifications.md#membership)
-by necessity &ndash; but you're generally expected to show participation
-becoming a full member:
-
- * Actively contribute to the Working Group's work
- * Attend 3 out of 6 consecutive meetings
- * Notify `@community-safety-wg` in Slack about your intent to join _if_
-   you're not already in a Working Group. One benefit of joining a Group
-   is becoming a [maintainer](README.md#definitions), and maintainer
-   membership is handled by C&S.
-
-Once you've done all these things, notify the Working Group and it will decide
-on your membership. This generally involves a vote by existing members, but each
-group has its own process.
 
 ## Working Groups
 
