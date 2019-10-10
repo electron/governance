@@ -6,7 +6,7 @@ This document outlines the beta -> stable promotion process for a major release.
 
 One week before stable promotion for a given release line, we should release a final beta with ideally few changes. This means that for a stable release date of Tuesday, we should be releasing a final beta the Friday a full > 1 week preceding that Tuesday, to allow for a quiet period week to account for complications.
 
-Before releasing the final beta, we need to ensure that there remain no unmerged pull requests targeting that branch. This entails two tasks:
+Before releasing the final beta, we need to ensure we have fixed all stable blocker items. Afterwards, we need to ensure that there remain no unmerged pull requests targeting that branch. This entails two tasks:
 
 1) Run `/check-unmerged <branch-name>` in Slack and see if any PRs are returned
 2) Check open PRs to `master` on `electron/electron` and ensure that none of them carry the label `target/<branch-name>`
