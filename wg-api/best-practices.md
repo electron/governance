@@ -2,9 +2,9 @@
 
 This is a draft for best practices when designing public APIs.
 
-## Module
+## Modules
 
-### Module Name
+### Module Names
 
 If a module exports only one class, the module's name should be the class's name.
 
@@ -23,9 +23,9 @@ const { nativeImage } = require('electron')
 nativeImage.createEmpty()
 ```
 
-## Class
+## Classes
 
-### Creating Instance
+### Creating Instances
 
 There are 2 styles for creating instances of classes:
 
@@ -39,9 +39,9 @@ new BrowserWindow(options)
 nativeImage.createFromPath('/path')
 ```
 
-#### Constructor
+#### Constructors
 
-If the class has inheritance relationship with other public classes, constructor should be used.
+If the class has an inheritance relationship with other public classes, a constructor should be used for that class.
 
 For example:
 
@@ -58,9 +58,9 @@ if (win instanceof TopLevelWindow) {
 }
 ```
 
-#### Factory method
+#### Factory methods
 
-If the class accepts different kinds of parameters with options, we should consider using factory methods.
+If the class accepts different kinds of parameters with options, consider using factory methods.
 
 For example:
 
@@ -73,17 +73,17 @@ nativeImage.createFromNamedImage('NSImageNameListViewTemplate', [-1, 0, 1])
 Buffer.from('7468697320697320612074c3a97374', 'hex')
 ```
 
-One reason is ambiguities and usability issues, the `Buffer` API is a good example: [Node.js Buffer API Changes][node-buffer-api].
+Factory methods help reduce ambiguity and usability issues. The `Buffer` API provides a good example of this: [Node.js Buffer API Changes][node-buffer-api].
 
-Another reason is, due to lack of function overloading, JavaScript class's constructor can only be implemented with a single C++ function, and it is error-prone to parse different kinds of parameters with C++ manually. While factory methods can be perfectly mapped to C++ functions, making the code much easier to read and maintain.
+Additionally, due to lack of function overloading, JavaScript class constructors can only be implemented with a single C++ function and are error-prone when parsing different kinds of parameters with C++. Conversely, factory methods can be perfectly mapped to C++ functions, thereby making code much easier to read and maintain.
 
-### Instance Event
+### Instance Events
 
 If the class generates events, it should inherit from `EventEmitter` and use its interface for emitting events.
 
-### Instance Property
+### Instance Properties
 
-If an API of the class returns _non-assignable_ `Object`, and the returned objects always strictly equal each other, the API should be implemented as property.
+If an API of the class returns a _non-assignable_ `Object`, and the returned objects always strictly equal each other, the API should be implemented as property.
 
 For example:
 
@@ -105,7 +105,7 @@ win.bounds.x = 42
 win.browserViews.push(new BrowserView())
 ```
 
-### Instance Method
+### Instance Methods
 
 If an API accepts options, or may accept option in future, it should be implemented as method.
 
@@ -146,7 +146,7 @@ There is no requirement on whether to use method or property. _(This chapter sho
 
 ## Asynchronous APIs
 
-If an API returns _one_ result asynchronously for each call, it should use `Promise`.
+If an API returns _one_ result asynchronously for each call, it should be implemented with `Promise`.
 
 For example:
 
@@ -155,7 +155,7 @@ const win = new BrowserWindow(options)
 const result = await win.webContents.executeJavaScript('void 0')
 ```
 
-For subscription-style API that returns results for multiple times, it should still use callbacks.
+Subscription-style APIs that returns results multiple times should still be implemented with callbacks.
 
 ```javascript
 // Should still use callback if results are returned for multiple times.
