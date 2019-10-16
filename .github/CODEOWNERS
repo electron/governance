@@ -3,9 +3,9 @@
 /policy/ @electron/wg-admin
 
 # Working Group Directories
-/wg-docs-tools/ @electron/wg-docs-tools
+/wg-api/ @electron/wg-api
 /wg-community-safety/ @electron/wg-community-safety
+/wg-ecosystem/ @electron/wg-ecosystem
 /wg-releases/ @electron/wg-releases
 /wg-upgrades/ @electron/wg-upgrades
-/wg-website/ @electron/wg-website
 /wg-security/ @electron/wg-security
