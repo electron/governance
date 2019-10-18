@@ -55,9 +55,9 @@
 | Week 1 | 2019-10-28 | 8.0.0-beta.x | |
 | Week 2 | 2019-11-04 | 8.0.0-beta.x | |
 | Week 3 | 2019-11-11 | 8.0.0-beta.x | |
-| Week 3 | 2019-11-13 | Last day for accepting semver-minor BPs | Week 3 Releases WG meeting |
+| Week 3 | 2019-11-13 | Last day for accepting semver-minor BPs | Vote during Releases WG meeting |
 | Week 4 | 2019-11-18 | 8.0.0-beta.x | |
-| Week 5 | 2019-11-25 | 8.0.0-beta.x | US Holiday 🦃 |
+| Week 5 | 2019-11-25 | 8.0.0-beta.x | US Holiday 🦃 (2019-11-28) |
 | Week 6 | 2019-12-02 | 8.0.0-beta.x | |
 | Week 7 | 2019-12-09 | 8.0.0-beta.x | Halfway point. Node Interactive & OJSF Summit |
 | Week 8 | 2019-12-16 | 8.0.0-beta.x | |
