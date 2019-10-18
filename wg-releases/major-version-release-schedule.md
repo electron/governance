@@ -42,7 +42,7 @@
 | Week 9 | 2019-10-04 | Last day for AFP 7.0 bug reports | |
 | Week 10 | 2019-10-07 | 7.0.0-beta.10 | |
 | Week 10 | 2019-10-10 | Target: Last day for 7-0-x PRs | |
-| Week 11 | 2019-10-11 | 7.0.0-beta.11 | Action: Release final beta |
+| Week 10 | 2019-10-11 | 7.0.0-beta.11 | Action: Release final beta |
 | Week 11 | 2019-10-18 | Stable prep items due | Stable Prep Week 🚧 |
 | Week 12 | 2019-10-21 | Kick off 7.0.0 release | Action Item |
 | Week 12 | 2019-10-22 | 7.0.0 | Stable Deadline ✨ |
@@ -51,5 +51,32 @@
 | Week # | Date  | Event | Comments |
 | ------ | ----- | ----- | -------- |
 | Week 0 | 2019-10-23 | Kick off 8.0.0-beta.1 | Action Item |
-| Week 0 | 2019-10-24 | 8.0.0-beta.1 | beta.1 deadline |
-| Week 1 | 2019-10-28 | | |
+| Week 0 | 2019-10-24 | 8.0.0-beta.1 | beta.1 Deadline |
+| Week 1 | 2019-10-28 | 8.0.0-beta.x | |
+| Week 2 | 2019-11-04 | 8.0.0-beta.x | |
+| Week 3 | 2019-11-11 | 8.0.0-beta.x | |
+| Week 3 | 2019-11-13 | Last day for accepting semver-minor BPs | Week 3 Releases WG meeting |
+| Week 4 | 2019-11-18 | 8.0.0-beta.x | |
+| Week 5 | 2019-11-25 | 8.0.0-beta.x | US Holiday 🦃 |
+| Week 6 | 2019-12-02 | 8.0.0-beta.x | |
+| Week 7 | 2019-12-09 | 8.0.0-beta.x | Halfway point. Node Interactive & OJSF Summit |
+| Week 8 | 2019-12-16 | 8.0.0-beta.x | |
+| Week 9 | 2019-12-23 |  | Winter Break ☃️ |
+| Week 10 | 2019-12-30 |  | Winter Break ☃️ |
+| Week 11 | 2020-01-06 | 8.0.0-beta.x | |
+| Week 12 | 2020-01-13 | 8.0.0-beta.x | |
+| Week 12 | 2020-01-17 | Last day for AFP 8.0 bug reports | |
+| Week 13 | 2020-01-20 | 8.0.0-beta.x | |
+| Week 13 | 2020-01-23 | Target: Last day for 8-x-y PRs | |
+| Week 13 | 2020-01-24 | 8.0.0-beta.x | Action: Release final beta |
+| Week 14 | 2020-01-27 | Quiet Period Starts | Stable Prep Week |
+| Week 14 | 2020-01-31 | Stable Prep Items Due | Stable Prep Week |
+| Week 15 | 2020-02-03 | Kick off 8.0.0 releaese | Action Item |
+| Week 15 | 2020-02-04 | 8.0.0 | Stable Deadline ✨ |
+
+# 9.0.0
+| Week # | Date  | Event | Comments |
+| ------ | ----- | ----- | -------- |
+| Week 0 | 2020-02-05 | Kick off 9.0.0-beta.1 | Action Item |
+| Week 0 | 2020-02-06 | 9.0.0-beta.1 | beta.1 release deadline |
+| Week 1 | 2020-02-10 | | |
