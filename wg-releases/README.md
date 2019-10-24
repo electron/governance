@@ -58,4 +58,4 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
 ## Feature Backport Requests for Major Versions in Beta
-With our 12-week major release cadence, we are _not_ considering feature backport requests after Week 3 of each beta cycle. Backport requests after Week 3 will only be considered if there is a very good reason. For backport requests please submit the link to the PR and reason for backport to the Releases WG agenda for consideration.
+With our 12-week major release cadence, we are _not_ considering feature backport requests after the Releases WG meeting of Week 3 of each beta cycle. Backport requests after Week 3 will only be considered if there is a very good reason. For backport requests please submit the link to the PR and reason for backport to the Releases WG agenda for consideration.
