@@ -67,7 +67,7 @@
 | Week 12 | 2020-01-13 | 8.0.0-beta.x | |
 | Week 12 | 2020-01-17 | Last day for AFP 8.0 bug reports | |
 | Week 13 | 2020-01-20 | 8.0.0-beta.x | |
-| Week 13 | 2020-01-23 | Target: Last day for 8-x-y PRs | |
+| Week 13 | 2020-01-23 | Target: Last day for 8-x-y PRs | Covalence Conf |
 | Week 13 | 2020-01-24 | 8.0.0-beta.x | Action: Release final beta |
 | Week 14 | 2020-01-27 | Quiet Period Starts | Stable Prep Week |
 | Week 14 | 2020-01-31 | Stable Prep Items Due | Stable Prep Week |
