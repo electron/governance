@@ -14,7 +14,7 @@ This process is not intended to require documents for all changes under the foll
 
 For API changes falling under the categories above and for which no consensus can be reached, a spec document should be written.
 
-This document has no minimum length and can thus be short be short, but should cover all basic information outlined in the [`api-spec-template`](spec-documents/api-spec-template.md).
+This document has no minimum length and can thus be short, but should cover all basic information outlined in the [`api-spec-template`](spec-documents/api-spec-template.md).
 
 This document will be able to provide rationale for the choice as well as preserve considerations and allow the WG to more easily ratify a specific approach.
 
