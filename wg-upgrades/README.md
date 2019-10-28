@@ -13,6 +13,7 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Apthorp [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | PT (San Francisco) |
+| <img src="https://github.com/loc.png" width=100 alt="@loc">  | Andy Locascio [@loc](https://github.com/loc) | Member | PT (San Francisco) |
 
 ## Areas of Responsibility
 
