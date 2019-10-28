@@ -1,0 +1,38 @@
+# Outreach WG
+
+Date: October 28, 2019
+
+## Attendees
+**Members**
+* @erickzhao
+* @felixrieseberg
+* @sofianguy
+* @MarshallOfSound
+* @bnb
+* @VerteDinde
+* @jdalton
+
+**Visitors**
+
+
+## Agenda
+- Contributor's Training: We're still missing space
+    - Tierney looking into msft space
+    - We're looking into using a different ticketing system
+
+- Job opportunities Slack channel
+    - Alternatively, we can put listings on a github issue instead
+    - What if we put job listings on the electronjs website?
+    - Put all job listings on a markdown file somewhere
+    - Action item: 
+        - @sofianguy will add a job listing page to the website
+        - @felix will take it to wg-ecosystem
+- Electron Twitter
+    - right now the account permissions is owned by github employees
+    - Should the account login be moved to Outreach WG?
+        - @MarshallOfSound Or move to electron's 1password account
+    - we can try using https://github.com/gr2m/twitter-together 
+
+## Followup
+
+None  
