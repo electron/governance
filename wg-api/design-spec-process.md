@@ -8,7 +8,7 @@ The API Working Group should function as a clear escalation path towards resolvi
 * An API deprecation and removal with no replacement
 * A change in the semantics of an existing API.
 
-This process is not intended to require documents for all changes under the following categories; if there is agreement amongst maintainers and no strong objections to a change than this process should not be invoked.
+This process is only intended to be used when there is disagreement amongst maintainers or there are strong objections to a change.
 
 ## What Is The Process?
 
