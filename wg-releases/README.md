@@ -15,9 +15,8 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
 
 ## Current Objective and Key Results
-**Objective:**
 
-Save expensive human time by offloading work to inexpensive computers.
+**Objective:** Save expensive human time by offloading work to inexpensive computers.
 
 **Key Results:**
 * Reduce time-to-first-green, and time-to-all-greens in development.
@@ -33,16 +32,25 @@ Save expensive human time by offloading work to inexpensive computers.
   * Listening and responding to feedback
 * Management of Heroku apps for [associated repositories](#associated-repositories)
 
+## Leadership Responsibilities
+
+In addition to responsibilities outlined in the [Charter](../charter/README.md), a Chair of the Releases Working Group should:
+
+* Run regular release audits for [supported branches](https://electronjs.org/docs/tutorial/support#supported-versions)
+* Run releases for supported branches passing the pre-set unreleased commit threshold.
+* Ensure relevant PRs are being backported to necessary branches, and that original PR openers are opening manual backports for those that trop is unable to handle itself.
+
 ## Associated Repositories
 
 See [repos.md](repos.md)
 
 ## Rules for Membership
 
+In order to join the Releases Working Group, an aspiring member must:
+
 1. Attend three consecutive meetings
 2. Request entry into Releases Working Group by asking the current Chair
-3. Entry request is voted on at a subsequent meeting, during a portion of the meeting which the requester shall not attend
-4. Record outcome
+3. Obtain consensus approval by vote of existing membership during a portion of a meeting which the requester shall not attend.
 
 ## WG Removal Policy
 
@@ -58,4 +66,5 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
 ## Feature Backport Requests for Major Versions in Beta
+
 With our 12-week major release cadence, we are _not_ considering feature backport requests after the Releases WG meeting of Week 3 of each beta cycle. Backport requests after Week 3 will only be considered if there is a very good reason. For backport requests please submit the link to the PR and reason for backport to the Releases WG agenda for consideration.
