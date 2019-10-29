@@ -37,7 +37,7 @@ Oversees all release branches, and tooling to support releases.
 In addition to responsibilities outlined in the [Charter](../charter/README.md), a Chair of the Releases Working Group should:
 
 * Run regular release audits for [supported branches](https://electronjs.org/docs/tutorial/support#supported-versions)
-* Run releases for supported branches passing the pre-set unreleased commit threshold.
+* Ensure releases are run for supported branches passing the pre-set unreleased commit threshold.
 * Ensure relevant PRs are being backported to necessary branches, and that original PR openers are opening manual backports for those that trop is unable to handle itself.
 
 ## Associated Repositories
