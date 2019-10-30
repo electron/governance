@@ -4,7 +4,7 @@
 
 ## What We Do Now
 
-Right now, we create a new branch for every new minor release line. For example, there current exist branches for `4-0-x`, `4-1-x`, and a of recently `4-2-x`.
+Right now, we create a new branch for every new minor release line. For example, there current exist branches for `4-0-x`, `4-1-x`, and as of recently, `4-2-x`.
 
 Every new minor release branch supersedes the previous one, but the branches remain, both in our branching structure and in Sudowoodo.
 
