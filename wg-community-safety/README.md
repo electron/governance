@@ -27,6 +27,23 @@ Oversees removal/bans from community.
 
 All repositories under electron org.
 
+## Joining the Community and Safety WG
+
+In order to become a formal member of the WG, a prospective member must:
+
+1. Be actively contributing to the work of the WG.
+1. Attend 3 consecutive meetings.
+1. Be approved by a 2/3rds majority of current WG members (rounded up).
+    1. The prospective member shall leave the meeting during the deliberation and vote.
+    1. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.
+    1. Members not able to attend the meeting at which the vote occurs may submit their vote to the Chair prior to the meeting.
+
+If you're interested in joining the Community and Safety Working Group, reach out to an [existing member](#Membership) and ask to be invited to the regular meeting and as a guest to the #wg-community-safety channel in Slack.
+
+### Actively contributing
+
+"Actively contributing" doesn't necessarily mean writing code. It does mean that you should be in regular communication with the Community and Safety WG (including attending meetings), and it does mean that you should be participating in Community and Safety discussions. If you're not sure whether the work you're doing counts as "materially contributing", reach out to a [member](#Membership) and ask. 🙂
+
 ## Meeting Schedule
 
 * **Sync Meeting** 60 min every other Thursday at [15:00 UTC](https://duckduckgo.com/?q=15%3A00+UTC&ia=answer)
