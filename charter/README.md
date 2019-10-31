@@ -104,13 +104,13 @@ Chairs have responsibility to all participants in transparently reporting the gr
 
 Chairs also have the following regular duties within their Working Groups:
 * Collect agenda items prior to each meeting to ensure a smooth and focused Working Group meeting.
-* Ensure that the Working Group is notified of the agenda for the meeting in a timely manner advance of the meeting, and that if there is no agenda, the meeting is altered or cancelled accordingly.
+* Ensure that the Working Group is notified of the agenda for the meeting in a timely manner advance of the meeting.
 * Attend and lead each Working Group meeting.
     * If the Chair is unable to attend a given meeting, they should delegate a pre-appointed person to lead the meeting in their stead.
 * Ensure meeting notes are uploaded to the `governance` repo in the Working Group's respective sub-folder following each meeting.
 * Check into persistent issues present on a given Working Group's repositories of responsibility (ex. bot failures)
 
-Each Working Group may also establish more specific Chair responsibilities within their domains.
+In addition to these reponsibilities, a Chair may have additional responsibilities specific to their Working Group.
 
 ### Reaching Agreement
 
