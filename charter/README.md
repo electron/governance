@@ -109,6 +109,7 @@ Chairs also have the following regular duties within their Working Groups:
     * If the Chair is unable to attend a given meeting, they should delegate a pre-appointed person to lead the meeting in their stead.
 * Ensure meeting notes are uploaded to the `governance` repo in the Working Group's respective sub-folder following each meeting.
 * Check into persistent issues present on a given Working Group's repositories of responsibility (ex. bot failures)
+* Ensure that the WG roster list is an accurate reflection of current member activity.
 
 In addition to these reponsibilities, a Chair may have additional responsibilities specific to their Working Group.
 
