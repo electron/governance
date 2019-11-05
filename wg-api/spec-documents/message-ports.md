@@ -142,7 +142,8 @@ function beginWork() {
 ```
 
 *worker_renderer.js*
-```javascript==ipcRenderer.on('register', (e, {port}) => {
+```javascript=
+ipcRenderer.on('register', (e, {port}) => {
   port.onmessage = handleOperation(port)
 })
 
