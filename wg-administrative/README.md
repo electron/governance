@@ -32,5 +32,3 @@ The process for electing this person has not yet been defined.
 ## Meeting Schedule
 
 Next sync meeting Nov 7, 2019 8 AM PST
-
-Meeting notes may be viewed in [meeting-notes](meeting-notes).
