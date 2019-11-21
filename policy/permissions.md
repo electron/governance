@@ -4,6 +4,10 @@
 
 ## GitHub
 
+### Controlling Access
+
+GitHub repository access and permissions are controlled via the yaml file in [electron/.permissions](https://github.com/electron/.permissions).  You can see the current state and PR in an update over there.
+
 ### Organization Owners
 
 Maintainers are granted ownership based on a need-focused approval process.
