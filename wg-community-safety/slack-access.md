@@ -8,6 +8,6 @@ All members of the Administrative Working Group shall be granted the "Owner" rol
 
 All members of the Community & Safety Working Group shall be granted the "Admin" role in Slack.
 
-## Multi-Channel Guests
+## Multi-Channel / Single-Channel Guests
 
-> The process for a collaborator to become a multi-channel guest will be determined at a future C&S WG meeting.
+All Multi-Channel / Single-Channel Guests must fill out the [ElectronHQ Slack Maintainer Group form](https://electronjs.org/maintainers/join) before gaining Slack access.  Once this form is filled out the Community & Safety Working Group will review the request.  If the request is approved, the guest will be added to the applicable channel(s).
