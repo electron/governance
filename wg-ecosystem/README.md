@@ -22,8 +22,8 @@ Oversees the projects that make Electron app development easier.
 As a newcomer or experienced app developer, you can use Electron’s tooling and documentation to build your app well.
 
 **Key Results:**
-* Increase adoption of Electron-provided tooling.
-* Decrease percentage of documented poor-practices
+
+* Increase adoption of Electron-provided tooling
 * Increase views on https://electronjs.org/docs
 
 ## Areas of Responsibility
