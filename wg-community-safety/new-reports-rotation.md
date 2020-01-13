@@ -18,3 +18,17 @@ Rotation list for ensuring new reports get handled in a timely manner. Any repor
 | 2019-11-14 to 2019-11-27 | @sofianguy |
 | 2019-11-28 to 2019-12-11 | @lee-dohm |
 | 2019-12-12 to 2019-12-25 | @tonyganch |
+| 2019-12-26 to 2020-01-08 | @ckerr |
+| 2020-01-09 to 2020-01-22 | @codebytere |
+| 2020-01-23 to 2020-02-05 | @groundwater |
+| 2020-02-06 to 2020-02-19 | @jkleinsc |
+| 2020-02-20 to 2020-03-04 | @sofianguy |
+| 2020-03-05 to 2020-03-18 | @lee-dohm |
+| 2020-03-19 to 2020-04-01 | @tonyganch |
+| 2020-04-02 to 2020-04-15 | @ckerr |
+| 2020-04-16 to 2020-04-29 | @codebytere |
+| 2020-04-30 to 2020-05-13 | @groundwater |
+| 2020-05-14 to 2020-05-27 | @jkleinsc |
+| 2020-05-28 to 2020-06-10 | @sofianguy |
+| 2020-06-11 to 2020-06-24 | @lee-dohm |
+| 2020-06-25 to 2020-07-08 | @tonyganch |
