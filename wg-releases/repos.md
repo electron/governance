@@ -7,3 +7,4 @@
 - [`electron/cation`](https://github.com/electron/cation)
 - [`electron/clerk`](https://github.com/electron/clerk)
 - [`electron/unreleased`](https://github.com/electron/unreleased)
+- [`electron/chromedriver`](https://github.com/electron/chromedriver)
