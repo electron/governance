@@ -9,7 +9,6 @@ Oversees public API design based on project principles.
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | PT (San Francisco) |
 | <img src="https://github.com/loc.png" width=100 alt="@loc">  | Andy Locascio [@loc](https://github.com/loc) | Member | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/erikmellum.png" width=100 alt="@erikmellum">  | Erik Mellum [@erikmellum](https://github.com/erikmellum) | Member | PT (Chico) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Apthorp [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
