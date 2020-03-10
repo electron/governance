@@ -94,7 +94,7 @@ win.webContents.session === win.webContents.session
 win.webContents.debugger === win.webContents.debugger
 ```
 
-If an API of the class returns [non-primitives][no-primitive], and the returned values do not always strictly equal each other, it should _not_ be implemented as property.
+If an API of the class returns [non-primitives][primitive], and the returned values do not always strictly equal each other, it should _not_ be implemented as property.
 
 For example:
 
@@ -107,7 +107,7 @@ win.browserViews.push(new BrowserView())
 
 ### Instance Methods
 
-If an API accepts options, or may accept option in future, it should be implemented as method.
+If an API of the class accepts options, or may accept option in future, it should be implemented as method.
 
 For example:
 
@@ -116,9 +116,11 @@ const win = new BrowserWindow(options)
 win.setBounds(bounds, animate)
 ```
 
-### Method vs Property (Option A)
+### Getters and Setters
 
-Unless for good reason, APIs that set/get values should use methods instead of properties.
+If the APIs of the class are used to set/get values, they should be implemented as methods.
+
+If the type of the value being set/get is [primitive][primitive], it should be considered also adding an property interface for the value.
 
 For example:
 
@@ -126,23 +128,10 @@ For example:
 const win = new BrowserWindow(options)
 win.setTitle('str')
 console.log(win.getTitle())
-```
-
-### Method vs Property (Option B)
-
-Unless for good reason, APIs that set/get values should use properties instead of methods.
-
-For example:
-
-```javascript
-const win = new BrowserWindow(options)
+// Property also works.
 win.title = 'str'
 console.log(win.title)
 ```
-
-### Method vs Property (Option C)
-
-There is no requirement on whether to use method or property. _(This chapter should be removed)_
 
 ## Asynchronous APIs
 
@@ -165,4 +154,4 @@ win.hookWindowMessage('MESSAGE', (args...) => {
 ```
 
 [node-buffer-api]: https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97
-[no-primitive]: https://developer.mozilla.org/en-US/docs/Glossary/Primitive
+[primitive]: https://developer.mozilla.org/en-US/docs/Glossary/Primitive
