@@ -120,7 +120,7 @@ win.setBounds(bounds, animate)
 
 If the APIs of the class are used to set/get values, they should be implemented as methods.
 
-If the type of the value being set/get is [primitive][primitive], it should be considered also adding an property interface for the value.
+If the type of the value being set/get is [primitive][primitive], it should be also added as a property interface for the value.
 
 For example:
 
