@@ -14,13 +14,12 @@ Oversees stability, quality, and testing criteria within Electron.
 | <img src="https://github.com/SlackedMarcel.png" width=100 alt="@SlackedMarcel"> | Marcel Munro [@SlackedMarcel](https://github.com/SlackedMarcel) | Member | PT (San Francisco) |
 | <img src="https://github.com/andreacrawford.png" width=100 alt="@andreacrawford"> | Andrea Crawford [@andreacrawford](https://github.com/andreacrawford) | Member | PT (Spokane) |
 
-
-
 ## Parent Group
 
 * Releases WG
 
 ## Current Objective and Key Results
+
 **Objective:**
 
 Electron stable releases should be of high quality and easy for apps to upgrade.
@@ -39,6 +38,20 @@ Electron stable releases should be of high quality and easy for apps to upgrade.
 
 ## Meeting Schedule
 
-* **Sync Meeting** Every 4 weeks, Wed 9:30am-PST (https://bit.ly/2n31SNx)
+* **Sync Meeting** Every 4 weeks, Wed 9:30am-PST
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
+
+## Joining the QA Working Group
+
+In order to become a formal member of the QA Working Group, a prospective member must:
+
+1. Be actively contributing to the work of the WG
+2. Contribute to accomplishing OKRs and initiatives
+3. Attend monthly QA WG meeting
+
+If you are interested in joining the QA Working Group, reach out to an [existing member](#membership) and ask to be invited to the monthly meeting and as a guest to the #wg-qa channel in Slack.
+
+### Actively Contributing
+
+"Actively contributing" does not necessarily mean writing code. It does mean that you are in regular communication with the QA Working Group (including attending monthly sync meetings), and it does mean that you are participating in QA Working Group discussions. If you are not sure whether the work you are doing counts as "materially contributing", reach out to a [member](#membership) and ask. 🙂
