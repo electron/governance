@@ -53,4 +53,5 @@ In order to become a formal member of the QA Working Group, a prospective member
 If you are interested in joining the QA Working Group, reach out to an [existing member](#membership) and ask to be invited to the monthly meeting and as a guest to the #wg-qa channel in Slack.
 
 ### Actively Contributing
+
 "Actively contributing" does not necessarily mean writing code. It does mean that you are in regular communication with the QA Working Group (including attending monthly sync meetings), and it does mean that you are participating in QA Working Group discussions. If you are not sure whether the work you are doing counts as "materially contributing", reach out to a [member](#membership) and ask. 🙂
