@@ -66,6 +66,12 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
-## Feature Backport Requests for Major Versions in Beta
+## Feature Backport Requests
+Backporting non-breaking features to supported versions requires the approval of the Releases Working Group.  Any feature PR that is targeting branch(es) other than master should be labeled with a `pending-vote 🗳` label.  The approval process will work as follows:
+1. By requesting backport of a feature, the submitter of the PR is assuming responsibility for this feature on the requested branches.  If it causes breakage, you will be responsible for fixing the breakage. 
+2. All issues labeled as `pending-vote 🗳` will be reviewed during the Releases Working Group weekly meeting.  Alternatively, the Releases Working Group may vote for issues asynchronously.
+3. Backport requests require that at least 3 working group members approve the request.  If there is not unanimous approval of the feature, a majority of the Working Group will be required to approve the request.
+4. Once a backport request has been approved the PR will be labeled with the approved branches (eg `bp-9-x-y-approved`).
+5. If a backported feature breaks a release or causes instability to the release, it will be immediately reverted and it will be the submitter's responsiblity to fix the feature before it will be allowed back into the release.
 
-With our 12-week major release cadence, we are _not_ considering feature backport requests after the Releases WG meeting of Week 3 of each beta cycle. Backport requests after Week 3 will only be considered if there is a very good reason. For backport requests please submit the link to the PR and reason for backport to the Releases WG agenda for consideration.
+Please note that during our quiet period during our [Final Beta Release](https://github.com/electron/governance/blob/master/wg-releases/major-release-process.md#final-beta-release), we will not accept feature backports to the beta release.
