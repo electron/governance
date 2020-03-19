@@ -6,9 +6,9 @@ Oversees all release branches, and tooling to support releases.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | **Chair** | ET (Harrisburg) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | PT (San Francisco) |
+| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | PT (Vancouver) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
