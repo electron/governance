@@ -1,4 +1,4 @@
-# Print Functionality Synchronization
+# Print Options Consistency
 
 ## Summary
 
