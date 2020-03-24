@@ -43,4 +43,4 @@ will become
 
 ## Rollout Plan
 
-I would like for this change to be backported to Electron v9.
+I would like for this change to be rolled out with Electron v10 initially. Backwards compatibility will be ensured for two major versions, so the breaking changes associated with this change will affect consumers beginning with Electron v12.
