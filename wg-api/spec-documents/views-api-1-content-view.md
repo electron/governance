@@ -64,6 +64,11 @@ The `view` is an instance of `View` class, with this spec there will be 2 types
 of `View`: `WebContentsView` and `ImageView`, and they inherit from the `View`
 class.
 
+### `TopLevelWindow.getContentView()`
+
+Returns the content view of the window. For `BrowserWindow` it would be a
+`WebContentsView`.
+
 ### `View`
 
 The base class for native UI elements. In following specs I will add ability to
@@ -80,20 +85,14 @@ display GIF animations in future.
 
 A native UI element that displays the content of `WebContents`.
 
-### `new WebContentsView(contents)`
+### `new WebContentsView(webPreferences)`
 
-Create an instance of `WebContentsView` class, the `contents` is an instance of
-`WebContents` class.
+Create an instance of `WebContentsView` class, the `webPreferences` is the same
+options that passed to `BrowserWindow`.
 
-### `webContents.create(webPreferences)`
+### `WebContentsView.webContents`
 
-Create an instance of `WebContents`, the `webPreferences` is the same options
-that passed to `BrowserWindow`.
-
-This API is a method of the `webContents` module, we use factory method because
-there are already a few methods in the `webContents` module so it is consistent,
-there are also several types and constructors of `WebContents` class and we may
-want to leave some space for future changes.
+Returns the WebContents hosted by this view.
 
 ## Rollout Plan
 
