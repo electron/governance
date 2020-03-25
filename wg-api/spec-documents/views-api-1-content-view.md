@@ -31,10 +31,9 @@ app.once('ready', () => {
   imageView.setImage(__dirname + '/splash.png')
   win.setContentView(imageView)
 
-  const contents = webContents.create({})
-  const web = new WebContentsView(contents)
-  contents.once('did-finish-load', () => win.setContentView(web))
-  contents.loadURL('https://github.com/')
+  const web = new WebContentsView({})
+  web.webContents.once('did-finish-load', () => win.setContentView(web))
+  web.webContents.loadURL('https://github.com/')
 })
 
 app.on('window-all-closed', () => {
