@@ -85,17 +85,19 @@
 | Week 3 | 2020-02-26 | Last day for accepting semver-minor BPs | Vote during Releases WG meeting |
 | Week 4 | 2020-03-02 | 9.0.0-beta.x | |
 | Week 5 | 2020-03-09 | 9.0.0-beta.x | |
-| Week 6 | 2020-03-16 | 9.0.0-beta.x | Halfway point |
+| Week 6 | 2020-03-16 | 9.0.0-beta.x | |
 | Week 7 | 2020-03-23 | 9.0.0-beta.x | |
-| Week 8 | 2020-03-30 | 9.0.0-beta.x | |
+| Week 8 | 2020-03-30 | 9.0.0-beta.x | halfway point |
 | Week 9 | 2020-04-06 | 9.0.0-beta.x | |
-| Week 9 | 2020-04-10 | Last day for AFP bug reports | |
 | Week 10 | 2020-04-13 | 9.0.0-beta.x | |
-| Week 10 | 2020-04-16 | Target Last day for 9-x-y PRs | |
-| Week 10 | 2020-04-17 | 9.0.0-beta.x | Action: Release final beta |
-| Week 11 | 2020-04-20 | Quiet Period Starts | Stable Prep Week |
-| Week 12 | 2020-04-27 | Kick off 9.0.0 release | Action Item |
-| Week 12 | 2020-04-28 | 9.0.0 | Stable Deadline ✨ |
+| Week 11 | 2020-04-20 | 9.0.0-beta.x | |
+| Week 12 | 2020-04-27 | 9.0.0-beta.x | |
+| Week 13 | 2020-05-04 | 9.0.0-beta.x | |
+| Week 13 | 2020-05-07 | Target Last day for 9-x-y PRs | |
+| Week 13 | 2020-05-08 | 9.0.0-beta.x | Action: Release final beta |
+| Week 14 | 2020-05-11 | Quiet Period Starts | Stable Prep Week |
+| Week 15 | 2020-05-18 | | Action Item: Kick off 9.0.0 release |
+| Week 15 | 2020-05-19 | 9.0.0 | Stable Deadline ✨ |
 
 # 10.0.0
 | Week # | Date  | Event | Comments |
