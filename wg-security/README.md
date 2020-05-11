@@ -8,7 +8,6 @@ incidents, and oversees rollout of fixes.
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@MarshallOfSound">  | Samuel Attard [@MarshallOfSound](https://github.com/MarshallOfSound) | **Chair** | PST (Vancouver) |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | ? |
 | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (?) |
 | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PST (San Francisco) |
