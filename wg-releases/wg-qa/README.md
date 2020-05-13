@@ -21,16 +21,23 @@ Oversees stability, quality, and testing criteria within Electron.
 
 ## Current Objective and Key Results
 
-**Objective:**
+**Objective 1:**
 
-Electron stable releases should be of high quality and easy for apps to upgrade.
+Early detection of Electron issues
 
 **Key Results:**
-* Measure the average or cumulative delta between an electron stable release, and the AFP participants shipping that same stable release in their GA product.
-* Measure the average or cumulative delta between an electron stable release, and the AFP participants shipping that same stable release in their canary product.
-* Reduce the size of outstanding AFP-raised issues at the time of stable.
-* Reduce the number of _would-be blockers_ discovered _after_ a stable ship.
-* Add 4 new members and 1 new organisation/company.
+
+* Report alpha/beta electron issues on latest 2 release versions and beta version (as a team)
+* Collaborate on and deliver a list of api tests (via fiddle?) that can be automated
+
+**Objective 2:**
+
+Ease the pain of QA or QAless teams moving to Electron
+
+**Key Results:**
+
+* Document each current members QA structure and process
+* Build a list of tooling needs for accurate and fast Electron application testing
 
 ## Areas of Responsibility
 
