@@ -15,6 +15,8 @@ incidents, and oversees rollout of fixes.
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/ppontes.png" width=100 alt="@ppontes">  | Pedro Pontes [@ppontes](https://github.com/ppontes) | Member | CET (Prague) |
 | <img src="https://github.com/StevenEBarbaro.png" width=100 alt="@StevenEBarbaro">  | Steve Barbaro [@StevenEBarbaro](https://github.com/StevenEBarbaro) | Member | ? |
+| <img src="https://github.com/belenko.png" width=100 alt="@belenko">  | Andrey Belenko [@belenko](https://github.com/belenko) | Member | ? |
+
 
 ## Current Objective and Key Results
 **Objective:**
