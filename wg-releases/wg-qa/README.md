@@ -50,6 +50,11 @@ In order to become a formal member of the QA Working Group, a prospective member
 1. Be actively contributing to the work of the WG
 2. Contribute to accomplishing OKRs and initiatives
 3. Attend monthly QA WG meeting
+4. Request entry into QA Working Group by asking the current Chair
+5. Be approved by 2/3rds majority of current WG members (rounded up)
+    1. The prospective member shall leave the meeting during the deliberation and vote.
+    1. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.
+    1. Members not able to attend the meeting at which the vote occurs may submit their vote to the Chair prior to the meeting.
 
 If you are interested in joining the QA Working Group, reach out to an [existing member](#membership) and ask to be invited to the monthly meeting and as a guest to the #wg-qa channel in Slack.
 
