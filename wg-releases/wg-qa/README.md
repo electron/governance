@@ -14,6 +14,7 @@ Oversees stability, quality, and testing criteria within Electron.
 | <img src="https://github.com/SlackedMarcel.png" width=100 alt="@SlackedMarcel"> | Marcel Munro [@SlackedMarcel](https://github.com/SlackedMarcel) | Member | PT (San Francisco) |
 | <img src="https://github.com/andreacrawford.png" width=100 alt="@andreacrawford"> | Andrea Crawford [@andreacrawford](https://github.com/andreacrawford) | Member | PT (Spokane) |
 | <img src="https://github.com/katiamoklokova.png" width=100 alt="@katiamoklokova"> | Katia Moklokova [@katiamoklokova](https://github.com/katiamoklokova) | Member | PT (San Francisco) |
+| <img src="https://github.com/amclegg.png" width=100 alt="@amclegg"> | Anna Clegg [@amclegg](https://github.com/amclegg) | Member | PT (San Francisco) |
 
 ## Parent Group
 
