@@ -23,21 +23,21 @@ Oversees stability, quality, and testing criteria within Electron.
 
 **Objective 1:**
 
-Early detection of Electron issues
+Major version issues between new Electron versions and current apps are detected before releasing a new major version.
 
 **Key Results:**
 
-* Report alpha/beta electron issues on latest 2 release versions and beta version (as a team)
-* Collaborate on and deliver a list of api tests (via fiddle?) that can be automated
+* At least one app to integrate Sentinal
+* Audit current automated API tests and document results
 
 **Objective 2:**
 
-Ease the pain of QA or QAless teams moving to Electron
+Electron has the best QA documentation of any platform
 
 **Key Results:**
 
-* Document each current members QA structure and process
-* Build a list of tooling needs for accurate and fast Electron application testing
+* Document each app's QA structure and process
+* Publish on electronjs.org a list of tooling needs for accurate and fast Electron application testing
 
 ## Areas of Responsibility
 
