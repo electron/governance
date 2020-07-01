@@ -100,8 +100,17 @@
 | Week 15 | 2020-05-19 | 9.0.0 | Stable Deadline ✨ |
 
 # 10.0.0
-| Week # | Date  | Event | Comments |
-| ------ | ----- | ----- | -------- |
-| Week 0 | 2020-04-29 | Kick off 10.0.0-beta.1 | Action Item |
-| Week 0 | 2020-04-30 | 10.0.0-beta.1 | beta.1 release deadline |
-| Week 1 | 2020-05-04 | | |
+| Week # | Date  | Event |
+| ------ | ----- | ----- | 
+| Week 0 | 2020-05-20 | Action Item: Kick off 10.0.0-beta.1 |
+| Week 0 | 2020-05-21 | 10.0.0-beta.1 date |
+| Week 1 | 2020-05-25 | |
+| Week 7 | 2020-07-07 | Halfway Point |
+| Week 14 | 2020-08-24 | Action Item: Kick Off 10.0.0 Release |
+| Week 14 | 2020-08-25 | ✨ 10.0.0 Stable date ✨ |
+
+# 11.0.0
+| Week # | Date  | Event |
+| ------ | ----- | ----- | 
+| Week 0 | 2020-08-26 | Action Item: Kick off 11.0.0-beta.1 |
+| Week 0 | 2020-08-27 | 11.0.0-beta.1 date |
