@@ -45,7 +45,7 @@ There are also a series of `component` labels touching different subsystems of E
 
 If the version of Electron a bug is being reported if still a supported version per [current policy](https://www.electronjs.org/docs/tutorial/support)? If not, it is appropriate to mark as `blocked` here as well, and request that the bug be tested on a supported version before it can be triaged. A reply that may be appropriate here is:
 
-> The version of Electron you reported this on, [VERSION], has been superseded by newer releases -- the latest in that series is [NEWEST_VERSION]. In addition, there are newer branches that supersede that series. In order for us to be able to triage this issue, it must be reproducible on a a supported release line. If it cannot be reproduced in a supported line, this issue will be closed
+> The version of Electron you reported this on, [VERSION], has been superseded by newer releases -- the latest in that series is [NEWEST_VERSION]. In order for us to be able to triage this issue, it must be reproducible on a a supported release line. If it cannot be reproduced in a supported line, this issue will be closed
 
 > I'm setting the more-information-needed label for the above reasons. After you've responded, please @ me in a followup comment. 
 
@@ -62,3 +62,7 @@ Some reporters will provide a small snippet without context, and if you can, we 
 > I'm setting the more-information-needed label for the above reasons. After you've responded, please @ me in a followup comment.
 
 > Thanks in advance! Your help is appreciated.
+
+## Other Playbook Responses
+
+As situations arise, you may also consult the [issue playbook](./issue-playbook) for responses which are not covered here.
