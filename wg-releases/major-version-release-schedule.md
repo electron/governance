@@ -106,6 +106,7 @@
 | Week 0 | 2020-05-21 | 10.0.0-beta.1 date |
 | Week 1 | 2020-05-25 | |
 | Week 7 | 2020-07-07 | Halfway Point |
+| Week 13 | 2020-08-17 | Stable Prep Week |
 | Week 14 | 2020-08-24 | Action Item: Kick Off 10.0.0 Release |
 | Week 14 | 2020-08-25 | ✨ 10.0.0 Stable date ✨ |
 
