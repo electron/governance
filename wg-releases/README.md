@@ -32,6 +32,7 @@ Oversees all release branches, and tooling to support releases.
   * Planning beta cycles, timelines, etc.
   * Listening and responding to feedback
 * Management of Heroku apps for [associated repositories](#associated-repositories)
+* Triaging issues and organizing beta stabilization issues for discussion.
 
 ## Leadership Responsibilities
 
