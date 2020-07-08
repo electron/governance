@@ -21,16 +21,23 @@ Oversees stability, quality, and testing criteria within Electron.
 
 ## Current Objective and Key Results
 
-**Objective:**
+**Objective 1:**
 
-Electron stable releases should be of high quality and easy for apps to upgrade.
+Major version issues between new Electron versions and current apps are detected before releasing a new major version.
 
 **Key Results:**
-* Measure the average or cumulative delta between an electron stable release, and the AFP participants shipping that same stable release in their GA product.
-* Measure the average or cumulative delta between an electron stable release, and the AFP participants shipping that same stable release in their canary product.
-* Reduce the size of outstanding AFP-raised issues at the time of stable.
-* Reduce the number of _would-be blockers_ discovered _after_ a stable ship.
-* Add 4 new members and 1 new organisation/company.
+
+* At least one app to integrate Sentinal
+* Audit current automated API tests and document results
+
+**Objective 2:**
+
+Electron has the best QA documentation of any platform
+
+**Key Results:**
+
+* Document each app's QA structure and process
+* Publish on electronjs.org a list of tooling needs for accurate and fast Electron application testing
 
 ## Areas of Responsibility
 
