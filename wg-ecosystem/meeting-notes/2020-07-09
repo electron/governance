@@ -1,0 +1,37 @@
+# Ecosystem WG
+
+Thursday July 9, 2020 (9:00 AM - 10:00 AM PT)
+
+## Attendees
+
+* @erickzhao
+* @HashimotoYT
+* @malept
+
+## Agenda
+
+### Follow-up
+
+* @erickzhao or @felixrieseberg: Delete disabled apps in `electron/apps` script.
+    * https://github.com/electron/apps/pull/1464
+    * Script has been updated, need to make it a weekly cron job.
+
+### New Items
+
+* glotbot: Are translations still broken?
+    * Yes, glotbot is not making any new PRs still. Need to contact @zeke.
+* Google Season of Docs update
+* Launch in Fiddle has been fixed
+* [GitHub project](https://github.com/electron-userland/electron-forge/projects/2) added for tracking Electron Forge 6 stable
+    * [Forge issue 1726](https://github.com/electron-userland/electron-forge/issues/1726) needs investigating, Erick volunteered to look when he has time.
+  
+### Issue Tracker Triage
+* Open pull requests for the WG to review ([link](https://github.com/pulls?q=is%3Apr+team-review-requested%3Aelectron%2Fwg-ecosystem+archived%3Afalse+is%3Aopen+)) 
+* Open pull requests mentioning the WG in a comment ([link](https://github.com/pulls?q=is%3Apr+team%3Aelectron%2Fwg-ecosystem+archived%3Afalse+is%3Aopen))
+* Open issues on `electron/electron` specifically for documentation ([link](https://github.com/electron/electron/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22documentation+%3Anotebook%3A%22+))
+* Open pull requests on `electron/electron` specifically for documentation ([link](https://github.com/electron/electron/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aopen+%22docs%22+in%3Atitle))
+    * [#24374](https://github.com/electron/electron/pull/24374) - Adding Documentation for Open Recent Menu-item
+* Open issues in ecosystem repositories ([link](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+repo%3Aelectron%2Felectron-rebuild+repo%3Aelectron%2Felectron-packager+repo%3Aelectron%2Fasar+repo%3Aelectron%2Frcedit+repo%3Aelectron%2Fnode-rcedit+repo%3Aelectron%2Fwindows-installer+repo%3Aelectron%2Ffiddle+repo%3Aelectron%2Felectron-osx-sign+repo%3Aelectron%2Felectron-notarize+repo%3Aelectron%2Fget+sort%3Acreated-desc))
+    * [windows-installer#348](https://github.com/electron/windows-installer/issues/348) - It doesn't work with Electron latest version
+    * [rcedit#97](https://github.com/electron/rcedit/issues/97) - Publish rcedit.exe to Maven
+* Open pull requests in ecosystem repositories ([link](https://github.com/issues?q=is%3Aopen+is%3Apr+archived%3Afalse+repo%3Aelectron%2Felectron-rebuild+repo%3Aelectron%2Felectron-packager+repo%3Aelectron%2Fasar+repo%3Aelectron%2Frcedit+repo%3Aelectron%2Fnode-rcedit+repo%3Aelectron%2Fwindows-installer+repo%3Aelectron%2Ffiddle+repo%3Aelectron%2Felectron-osx-sign+repo%3Aelectron%2Felectron-notarize+repo%3Aelectron%2Fget+sort%3Acreated-desc))
