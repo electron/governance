@@ -29,7 +29,7 @@ Oversees public API design based on project principles.
 ## Meeting Schedule
 
 * Biweekly Rotating Times:
-  * 4 PM PT bi-weekly [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGdmdmxudG9vOXFianFmcHM3NDBiN2trMzhfMjAxOTEwMDhUMDAwMDAwWiBjYzM3dmx1c2w2Z3Y2dnVvbjhrZGNqYzc3a0Bn&tmsrc=cc37vlusl6gv6vuon8kdcjc77k%40group.calendar.google.com&scp=ALL)
+  * 4 PM PT bi-weekly [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=N21qcmpibWdiZTgwYmFkb2dwanNsY2Zmb3BfMjAyMDA4MjRUMjMwMDAwWiBlbGVjdHJvbmpzLm9yZ19zbm1qMW4xMmYyNnRqZ3UyZm11NmY0Nm8zOEBn&tmsrc=electronjs.org_snmj1n12f26tjgu2fmu6f46o38%40group.calendar.google.com&scp=ALL)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
