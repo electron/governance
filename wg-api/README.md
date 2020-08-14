@@ -29,8 +29,7 @@ Oversees public API design based on project principles.
 ## Meeting Schedule
 
 * Biweekly Rotating Times:
-  * 5 PM PT monthly [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGdmdmxudG9vOXFianFmcHM3NDBiN2trMzhfMjAxOTEwMDhUMDAwMDAwWiBjYzM3dmx1c2w2Z3Y2dnVvbjhrZGNqYzc3a0Bn&tmsrc=cc37vlusl6gv6vuon8kdcjc77k%40group.calendar.google.com&scp=ALL)
-  * 9 AM PT monthly + offset [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWdqdmZiZ2RoY3FxNDg5M3BlN2c1cDg0bnBfMjAxOTA5MjZUMTYzMDAwWiBjYzM3dmx1c2w2Z3Y2dnVvbjhrZGNqYzc3a0Bn&tmsrc=cc37vlusl6gv6vuon8kdcjc77k%40group.calendar.google.com&scp=ALL)
+  * 4 PM PT bi-weekly [calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=N21qcmpibWdiZTgwYmFkb2dwanNsY2Zmb3BfMjAyMDA4MjRUMjMwMDAwWiBlbGVjdHJvbmpzLm9yZ19zbm1qMW4xMmYyNnRqZ3UyZm11NmY0Nm8zOEBn&tmsrc=electronjs.org_snmj1n12f26tjgu2fmu6f46o38%40group.calendar.google.com&scp=ALL)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
@@ -50,7 +49,3 @@ If you're interested in joining the API Working Group, reach out to an [existing
 ### Actively contributing
 
 "Actively contributing" doesn't necessarily mean writing code. It does mean that you should be in regular communication with the API WG (including attending meetings), and it does mean that you should be materially contributing to the project in some way. If you're not sure whether the work you're doing counts as "materially contributing", reach out to a [member](#Membership) and ask. 🙂
-
-### Timezones
-
-The API WG currently meets at alternating times to accommodate the timezone constraints of the members.
