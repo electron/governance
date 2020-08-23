@@ -1,5 +1,13 @@
 # Major Version Release Schedule
 
+* [6.0.0 Schedule](#6.0.0)
+* [7.0.0 Schedule](#7.0.0)
+* [8.0.0 Schedule](#8.0.0)
+* [9.0.0 Schedule](#9.0.0)
+* [10.0.0 Schedule](#10.0.0)
+* [11.0.0 Schedule](#11.0.0)
+* [12.0.0 Schedule](#12.0.0)
+
 ## 6.0.0
 | Week # | Date  | Event | Comments |
 | ------ | ----- | ----- | -------- |
@@ -74,7 +82,7 @@
 | Week 15 | 2020-02-03 | Kick off 8.0.0 releaese | Action Item |
 | Week 15 | 2020-02-04 | 8.0.0 | Stable Deadline ✨ |
 
-# 9.0.0
+## 9.0.0
 | Week # | Date  | Event | Comments |
 | ------ | ----- | ----- | -------- |
 | Week 0 | 2020-02-05 | Kick off 9.0.0-beta.1 | Action Item |
@@ -99,7 +107,7 @@
 | Week 15 | 2020-05-18 | | Action Item: Kick off 9.0.0 release |
 | Week 15 | 2020-05-19 | 9.0.0 | Stable Deadline ✨ |
 
-# 10.0.0
+## 10.0.0
 | Week # | Date  | Event |
 | ------ | ----- | ----- | 
 | Week 0 | 2020-05-20 | Action Item: Kick off 10.0.0-beta.1 |
@@ -110,8 +118,21 @@
 | Week 14 | 2020-08-24 | Action Item: Kick Off 10.0.0 Release |
 | Week 14 | 2020-08-25 | ✨ 10.0.0 Stable date ✨ |
 
-# 11.0.0
+## 11.0.0
 | Week # | Date  | Event |
 | ------ | ----- | ----- | 
 | Week 0 | 2020-08-26 | Action Item: Kick off 11.0.0-beta.1 |
 | Week 0 | 2020-08-27 | 11.0.0-beta.1 date |
+| Week 1 | 2020-08-31 |  |
+| Week 6 | 2020-10-05 | Halfway Point |
+| Week 11 | 2020-11-09 | Stable Prep Week |
+| Week 12 | 2020-11-16 | Action Item: Kick off 11.0.0 Release |
+| Week 12 | 2020-11-17 | ✨ 11.0.0 Stable date ✨ |
+
+## 12.0.0
+| Week # | Date  | Event |
+| ------ | ----- | ----- | 
+| Week 0 | 2020-11-18 | Action Item: Kick off 12.0.0-beta.1 |
+| Week 0 | 2020-11-19 | 12.0.0-beta.1 date |
+| Week 1 | 2020-11-23 |  |
+| TBD  | TBD | TBD |
