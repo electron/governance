@@ -4,14 +4,13 @@
 
 **Temporary worker:** A person employed or otherwise contracted by an Administrator for a temporary and fixed duration. Their role must entail that they primarily work on the Electron framework and/or other responsibilities of the Working Group they wish to join.
 
-
 ## Working Group Membership
 
 Any temporary worker can can be nominated as an Observer by their Administrator for the Administrator's associated Working Group.
 
 People acting as Observers do not have voting rights in the Working Group.
 
-Once their contract concludes, they will lose their Observer status, but are welcome to request to join the Working Group as an independent contributor.
+Once an Observer is accepted into a Working Group, the duration of their contract shall be noted in their section of the Working Group's membership list. Once their contract concludes, they will lose their Observer status, but are welcome to request to join the Working Group as an independent contributor.
 
 ## Permissions
 
