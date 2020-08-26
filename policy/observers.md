@@ -4,7 +4,7 @@
 
 **Sponsor:** A Working Group in Electron Governance or a company represented in a Working Group wishing to introduce an Observer into their Working Group.
 
-**Temporary Collaborator:** A person employed or otherwise contracted by a Sponsor for a temporary and fixed duration. Their role must entail that they primarily work on the Electron framework and/or other responsibilities of the Working Group they wish to join.
+**Temporary Collaborator:** A person employed or otherwise contracted by a Sponsor for a temporary and fixed duration (e.g. intern, contractor). Their role must entail that they primarily work on the Electron framework and/or other responsibilities of the Working Group they wish to join.
 
 *For additional definitions, see the [Governance README](https://github.com/electron/governance#definitions).*
 
