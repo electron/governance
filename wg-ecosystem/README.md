@@ -6,13 +6,13 @@ Oversees the projects that make Electron app development easier.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Chair | PT (Vancouver) |
+| <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Chair | ??? |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
 | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/HashimotoYT.png" width=100 alt="@HashimotoYT">  | Vlad Hashimoto [@HashimotoYT](https://github.com/HashimotoYT) | Member | ??? |
 | <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
 
 
@@ -23,8 +23,13 @@ As a newcomer or experienced app developer, you can use Electron’s tooling and
 
 **Key Results:**
 
-* Increase adoption of Electron-provided tooling
-* Increase views on https://electronjs.org/docs
+* [Spectron](https://github.com/electron-userland/spectron) and [Devtron](https://github.com/electron-userland/devtron) are no longer in limbo
+* [Electron Forge](https://github.com/electron-userland/electron-forge) v6 to the finish line
+* Website has a better information architecture
+
+Initiatives:
+* Allow access multiple versions of the docs on the website
+* Identify pain points in user documentation
 
 ## Areas of Responsibility
 
