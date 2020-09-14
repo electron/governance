@@ -14,7 +14,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/zeke.png" width=100 alt="@zeke">  | Zeke Sikelianos [@zeke](https://github.com/zeke) | Member | PT |
-| <img src="https://github.com/bandantonio.png" width=100 alt="@bandantonio">  | Anton Zolotukhin [@bandantonio](https://github.com/bandantonio) | Member | EET (Kharkov) |
+| <img src="https://github.com/bandantonio.png" width=100 alt="@bandantonio">  | Anton Zolotukhin [@bandantonio](https://github.com/bandantonio) | Observer (until December 2020) | EET (Kharkov) |
 
 ## Current Objective and Key Results
 **Objective:**
