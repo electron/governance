@@ -63,16 +63,27 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 ## Meeting Schedule
 
-* **Sync Meeting** 45 min every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
-* **Major Release Cadence Meeting** 1 hour every Thursday at [00:00AM UTC](https://duckduckgo.com/?q=00%3A00+UTC&ia=answer)
+* **Sync Meeting** 1 hour every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
-## Feature Backport Requests
-Backporting non-breaking features to supported versions requires the approval of the Releases Working Group.  Any feature PR that is targeting branch(es) other than master should be labeled with a `pending-vote 🗳` label.  The approval process will work as follows:
-1. By requesting backport of a feature, the submitter of the PR is assuming responsibility for this feature on the requested branches.  If a backport PR causes any breakage, it may be removed if the PR submitter does not fix the breakage.
-2. All issues labeled as `pending-vote 🗳` will be reviewed during the Releases Working Group weekly meeting.  Alternatively, the Releases Working Group may vote for issues asynchronously for requests that need a quicker response.
-3. Backport requests require that at least 3 working group members from at least 2 different companies approve the request.  If the submitter of the request is a member of the Release working group they may be one of the 3 approvers.  If at least 3 working group members have approved the request and there are no objections from other members, the request will be immediately approved once 3 members have approved.  If there is not unanimous approval of the feature, a majority of the Working Group will be required to approve the request.  Due to the distributed nature of the Releases WG, a backport request that doesn't have consensus may take longer to be approved or rejected until all available members can weigh in.
-4. Once a backport request has been approved the PR will be labeled with the approved branches (eg `bp-9-x-y-approved`).
+## Current Objective and Key Results
 
-Please note that during our quiet period during our [Final Beta Release](https://github.com/electron/governance/blob/master/wg-releases/major-release-process.md#final-beta-release), we will not accept feature backports to the beta release.
+**Objective:**
+
+Reduce frustrations of major app consumers
+
+**Key Results:**
+
+* Lower the number of regressions experienced in major release lines.	
+* Reduce time to discovering regressions in major release lines.
+* Increase number of apps testing against the major release line in beta.
+* Improved quality and quantity of communication around release-related information.
+
+**Objective:**
+
+Save expensive humans time
+
+**Key Results:**
+
+* Make a person’s worth of time appear.
