@@ -28,11 +28,12 @@ Oversees all release branches, and tooling to support releases.
 
 * Releasing Electron according to schedule
 * Release timeline coordination
-  * When to cut new branches for major and minor release lines (e.g. `v3.0` -> `v3.1`)
+  * When to cut new branches for major release lines (e.g. `11-x-y`)
   * Planning beta cycles, timelines, etc.
   * Listening and responding to feedback
 * Management of Heroku apps for [associated repositories](#associated-repositories)
 * Triaging issues and organizing beta stabilization issues for discussion.
+* Determining which [features](feature-backport-requests.md) are allowed to be backported to release lines.
 
 ## Leadership Responsibilities
 
