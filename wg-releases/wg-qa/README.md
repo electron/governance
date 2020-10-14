@@ -6,11 +6,11 @@ Oversees stability, quality, and testing criteria within Electron.
 
 | Avatar| Name | Role | Time Zone |
 | ----------------- | ----------------- | ----------------- | ----------------- |
-| <img src="https://github.com/MariaBeliaeva.png" width=100 alt="@MariaBeliaeva">  | Maria Beliaeva [@MariaBeliaeva](https://github.com/MariaBeliaeva)| **Chair** | PT (San Francisco) |
+| <img src="https://github.com/SlackedMarcel.png" width=100 alt="@SlackedMarcel"> | Marcel Munro [@SlackedMarcel](https://github.com/SlackedMarcel) | **Chair** | PT (San Francisco) |
+| <img src="https://github.com/MariaBeliaeva.png" width=100 alt="@MariaBeliaeva">  | Maria Beliaeva [@MariaBeliaeva](https://github.com/MariaBeliaeva)| Member | PT (San Francisco) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 | <img src="https://github.com/cruzerld.png" width=100 alt="@cruzerld">  | David Cruz [@cruzerld](https://github.com/cruzerld) | Member | ET (New York City) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
-| <img src="https://github.com/SlackedMarcel.png" width=100 alt="@SlackedMarcel"> | Marcel Munro [@SlackedMarcel](https://github.com/SlackedMarcel) | Member | PT (San Francisco) |
 | <img src="https://github.com/andreacrawford.png" width=100 alt="@andreacrawford"> | Andrea Crawford [@andreacrawford](https://github.com/andreacrawford) | Member | PT (Spokane) |
 | <img src="https://github.com/katiamoklokova.png" width=100 alt="@katiamoklokova"> | Katia Moklokova [@katiamoklokova](https://github.com/katiamoklokova) | Member | PT (San Francisco) |
 | <img src="https://github.com/amclegg.png" width=100 alt="@amclegg"> | Anna Clegg [@amclegg](https://github.com/amclegg) | Member | PT (San Francisco) |
