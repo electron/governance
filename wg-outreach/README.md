@@ -17,12 +17,12 @@ Grows the Electron community
 ## Current Objective and Key Results
 **Objective:**
 
-Electron is easy for new people to approach and make meaningful contributions.
+Electron has a healthy community that supports app developers and the larger dev community.
 
-**Key Results:**
-* Reduce time needed to set up developer environment
-* Increase breadth of contributors across organizations
-* Increase the number of regular contributors (rolling 90-day active)
+**Initiatives:**
+* Electron Discord with 500 users and a documented moderation system
+* Post 1 technical blog post every other month (from maintainers or guest authors)
+* Amplify the work of the other working groups and get community feedback
 
 ## Membership Requirements
 
