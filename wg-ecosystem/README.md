@@ -9,7 +9,6 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/vhashimotoo.png" width=100 alt="@vhashimotoo">  | Vlad Hashimoto [@vhashimotoo](https://github.com/vhashimotoo) | Chair | CET (Germany, Frankfurt am Main) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
