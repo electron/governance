@@ -1,3 +1,12 @@
-The Electron team uses its issues for tracking feature requests and bug reports.
+---
+action: close
+---
 
-Please visit https://github.com/electron/electron#community for a list of resources that are better oriented for questions and help. Thank you!
+Thanks for reaching out!
+
+https://github.com/electron/electron/issues is used for tracking feature requests
+and bug reports, so you will probably find better luck with this question at one
+of the links at https://github.com/electron/electron#community -- in particular,
+be sure to give https://discord.com/invite/electron a try.
+
+Good luck! I hope this helps!
