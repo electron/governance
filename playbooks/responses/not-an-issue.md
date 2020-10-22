@@ -6,9 +6,6 @@ action:
 
 Thanks for reaching out!
 
-https://github.com/electron/electron/issues is used for tracking feature requests
-and bug reports, so you will probably find better luck with this question at one
-of the links at https://github.com/electron/electron#community -- in particular,
-be sure to give https://discord.com/invite/electron a try.
+The issues tracker is used for feature requests and bug reports, so you will probably have better luck with this question at one of the links at [the project's Community page](https://github.com/electron/electron#community) -- in particular, be sure to give [the Electron Discord server](https://discord.com/invite/electron) a try.
 
-Good luck! I hope this helps!
+I hope this helps!
