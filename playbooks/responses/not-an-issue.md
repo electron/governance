@@ -1,5 +1,7 @@
 ---
-action: close
+action:
+ - add 'discussion' label
+ - close issue
 ---
 
 Thanks for reaching out!
