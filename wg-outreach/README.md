@@ -6,7 +6,6 @@ Grows the Electron community
 | ------ | ---- | ---- | --------- |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | **Chair** | PT (Vancouver) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/cruzerld.png" width=100 alt="@cruzerld">  | David Cruz [@cruzerld](https://github.com/cruzerld) | Member | ET (New York City) |
@@ -28,7 +27,7 @@ Electron has a healthy community that supports app developers and the larger dev
 
 ### Becoming a member
 
-Anyone interested in supporting the Electron community is invited to consider joining this working group. Possible inductees need to be approved by a 2/3 majority vote of existing working group members. 
+Anyone interested in supporting the Electron community is invited to consider joining this working group. Possible inductees need to be approved by a 2/3 majority vote of existing working group members.
 
 ### Membership requirements
 
@@ -36,7 +35,7 @@ Being an active member of this working group requires that you actively particip
 
  * We expect members to regularly attend working group meetings
  * We expect members to actively devote time or other resources to outreach work on an ongoing basis
- 
+
 Examples for work include writing or improving onboarding documentation, meeting and communicating with companies building apps on top of Electron, organizing conferences or meetups, or answering developer questions on social media. Helping developers building apps with Electron and community members interested in contributing to Electron can take on countless forms.
 
 ## Areas of Responsibility
