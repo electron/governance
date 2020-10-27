@@ -1,9 +1,7 @@
-Thank you for taking the time to report this issue and helping to make Electron better.
+Thank you for reaching out!
 
-This issue has been marked for closing because this series of Electron has reached end-of-life and is no longer supported.
+The version of Electron reported in this issue has reached end-of-life and is [no longer supported](https://www.electronjs.org/docs/tutorial/support#supported-versions), so this issue will be closed.
 
-If you're still experiencing this issue in the latest version of Electron and would like this issue to remain open, please add a comment specifying the version you're testing with and any other information that a maintainer needs to know to reproduce the issue.
-
-I'm setting the `blocked/need-info` label for the above reasons.
+If you're still experiencing this issue on a [supported version](https://www.electronjs.org/releases/stable) of Electron, please file a new issue for that version of Electron.
 
 Thanks in advance! Your help is appreciated.
