@@ -1,4 +1,5 @@
 Thanks for reaching out!
 
-Because we treat our issues list as [the team's backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog), we close issues that are questions since they don't represent a task needing to be completed. For most questions about Electron there are a lot of options.
-Check out the [Electron community](https://github.com/electron/electron#community). There are also a bunch of helpful people at this [community forum](https://discuss.atom.io/c/electron) that should be willing to point you in the right direction.
+The issues tracker is used for feature requests and bug reports, so you will probably have better luck with this question at one of the links at [the project's Community page](https://www.electronjs.org/community) -- in particular, be sure to give [the Electron Discord server](https://discord.com/invite/electron) a try.
+
+I hope this helps!
