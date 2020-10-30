@@ -114,7 +114,7 @@ Having two separate methods of loading preload scripts is not ideal and should p
 
 #### Chromium extension scripts
 
-Chromium's extensions implementation of user scripts involves serializing properties into a shared memory region which then sends sends Mojo IPCs to the renderer process upon updating. This is implemented in [UserScriptLoader](https://source.chromium.org/chromium/chromium/src/+/master:extensions/browser/user_script_loader.cc).
+Chromium's extensions implementation of user scripts involves serializing properties into a shared memory region which then sends Mojo IPCs to the renderer process upon updating. This is implemented in [UserScriptLoader](https://source.chromium.org/chromium/chromium/src/+/master:extensions/browser/user_script_loader.cc).
 
 Whether this approach would merit application in Electron has yet to be fully evaluated.
 
