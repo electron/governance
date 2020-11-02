@@ -58,6 +58,12 @@ If you're interested in joining the Upgrades Working Group, reach out to an [exi
 
 This is not an exhaustive list of ways you could be involved in the Upgrades WG. If you're not sure whether the Upgrades-related work you're doing counts as "actively contributing", reach out to a [member](#Membership) and ask. 🙂
 
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the Upgrades WG confers notable permissions.
+
 ### Timezones
 
 The Upgrades WG currently meets only at 16:00 UTC because all current members are in timezones compatible with that meeting time. If you are unable to make that meeting time, let someone in the group know and we will switch to an alternating meeting schedule to accommodate all timezones.
