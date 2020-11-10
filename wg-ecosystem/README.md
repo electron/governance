@@ -120,7 +120,7 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ## Meeting Schedule
 
-**Sync Meeting** 30min every other Thursday @ [17:00 UTC](https://duckduckgo.com/?q=17%3A00+UTC&ia=answer)
+**Sync Meeting** 30min every other Thursday @ [18:00 UTC](https://duckduckgo.com/?q=18%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
