@@ -7,6 +7,7 @@
 * [10.0.0 Schedule](#10.0.0)
 * [11.0.0 Schedule](#11.0.0)
 * [12.0.0 Schedule](#12.0.0)
+* [13.0.0 Schedule](#13.0.0)
 
 ## 6.0.0
 | Week # | Date  | Event | Comments |
@@ -135,4 +136,17 @@
 | Week 0 | 2020-11-18 | Action Item: Kick off 12.0.0-beta.1 |
 | Week 0 | 2020-11-19 | 12.0.0-beta.1 date |
 | Week 1 | 2020-11-23 |  |
-| TBD  | TBD | TBD |
+| Week 5 | 2020-12-21 | Winter Break ☃️ |
+| Week 6 | 2020-12-28 | Winter Break ☃️ |
+| Week 7 | 2021-01-04 | Halfway Point |
+| Week 14 | 2021-02-22 | Stable Prep Week |
+| Week 15 | 2021-03-01 | Action Item: Kick off 12.0.0 Release |
+| Week 15 | 2021-03-02 | ✨ 12.0.0 Stable date ✨ |
+
+
+## 13.0.0
+| Week # | Date  | Event |
+| ------ | ----- | ----- |
+| Week 0 | 2021-03-03 | Action Item: Kick off 13.0.0-beta.1 |
+| Week 0 | 2021-03-04 | 13.0.0-beta.1 date |
+| TBD | TBD | TBD|
