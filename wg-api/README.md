@@ -8,13 +8,13 @@ Oversees public API design based on project principles.
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | **Chair** | ET (Harrisburg) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) |  Member | PT (San Francisco) |
-| <img src="https://github.com/loc.png" width=100 alt="@loc">  | Andy Locascio [@loc](https://github.com/loc) | Member | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Apthorp [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
-| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/itsananderson.png" width=100 alt="@itsananderson">  | Will Anderson [@itsananderson](https://github.com/itsananderson) | Member | PT (Seattle) |
+| <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
+| <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock">  | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (Charlottesville) |
 
 ## Areas of Responsibility
 
