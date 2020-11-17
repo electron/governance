@@ -47,6 +47,6 @@ Examples for work include writing or improving onboarding documentation, meeting
 - Electron meetup events
 
 ## Meeting Schedule
-- **Sync Meeting** 60 min meeting every other Monday @ [17:00 UTC](https://duckduckgo.com/?q=17%3A00+UTC&ia=answer)
+- **Sync Meeting** 60 min meeting every other Monday @ [18:00 UTC](https://duckduckgo.com/?q=18%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
