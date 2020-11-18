@@ -14,7 +14,7 @@ This documents the process for becoming a member of Electron Governance. Being a
 
 2. Update the Working Group README file to include the new member.
 
-3. An Electron GitHub owner needs to invite the new member to the Electron Org in GitHub. New member needs to accept this.
+3. An Electron GitHub owner invites the new member to the Electron Org in GitHub. New member needs to accept this to continue the process.
 
 4. Request a Google account through the "Request @electronjs.org" shortcut in #access-request Slack channel.
 
