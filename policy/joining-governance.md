@@ -22,7 +22,7 @@ This documents the process for becoming a member of Electron Governance. Being a
 
 6. Submit a pull request to change the `config.yaml` file in [.permissions repo](https://github.com/electron/.permissions/) add member's GitHub handle under the approved Working Group.
 
-7. A member of Community & Safety WG will add an approval review on the PR in .permissions repo.
+7. A member of Community & Safety WG approves the PR in .permissions repo.
 
 8. Merge .permissions PR. This final step will automatically add the new member to:
     * The WG's team on GitHub
