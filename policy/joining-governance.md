@@ -10,7 +10,7 @@ This documents the process for becoming a member of Electron Governance. Being a
 
 ## Steps
 
-1. Submit a the Workflow form for "New Governance Member" in #wg-community-safety channel.
+1. Submit the Workflow form for "New Governance Member" in #wg-community-safety channel.
 
 2. Update the Working Group README file to include the new member.
 
