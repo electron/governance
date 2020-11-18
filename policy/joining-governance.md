@@ -16,7 +16,7 @@ This documents the process for becoming a member of Electron Governance. Being a
 
 3. An Electron GitHub owner needs to invite the new member to the Electron Org in GitHub. New member needs to accept this.
 
-4. A Google account is requested through the "Request @electronjs.org" shortcut in #access-request Slack channel.
+4. Request a Google account through the "Request @electronjs.org" shortcut in #access-request Slack channel.
 
 5. A Google account is provided to the new member.
 
