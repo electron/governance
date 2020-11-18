@@ -16,12 +16,17 @@ All approved owners shall be listed below:
 
 | Name | GitHub Username | Date Granted |
 |------|-----------------|--------------|
+| Charles Kerr | @ckerr | 11-17-2020 |
+| Shelley Vohr | @codebytere | 11-17-2020 |
+| Jacob Groundwater | @groundwater | 11-17-2020 |
+| John Kleinschmidt | @jkleinsc | 11-17-2020 |
+| Samuel Attard | @MarshallOfSound | 11-17-2020 |
 
 Adding and removing people from this list requires good reasoning and a vote from the Administrative Working Group. If you wish to request a change to this list please follow the process outlined in the [Administrative Working Group Documentation](../wg-administrative/github-ownership-access.md).  If the request is approved a member of the Administrative Working Group shall make a pull request to this file to update the above list.
 
 ### Repository Administrators
 
-There is currently no direct-grant of "Admin" permissions for repositories.  If you need to perform a task that requires Admin permissions please mention the @github-owners Slack user-group and one of those users will perform the request if appropriate.
+There is currently no direct-grant of "Admin" permissions for repositories.  If you need to perform a task that requires Admin permissions please mention the @owners GitHub team when submitting your pull request to `.permissions`.
 
 ### Repository Write Access
 
@@ -74,7 +79,7 @@ Private channels are discouraged unless there is a clear need, e.g. for sensitiv
 
 ## Twitter
 
-The Twitter account is currently owned by GitHub and access is managed by them.  In the future we'd like for this account to be owned by the Outreach Working Group.
+The Twitter account is currently owned by the Outreach Working Group and access is managed by them.  If you'd like something tweeted head on over to #wg-outreach and ask them for help.
 
 ## NPM
 
