@@ -111,6 +111,14 @@ Credentials for the "electron-bot" user will be stored on the 1-Password, access
 
 Credentials for the "electron-cfa" user will be stored on the 1-Password, access to these credentials will be controlled by the Ecosystem Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Ecosystem Working Group needs the 2FA secret to approve releases.
 
+## GSuite
+
+All full members of governance will receive a GSuite account for the `@electronjs.org` domain.  This account is _required_ to sign in to the services we use including Slack, GitHub, Heroku, AWS, Grafana, etc.
+
+### Offboarding
+
+If a governance member leaves their GSuite account will immediately be disabled, 30 days later the account will be permanently deleted to save GSuite costs.  If during the 30 days you need to recover data from your account, please reach out to the Admin WG in Slack.
+
 ## Exceptions
 
 Exceptions to these rules may sometimes be necessary. When it's appropriate to make one-off exceptions rather than amending the rules, you must list it below along with the reasoning for the exception. Exceptions can only be granted by vote of the chairs of _all_ working groups.
