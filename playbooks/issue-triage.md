@@ -51,9 +51,9 @@ Keep in mind that this is not the 100% complete maintainer's guide to issues. Th
 1. Maintainer checks to ensure they adequately filled out the template. If not, close with the [request to fill out the template](responses/needs-template.md).
 1. If the issue has already been fixed, close with [the already fixed message](responses/already-fixed.md)
 1. If the issue is a duplicate, label with `duplicate` and close with [the duplicate notification](responses/duplicate-notification.md)
-1. If the issue is feedback for the maintainers, label with `feedback`, and close with [the feedback message](responses/feedback.md)
-1. If the issue is a question, label with `question` and close with [the deluge message](responses/deluge.md)
-1. If the issue is reported on an obsolete version of Electron, label with `blocked/need-info` and respond with the [obsolete-version response](responses/obsolete-version.md)
+1. If the issue is feedback for the maintainers, label with `feedback`, and close with the [the feedback message](responses/feedback.md)
+1. If the issue is not a bug or enhancement, label with `discussion` and close with the [not-an-issue message](responses/not-an-issue.md)
+1. If the issue is reported on an unsupported version of Electron, close the issue with the [end-of-life message](responses/end-of-life.md)
 1. If anything is unclear but the template is adequately filled out, post what questions you have and label with `blocked/need-info`
 1. If the issue would be time-consuming because it lacks a test -- e.g., the issue is ambiguous, or a new test is needed for the steps required to trigger the bug, or the reporter invites you to triage their production application, respond with [blocked-needs-repro response](responses/blocked-needs-repro.md) and add the `blocked/needs-repro` label.
 1. Maintainer attempts to reproduce the problem
