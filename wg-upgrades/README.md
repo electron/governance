@@ -7,8 +7,7 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | PT (San Francisco) |
-| <img src="https://github.com/alexeykuzmin.png" width=100 alt="@alexeykuzmin">  | Alexey Kuzmin [@alexeykuzmin](https://github.com/alexeykuzmin) | Member | CET (Prague) |
-| <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | ? |
+| <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | PT (Redmond) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@nornagon">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
