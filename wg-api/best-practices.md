@@ -1,10 +1,119 @@
-# Public API Best Practices
+# Electron API Design Guidelines
 
-This is a draft for best practices when designing public APIs.
+The following are a set of guidelines for building Electron APIs. This document is maintained by the [API Working Group](https://github.com/electron/governance/tree/master/wg-api).
 
-## Modules
+## Questions to ask for every API change
+These questions are intended to prompt reflection and bring up things that the API author may not have considered when designing the API.
 
-### Module Names
+### Does this API change alter any existing behavior? In what way?
+API changes which alter existing behavior can cause apps to break unexpectedly when they upgrade to a newer version of Electron. Even seemingly minor behavior changes can often have unintended consequences. If possible, changes to Electron’s APIs should not alter behavior of existing code.
+
+If the behavior must change to support the feature, the change should be listed in the breaking changes document at docs/breaking-changes.md. Additionally, consider whether the change can be introduced in a way which permits a deprecation cycle, for instance introducing the new API under a new name and deprecating the old name while keeping the behavior unchanged for apps using the API under the old name.
+
+### How will this API be extended in the future?
+What additional changes can you imagine being made to this API in the future? Are there any features that are not in the first version of a change you’re making that you would like to include in the future?
+
+Take some time to anticipate how the API might evolve, and design the API in such a way that reasonably-anticipated changes can be made in future without breaking backwards compatibility.
+
+One key technique for future-proofing APIs is to pass options to method as an object, rather than as positional arguments. This is both more readable and allows flexibility to accommodate future changes. In particular, removing arguments from a method which takes its options positionally is not possible without introducing backwards incompatible changes.
+
+```js
+// Bad:
+
+function whatever(a: string, b?: boolean) { /* ... */ }
+
+// Good:
+
+function whatever(opts: { a: string, b?: boolean }) { /* ... */ }
+```
+
+See https://w3ctag.github.io/design-principles/#prefer-dict-to-bool for more details.
+
+### What underlying Chromium or OS features does this API rely on?
+If the API you’re changing relies on underlying features provided by Chromium or by the operating system, how stable are those underlying features? How might those underlying features change in the future?
+
+Can we design this API to insulate users from such changes? i.e, if the underlying API changes, can we keep the API we expose to users unchanged—such that they can upgrade Electron without having to change their code?
+
+### Can this API be implemented on all the platforms that Electron supports?
+If this API interacts with the underlying platform (Windows, macOS or Linux), consider whether the API makes sense on all platforms. It’s OK for an API to be platform-specific, but if the underlying feature exists on more than one platform, the API should be designed in such a way that it can behave uniformly on all supported platforms if possible. If you haven’t already implemented the API on other platforms, research how the API could be implemented on other platforms and take care to ensure that the API design works for all of them.
+
+### Can this API be implemented as a native Node addon?
+It’s tempting to add functionality that you need to Electron, in order to avoid having to deal with compiling native modules. But not every feature belongs in the core of Electron. Consider whether the functionality you’re trying to achieve might be better off as a native Node addon.
+
+### Should this API be asynchronous?
+If the proposed API is synchronous, consider whether it would make sense for it to do any asynchronous work in the future. If so, should the API be asynchronous instead?
+
+It’s very difficult to change an API from being synchronous to being asynchronous—so consider from the outset whether it would make sense to define the API as asynchronous (i.e. returning a Promise), even if it doesn’t yet perform any asynchronous work.
+
+However: don’t make an API asynchronous unless there’s a good reason to. Asynchronous APIs are harder to use. See https://w3ctag.github.io/design-principles/#synchronous.
+
+## Style guide
+
+This guide is intended to steer Electron’s APIs towards consistency and ease of use. Often, there are many possible roughly-equivalent ways of implementing an API. This style guide is designed to help you choose between them.
+
+### Prefer functions to classes
+Electron’s API surface should be mostly “flat”, that is, composed of functions which do not reference `this`.
+
+Classes should be used only when there is a persistent underlying resource that must be managed, such as a socket, a window, or some other handle.
+
+### Prefer promises to callbacks
+If your code is asynchronous, it should return a Promise rather than taking a callback as a parameter.
+
+For example:
+
+```javascript
+const win = new BrowserWindow(options)
+const result = await win.webContents.executeJavaScript('void 0')
+```
+
+Subscription-style APIs that returns results multiple times should still be implemented with callbacks.
+
+```javascript
+// Use callback if results are provided multiple times.
+win.hookWindowMessage('MESSAGE', (args...) => {
+  // ...
+})
+```
+
+See https://w3ctag.github.io/design-principles/#promises.
+
+### Manage resource lifetimes automatically
+Users should not have to reason about when a resource should be destroyed. destroy() methods are an anti-pattern. Leave resource management up to V8’s garbage collector, and use `gin_helper::Pinnable` to keep resources alive when needed.
+
+### Preserve run-to-completion semantics
+Don’t modify data accessed via JavaScript APIs while a JavaScript event loop is running.
+
+See https://w3ctag.github.io/design-principles/#js-rtc for details.
+
+### Prefer dictionary parameters over primitive parameters
+API methods should generally use dictionary parameters instead of a series of optional primitive parameters.
+
+See https://w3ctag.github.io/design-principles/#prefer-dict-to-bool for details.
+
+### Make function parameters optional if possible
+If a parameter for an API function has a reasonable default value, make that parameter optional and specify the default value.
+
+Optional parameters should be named to make the default value obvious without being named negatively (see https://w3ctag.github.io/design-principles/#naming-optional-parameters).
+
+See https://w3ctag.github.io/design-principles/#optional-parameters for details.
+
+### Cancel asynchronous operations using AbortSignal
+If an asynchronous function can be cancelled, allow authors to pass in an AbortSignal as part of an options dictionary.
+
+See https://w3ctag.github.io/design-principles/#aborting.
+
+### Use strings for constants and enums
+If your API needs a constant, or a set of enumerated values, use string values.
+
+Strings are easier for developers to inspect, and in JavaScript engines there is no performance benefit from using integers instead of strings.
+
+If you need to express a state which is a combination of properties, which might be expressed as a bitmask in another language, use a dictionary object instead. This object can be passed around as easily as a single bitmask value.
+
+See https://w3ctag.github.io/design-principles/#string-constants.
+
+## Classes
+
+### Use a class's name as the module name
 
 If a module exports only one class, the module's name should be the class's name.
 
@@ -23,9 +132,7 @@ const { nativeImage } = require('electron')
 nativeImage.createEmpty()
 ```
 
-## Classes
-
-### Creating Instances
+### Use a constructor if there's an inheritance relationship
 
 There are 2 styles for creating instances of classes:
 
@@ -77,11 +184,11 @@ Factory methods help reduce ambiguity and usability issues. The `Buffer` API pro
 
 Additionally, due to lack of function overloading, JavaScript class constructors can only be implemented with a single C++ function and are error-prone when parsing different kinds of parameters with C++. Conversely, factory methods can be perfectly mapped to C++ functions, thereby making code much easier to read and maintain.
 
-### Instance Events
+### Use `EventEmitter` to emit events
 
 If the class generates events, it should inherit from `EventEmitter` and use its interface for emitting events.
 
-### Instance Properties
+### Use instance properties for non-assignable objects
 
 If an API of the class returns a _non-assignable_ `Object`, and the returned objects always strictly equal each other, the API should be implemented as property.
 
@@ -105,9 +212,9 @@ win.bounds.x = 42
 win.browserViews.push(new BrowserView())
 ```
 
-### Instance Methods
+### Use methods instead of properties when options are needed
 
-If an API of the class accepts options, or may accept option in future, it should be implemented as method.
+If an API of the class accepts options, or may accept option in future, it should be implemented as method rather than a property.
 
 For example:
 
@@ -116,7 +223,7 @@ const win = new BrowserWindow(options)
 win.setBounds(bounds, animate)
 ```
 
-### Getters and Setters
+### Use getters and setters, as well as properties
 
 If the APIs of the class are used to set/get values, they should be implemented as methods.
 
@@ -131,26 +238,6 @@ console.log(win.getTitle())
 // Property also works.
 win.title = 'str'
 console.log(win.title)
-```
-
-## Asynchronous APIs
-
-If an API returns _one_ result asynchronously for each call, it should be implemented with `Promise`.
-
-For example:
-
-```javascript
-const win = new BrowserWindow(options)
-const result = await win.webContents.executeJavaScript('void 0')
-```
-
-Subscription-style APIs that returns results multiple times should still be implemented with callbacks.
-
-```javascript
-// Should still use callback if results are returned for multiple times.
-win.hookWindowMessage('MESSAGE', (args...) => {
-  // ...
-})
 ```
 
 [node-buffer-api]: https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97
