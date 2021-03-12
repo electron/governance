@@ -6,7 +6,7 @@ Would it be possible for you to make a standalone testcase with only the code ne
 
 Stand-alone test cases make fixing issues go more smoothly: it ensure everyone's looking at the same issue, it removes all unnecessary variables from the equation, and it can also provide the basis for automated regression tests.
 
-I'm adding the `blocked/needs-repro` label for this reason. After you make a test case, please link to it in a followup comment.
+I'm adding the `blocked/need-repro` label for this reason. After you make a test case, please link to it in a followup comment.
 
 Thanks in advance! Your help is appreciated.
 
@@ -22,7 +22,7 @@ Would it be possible for you to make a standalone testcase with only the code ne
 
 Stand-alone test cases make fixing issues go more smoothly: it ensure everyone's looking at the same issue, it removes all unnecessary variables from the equation, and it can also provide the basis for automated regression tests.
 
-I'm adding the `blocked/needs-repro` label for this reason. After you make a test case, please link to it in a followup comment.
+I'm adding the `blocked/need-repro` label for this reason. After you make a test case, please link to it in a followup comment.
 
 Thanks in advance! Your help is appreciated.
 
