@@ -57,6 +57,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 | Releases       | [wg-releases](../wg-releases/)   | Coordinates new releases |
 | Security       | [wg-security](../wg-security/)   | Security review & response |
 | Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
+| API            | [wg-api](../wg-api/) | API design |
 
 ### Responsibilities
 
