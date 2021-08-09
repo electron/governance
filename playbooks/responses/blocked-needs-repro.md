@@ -2,9 +2,9 @@
 
 Thanks for reporting this and helping to make Electron better!
 
-Would it be possible for you to make a standalone testcase with only the code necessary to reproduce the issue? For example, [Electron Fiddle](https://www.electronjs.org/fiddle) is a great tool for making small test cases and makes it easy to publish your test case to a [gist](https://gist.github.com) that Electron maintainers can use.
+Would it be possible for you to make a standalone testcase with only the code necessary to reproduce the issue? [Electron Fiddle](https://www.electronjs.org/fiddle) is a great tool for making small testcases and publishing them as [gists](https://gist.github.com) that Electron maintainers can use.
 
-Stand-alone test cases make fixing issues go more smoothly: it ensure everyone's looking at the same issue, it removes all unnecessary variables from the equation, and it can also provide the basis for automated regression tests.
+If the bug you've found can be tested with a pass / fail test, please make the testcase [exit 0 on success or nonzero on failure](https://github.com/electron/bugbot#by-bug-reporters). The lets [Electron's issue bot](https://github.com/electron/bugbot#readme) see what releases are affected by the bug by checking your test against different OSes and Electron versions.
 
 I'm adding the `blocked/need-repro` label for this reason. After you make a test case, please link to it in a followup comment.
 
@@ -16,14 +16,10 @@ Thanks in advance! Your help is appreciated.
 
 Thanks for reporting this and helping to make Electron better!
 
-Because of time constraints, triaging code with third-party dependencies is usually not feasible for a small team like Electron's.
+Because of time constraints, triaging code with third-party dependencies is usually not feasible for a small team like Electron's. Would it be possible for you to make a standalone testcase with only the code necessary to reproduce the issue? [Electron Fiddle](https://www.electronjs.org/fiddle) is a great tool for making small testcases and publishing them as [gists](https://gist.github.com) that Electron maintainers can use.
 
-Would it be possible for you to make a standalone testcase with only the code necessary to reproduce the issue? For example, [Electron Fiddle](https://www.electronjs.org/fiddle) is a great tool for making small test cases and makes it easy to publish your test case to a [gist](https://gist.github.com) that Electron maintainers can use.
-
-Stand-alone test cases make fixing issues go more smoothly: it ensure everyone's looking at the same issue, it removes all unnecessary variables from the equation, and it can also provide the basis for automated regression tests.
+If the bug you've found can be tested with a pass/fail test, please make the testcase [exit 0 on success or nonzero on failure](https://github.com/electron/bugbot#by-bug-reporters). The lets [Electron's issue bot](https://github.com/electron/bugbot#readme) see what releases are affected by the bug by checking your test against different OSes and Electron versions.
 
 I'm adding the `blocked/need-repro` label for this reason. After you make a test case, please link to it in a followup comment.
 
 Thanks in advance! Your help is appreciated.
-
-
