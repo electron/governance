@@ -6,11 +6,11 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | **Chair** | PST (San Francisco) |
+| <img src="https://github.com/jkleinsc.png" width=100 alt="@nornagon">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | **Chair** | EST (Harrisburg) |
+| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PST (San Francisco) |
 | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | PST (Redmond) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PST (Vancouver) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@nornagon">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CST (New Orleans) |
 | <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MST (Salt Lake City) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST (Portland) |
