@@ -54,7 +54,7 @@ See [repos.md](repos.md)
 
 In order to join the Releases Working Group, an aspiring member must:
 
-1. Attend three consecutive meetings
+1. Regularly attend three meetings
 2. Request entry into Releases Working Group by asking the current Chair
 3. Obtain consensus approval by vote of existing membership during a portion of a meeting which the requester shall not attend.
 
