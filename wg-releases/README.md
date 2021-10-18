@@ -54,7 +54,7 @@ See [repos.md](repos.md)
 
 In order to join the Releases Working Group, an aspiring member must:
 
-1. Attend three consecutive meetings
+1. Regularly attend three meetings
 2. Request entry into Releases Working Group by asking the current Chair
 3. Obtain consensus approval by vote of existing membership during a portion of a meeting which the requester shall not attend.
 
@@ -66,7 +66,7 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 ## Meeting Schedule
 
-* **Sync Meeting** 1 hour every Wednesday at [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer)
+* **Sync Meeting** 1 hour each Wednesday, alternating between two times: [16:30 UTC](https://duckduckgo.com/?q=16%3A30+UTC&ia=answer) and [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer).
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
