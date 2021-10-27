@@ -16,6 +16,7 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/mlaurencin.png" width=100 alt="@mlaurencin">  | Michaela Laurencin [@mlaurencin](https://github.com/mlaurencin) | Member | PT (Seattle) |
 | <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MT (Salt Lake City) |
+| <img src="https://github.com/deermichel.png" width=100 alt="@deermichel">  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
 
 ## Current Objective and Key Results
 
