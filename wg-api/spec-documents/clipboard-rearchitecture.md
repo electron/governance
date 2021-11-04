@@ -92,7 +92,7 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
     * Custom MIME types e.g. `electron/filepath`
   
 **APIs to Add**
-* `onclipboardchange` event
+* `clipboardchange` event
   * Outlined in the spec but has yet been implemented by Chromium (see [this crbug](https://bugs.chromium.org/p/chromium/issues/detail?id=933608))
   * We would implement this as such time Chromium does so.
 
