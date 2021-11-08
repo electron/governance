@@ -44,14 +44,6 @@ The largest consideration for changes to the `clipboard` module is to what degre
 Alignment with W3C where possible, with some additional APIs exposed to handle desktop use cases which aren’t considered by the specification.
 
 **APIs to Preserve**
-* `clipboard.readBookmark()`
-  * Not supported through existing Web APIs or in the specification.
-* `clipboard.writeBookmark(title, url[, type])`
-  * Not supported through existing Web APIs or in the specification.
-* `clipboard.readFindText()` _macOS_
-  * Not supported through existing Web APIs or in the specification.
-* `clipboard.writeFindText(text)`
-  * Not supported through existing Web APIs or in the specification.
 * `clipboard.clear([type])`
   * Not supported through existing Web APIs or in the specification.
 * `clipboard.readText([type])`
@@ -64,10 +56,18 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
   * Superseded by `clipboard.read` [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
 * `clipboard.has(format[, type])` 
   * Superseded by `clipboard.read` [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
+* `clipboard.readBookmark()`
+  * Superseded by `clipboard.read` with custom `electron/bookmark` MIME type
+* `clipboard.writeBookmark(title, url[, type])`
+  * Superseded by `clipboard.write` with custom `electron/bookmark` MIME type
 * `clipboard.readBuffer(format)`
   * Superseded by `clipboard.read`[Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
 * `clipboard.writeBuffer(format, buffer[, type])`
   * Superseded by `clipboard.write` [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/write)
+* `clipboard.readFindText()` _macOS_
+  * Superseded by `clipboard.read` with custom `electron/findtext` MIME type
+* `clipboard.writeFindText(text)`
+  * Superseded by `clipboard.write` with custom `electron/findtext` MIME type
 * `clipboard.readHTML()`
   * Superseded by `clipboard.read` with `text/html` MIME type
 * `clipboard.writeHTML(markup[, type])`
@@ -82,19 +82,199 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
   * Superseded by `clipboard.write` with `application/rtf` MIME type
 
 **APIs to Modify**
-* `clipboard.read(format)`
+* `clipboard.read([clipboardType])`
   * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
   * Ensure that raw formats are preserved
     * Custom MIME types e.g. `electron/filepath`
-* `clipboard.write(data[, type])​`
+  * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.
+* `clipboard.write(data[, clipboardType]])​`
   * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
   * Ensure that raw formats are preserved
     * Custom MIME types e.g. `electron/filepath`
+  * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.    
   
 **APIs to Add**
 * `clipboardchange` event
   * Outlined in the spec but has yet been implemented by Chromium (see [this crbug](https://bugs.chromium.org/p/chromium/issues/detail?id=933608))
   * We would implement this as such time Chromium does so.
+
+
+### Example migration code
+```js
+const { serialize, deserialize } = require("v8")
+
+function availableFormats(clipboardType) {
+  const clipboardItems = clipboard.read(clipboardType);
+  const clipboardFormats = [];  
+  for (const clipboardItem of clipboardItems) {
+    for (const type of clipboardItem.types) {
+      if (!clipboardFormats.includes(type)) {
+        clipboardFormats.push(type);
+      }
+    }
+  }
+  return clipboardFormats;
+}
+
+function has(format, clipboardType) {
+  const clipboardItems = clipboard.read(clipboardType);
+  const bookmarkItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(format);
+  });
+  if (bookmarkItem) {
+    return true;
+  }
+}
+
+const BOOKMARK_MIME_TYPE = 'electron/bookmark';
+function readBookmark() {
+  const clipboardItems = clipboard.read();  
+  const bookmarkItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(BOOKMARK_MIME_TYPE);
+  });
+  if (bookmarkItem) {
+    const buffer = bookmarkItem.getType(BOOKMARK_MIME_TYPE);
+    return deserialize(buffer);
+  }
+}
+
+function writeBookmark(title, url) {
+  const buffer = serialize({
+    text: title,
+    bookmark: url    
+  });
+  clipboard.write([
+    {
+      [BOOKMARK_MIME_TYPE]: buffer
+    }
+  ]);
+}
+
+function readBuffer(format) {
+  const clipboardItems = clipboard.read(clipboardType);  
+  const foundItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(format);
+  });
+  if (foundItem) {
+    const buffer = foundItem.getType(format);
+    return buffer;
+  }
+}
+
+function writeBuffer(format, buffer, clipboardType) {
+  clipboard.write([
+    {
+      [format]: buffer
+    }
+  ], clipboardType);
+}
+
+const FILE_PATH_MIME_TYPE = 'electron/filepath';
+function readFilePaths() {
+  const filepaths = [];
+  const clipboardItems = clipboard.read();
+  const clipboardFormats = [];  
+  for (const clipboardItem of clipboardItems) {
+    if (clipboardItem.types.includes(FILE_PATH_MIME_TYPE)) {
+      const buffer = await findTextItem.getType(FILE_PATH_MIME_TYPE);
+      filepaths.push(buffer.toString());      
+    }
+  }
+  return filepaths;
+}
+
+function writeFilePaths(paths) {
+  const filePathClipboardItems = paths.map(path => {
+    return {
+      [FILE_PATH_MIME_TYPE]: Buffer.from(text)
+    }
+  })
+}
+
+const FIND_TEXT_MIME_TYPE = 'electron/findtext';
+function readFindText() {
+  return readClipboard(FIND_TEXT_MIME_TYPE);
+}
+
+function writeFindText(text) {
+  writeClipboard(FIND_TEXT_MIME_TYPE, text);
+}
+
+const HTML_MIME_TYPE = 'text/html';
+function readHTML(clipboardType) {
+  return readClipboard(HTML_MIME_TYPE, clipboardType);
+}
+
+function writeHTML(markup, clipboardType) {
+  writeClipboard(HTML_MIME_TYPE, markup, clipboardType);
+}
+
+const PNG_MIME_TYPE = 'image/png';
+const JPEG_MIME_TYPE = 'image/jpeg';
+function readImage(clipboardType)​ {
+  const clipboardItems = clipboard.read(clipboardType);
+  //Look for PNG first  
+  let foundItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(PNG_MIME_TYPE);
+  });
+  if (!foundItem) {
+    foundItem = clipboardItems.find(clipboardItem => {
+      return clipboardItem.types.includes(JPEG_MIME_TYPE);
+    });
+  }
+  if (foundItem) {
+    let buffer;
+    if (foundItem.types.includes(PNG_MIME_TYPE)) {      
+      buffer = foundItem.getType(PNG_MIME_TYPE);
+    } else {
+      buffer = foundItem.getType(JPEG_MIME_TYPE);
+    }    
+    return nativeImage.createFromBuffer(buffer);
+  }
+}
+
+function writeImage(image, clipboardType)​ {
+  const buffer = image.getBitmap();
+  const dataUrl = image.toDataURL();
+  const regex = /^data:(.+\/.+);.*$/;
+  const matches = dataUrl.match(regex);
+  clipboard.write([
+    {
+      [matches[1]]: buffer
+    }
+  ], clipboardType);
+}
+
+const RTF_MIME_TYPE = 'application/rtf';
+function readRTF(clipboardType) {
+  return readClipboard(RTF_MIME_TYPE, clipboardType);
+}
+
+function writeRTF(text, clipboardType)​ {
+  writeClipboard(RTF_MIME_TYPE, text, clipboardType);
+}
+
+function readClipboard(format, clipboardType) {
+  const clipboardItems = clipboard.read(clipboardType);  
+  const foundItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(format);
+  });
+  if (foundItem) {
+    const buffer = await findTextItem.getType(format);
+    return buffer.toString();
+  }
+}
+
+function writeClipboard(format, text, clipboardType) {
+  clipboard.write([
+    {
+      [format]: Buffer.from(text)
+    }
+  ], clipboardType);
+}
+```
+
+
 
 ### Usage examples
 
