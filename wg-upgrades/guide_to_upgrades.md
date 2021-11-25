@@ -1,11 +1,11 @@
-# Upgrading Electron's Primary Dependencies
+# Upgrading Chromium in Electron
 
 As a member of the Upgrades Working Group, you'll likely be part of the upgrades rotation, where 1-2 people
 on duty work to upgrade Chromium and Node.js in Electron based on the release schedules of the upstream projects.
 
-This guide lays out basic approaches to upgrading both Chromium and Node.js.
+This guide lays out basic approaches to upgrading Chromium via the automated process determined in [roller](https://github.com/electron/roller).
 
-## Upgrading Chromium
+## The Patch Stage
 
 1. Ensure you've fetched the latest information from upstream Electron.
 
@@ -19,7 +19,7 @@ $ git fetch origin
 $ git checkout roller/chromium/main
 ```
 
-3. Update and apply Electron's patches to the new version of Chromium.
+3. Begin applying Electron's patches to the new version of Chromium.
 
 ```console
 # The -3 argument runs patch application with three-way merge
@@ -28,25 +28,13 @@ $ e sync -3
 
 It's likely that this initial step will fail - this is because Chromium has changed the code upstream that a given patch is altering and so git no longer understands where it should change the existing code.
 
-To proceed from here, you'll need to fix each successive patch until `e sync` completes successfully.
+4. Complete `e sync -3` by fix patch failures.
 
-When `e sync -3` stops on failure, you should be able to find in console the patch that caused the failure. Then, you should `cd` into the relevant directory, where you can then run `git status` to see what the patch conflicts are.
+To move past Step 4, you'll need to fix each successive patch until `e sync` completes successfully.
 
-Now it's time to determine why the failure occurred. In this example, the patch failed on `pepper_isolated_file_system_message_filter.cc` - you'll want to open `pepper_plugin_support.patch` in a code editor and then open the corresponding upstream file in [Chromium's Code Search](`https://source.chromium.org/chromium`). From there, you can look at the file blame, as well as file history:
+### Fixing Patches - The Happy Path
 
-<img width="1400" alt="Screen Shot 2021-11-24 at 8 00 31 PM" src="https://user-images.githubusercontent.com/2036040/143298699-a430c1bf-54c6-49d5-bc4e-9d9d7ad69a1a.png">
-
-Then, look at the blame and history to determine what change would have caused the patch application to fail. If you're lucky, Chromium will just have moved around a few lines of code or changed something that won't actually affect the change we're intending to make to it with our patch.
-
-TODO: explain how to actually fix the patch in a way that is not terrifying
-
-Continue this process with each successive patch until they're all successful and `e sync` finishes properly.
-
--- Keeley Edits/Scratchpad Below
-
-### Fixing Patches: The Easy Way
-
-Start by running `e sync --3`. As our scripts apply Electron's patches to its various dependency directories, you'll likely run into an error that looks like this: 
+As our scripts apply Electron's patches to its various dependency directories, you'll likely run into (multiple) a sync failure which looks like this:
 
 ```console
 Applying: pepper plugin support
@@ -63,25 +51,31 @@ If you prefer to skip this patch, run "git am --skip" instead.
 To restore the original branch and stop patching, run "git am --abort
 ```
 
-`cd` into the `src` directory and view the patch diff. If you're using a code editor like VSCode, you'll likely see an interactive diff like this:
+When `e sync -3` stops on failure, you should be able to find in console the patch that caused the failure. Then, you should `cd` into the `src` directory (or whichever directory the patch failed to apply in - all possible directories can be seen in [the patch config](https://github.com/electron/electron/blob/main/patches/config.json)),and run `git status` to see what the patch conflicts are. If you're using a code editor like VSCode, you'll likely see an interactive diff like this:
 
 <img width="850" alt="Screen Shot 2021-11-24 at 2 47 38 PM" src="https://user-images.githubusercontent.com/2036040/143304349-76aa846a-1f34-4d3b-a38c-de511e0d7f25.png">
 
-Now it's time to determine why the failure occurred. In this example, the patch failed on `pepper_helper.h` - you'll want to open `pepper_plugin_support.patch` in a code editor and then open the corresponding upstream file in [Chromium's Code Search](`https://source.chromium.org/chromium`). From there, you can look at the file blame, as well as file history:
+Then, look at the blame and history to determine what change would have caused the patch application to fail. If you're lucky, Chromium will just have moved around a few lines of code or changed something that won't actually affect the change we're intending to make to it with our patch.
 
-<img width="1400" alt="Screen Shot 2021-11-24 at 8 00 31 PM" src="https://user-images.githubusercontent.com/2036040/143298699-a430c1bf-54c6-49d5-bc4e-9d9d7ad69a1a.png">
+In this example, the patch failed on `pepper_helper.h` - the diff indicates that Chromium removed `#include "base/compiler_specific.h"`. The patch just wants to add `#include "base/component_export.h"`, so the conflict can be resolved by removing the compiler include and adding the component export include.
 
-Then, look at the blame and history to determine what change would have caused the patch application to fail. Oftentimes, Chromium will just have moved around a few lines of code or changed something that won't actually affect the change we're intending to make to it with our patch. Here, the diff indicates that Chromium removed `#include "base/compiler_specific.h"`. The patch just wants to add `#include "base/component_export.h"`, so the conflict can be resolved by removing the compiler include and adding the component export include.
+Now, you can add the file (`git add chrome/renderer/pepper/pepper_helper.h`) and then continue with `git am --continue` until all conflicts are resolved for each patch that Electron applies via [the patches directory](https://github.com/electron/electron/blob/main/patches).
 
-Now, you can add the file (`git add chrome/renderer/pepper/pepper_helper.h`) and then continue with `git am --continue` until all conflicts are resolved.
+**Note:** If the diff is clear enough that you can see what Chromium changed and feel confident in knowing what to do, you don't necessarily need to dig through the Chromium source blame, but it's helpful in allowing you to feel more confident in your changes.
 
-### Fixing Patches: The Advanced Way
+To do this for the above example, you would want to open `pepper_plugin_support.patch` in a code editor and then open the corresponding upstream file in [Chromium's Code Search](`https://source.chromium.org/chromium`). From there, you can look at the file blame, as well as file history:
+
+<img width="1414" alt="Screen Shot 2021-11-25 at 3 17 05 PM" src="https://user-images.githubusercontent.com/2036040/143457403-a8aab42a-02bd-4d9e-adc6-65a35b7a9fb1.png">
+
+To determine or verify what you believe to have changed upstream.
+
+### Fixing Patches: The Advanced Path
 
 For most patches, as noted above, Chromium will just have moved around a few lines of code or changed something that won't actually affect the change we're intending to make to it with our patch.
 
-Sometimes, however, Chromium will make changes that require a patch 
+Sometimes, however, Chromium will make changes that require
 
-### Build Stage
+## The Build Stage
 
 Once all patches are fixed and `e sync -3` has run, it's time to build Electron.
 
@@ -128,7 +122,7 @@ index b9dbbd8723..f148dc7a59 100644
    if (source == blink::mojom::ConsoleMessageSource::kSecurity)
 ```
 
-and then stage and commit this file. It's important to let reviewers and other rotation members know why you made this change, so you should reference the CL in this commit to Electron. Each CL has a copy/pasteable string available, which can be found here:
+and then stage and commit this file. It's important to let reviewers and other working group members know why you made this change, so you should reference the CL in this commit to Electron. Each CL has a copy/pasteable string available, which can be found here:
 
 <img width="1553" alt="Screen Shot 2021-11-24 at 9 51 23 PM" src="https://user-images.githubusercontent.com/2036040/143311263-e568b9b2-8a56-4d20-8421-893d17c02f87.png">
 
@@ -136,14 +130,16 @@ This can then be committed with `git commit` as follows:
 
 <img width="699" alt="Screen Shot 2021-11-24 at 9 52 55 PM" src="https://user-images.githubusercontent.com/2036040/143311422-f3d8dd14-ac45-45df-a6f8-25d294f1a9d0.png">
 
-This process continues until `e build` finishes running successfully.
+Other changes during the build stage might require adding or removing a patch Electron is floating - instructions for this can be found in [Electron's patch system guide](https://github.com/electron/electron/blob/main/docs/development/patches.md).
 
-### Manually fixing a patch during build stage
+This progressive build process continues until `e build` finishes running successfully.
 
-Sometimes during the `e build` step, you'll run into a patch issue, or need to manually update a patch. 
+An example of changes from previous rolls can be found [here](https://github.com/electron/electron/pull/31317).
 
-Updating Patches:
+### Test Debugging Stage
 
-1. Find existing patch: `git log -p --grep "patch_name.patch"`
-2. Apply the fixup: `git commit --fixup COMMIT_SHA`
-3. Rebase: `git rebase --autosquash -i COMMIT_SHA^`
+TODO
+
+## FAQ
+
+TODO
