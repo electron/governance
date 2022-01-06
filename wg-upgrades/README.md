@@ -40,9 +40,8 @@ Meeting notes may be viewed in [meeting-notes](meeting-notes).
 ## Joining the Upgrades WG
 
 In order to become formal members of the WG, prospective members must:
-1. be actively contributing to the work of the Upgrades WG,
-2. attend 3 out of 6 consecutive meetings, and
-3. be approved by a 2/3rds majority of current WG members (rounded up).
+1. be actively contributing to the work of the Upgrades WG, and
+2. be approved by a 2/3rds majority of current WG members (rounded up).
     1. The prospective member shall leave the meeting during the deliberation and vote.
     2. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.
     3. Members not able to attend the meeting at which the vote occurs may submit their vote to the Chair prior to the meeting.
