@@ -12,6 +12,7 @@ Grows the Electron community
 | <img src="https://github.com/jdalton.png" width=100 alt="@jdalton">  | John-David Dalton [@jdalton](https://github.com/jdalton) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/bnb.png" width=100 alt="@bnb">  | Tierney Cyren [@bnb](https://github.com/bnb) | Member | ET (New York City) |
+| <img src="https://github.com/BlackHole1.png" width=100 alt="@BlackHole1">  | Kevin Cui [@BlackHole1](https://github.com/BlackHole1) | Member | BJT (Shanghai) |
 
 ## Current Objective and Key Results
 **Objective:**
