@@ -13,7 +13,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/molant.png" width=100 alt="@molant">  | Anton Molleda [@molant](https://github.com/molant) | Member | PT (Seattle) |
+| <img src="https://github.com/molant.png" width=100 alt="@molant">  | Antón Molleda [@molant](https://github.com/molant) | Member | PT (Seattle) |
 | <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
 
 ## Current Objective and Key Results
