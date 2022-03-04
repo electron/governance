@@ -24,7 +24,8 @@ Oversees public API design based on project principles.
 
 ## Associated Repositories
 
-* `electron/electron`
+* [`electron/electron`](https://github.com/electron/electron)
+* [`electron/zoilist`](https://github.com/electron/zoilist)
 
 ## Meeting Schedule
 
