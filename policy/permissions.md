@@ -43,7 +43,7 @@ All [maintainers](../charter/README.md#definitions) are granted "Write" permissi
 
 All Working Group Members are granted "Write" permissions to the **private** repositories that their group is responsible for, and the working group can decide on access to nonmembers. This is documented in the `repos.md` file in each `wg-*` directory in this Governance repository.
 
-Although "Write" access may be granted to the repository this does **not** implicitly grant `master` / Protected Branch rights. They shall be determined by the Working Group that owns each repository but as a general policy, all repositories should have their `master` branch set as a Protected Branch.
+Although "Write" access may be granted to the repository this does **not** implicitly grant `main` / Protected Branch rights. They shall be determined by the Working Group that owns each repository but as a general policy, all repositories should have their `main` branch set as a Protected Branch.
 
 If a repository has multiple Working Group stakeholders, access will be determined by a vote from the chairs of _all_ working groups. Any chair may abstain.  The vote must be at least 2/3 of participating chairs.
 

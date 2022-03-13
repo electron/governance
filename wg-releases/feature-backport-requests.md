@@ -1,6 +1,6 @@
 ## Feature Backport Requests
 
-Backporting non-breaking features to supported versions requires the approval of the Releases Working Group. Any feature PR that is targeting branch(es) other than master should be labeled with a `backport/requested 🗳` label.
+Backporting non-breaking features to supported versions requires the approval of the Releases Working Group. Any feature PR that is targeting branch(es) other than `main` should be labeled with a `backport/requested 🗳` label.
 
 The approval process works as follows:
 1. By requesting backport of a feature, the submitter of the PR is assuming responsibility for this feature on the requested branches.
