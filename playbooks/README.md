@@ -11,6 +11,5 @@ Playbooks for Electron issue triage, moderation, security incidents, etc
 
 ## See Also
 
-* [electron/electron Issue Template](https://github.com/electron/electron/blob/master/.github/ISSUE_TEMPLATE.md)
-* [electron/electron Welcome Probot Config](https://github.com/electron/electron/blob/master/.github/config.yml)
-* [electron/electron Stale Probot Config](https://github.com/electron/electron/blob/master/.github/stale.yml)
+* [electron/electron Bug Issue Template](https://github.com/electron/electron/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml)
+* [electron/electron Welcome Probot Config](https://github.com/electron/electron/blob/main/.github/config.yml)
