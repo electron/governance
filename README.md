@@ -74,4 +74,4 @@ The Electron organization and all repos therein adhere to the following [Code of
 
 ## License
 
-Electron is licensed with an [MIT License](https://github.com/electron/electron/blob/master/LICENSE).
+Electron is licensed with an [MIT License](https://github.com/electron/electron/blob/main/LICENSE).

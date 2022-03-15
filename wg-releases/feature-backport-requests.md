@@ -14,4 +14,4 @@ The approval process works as follows:
   * Due to the distributed nature of the Releases WG, a backport request that doesn't have consensus may take longer to be approved or rejected until all available members can weigh in.
 4. Once a backport request has been decided upon the PR will be labeled appropriately with either a `backport/approved ✅` or `backport/declined ❌` label.
 
-Please note that during our quiet period during our [Final Beta Release](https://github.com/electron/governance/blob/master/wg-releases/major-release-process.md#final-beta-release), we will not accept feature backports to the major release line in beta.
+Please note that during our quiet period during our [Final Beta Release](./major-release-process.md#final-beta-release), we will not accept feature backports to the major release line in beta.

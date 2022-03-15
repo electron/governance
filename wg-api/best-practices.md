@@ -1,6 +1,6 @@
 # Electron API Design Guidelines
 
-The following are a set of guidelines for building Electron APIs. This document is maintained by the [API Working Group](https://github.com/electron/governance/tree/master/wg-api).
+The following are a set of guidelines for building Electron APIs. This document is maintained by the [API Working Group](./).
 
 ## Questions to ask for every API change
 These questions are intended to prompt reflection and bring up things that the API author may not have considered when designing the API.
