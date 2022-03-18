@@ -88,7 +88,7 @@
 | Week 13 | 2020-01-24 | 8.0.0-beta.x | Action: Release final beta |
 | Week 14 | 2020-01-27 | Quiet Period Starts | Stable Prep Week |
 | Week 14 | 2020-01-31 | Stable Prep Items Due | Stable Prep Week |
-| Week 15 | 2020-02-03 | Kick off 8.0.0 releaese | Action Item |
+| Week 15 | 2020-02-03 | Kick off 8.0.0 release | Action Item |
 | Week 15 | 2020-02-04 | 8.0.0 | Stable Deadline ✨ |
 
 ## 9.0.0

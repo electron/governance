@@ -70,7 +70,7 @@ When this message is received in the main process, any `MessagePort` objects tra
 * `options` Object (optional)
   * `transfer` any[] - a list of transferable objects to be sent with the message.
 
-Similar to `WebContents.send`, but allows transfering transferable objects.
+Similar to `WebContents.send`, but allows transferring transferable objects.
 
 > [name=Samuel Attard]
 > I'm trying to figure out if there's a way for this to be non-breaking integrated into `.send` to avoid the confusion around two different ways to send IPC.  Can't see an easy way out there though.
@@ -202,6 +202,6 @@ There have been several discussions (going [as far back as 2013](https://lists.w
 
 As written, this API would provide a way to establish direct renderer-to-renderer communication, as well as a new way to divide the namespace of IPC messages, and a way to provide an [object-capability model](https://html.spec.whatwg.org/multipage/web-messaging.html#ports-as-the-basis-of-an-object-capability-model-on-the-web). It would also be possible to bind a MessagePort to a Node worker thread in the main process, allowing direct communication from a renderer to a background thread in the main process.
 
-The addition of the option to specify transferables along with messages sent between processes could in future be extended to allow transfering new kinds of objects. For instance, we could allow transferring file handles, or [Streams](https://streams.spec.whatwg.org/).
+The addition of the option to specify transferables along with messages sent between processes could in future be extended to allow transferring new kinds of objects. For instance, we could allow transferring file handles, or [Streams](https://streams.spec.whatwg.org/).
 
 [channel-messaging-api]: https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API

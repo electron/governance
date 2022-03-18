@@ -112,7 +112,7 @@ Chairs also have the following regular duties within their Working Groups:
 * Check into persistent issues present on a given Working Group's repositories of responsibility (ex. bot failures)
 * Ensure that the WG roster list is an accurate reflection of current member activity.
 
-In addition to these reponsibilities, a Chair may have additional responsibilities specific to their Working Group.
+In addition to these responsibilities, a Chair may have additional responsibilities specific to their Working Group.
 
 ### Reaching Agreement
 
@@ -156,8 +156,8 @@ The AWG in turn delegates its authority to all other working groups.
 To prevent the AWG from becoming the sole political power of the project,
 it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other working groups.
 The AWG should principally serve as a _circuit breaker_.
-If a delegate working group is failing to meet its responsibilities, the AWG may intervent up to and including alterning group members, or altering the groups authority, responsibilities, or existence.
+If a delegate working group is failing to meet its responsibilities, the AWG may intervene up to and including altering group members, or altering the groups authority, responsibilities, or existence.
 
 **Authors note:**
 
-> The current Electorate/AWG mix places almost all the power in the hands of a few large corporatations at the outset. While not ideal to many, this was chosen because it represents today's status-quo. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
+> The current Electorate/AWG mix places almost all the power in the hands of a few large corporations at the outset. While not ideal to many, this was chosen because it represents today's status-quo. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
