@@ -1,18 +1,12 @@
-# Issue Triaging
+# A Tactical Guide to Issue Triaging
 
-Below is a basic guide for how the Electron team approaches triaging issues in Electron
+In [our Issue Playbook](https://github.com/electron/governance/blob/main/playbooks/issue-triage.md#process), the Electron team outlines a guide to how we approach our issue tracker and the basic process for triaging issues.
 
-## Evaluating Issues
-
-We ask reporters to fill out an issue template when filing a new bug report. When reading a new issue, there are a few fields that can be quickly scanned to determine how to proceed:
-
-* Electron Version: Is the version of Electron used in the report one of our supported versions (i.e. latest four versions)?
-* Repro Gist: Does the issue have a repro gist or a comment with repro code for the issue?
-* Expected/Actual Behavior: Is the user clear on what behavior should be happening, vs. what's actually happening?
-
-Based on the information provided in the issue, we then add labels as needed and reply to the issue reporter. Below are some of the most common scenarios we encounter when triaging issues, with the tree of labels and responses below each one:
+This document is meant as a supplemental text for someone new to triaging issue. It outlines several common scenarios, and the responses and labels we recommend using for issue triage. It also tries to address several commonly asked questions for those new to the issue triage process.
 
 ## Common Responses
+
+_NB: The reponses below are meant to be a guide for someone new to triaging issues in Electron, not requirements. If you find an issue while triaging that you think needs a different response than is recommended here, use your own judgement._
 
 #### Low Quality/Spam
 
@@ -65,3 +59,25 @@ Issue details a crash, and has both a crash report and a repro:
   * Add `crash` label 
   * Add `has-repro-gist` or `has-repro-repo` label
   * Review the repro gist. If the crash can be reproduced, add `status/confirmed` label
+
+
+## FAQ
+
+**What's the rough process I should follow when triaging issues?**
+
+The process is outlined in [our Issue Playbook here (under "Process")](https://github.com/electron/governance/blob/main/playbooks/issue-triage.md#process).
+
+**How should I use labels?**
+
+We use labels to determine whether or not the issue has enough relevant information to let a maintainer move forward on fixing it. Specifically, the areas we look for are:
+
+* Incomplete report: `blocked/needs-repro`, `blocked/needs-info`
+* Actionable repro: `has-repro-gist`, `has-repro-repo`
+* Affected version(s): `{version}-x-y` (i.e. `20-x-y`)
+* Reviewed by another maintainer: `status/reviewed`, `status/confirmed`
+* Affected platforms: `platform/all`, `platform/win`, `platform/mac`, `platform/linux`
+* Urgency: `regression`, `crash`
+
+**What version labels should I add if the issue originates well past supported versions?**
+
+If you know the version of Electron where the issue began, add that version label. If you don't know when the issue began, but it is still affecting the latest version, add all of the current supported version labels.
