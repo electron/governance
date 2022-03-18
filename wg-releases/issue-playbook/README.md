@@ -1,6 +1,6 @@
 # A Tactical Guide to Issue Triaging
 
-In [our Issue Playbook](https://github.com/electron/governance/blob/main/playbooks/issue-triage.md#process), the Electron team outlines a guide to how we approach our issue tracker and the basic process for triaging issues.
+In [our Issue Triage Playbook](https://github.com/electron/governance/blob/main/playbooks/issue-triage.md#process), the Electron team outlines a guide to how we approach our issue tracker and the basic process for triaging issues.
 
 This document is meant as a supplemental text for someone new to triaging issue. It outlines several common scenarios, and the responses and labels we recommend using for issue triage. It also tries to address several commonly asked questions for those new to the issue triage process.
 
@@ -81,3 +81,6 @@ We use labels to determine whether or not the issue has enough relevant informat
 **What version labels should I add if the issue originates well past supported versions?**
 
 If you know the version of Electron where the issue began, add that version label. If you don't know when the issue began, but it is still affecting the latest version, add all of the current supported version labels.
+
+The `main` label is generally reserved for A) urgent issues that are currently blocking the `main` branch, or B) issues that are present in main, but in no alpha, beta or stable versions of Electron. If the issue exists in any alpha, beta or stable version, that latest version should be used instead of main.
+
