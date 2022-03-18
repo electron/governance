@@ -1,6 +1,6 @@
 # Issue Triaging
 
-Triaging issues sucks! Here's some of the tips we've made to make it suck a little less:
+Below is a basic guide for how the Electron team approaches triaging issues in Electron
 
 ## Evaluating Issues
 
@@ -10,13 +10,9 @@ We ask reporters to fill out an issue template when filing a new bug report. Whe
 * Repro Gist: Does the issue have a repro gist or a comment with repro code for the issue?
 * Expected/Actual Behavior: Is the user clear on what behavior should be happening, vs. what's actually happening?
 
-If an issue doesn't have enough information or is on an older version of Electron, pick A.
-
-
+Based on the information provided in the issue, we then add labels as needed and reply to the issue reporter. Below are some of the most common scenarios we encounter when triaging issues, with the tree of labels and responses below each one:
 
 ## Common Responses
-
-Below are some of the most common scenarios we encounter when triaging issues, with the tree of labels and responses below each one:
 
 #### Low Quality/Spam
 
