@@ -27,8 +27,6 @@ Slack uses channels to organize work into "chat rooms". You can read more about 
 * `event-`: Channels for individual events.
 * `app-`: Channels for specific apps, like `app-slack`.
 
-As a general rule, we have channels for each major release line of `electron/electron` - as an example, `5-x-y`.
-
 ### Prefer Channels, Avoid Direct Messages
 
 Keeping communication and decision-making processes allows future contributors to learn how, and why, decisions were made. Preserving context and allowing other contributors, both future and present, to catch up is one of the big benefits of using Slack. With that in mind, we heavily recommend that you use channels and avoid direct messages.
