@@ -22,4 +22,4 @@ This document will be able to provide rationale for the choice as well as preser
 
 Once this document has been written, it should be placed on the API Working Group's agenda for a given meeting, where the group will discuss and vote with sufficient consensus to move forward with one of the proposed solutions in a given design document.
 
-Once a proposal has been ratified, it will be PRed into the [`spec-documents`](TBD) directory to allow external community members to better understand the process behind the technical decision that was made.
+Once a proposal has been ratified, it will be PRed into the [`spec-documents`](spec-documents/) directory to allow external community members to better understand the process behind the technical decision that was made.
