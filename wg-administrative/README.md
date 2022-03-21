@@ -19,7 +19,7 @@ It is important that other working groups have autonomy and agency to fulfill th
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin">  | Kevin Nguyen [@PlaineKevin.](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
+| <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin">  | Kevin Nguyen [@PlaineKevin](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
 | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
 
 ### Open Roles

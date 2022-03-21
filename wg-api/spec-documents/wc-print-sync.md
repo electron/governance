@@ -39,7 +39,7 @@ will become
 `pageRanges` => `pageRange`
 `printSelectionOnly` => `shouldPrintSelectionOnly`
 
-`webContents.print()` will no longer take a callback, and instead return a `Promise<void | string>`, where the Promise resolves if printing successfully occured, and rejects with the failure cause if it did not occur.
+`webContents.print()` will no longer take a callback, and instead return a `Promise<void | string>`, where the Promise resolves if printing successfully occurred, and rejects with the failure cause if it did not occur.
 
 ## Rollout Plan
 
