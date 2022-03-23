@@ -31,9 +31,12 @@ If the opener has filled out the template but omitted key aspects of it, like th
 From the information provided in the template, important labels to add include:
 
 For Bugs:
-* Operating System (e.g. `platform/macOS`, `platform/windows`, `platform/linux`)
-* Affected Release Line (e.g. `10-x-y`, `9-x-y`, etc)
-* Bug Type (`bug`, `bug/crash`, `bug/regression`)
+* Operating Systems: `platform/all`, `platform/win`, `platform/mac`, `platform/linux`
+* Version(s): `{version}-x-y` (i.e. `20-x-y`)
+* Incomplete report: `blocked/needs-repro`, `blocked/needs-info`
+* Actionable repro: `has-repro-gist`, `has-repro-repo`
+* Reviewed by another maintainer: `status/reviewed`, `status/confirmed`
+* Urgency: `regression`, `crash`
 
 For Features
 * The `enhancement` label
@@ -51,6 +54,12 @@ If the version of Electron a bug is being reported if still a supported version 
 
 > Thanks in advance! Your help is appreciated.
 
+**What version labels should I add if the issue originates well past supported versions?**
+
+If you know the version of Electron where the issue began, add that version label. If you don't know when the issue began, but it is still affecting the latest version, add all of the current supported version labels.
+
+The `main` label is generally reserved for A) urgent issues that are currently blocking the `main` branch, or B) issues that are present in main, but in no alpha, beta or stable versions of Electron. If the issue exists in any alpha, beta or stable version, that latest version should be used instead of main.
+
 ## Check Reproducible Steps
 
 As the issue triager, it is not your responsibility to confirm whether or not an issue is reproducible based on a provided sample unless you so choose. We just want to confirm that one has been provided. Ideally, the user will provide a Fiddle Gist link or a link to a repo we may clone down. 
@@ -62,23 +71,6 @@ Some reporters will provide a small snippet without context, and if you can, we 
 > I'm setting the more-information-needed label for the above reasons. After you've responded, please @ me in a followup comment.
 
 > Thanks in advance! Your help is appreciated.
-
-## Check Labels
-
-We use labels to determine whether or not the issue has enough relevant information to let a maintainer move forward on fixing it. Specifically, the areas we look for are:
-
-* Incomplete report: `blocked/needs-repro`, `blocked/needs-info`
-* Actionable repro: `has-repro-gist`, `has-repro-repo`
-* Affected version(s): `{version}-x-y` (i.e. `20-x-y`)
-* Reviewed by another maintainer: `status/reviewed`, `status/confirmed`
-* Affected platforms: `platform/all`, `platform/win`, `platform/mac`, `platform/linux`
-* Urgency: `regression`, `crash`
-
-**What version labels should I add if the issue originates well past supported versions?**
-
-If you know the version of Electron where the issue began, add that version label. If you don't know when the issue began, but it is still affecting the latest version, add all of the current supported version labels.
-
-The `main` label is generally reserved for A) urgent issues that are currently blocking the `main` branch, or B) issues that are present in main, but in no alpha, beta or stable versions of Electron. If the issue exists in any alpha, beta or stable version, that latest version should be used instead of main.
 
 ## Common Responses
 
