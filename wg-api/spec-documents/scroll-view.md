@@ -23,9 +23,9 @@ More details of the use-case and challenges related to workarounds: [#32751](htt
 ## Usage Example
 
 ```js
-const { BaseWindow, ContainerView, ScrollView, BrowserView } = require("electron");
+const { BrowserView, BrowserWindow, ContainerView, ScrollView, WrapperBrowserView } = require("electron");
 
-const window = new BaseWindow({ width: 1000, height: 500 })
+const window = new BrowserWindow({ width: 1000, height: 500 })
 
 const scroll = new ScrollView()
 scroll.setBounds({ width: 1000, height: 500 })
@@ -34,15 +34,17 @@ const scrollContent = new ContainerView()
 scrollContent.setBounds({ width: 2000, height: 500 })
 
 const browserView1 = new BrowserView()
-browserView1.setBounds({ width: 1000, height: 500 })
-scrollContent.addBrowserView(browserView1)
+const wrapperBrowserView1 = new WrapperBrowserView({ 'browserView': browserView1 });
+wrapperBrowserView1.setBounds({ width: 1000, height: 500 })
+scrollContent.addBrowserView(wrapperBrowserView1)
 
 const browserView2 = new BrowserView()
-browserView2.setBounds({ width: 1000, height: 500, x: 1000 })
-scrollContent.addBrowserView(browserView2)
+const wrapperBrowserView2 = new WrapperBrowserView({ 'browserView': browserView2 });
+wrapperBrowserView2.setBounds({ width: 1000, height: 500, x: 1000 })
+scrollContent.addBrowserView(wrapperBrowserView2)
 
 scroll.setContentView(scrollContent);
-win.setContainerView(scroll);
+win.addChildView(scroll);
 ```
 
 
@@ -104,7 +106,6 @@ Process: **Main**
 
 #### Static Methods
 
-* `ContainerView.getAllViews()` 
 * `ContainerView.fromId(id)` 
 
 #### Instance Methods
@@ -124,7 +125,6 @@ Process: **Main**
 #### Static Methods
 
 
-* `ScrollView.getAllViews()`
 * `ScrollView.fromId(id)`
 
 #### Instance Methods
