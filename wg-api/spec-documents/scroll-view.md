@@ -52,7 +52,7 @@ win.addChildView(scroll);
 
 In order to achieve the example above, we've made following changes to the API
 
-### BaseView
+## BaseView
 
 A `BaseView` is a rectangle within the views View hierarchy. It is the base
 class for all all different views. 
@@ -61,117 +61,198 @@ Process: **Main**
 
 `BaseView` is an EventEmitter
 
+### Static Methods
 
-#### Static Methods
+#### `BaseView.getAllViews()`
 
-* `BaseView.getAllViews()`
-* `BaseView.fromId(id)`
+Returns the array of all created views.
 
-#### Instance Properties
+#### `BaseView.fromId(id)`
 
-* `id` - A `Integer` property representing the unique ID of the view. Each ID is unique among all `BaseView` instances of the entire Electron application.
-* `isContainer` (*Readonly, Experimental*) A `boolean` property that determines whether this view is (or inherits from) ContainerView.
+Returns `BaseView | null` - The view with the given `id`.
 
-#### Instance Methods
+### Instance Properties
 
-* `setBounds(bounds)`
-* `getBounds()`
-* `setBackgroundColor(color)`
-* `getParentView()` - Returns `BaseView || null` - The parent view, otherwise returns `null`.
-* `getParentWindow()` - Returns `BrowserWindow || null` - The window that the view belongs to, otherwise returns 	`null`
+#### `view.id`
 
-	*Note: The view can belong to either a view or a window.* 
+A `Integer` property representing the unique ID of the view.
+
+#### `view.isContainer`
+
+A `boolean` property that determines whether this view is `ContainerView`.
+
+### Instance Methods
+
+#### `view.setBounds(bounds)`
+
+Resizes and moves the view to the supplied bounds relative to its parent.
+
+#### `view.getBounds()`
+
+Returns the position and size of the view.
+
+#### `view.setBackgroundColor(color)`
+
+Change the background color of the view.
+
+#### `view.getParentView()`
+
+Returns `BaseView || null` - The parent view, otherwise returns `null`.
+
+#### `view.getParentWindow()`
+
+Returns `BrowserWindow || null` - The window that the view belongs to, otherwise returns `null`.
+
+### Events
+
+#### Event: 'size-changed'
+
+Emitted when the view's size has been changed.
+
+ 
+## BrowserWindow 
+
+### New instance methods
+
+#### `win.addChildView(view)`
+
+#### `win.removeChildView(view)`
+
+#### `win.getViews()`
+
+Returns `BaseView[]` - an array of all BaseViews that have been attached
+with `addChildView`.
+
+
+## ContainerView
+
+A `ContainerView` can be used to embed additional views hierarchy into a `BrowserWindow`. It extends `BaseView`.
+
+Process: **Main**
+
+### Instance Methods
+
+#### `containerView.addChildView(view)`
+
+#### `containerView.removeChildView(view)`
+
+#### `containerView.getViews()`
+
+Returns `BaseView[]` - an array of all BaseViews that have been attached
+with `addChildView`.
+
+
+## ScrollView
+
+Show a part of view with scrollbar. 
+The `ScrollView` can show an arbitrary content view inside it. It is used to make
+any View scrollable. When the content is larger than the `ScrollView`,
+scrollbars will be optionally showed. When the content view is smaller
+then the `ScrollView`, the content view will be resized to the size of the
+`ScrollView`.
+The scrollview supports keyboard UI and mousewheel.
+It extends `BaseView`.
+
+Process: **Main**
+
+### Static Methods
+
+#### `ScrollView.fromId(id)`
+
+Returns `ScrollView | null` - The scroll view with the given `id`.
+
+### Instance Methods
+
+#### `scrollView.setContentView(contents)`
+
+Set the contents. The contents is the view that needs to scroll.
+
+#### `scrollView.getContentView()`
+
+Returns `BaseView` - The contents of the `scrollView`.
+
+#### `scrollView.setContentSize(size)`
+
+Set the size of the contents.
+
+#### `scrollView.getContentSize()`
+
+Returns the `size` of the contents.
+
+#### `scrollView.setHorizontalScrollBarMode(mode)`
+
+* `mode` string - Can be one of the following values: `disabled`, `hidden-but-enabled`, `enabled`. Default is `enabled`.
+
+Controls how the horizontal scroll bar appears and functions.
+* `disable` - The scrollbar is hidden, and the pane will not respond to e.g. mousewheel events even if the contents are larger than the viewport.
+* `hidden-but-enabled` - The scrollbar is hidden whether or not the contents are larger than the viewport, but the pane will respond to scroll events.
+*`enabled` - The scrollbar will be visible if the contents are larger than the viewport and the pane will respond to scroll events.
+
+#### `scrollView.setVerticalScrollBarMode(mode)`
+
+Controls how the vertical scroll bar appears and functions.
+
+#### `getHorizontalScrollBarMode()`
+
+Returns `string` - horizontal scrollbar mode.
+
+#### `scrollView.getVerticalScrollBarMode()`
+
+Returns `string` - vertical scrollbar mode.
+
+#### `scrollView.setHorizontalScrollElasticity(elasticity)` _macOS_
+
+* `elasticity` string - Can be one of the following values: `automatic`, `none`, `allowed`. Default is `automatic`.
+
+The scroll view’s horizontal scrolling elasticity mode.
+A scroll view can scroll its contents past its bounds to achieve an elastic effect. 
+When set to `automatic`, scrolling the horizontal axis beyond its document
+bounds only occurs if the document width is greater than the view width,
+or the vertical scroller is hidden and the horizontal scroller is visible.
+* `automatic` - Automatically determine whether to allow elasticity on this axis.
+* `none` - Disallow scrolling beyond document bounds on this axis.
+*`allowed` - Allow content to be scrolled past its bounds on this axis in an elastic fashion.
+
+#### `scrollView.setVerticalScrollElasticity(elasticity)` _macOS_
+
+The scroll view’s vertical scrolling elasticity mode.
+
+#### `scrollView.getHorizontalScrollElasticity()` _macOS_
+
+Returns `string` - The scroll view’s horizontal scrolling elasticity mode.
+
+#### `view.getVerticalScrollElasticity()` _macOS_
+
+Returns `string` - The scroll view’s vertical scrolling elasticity mode.
+
+#### `scrollView.scrollTo(point)` _macOS_
+
+* `point` - The point in the `contentView` to scroll to.
 
 #### Events
 
-* `size-changed`
-  
-- - - 
+#### `scroll-started`
+#### `scroll-ended`
+#### `bounds-did-change`
 
-### BrowserWindow 
 
-#### New instance methods
+## WrapperBrowserView
 
-* `addChildView(view)` 
-* `removeChildView(view)`
-* `getViews()`
-
-- - -
-
-### ContainerView
-
-A `ContainerView` can be used to embed additional views hierarchy into a `BrowserWindow`. It extends `BaseView`
+A `WrapperBrowserView` is the wrapper for `BrowserView`. It extends `BaseView`.
 
 Process: **Main**
 
-#### Static Methods
+### `new WrapperBrowserView([options])`
 
-* `ContainerView.fromId(id)` 
+* `options` Object (optional)
+  * `browserView` (optional)
 
-#### Instance Methods
+### Instance Properties
 
-* `addChildView(view)`
-* `removeChildView(view)`
-* `getViews()` - Returns an array of all BaseViews that have been attached
+#### `view.browserView`
 
+A `BrowserView` object owned by this view.
 
-### ScrollView
-
-Show a part of view with scrollbar.  The `ScrollView` can show an arbitrary content view inside it. It is used to make any View scrollable. When the content is larger than the `ScrollView`, scrollbars will be optionally showed. When the content view is smaller then the `ScrollView`, the content view will be resized to the size of the `ScrollView`. The scrollview supports keyboard UI and mousewheel. It extends `BaseView`.
-
-Process: **Main**
-
-
-#### Static Methods
-
-
-* `ScrollView.fromId(id)`
-
-#### Instance Methods
-
-* `setContentView(contents)` Set the contents. The contents is the view that needs to scroll.
-* `getContentView()`  * Returns The contents of the `view`.
-* `setHorizontalScrollBarMode(mode)` - possible values: `disabled`,  `hidden-but-enabled`, `enabled`. Default is `enabled` 
-  * `disable` - The scrollbar is hidden, and the pane will not respond to e.g. mousewheel events even if the contents are larger than the viewport.
-  * `hidden-but-enabled` - The scrollbar is hidden whether or not the contents are larger than the viewport, but the pane will respond to scroll events.
-  * `enabled` - The scrollbar will be visible if the contents are larger than the viewport and the pane will respond to scroll events.
-* `setVerticalScrollBarMode(mode)` - similar as `setHorizontalScrollBarMode`
-* `getHorizontalScrollBarMode()`
-* `getVerticalScrollBarMode()`
-* `setHorizontalScrollElasticity(elasticity)` (*macOS*) - possible values: `automatic`, `none`, `allowed`. Default is `automatic`.
-  
-  The scroll view’s horizontal scrolling elasticity mode.
-  A scroll view can scroll its contents past its bounds to achieve an elastic effect. 
-  When set to `automatic`, scrolling the horizontal axis beyond its document bounds only occurs if the document width is greater than the view width, or the vertical scroller is hidden and the horizontal scroller is visible.
-  * `automatic` - Automatically determine whether to allow elasticity on this axis.
-  * `none` - Disallow scrolling beyond document bounds on this axis.
-  * `allowed` - Allow content to be scrolled past its bounds on this axis in an elastic fashion.
-
-* `setVerticalScrollElasticity(elasticity)` (_macOS_) - similar to `setHorizontalScrollElasticity`
-* `getHorizontalScrollElasticity()` (_macOS_)
-* `getVerticalScrollElasticity()` (_macOS_)
-* `scrollTo({ x, y })`
-
-
-#### Events
-
-* `scroll-started`
-* `scroll-ended`
-
-
-### WrapperBrowserView
-
-A `WrapperBrowserView` is the wrapper for `BrowserView`. It extends [`BaseView`](base-view.md).
-
-Process: **Main**
-
-* `new WrapperBrowserView([options])` - 
-  * `options.browserView` (*optional*) - If `browserView` is not set then new `BrowserView` is created.
-
-
-#### Instance Properties
-
-* `view.browserView` - a `BrowserView` object owned by this view.
   
 ## Rollout Plan
 
