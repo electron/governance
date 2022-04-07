@@ -36,15 +36,15 @@ scrollContent.setBounds({ width: 2000, height: 500 })
 const browserView1 = new BrowserView()
 const wrapperBrowserView1 = new WrapperBrowserView({ 'browserView': browserView1 });
 wrapperBrowserView1.setBounds({ width: 1000, height: 500 })
-scrollContent.addBrowserView(wrapperBrowserView1)
+scrollContent.addChild(wrapperBrowserView1)
 
 const browserView2 = new BrowserView()
 const wrapperBrowserView2 = new WrapperBrowserView({ 'browserView': browserView2 });
 wrapperBrowserView2.setBounds({ width: 1000, height: 500, x: 1000 })
-scrollContent.addBrowserView(wrapperBrowserView2)
+scrollContent.addChild(wrapperBrowserView2)
 
 scroll.setContentView(scrollContent);
-win.addChildView(scroll);
+win.addChild(scroll);
 ```
 
 
@@ -61,25 +61,9 @@ Process: **Main**
 
 `BaseView` is an EventEmitter
 
-### Static Methods
+### `new BaseView()`
 
-#### `BaseView.getAllViews()`
-
-Returns the array of all created views.
-
-#### `BaseView.fromId(id)`
-
-Returns `BaseView | null` - The view with the given `id`.
-
-### Instance Properties
-
-#### `view.id`
-
-A `Integer` property representing the unique ID of the view.
-
-#### `view.isContainer`
-
-A `boolean` property that determines whether this view is `ContainerView`.
+Creates the new base view.
 
 ### Instance Methods
 
@@ -114,14 +98,14 @@ Emitted when the view's size has been changed.
 
 ### New instance methods
 
-#### `win.addChildView(view)`
+#### `win.addChild(view)`
 
-#### `win.removeChildView(view)`
+#### `win.removeChild(view)`
 
-#### `win.getViews()`
+#### `win.getChildren()`
 
 Returns `BaseView[]` - an array of all BaseViews that have been attached
-with `addChildView`.
+with `addChild`.
 
 
 ## ContainerView
@@ -130,36 +114,36 @@ A `ContainerView` can be used to embed additional views hierarchy into a `Browse
 
 Process: **Main**
 
+### `new ContainerView()`
+
+Creates the new container view.
+
 ### Instance Methods
 
-#### `containerView.addChildView(view)`
+#### `containerView.addChild(view)`
 
-#### `containerView.removeChildView(view)`
+#### `containerView.removeChild(view)`
 
-#### `containerView.getViews()`
+#### `containerView.getChildren()`
 
 Returns `BaseView[]` - an array of all BaseViews that have been attached
-with `addChildView`.
+with `addChild`.
 
 
 ## ScrollView
 
-Show a part of view with scrollbar. 
 The `ScrollView` can show an arbitrary content view inside it. It is used to make
 any View scrollable. When the content is larger than the `ScrollView`,
 scrollbars will be optionally showed. When the content view is smaller
 then the `ScrollView`, the content view will be resized to the size of the
 `ScrollView`.
-The scrollview supports keyboard UI and mousewheel.
 It extends `BaseView`.
 
 Process: **Main**
 
-### Static Methods
+### `new ScrollView()`
 
-#### `ScrollView.fromId(id)`
-
-Returns `ScrollView | null` - The scroll view with the given `id`.
+Creates the new scroll view.
 
 ### Instance Methods
 
@@ -225,9 +209,20 @@ Returns `string` - The scroll view’s horizontal scrolling elasticity mode.
 
 Returns `string` - The scroll view’s vertical scrolling elasticity mode.
 
-#### `scrollView.scrollTo(point)` _macOS_
+#### `view.setScrollPosition(point)` _macOS_
 
 * `point` - The point in the `contentView` to scroll to.
+
+Scrolls the view’s closest ancestor `clipView` object so a point in the
+view lies at the origin of the clip view's bounds rectangle.
+
+#### `view.getScrollPosition()` _macOS_
+
+Returns `Point`
+
+#### `view.getMaximumScrollPosition()` _macOS_
+
+Returns `Point`
 
 #### Events
 
@@ -246,6 +241,8 @@ Process: **Main**
 
 * `options` Object (optional)
   * `browserView` (optional)
+
+If `browserView` is not set then new `BrowserView` is created.
 
 ### Instance Properties
 
