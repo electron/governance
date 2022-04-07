@@ -168,9 +168,9 @@ Returns the `size` of the contents.
 * `mode` string - Can be one of the following values: `disabled`, `hidden-but-enabled`, `enabled`. Default is `enabled`.
 
 Controls how the horizontal scroll bar appears and functions.
-* `disable` - The scrollbar is hidden, and the pane will not respond to e.g. mousewheel events even if the contents are larger than the viewport.
-* `hidden-but-enabled` - The scrollbar is hidden whether or not the contents are larger than the viewport, but the pane will respond to scroll events.
-*`enabled` - The scrollbar will be visible if the contents are larger than the viewport and the pane will respond to scroll events.
+* `disable` - The scrollbar is hidden.
+* `hidden-but-enabled` - The scrollbar is hidden whether or not the contents are larger than the viewport, but the pane will respond to scroll events. This option is not available on MacOS.
+*`enabled` - The scrollbar will be visible if the contents are larger than the viewport.
 
 #### `scrollView.setVerticalScrollBarMode(mode)`
 
