@@ -79,11 +79,11 @@ Returns the position and size of the view.
 
 Change the background color of the view.
 
-#### `view.getParentView()`
+#### `view.getParent()`
 
 Returns `BaseView || null` - The parent view, otherwise returns `null`.
 
-#### `view.getParentWindow()`
+#### `view.getWindow()`
 
 Returns `BrowserWindow || null` - The window that the view belongs to, otherwise returns `null`.
 
