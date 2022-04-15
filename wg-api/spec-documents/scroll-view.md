@@ -23,14 +23,14 @@ More details of the use-case and challenges related to workarounds: [#32751](htt
 ## Usage Example
 
 ```js
-const { BrowserView, BrowserWindow, ContainerView, ScrollView, WrapperBrowserView } = require("electron");
+const { BrowserView, BrowserWindow, BaseView, ScrollView, WrapperBrowserView } = require("electron");
 
 const window = new BrowserWindow({ width: 1000, height: 500 })
 
 const scroll = new ScrollView()
 scroll.setBounds({ width: 1000, height: 500 })
 
-const scrollContent = new ContainerView()
+const scrollContent = new BaseView()
 scrollContent.setBounds({ width: 2000, height: 500 })
 
 const browserView1 = new BrowserView()
@@ -87,6 +87,19 @@ Returns `BaseView || null` - The parent view, otherwise returns `null`.
 
 Returns `BrowserWindow || null` - The window that the view belongs to, otherwise returns `null`.
 
+#### `view.addChild(view)` _Experimental_
+
+* `view` BaseView
+
+#### `view.removeChild(view)` _Experimental_
+
+* `view` BaseView
+
+#### `view.getChildren()` _Experimental_
+
+Returns `BaseView[]` - an array of all BaseViews that have been attached
+with `addChild`.
+
 ### Events
 
 #### Event: 'size-changed' _Experimental_
@@ -107,32 +120,6 @@ Emitted when the view's size has been changed.
 * `view` BaseView
 
 #### `win.getChildren()` _Experimental_
-
-Returns `BaseView[]` - an array of all BaseViews that have been attached
-with `addChild`.
-
-
-## ContainerView
-
-A `ContainerView` can be used to embed additional views hierarchy into a `BrowserWindow`. It extends `BaseView`.
-
-Process: **Main**
-
-### `new ContainerView()` _Experimental_
-
-Creates the new container view.
-
-### Instance Methods
-
-#### `containerView.addChild(view)` _Experimental_
-
-* `view` BaseView
-
-#### `containerView.removeChild(view)` _Experimental_
-
-* `view` BaseView
-
-#### `containerView.getChildren()` _Experimental_
 
 Returns `BaseView[]` - an array of all BaseViews that have been attached
 with `addChild`.
