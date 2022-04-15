@@ -23,7 +23,7 @@ More details of the use-case and challenges related to workarounds: [#32751](htt
 ## Usage Example
 
 ```js
-const { BrowserView, BrowserWindow, BaseView, ScrollView, WrapperBrowserView } = require("electron");
+const { BrowserView, BrowserWindow, BaseView, ScrollView, WebBrowserView } = require("electron");
 
 const window = new BrowserWindow({ width: 1000, height: 500 })
 
@@ -33,15 +33,13 @@ scroll.setBounds({ width: 1000, height: 500 })
 const scrollContent = new BaseView()
 scrollContent.setBounds({ width: 2000, height: 500 })
 
-const browserView1 = new BrowserView()
-const wrapperBrowserView1 = new WrapperBrowserView({ 'browserView': browserView1 });
-wrapperBrowserView1.setBounds({ width: 1000, height: 500 })
-scrollContent.addChild(wrapperBrowserView1)
+const webBrowserView1 = new WebBrowserView()
+webBrowserView1.setBounds({ width: 1000, height: 500 })
+scrollContent.addChild(webBrowserView1)
 
-const browserView2 = new BrowserView()
-const wrapperBrowserView2 = new WrapperBrowserView({ 'browserView': browserView2 });
-wrapperBrowserView2.setBounds({ width: 1000, height: 500, x: 1000 })
-scrollContent.addChild(wrapperBrowserView2)
+const webBrowserView2 = new WebBrowserView()
+webBrowserView2.setBounds({ width: 1000, height: 500, x: 1000 })
+scrollContent.addChild(webBrowserView2)
 
 scroll.setContentView(scrollContent);
 win.addChild(scroll);
@@ -66,6 +64,18 @@ Process: **Main**
 Creates the new base view.
 
 ### Instance Methods
+
+#### `view.setAutoResize(options)` _Experimental_
+
+* `options` Object
+  * `width` boolean (optional) - If `true`, the view's width will grow and shrink together
+    with its parent. `false` by default.
+  * `height` boolean (optional) - If `true`, the view's height will grow and shrink
+    together with its parent. `false` by default.
+  * `horizontal` boolean (optional) - If `true`, the view's x position and width will grow
+    and shrink proportionally with its parent. `false` by default.
+  * `vertical` boolean (optional) - If `true`, the view's y position and height will grow
+    and shrink proportionally with its parent. `false` by default.
 
 #### `view.setBounds(bounds)` _Experimental_
 
@@ -249,26 +259,23 @@ Returns:
 
 Emitted at the end of scroll tracking.
 
-## WrapperBrowserView
+## WebBrowserView
 
-A `WrapperBrowserView` is the wrapper for `BrowserView`. It extends `BaseView`.
+A `WebBrowserView` is the alternative for `BrowserView`. It extends `BaseView`, so it can be used as part of view's hierarchy.
 
 Process: **Main**
 
-### `new WrapperBrowserView([options])` _Experimental_
+### `new WebBrowserView([options])` _Experimental_
 
 * `options` Object (optional)
-  * `browserView` (optional)
-
-If `browserView` is not set then a new `BrowserView` is created.
+  * `webPreferences` (optional)
 
 ### Instance Properties
 
-#### `view.browserView` _Experimental_
+#### `view.webContents` _Experimental_
 
-A `BrowserView` object owned by this view.
+A `WebContents` object owned by this view.
 
-  
 ## Rollout Plan
 
 TBD
