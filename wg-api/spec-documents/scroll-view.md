@@ -23,26 +23,26 @@ More details of the use-case and challenges related to workarounds: [#32751](htt
 ## Usage Example
 
 ```js
-const { BrowserView, BrowserWindow, BaseView, ScrollView, WebBrowserView } = require("electron");
+const { BrowserWindow, View, ScrollView, WebContentsView } = require("electron");
 
 const window = new BrowserWindow({ width: 1000, height: 500 })
 
 const scroll = new ScrollView()
 scroll.setBounds({ width: 1000, height: 500 })
 
-const scrollContent = new BaseView()
-scrollContent.setBounds({ width: 2000, height: 500 })
+const scrollContent = new View()
 
-const webBrowserView1 = new WebBrowserView()
-webBrowserView1.setBounds({ width: 1000, height: 500 })
-scrollContent.addChild(webBrowserView1)
+const webContentsView1 = new WebContentsView({})
+webContentsView1.setBounds({ width: 1000, height: 500 })
+scrollContent.addChildView(webContentsView1)
 
-const webBrowserView2 = new WebBrowserView()
-webBrowserView2.setBounds({ width: 1000, height: 500, x: 1000 })
-scrollContent.addChild(webBrowserView2)
+const webContentsView2 = new WebContentsView({})
+webContentsView2.setBounds({ width: 1000, height: 500, x: 1000 })
+scrollContent.addChildView(webContentsView2)
 
 scroll.setContentView(scrollContent);
-win.addChild(scroll);
+scroll.setContentSize({ width: 2000, height: 500 })
+win.addChildView(scroll)
 ```
 
 
@@ -50,18 +50,18 @@ win.addChild(scroll);
 
 In order to achieve the example above, we've made following changes to the API
 
-## BaseView
+## View
 
-A `BaseView` is a rectangle within the views View hierarchy. It is the base
-class for all all different views. 
+The base class for native UI elements. The current implementation has the
+ability to add child views. In this spec more abilities  are added.
 
 Process: **Main**
 
-`BaseView` is an EventEmitter
+`View` is an EventEmitter
 
-### `new BaseView()` _Experimental_
+### `new View()` _Experimental_
 
-Creates the new base view.
+Creates the new view.
 
 ### Instance Methods
 
@@ -91,24 +91,20 @@ Change the background color of the view.
 
 #### `view.getParent()` _Experimental_
 
-Returns `BaseView || null` - The parent view, otherwise returns `null`.
+Returns `View || null` - The parent view, otherwise returns `null`.
 
 #### `view.getWindow()` _Experimental_
 
-Returns `BrowserWindow || null` - The window that the view belongs to, otherwise returns `null`.
+Returns `BaseWindow || null` - The window that the view belongs to, otherwise returns `null`.
 
-#### `view.addChild(view)` _Experimental_
+#### `view.removeChildView(view)` _Experimental_
 
-* `view` BaseView
-
-#### `view.removeChild(view)` _Experimental_
-
-* `view` BaseView
+* `view` View
 
 #### `view.getChildren()` _Experimental_
 
-Returns `BaseView[]` - an array of all BaseViews that have been attached
-with `addChild`.
+Returns `View[]` - an array of all Views that have been attached
+with `addChildView`.
 
 ### Events
 
@@ -117,22 +113,22 @@ with `addChild`.
 Emitted when the view's size has been changed.
 
  
-## BrowserWindow 
+## BaseWindow 
 
 ### New instance methods
 
-#### `win.addChild(view)` _Experimental_
+#### `win.addChildView(view)` _Experimental_
 
-* `view` BaseView
+* `view` View
 
-#### `win.removeChild(view)` _Experimental_
+#### `win.removeChildView(view)` _Experimental_
 
-* `view` BaseView
+* `view` View
 
 #### `win.getChildren()` _Experimental_
 
-Returns `BaseView[]` - an array of all BaseViews that have been attached
-with `addChild`.
+Returns `View[]` - an array of all Views that have been attached
+with `addChildView`.
 
 
 ## ScrollView
@@ -142,7 +138,7 @@ any View scrollable. When the content is larger than the `ScrollView`,
 scrollbars will be optionally showed. When the content view is smaller
 then the `ScrollView`, the content view will be resized to the size of the
 `ScrollView`.
-It extends `BaseView`.
+It extends `View`.
 
 Process: **Main**
 
@@ -158,7 +154,7 @@ Set the contents. The contents is the view that needs to scroll.
 
 #### `scrollView.getContentView()` _Experimental_
 
-Returns `BaseView` - The contents of the `scrollView`.
+Returns `View` - The contents of the `scrollView`.
 
 #### `scrollView.setContentSize(size)` _Experimental_
 
@@ -191,7 +187,7 @@ Returns `string` - horizontal scrollbar mode.
 
 Returns `string` - vertical scrollbar mode.
 
-#### `scrollView.setHorizontalScrollElasticity(elasticity)` _macOS_ _Experimental_
+#### `scrollView.setHorizontalScrollElasticity(elasticity)` _Experimental_
 
 * `elasticity` string - Can be `automatic`, `none`, `allowed`. Default is `automatic`.
 
@@ -204,17 +200,17 @@ or the vertical scroller is hidden and the horizontal scroller is visible.
 * `none` - Disallow scrolling beyond document bounds on this axis.
 * `allowed` - Allow content to be scrolled past its bounds on this axis in an elastic fashion.
 
-#### `scrollView.setVerticalScrollElasticity(elasticity)` _macOS_ _Experimental_
+#### `scrollView.setVerticalScrollElasticity(elasticity)` _Experimental_
 
 * `elasticity` string - Can be `automatic`, `none`, `allowed`. Default is `automatic`.
 
 The scroll view’s vertical scrolling elasticity mode.
 
-#### `scrollView.getHorizontalScrollElasticity()` _macOS_ _Experimental_
+#### `scrollView.getHorizontalScrollElasticity()` _Experimental_
 
 Returns `string` - The scroll view’s horizontal scrolling elasticity mode.
 
-#### `scrollView.getVerticalScrollElasticity()` _macOS_ _Experimental_
+#### `scrollView.getVerticalScrollElasticity()` _Experimental_
 
 Returns `string` - The scroll view’s vertical scrolling elasticity mode.
 
@@ -259,23 +255,9 @@ Returns:
 
 Emitted at the end of scroll tracking.
 
-## WebBrowserView
-
-A `WebBrowserView` is the alternative for `BrowserView`. It extends `BaseView`, so it can be used as part of view's hierarchy.
-
-Process: **Main**
-
-### `new WebBrowserView([options])` _Experimental_
-
-* `options` Object (optional)
-  * `webPreferences` (optional)
-
-### Instance Properties
-
-#### `view.webContents` _Experimental_
-
-A `WebContents` object owned by this view.
-
 ## Rollout Plan
 
-TBD
+- add the documentation to [Views API (Part 1)](views-api-1-content-view.md)
+- Move the implementation from `BrowserView` to `InspectableWebContentsView` (in particular the implementation of draggable regions)
+- hide all features (added by this spec) behind a command line switch
+
