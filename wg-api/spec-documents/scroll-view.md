@@ -221,16 +221,15 @@ Returns `string` - The scroll view’s vertical scrolling elasticity mode.
 
 * `point` - The point in the `contentView` to scroll to.
 
-Scrolls the view’s closest ancestor `clipView` object so a point in the
-view lies at the origin of the clip view's bounds rectangle.
+Scroll to the horizontal (`point.x`) and vertical (`point.y`) position.
 
 #### `view.getScrollPosition()` _Experimental_
 
-Returns `Point`
+Returns `Point` - The horizontal and vertical scroll position.
 
 #### `view.getMaximumScrollPosition()` _Experimental_
 
-Returns `Point`
+Returns `Point` - The maximum horizontal and vertical scroll position.
 
 #### Events
 
