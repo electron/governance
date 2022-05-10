@@ -48,7 +48,10 @@ win.addChildView(scroll)
 
 ## API Design
 
-In order to achieve the example above, we've made following changes to the API
+- `View` - The base class for native UI elements.
+- `ImageView` - The native UI element that displays image.
+- `WebContentsView` - The native UI element that displays the content of `WebContents`.
+- `ScrollView` - The native UI element that make any View scrollable.
 
 ## View
 
