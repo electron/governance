@@ -247,7 +247,7 @@ Returns:
 
 * `event` Event
 
-Emitted at the beginning of user-initiated scroll tracking.
+Emitted at the beginning of user-initiated scrolling.
 
 #### Event: 'end-scroll' _Experimental_
 
@@ -255,11 +255,11 @@ Returns:
 
 * `event` Event
 
-Emitted at the end of scroll tracking.
+Emitted at the end of user-initiated scrolling.
 
 ## Rollout Plan
 
 - add the documentation to [Views API (Part 1)](views-api-1-content-view.md)
-- Move the implementation from `BrowserView` to `InspectableWebContentsView` (in particular the implementation of draggable regions)
+- Move the implementation of `BrowserView`'s features (in particular the draggable regions) - to get them working properly in `WebContentsView`
 - hide all features (added by this spec) behind a command line switch
 
