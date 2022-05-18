@@ -1,3 +1,8 @@
+---
+action:
+ - close issue
+---
+
 Thank you for reaching out!
 
 The version of Electron reported in this issue has reached end-of-life and is [no longer supported](https://www.electronjs.org/docs/tutorial/support#supported-versions), so this issue will be closed.
