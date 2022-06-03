@@ -259,7 +259,8 @@ Emitted at the end of user-initiated scrolling.
 
 ## Rollout Plan
 
-- add the documentation to [Views API (Part 1)](views-api-1-content-view.md)
-- Move the implementation of `BrowserView`'s features (in particular the draggable regions) - to get them working properly in `WebContentsView`
-- hide all features (added by this spec) behind a command line switch
-
+- duplicate the BrowserView API (setAutoResize, setBounds etc.) into View API; targeting Electron v21
+- add the documentation to [Views API (Part 1)](views-api-1-content-view.md); targeting Electron v21
+- adjust BaseWindow API to support the hierarchy of views (WebContentsViews); targeting Electron v21
+- add the ScrollView API (as experimental); targeting Electron v22
+- optimization the ScrollView with WebContentsViews for performance; targeting Electron v22
