@@ -1,3 +1,8 @@
+---
+action:
+ - add 'blocked/need-repro' label
+---
+
 ## If No Repro Included
 
 Thanks for reporting this and helping to make Electron better!

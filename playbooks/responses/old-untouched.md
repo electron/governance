@@ -1,3 +1,9 @@
+---
+action:
+ - add 'blocked/need-info' label
+ - (optionally) close issue
+---
+
 Thank you for taking the time to report this issue and helping to make
 Electron better.
 
@@ -10,7 +16,7 @@ has been superseded by newer releases -- the latest in that series is {{NEWER}}.
 {{In addition, there are newer branches that supersede that series.}}
 It would help us greatly if you could test this issue with the latest version.
 
-I'm setting the `more-information-needed` label for the above reasons.
+I'm setting the `blocked/need-info` label for the above reasons.
 After you've responded, please @ me in a followup comment.
 
 Thanks in advance! Your help is appreciated.

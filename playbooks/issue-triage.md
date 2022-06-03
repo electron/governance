@@ -85,3 +85,61 @@ Just because something goes on the backlog doesn't mean that it will be addresse
 ## Old, Untouched Issues
 
 Despite everyone's best efforts, old issues will always exist. If you find one that hasn't been touched in a quite a while _and_ you are unable to recreate the behavior, update the issue with the [old, untouched issues response](responses/old-untouched.md)
+
+## Common Responses
+
+This section outlines several common scenarios, and the responses and labels we recommend using for issue triage. It also tries to address several commonly asked questions for those new to the issue triage process.
+
+_NB: The reponses below are meant to be a guide for someone new to triaging issues in Electron, not requirements. If you find an issue while triaging that you think needs a different response than is recommended here, use your own judgement._
+
+#### Low Quality/Spam
+
+Issue did not fill out the issue template:
+  * Reply with [`issue-template` response](https://github.com/electron/governance/blob/main/playbooksrrsponses/fill-template.md)
+git reb
+
+Issue is asking about a third-party dependency, or app-specific JavaScript code
+  * Reply with `send-to-discord` response
+  * Close the issue
+
+Issue is transparently spam
+  * Close the issue (no reply needed)
+
+#### Blocked/Needs Info
+
+Issue does not contain adequate information (i.e., no expected behavior or is on an unsupported version of Electron):
+  * Reply with [`please-test-newer` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/please-test-newer.md), or ask for clarification on missing information
+  * Add `blocked/needs-info` label
+
+Issue has no repro:
+  * Reply with [`needs-repro` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Add `blocked/needs-repro` label
+
+### Has Repro
+
+Issue does contain enough information and has a repro, but you as a triager don't have time to confirm the repro:
+  * Add `has-repro-gist` or `has-repro-repo` label
+  * Add `platform/*` for the affected OS (Mac/Windows/Linux/All)
+  * Add `status/reviewed` label
+
+Issue can be reproduced!
+  * Add `status/confirmed` label
+  * Add `platform/*` for the affected OS (Mac/Windows/Linux/All) if not added
+  * If the issue affects a new version of Electron, add it to the Project Board for the **newest** affected version (i.e. if both 17-x-y and 18-x-y are affected, add it to the 18-x-y Project Board).
+
+### Crash Report
+
+Issue details a crash, but has no repro or crash report attached:
+  * Reply with [`crash-report` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Add `blocked/needs-info` label
+  * Add `crash` label
+
+Issue details a crash and has a crash report attached, but no repro:
+  * Add `crash` label
+  * Try running the .dmp file or report through `electron-minidump` or `electron-symbolicate`. If the crash is only a stacktrace, or if you find you need more symbol information, reply with [`crash-report` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Add `status/reviewed` label
+
+Issue details a crash, and has both a crash report and a repro:
+  * Add `crash` label 
+  * Add `has-repro-gist` or `has-repro-repo` label
+  * Review the repro gist. If the crash can be reproduced, add `status/confirmed` label

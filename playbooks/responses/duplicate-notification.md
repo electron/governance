@@ -1,3 +1,10 @@
+---
+action:
+ - add 'duplicate' label
+ - link to duplicate issue
+ - close issue
+---
+
 Thanks for taking the time to contribute!
 
 We noticed that this is a duplicate of [Issue URL]. You may want to subscribe there for updates.
