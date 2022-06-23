@@ -31,7 +31,7 @@ The project issues list is what the maintainers team uses to guide our work. In 
 In order to be considered `triaged` an issue **must** contain or be edited to contain in the body of the issue:
 
 * **One** and only one issue
-* Specific steps to reproduce the problem or desired behavior (see [Writing Good Bug Reports](http://www.lee-dohm.com/2015/01/04/writing-good-bug-reports/) for an explanation)
+* Specific steps to reproduce the problem or desired behavior (see [Writing Good Bug Reports](https://www.lee-dohm.com/2015/01/04/writing-good-bug-reports/) for an explanation)
 * If the steps to reproduce the problem do not reproduce it 100% of the time, an estimate of how often it reproduces with the given steps and configuration
 * Any other information that is required to reproduce the problem (program version output, OS platform and version, sample Git repository, specific OS configuration, etc)
 
@@ -48,16 +48,16 @@ You'll notice above that the body of the issue gets special mention. The body of
 Keep in mind that this is not the 100% complete maintainer's guide to issues. This is only a triage process. Once everything has been checked, the issue reproduced and appropriate labels have been applied, the triage process is done with the issue. There may be additional maintenance that needs to be done on issues from time to time that isn't and won't be covered here.
 
 1. Person files a new issue
-1. Maintainer checks to ensure they adequately filled out the template. If not, close with the [request to fill out the template](responses/needs-template.md).
-1. If the issue has already been fixed, close with [the already fixed message](responses/already-fixed.md)
-1. If the issue is a duplicate, label with `duplicate` and close with [the duplicate notification](responses/duplicate-notification.md)
-1. If the issue is feedback for the maintainers, label with `feedback`, and close with the [the feedback message](responses/feedback.md)
-1. If the issue is not a bug or enhancement, label with `discussion` and close with the [not-an-issue message](responses/not-an-issue.md)
-1. If the issue is reported on an unsupported version of Electron, close the issue with the [end-of-life message](responses/end-of-life.md)
+1. Maintainer checks to ensure they adequately filled out the template. If not, close with the [`needs-template` message](responses/needs-template.md).
+1. If the issue has already been fixed, close with [the `already-fixed` message](responses/already-fixed.md)
+1. If the issue is a duplicate, label with `duplicate` and close with [the `duplicate-notification` message](responses/duplicate-notification.md)
+1. If the issue is feedback for the maintainers, label with `feedback`, and close with the [the `feedback` message](responses/feedback.md)
+1. If the issue is not a bug or enhancement, label with `discussion` and close with the [`not-an-issue` message](responses/not-an-issue.md)
+1. If the issue is reported on an unsupported version of Electron, close the issue with the [`end-of-life` message](responses/end-of-life.md)
 1. If anything is unclear but the template is adequately filled out, post what questions you have and label with `blocked/need-info`
-1. If the issue would be time-consuming because it lacks a test -- e.g., the issue is ambiguous, or a new test is needed for the steps required to trigger the bug, or the reporter invites you to triage their production application, respond with [blocked-needs-repro response](responses/blocked-needs-repro.md) and add the `blocked/needs-repro` label.
+1. If the issue would be time-consuming because it lacks a test -- e.g., the issue is ambiguous, or a new test is needed for the steps required to trigger the bug, or the reporter invites you to triage their production application, respond with [`blocked-needs-repro` response](responses/blocked-needs-repro.md) and add the `blocked/needs-repro` label.
 1. Maintainer attempts to reproduce the problem
-    1. If the problem is not reproducible, label with `needs-reproduction` and ask the author of the issue for [clarification on the repro steps](responses/repro-steps.md)
+    1. If the problem is not reproducible, label with `needs-reproduction` and ask the author of the issue for [clarification on the repro steps](responses/blocked-needs-repro.md)
     1. If the problem is reproducible, label with `triaged`
 
 For issues that have been labeled `triaged`:
@@ -66,7 +66,7 @@ For issues that have been labeled `triaged`:
 
 ## More Information Needed
 
-Periodically we should be doing a sweep of issues that are open and labeled `blocked/need-info` or `blocked/needs-repro`. If the original poster has not responded within two weeks after the last question by an official maintainer, close the issue with [the no response message](responses/no-response.md).
+Periodically we should be doing a sweep of issues that are open and labeled `blocked/need-info` or `blocked/needs-repro`. If the original poster has not responded within two weeks after the last question by an official maintainer, close the issue with [the `no-response` message](responses/no-response.md).
 
 ## Needs Reproduction
 
@@ -84,7 +84,7 @@ Just because something goes on the backlog doesn't mean that it will be addresse
 
 ## Old, Untouched Issues
 
-Despite everyone's best efforts, old issues will always exist. If you find one that hasn't been touched in a quite a while _and_ you are unable to recreate the behavior, update the issue with the [old, untouched issues response](responses/old-untouched.md)
+Despite everyone's best efforts, old issues will always exist. If you find one that hasn't been touched in a quite a while _and_ you are unable to recreate the behavior, update the issue with the [`old-untouched` response](responses/old-untouched.md)
 
 ## Common Responses
 
@@ -95,11 +95,10 @@ _NB: The reponses below are meant to be a guide for someone new to triaging issu
 #### Low Quality/Spam
 
 Issue did not fill out the issue template:
-  * Reply with [`issue-template` response](https://github.com/electron/governance/blob/main/playbooksrrsponses/fill-template.md)
-git reb
+  * Reply with [`needs-template` response](responses/needs-template.md)
 
 Issue is asking about a third-party dependency, or app-specific JavaScript code
-  * Reply with `send-to-discord` response
+  * Reply with [`not-an-issue` response](responses/not-an-issue.md)
   * Close the issue
 
 Issue is transparently spam
@@ -108,11 +107,11 @@ Issue is transparently spam
 #### Blocked/Needs Info
 
 Issue does not contain adequate information (i.e., no expected behavior or is on an unsupported version of Electron):
-  * Reply with [`please-test-newer` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/please-test-newer.md), or ask for clarification on missing information
+  * Reply with [`old-version` response](responses/old-version.md), or ask for clarification on missing information
   * Add `blocked/needs-info` label
 
 Issue has no repro:
-  * Reply with [`needs-repro` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Reply with [`blocked-needs-repro` response](responses/blocked-needs-repro.md)
   * Add `blocked/needs-repro` label
 
 ### Has Repro
@@ -130,13 +129,13 @@ Issue can be reproduced!
 ### Crash Report
 
 Issue details a crash, but has no repro or crash report attached:
-  * Reply with [`crash-report` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Reply with [`crash-report` response](responses/crash-report.md)
   * Add `blocked/needs-info` label
   * Add `crash` label
 
 Issue details a crash and has a crash report attached, but no repro:
   * Add `crash` label
-  * Try running the .dmp file or report through `electron-minidump` or `electron-symbolicate`. If the crash is only a stacktrace, or if you find you need more symbol information, reply with [`crash-report` response](https://github.com/electron/governance/blob/main/wg-releases/issue-playbook/needs-repro.md)
+  * Try running the .dmp file or report through `electron-minidump` or `electron-symbolicate`. If the crash is only a stacktrace, or if you find you need more symbol information, reply with [`crash-report` response](responses/crash-report.md)
   * Add `status/reviewed` label
 
 Issue details a crash, and has both a crash report and a repro:
