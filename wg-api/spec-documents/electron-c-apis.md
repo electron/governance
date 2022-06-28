@@ -16,7 +16,7 @@ There are 2 reasons:
 
 The majority of Electron’s JavaScript APIs are about accessing native resources of the operating system; some of them could not be implemented as native modules because they need to interact with Electron and Chromium’s resources.
 
-For example, the `TouchBar` and `inAppPurchase` APIs must live as built-in APIs because the JavaScript bindings must interact with internal `NSApp` and `NSWindow`, and there is no non-intrusive way doing that outside Electron.
+For example, the `TouchBar` and `inAppPurchase` APIs must live as built-in APIs because the JavaScript bindings must interact with internal `ElectronApplicationDelegate` and `ElectronNSWindowDelegate`, and there is no non-intrusive way doing that outside Electron.
 
 With Electron C APIs we can make it possible to have those APIs as native modules. This can make Electron less bloating since we don't have to make every new API a built-in API , and for users who want to add a large set of new APIs they can now only request a few minimal C APIs in Electron and then implement anything they want in native modules.
 
@@ -28,11 +28,7 @@ Some people may already know that the official releases of VS Code and Teams use
 
 __Note that this spec does not define any speicific API and the C APIs used in this spec are only for demonstration, the actual APIs should be discussed in follwoup PRs.__
 
-The Electron C APIs should be very cheap: they only take minimal disk space, usually less than 40 bytes per API since they are just thin wrappers; and they have no runtime cost.
-
-The Electron C APIs should need no API desgin: they are mostly direct C wrappers of C++ interface.
-
-The Electron C APIs should be easy to pass API review: if there is an actual usage we should be able to approve a C API quickly, since they are usually cheap and exposing an existing API.
+The Electron C APIs should be very cheap: they only take minimal disk space, usually less than 100 bytes per API since they are just thin wrappers; and they have no runtime cost.
 
 To use the Electron C APIs in native modules, users only need to include the related headers:
 
