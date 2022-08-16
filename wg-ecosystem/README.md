@@ -15,6 +15,8 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
+| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | VerteDinde [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+
 
 ## Current Objective and Key Results
 **Objective:**
