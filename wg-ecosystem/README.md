@@ -16,6 +16,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | VerteDinde [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | CST (Shanghai) |
 
 
 ## Current Objective and Key Results
