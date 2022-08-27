@@ -2,9 +2,8 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-
-# This workflow will install Deno then run Deno lint and test.
-# For more information see: https://github.com/denoland/setup-deno
+This workflows will installs Deno then run Deno lint and test:
+For more information see: https://github.com/denoland/setup-deno
 
 name: Deno
 
@@ -243,17 +242,3202 @@ steps:
     echo "===================================================================================
     'equire':'' 'test''
     Return:'' 'Run ''
-Use our navigation at the top of the page
-Return to the previous page
-Check the URL and try again
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zakwarlord7 
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+github
+/
+docs
+Public
+Code
+Issues
+108
+Pull requests
+64
+Discussions
+Actions
+Projects
+3
+Security
+Insights
+Update about-releases.md and Rename to MINUTEMAN #19976
+ Open
+zakwarlord7 wants to merge 3 commits into github:main from zakwarlord7:patch-43
+ Open
+Update about-releases.md and Rename to MINUTEMAN
+#19976
+zakwarlord7 wants to merge 3 commits into github:main from zakwarlord7:patch-43
++8 −19 
+ Conversation 2
+ Commits 3
+ Checks 0
+ Files changed 2
+Conversation
+zakwarlord7
+zakwarlord7 commented 9 days ago • 
+Run://::Runs:-on:
+-on:'::
+::Presses:'
+Start:'"''
+'"Start'":'' '"Selects'"':'' '"Run''
+Runs::/:Run::/:Type::/:scripts::/:Script::/:Build::/""build_script'"':''
+'"Build_script'"':'' '"Build'' 'and'' 'Deploy'"''
+'Build and Deploy : build_script
+buiuld_script : DEPOSIT_TICKET
+DEPOSIT_TICKET : '"'''''https://finsight.com/deal-34620-alphabet-inc-googl-2016-1'''''"''
+Publish::
+LAunch::
+Release::
+Deploy:: Deposit'@47-2041-6547'@071921891'@pnc.com/my-business/
+:Build::
+
+SoFi Consumer Loan Program 2021-1 Trust
+Rating Summary
+Class Amount ($) Coupon (%) Rating Rating Action
+A 187,000,000 [TBD] AAA (sf) New Rating – Provisional
+B 13,200,000 [TBD] AA (sf) New Rating – Provisional
+C 16,100,000 [TBD] A (sf) New Rating – Provisional
+D 16,200,000 [TBD] BBB (sf) New Rating – Provisional
+Total 232,500,000
+Note: In addition to the Notes listed above, the trust will issue two classes of unrated Class R Certificates.
+Executive Summary
+DBRS, Inc. (DBRS Morningstar) assigned provisional ratings to the SoFi Consumer Loan Program 2021-1
+Trust (SCLP 2021-1) Class A Notes, Class B Notes, Class C Notes, and Class D Notes (together, the
+Notes). SCLP 2021-1 represents the 22nd rated term asset-backed security (ABS) transaction sponsored
+by SoFi Lending Corp. (SoFi) and collateralized by unsecured consumer loans. Overall, this is the 54th
+rated term ABS transaction sponsored by SoFi, 32 of which have been collateralized by student loan
+refinancing loans.
+SoFi began making refinanced student loans in 2012, targeting creditworthy professionals, principally
+from graduate schools and top-tier undergraduate schools. In 2014, SoFi began to originate mortgage
+loans, and in 2015, it further expanded its product line to include consumer loans. SoFi determined that
+it could offer its student loan customers additional types of financing due to this momentum and, in
+general terms, a lack of lenders in the home equity market.
+The company expanded its underwriting in the consumer loan portfolio to differentiate higher-quality
+obligors through additional credit work and cash flow analysis. To this end, SoFi underwrites based on
+an obligor’s ability to repay for all products, which includes evaluating an obligor’s credit bureau report
+to ascertain the creditworthiness of the applicant, in addition to employment and income verifications.
+These factors, in conjunction with others, are incorporated in SoFi’s free cash flow (FCF) and real excess
+cash flow (REC) analysis, which measures a prospective borrower’s ability to repay the loan after basic
+payments amounts are taken into account (i.e., taxes, housing, debt obligations) and helps to determine
+a credit tier in SoFi’s proprietary risk scoring system. These tiers influence the pricing and loan amounts
+for which borrowers qualify.
+DBRS Morningstar
+September 27, 2021
+Contents
+1 Rating Summary
+1 Executive Summary
+2 Transaction Parties and Relevant Dates
+3 Rating Rationale
+4 Considerations
+6 Originator
+7 Servicer
+9 Collateral
+13 Transaction Structure
+19 Credit Enhancement
+20 Cash Flow Analysis
+21 Legal Structure and Opinions
+22 Appendix A – Cash Flow Details
+Imran Ansari
++1 212 806-3902
+imran.ansari@dbrsmorningstar.com
+Jeremy Keegan
++1 212 806-3209
+jeremy.keegan@dbrsmorningstar.com
+Stephanie Whited
++1 212 806-3948
+stephanie.whited@dbrsmorningstar.com
+Page 2 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Transaction Parties and Relevant Dates
+Ultimate Parent Company: Social Finance, Inc.
+Originating Lender, Administrator, Sponsor, and Servicer: SoFi Lending Corp.
+Underlying Trust: SoFi Consumer Loan Program Grantor Trust 2021-1
+Issuer: SoFi Consumer Loan Program 2021-1 Trust
+Back-Up Servicer: Systems & Services Technologies, Inc.
+Indenture Trustee: Wilmington Trust, National Association (rated AA (low),
+Negative trend/R-1 (middle), Stable trend, by DBRS
+Owner Trustee: Morningstar Wilmington Savings Fund Society, FSB
+Certificates Paying Agent: Wilmington Trust Company
+Underlying Trustee Manufacturers and Traders Trust Company
+Loan Data Agent: DV01, Inc.
+Cut-Off Date: August 22, 2021
+Closing Date: October 7, 2021
+Payment Date: Monthly, on the 25th of each month, or next business day
+First Payment Date: November 26, 2021
+Final Maturity Date: Class A Notes: September 25, 2030
+Class B Notes: September 25, 2030
+Class C Notes: September 25, 2030
+Class D Notes: September 25, 2030
+Note: Various capitalized terms are used throughout this report. Please refer to the transaction documents for more information and/or definitions of
+those terms.
+Executive Summary (continued)
+Borrower profiles are slightly different for the consumer loan portfolio than the student loan refinancing
+portfolio. Compared with the most recent student loan refinancing transaction issued by SoFi, SoFi
+Professional Loan Program 2021-B (SoFi 2021-B), consumer loan obligors in the SCLP 2021-1 transaction
+have slightly lower income ($164,808 for SCLP 2021-1 versus $167,252 for SoFi 2021-B) and slightly
+lower credit scores (754 for SCLP 2021-1 versus 778 for SoFi 2021-B).
+DBRS Morningstar used a proxy approach to supplement the SoFi data to determine cash flow modeling
+assumptions for this transaction. The DBRS Morningstar weighted average default and net loss
+assumptions are 5.81% and 5.52%, respectively.
+SoFi uses a third-party servicer for its student loan refinancing and mortgage products, but it services
+100% of its consumer loan portfolio. Approximately 88.9% (by count) of the consumer loan obligors pay
+via Automated Clearing House (ACH), which minimizes SoFi’s cash processing efforts and increases
+payment capture rates.
+The Notes will be collateralized by a pool of fixed-rate unsecured consumer loans that fully amortize over
+their set maturity terms. This is the fifth SCLP transaction to include two-year loans and the ninth SCLP
+transaction to include four-year and six-year loans; prior transactions were comprised entirely of threeyear, five-year and seven-year loans. Prior to their issuance, these loans were owned by the sponsor, its
+Page 3 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+financing subsidiaries or investors who purchased the loans from the sponsor. The sponsor has secured
+warehouse facilities from both large and regional commercial banks.
+The structure includes a fully funded Reserve Account (0.50% of the initial aggregate principal amount
+of the Notes), overcollateralization (7.00%) and subordination (as a percentage of the initial aggregate
+principal amount of the Notes) in the form of the Class B Notes (5.68%), Class C Notes (6.92%) and Class
+D Notes (6.97%). The Notes will bear interest based on fixed rates that will be determined at pricing.
+Rating Rationale
+The provisional ratings on the Notes are based upon a review by DBRS Morningstar of the following
+considerations:
+• The transaction assumptions consider DBRS Morningstar’s baseline macroeconomic scenarios for rated
+sovereign economies, available in its commentary Baseline Macroeconomic Scenarios For Rated
+Sovereigns, published on September 8, 2021. These baseline macroeconomic scenarios replace DBRS
+Morningstar’s moderate and adverse COVID-19 pandemic scenarios, which were first published in April
+2020. The baseline macroeconomic scenarios reflect the view that, although COVID-19 remains a risk to
+the outlook, uncertainty around the macroeconomic effects of the pandemic has gradually receded.
+Current median forecasts considered in the baseline macroeconomic scenarios incorporate some risks
+associated with further outbreaks, but remain fairly positive on recovery prospects given expectations of
+continued fiscal and monetary policy support. The policy response to COVID-19 may nonetheless bring
+other risks to the forefront in coming months and years.
+• DBRS Morningstar's projected losses include the assessment of the impact of the
+coronavirus. The DBRS Morningstar CNL assumption is 5.52% based on the Cut-Off Date
+pool composition.
+• DBRS Morningstar incorporated in its analysis a hardship deferment stress as a result of an
+increase in utilization related to the impact of the coronavirus on borrowers. DBRS
+Morningstar stressed hardship deferments to test liquidity risk early in the life of the
+transaction’s cash flows.
+• The transaction’s form and sufficiency of available credit enhancement.
+• Subordination, overcollateralization, amounts held in the reserve account and excess spread
+create credit enhancement levels that are commensurate with the proposed ratings.
+• Transaction cash flows are sufficient to repay investors under all AAA (sf), AA (sf), A (sf), and
+BBB (sf) stress scenarios in accordance with the terms of the SCLP 2021-1 transaction
+documents.
+• Structural features of the transaction that require the Notes to enter into full turbo principal amortization
+if certain performance triggers are breached or if credit enhancement deteriorates.
+• The credit quality of the transaction’s underlying collateral pool.
+• The credit characteristics of the borrowers in the transaction’s collateral pool (specifically,
+weighted average FICO score and FCF) are the strongest to date.
+• The experience, underwriting and origination capabilities of SoFi.
+• The ability of the Servicer to perform servicing and collections on the collateral pool and other required
+activities.
+• The ability of Systems & Services Technologies, Inc. (SST) to perform duties as a Back-Up Servicer.
+Page 4 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+• The legal structure and expected legal opinions that will address the true sale of the personal loans, the
+non-consolidation of the trust and that the trust has a valid first-priority security interest in the assets,
+and consistency with the DBRS Morningstar Legal Criteria for U.S. Structured Finance.
+Considerations
+Operating History
+• Founded in 2011, SoFi is a relatively new company. The company’s initial business line was student loan
+refinancing; in late 2014/early 2015, it expanded its loan offerings to include consumer loans and
+mortgage loans. The company does not service the student loan refinancing product or the mortgage
+product. The company hired servicing staff and a team of collectors to service the consumer loan
+portfolio. As the consumer loan portfolio has grown, SoFi has hired experienced servicing personnel and
+collectors to manage this portfolio efficiently. SoFi could experience financial stress that could result in
+its inability to perform certain duties or to fulfill repurchase obligations as a result of certain breaches of
+representations and warranties. DBRS Morningstar notes the following mitigating factors:
+• DBRS Morningstar has performed an operational risk assessment of SoFi and believes the
+company to be an acceptable consumer loan originator and servicer. SoFi has an
+experienced management team, an adequate level of capital and sufficient balance sheet.
+• SoFi has elected to service these loans. Approximately 88.9% (by count) of the obligors pay
+via ACH, so the servicing department is currently modestly staffed, except for the more
+complicated special situations where obligors have either filed for bankruptcy or are in
+charge-off status or leading up to charge-off.
+• SST was hired as a Back-Up Servicer in 2015. SST will act as Back-Up Servicer if SoFi (as
+Servicer) fails to perform certain obligations or upon certain events of bankruptcy or
+insolvency.
+Availability of Historical Performance Data
+• DBRS Morningstar has sized expected loss assumptions based on proxy data because of SoFi’s limited
+operational and performance history. DBRS Morningstar has limited performance data to determine its
+expectations for the SCLP 2021-1 consumer loan pool.
+• Additionally, the company issues two-year, four-year, six-year and seven-year term loans (10.2%, 24.4%,
+4.3% and 6.1% of the loans in the pool by current balance, respectively) to obligors. This makes a proxy
+approach more challenging because of the lack of comparable term loan data. Further, there has yet to
+be a recession for loans originated through SoFi’s consumer loan lending platform, and thus the
+performance of this particular type of consumer loan in a stressed economic environment has yet to be
+established.
+• The derivation of the SCLP 2021-1 expected case default rate and other key assumptions,
+such as the timing of defaults, recoveries and prepayment speeds, was conducted by
+analyzing industry data and historical performance from other consumer loan issuers in both
+stressed and benign economic environments. DBRS Morningstar took into account historical
+static pool default data and existing consumer loan securitization trust performance, as well
+as performance data and statistics provided by SoFi with respect to its consumer loan
+Page 5 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+program and consumer loans from other lenders in the market. DBRS Morningstar considers
+the data sets to be adequate to perform its rating analysis for the ratings assigned.
+The updated expected case CNL assumptions due to the expected impact of the coronavirus pandemic
+for the SCLP 2021-1 pool by term segments are as follows:
+Loan Term CNL (%)
+24 month 1.38
+36 month 2.75
+48 month 3.85
+60 month 7.98
+72 month 8.80
+84 month 11.55
+Quality of Borrowers
+• The SCLP 2021-1 pool contains a weighted average FICO score of 753. Additionally, the consumer loans
+have a weighted average borrower income of $164,808 and a weighted average borrower monthly FCF
+after expenses of $6,248.
+• Compared with the most recent student loan refinancing transaction issued by SoFi (SoFi 2021-B),
+consumer loan obligors in this transaction have slightly lower income ($164,808 for SCLP 2021-1 versus
+$167,252 for SoFi 2021-B) and slightly lower credit scores (754 for SCLP 2021-1 versus 778 for SoFi 2021-
+B).
+• As of the Cut-Off Date, the SCLP 2021-1 pool includes 7,811 accounts. A large portion of the borrowers
+(78.8% of the pool current balance) are homeowners.
+Deal Trigger
+A Turbo Trigger will be in effect on any Monthly Payment Date if either:
+
+The Pool Balance as of the end of the related Collection Period is less than 10% of the Initial Pool
+Balance, or;
+The Cumulative Net Loss Rate as of the last date of any prior Collection Period has exceeded the
+applicable Cumulative Net Loss Rate Trigger Amount set forth in Appendix A.
+This Turbo Trigger is curable at certain dates. This structural trigger will cause a lockout of any
+distributions to the Certificateholders, further enhancing the speed of paydown of the Notes if tripped.
+Page 6 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Originator
+SoFi Lending Corp. is a wholly owned subsidiary of Social Finance, Inc. SoFi was founded in 2011 by a
+group of Stanford MBA alumni, based on the idea of taking advantage of certain inefficiencies within
+the student loan market. Since its founding, SoFi’s primary focus has been a student loan refinancing
+product targeting creditworthy professionals principally from graduate schools and top-tier
+undergraduate schools. Since its inception, SoFi’s employee base has grown to over 2,300 professionals
+(full-time equivalent) as of June 30, 2021, with backgrounds across the consumer financial services and
+financial technology landscape. In 2014, SoFi began expanding into different asset categories within the
+consumer lending space, including consumer loans and mortgages. SoFi has an experienced executive
+management team with several years of consumer loan and finance experience. SoFi sources loans from
+a variety of channels, including referrals, web, mail and corporate partners. Under the corporate
+partnership program launched in the fall of 2013, SoFi works with companies to incent employees to
+refinance education loans with, and obtain consumer loans from, SoFi. Income is verified on all loans
+other than those with a certain credit score and balance below $40,000. Employment is verified in all
+cases where an offer letter indicating a future start date is provided as proof of income and on a random
+sample of all other applicants.
+SoFi operates and maintains its own origination and underwriting platform for personal loans. Credit
+underwriting is centrally managed out of SoFi’s headquarters in San Francisco, California, though the
+majority of the credit underwriting is implemented from offices located in Healdsburg, California, and
+Cottonwood Heights, Utah. SoFi possesses state licenses, as needed, in states where it conducts lending
+activities.
+SoFi maintains a proprietary underwriting and servicing platform, which is integrated with the
+origination system. Documentation and verifications used to support the decision-making process
+include credit bureau reports, employment verification and income verification. These will be used to
+determine the amount and pricing for a loan. Credit underwriting is divided by levels of authority, with
+limited exceptions requiring senior approval. Controls are in place to ensure loan processes are
+completed. SoFi uses automatic declines in both the consumer loan and student loan refinancing
+portfolios, which are more broadly applied in consumer loan underwriting. SoFi has refined its lending
+approach, emphasizing underwriting based on a borrower’s ability to repay, which incorporates multiple
+levels of analysis.
+SoFi continues to invest in its control environment. To this end, the company has tripled its compliance
+staff over the past 18 months and developed and implemented an enterprise compliance assurance
+process. In December 2015, SoFi formally established an Internal Audit function with reporting directly
+to the Audit Committee of the Board of Directors. The Internal Audit group became fully operational in
+2016 and completed their first annual review in 2017. While all audit results are reported to the Audit
+Committee, SoFi management declined to share the results with DBRS Morningstar and indicated that
+the company does not share internal audit results externally.
+Page 7 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+To resolve an open inquiry from a federal agency related to an issue with its advertising disclosure, SoFi
+may agree to certain guidelines for future advertisements. Based on the information currently available,
+SoFi will not be admitting any wrongdoing and will not be obligated to pay a monetary penalty.
+Therefore, it is not expected that there will be a material adverse effect on either SoFi or the Holders of
+the Notes.
+Servicer
+SoFi will be responsible for servicing, maintaining custody of, and making collections on the trust
+personal loans. SoFi’s servicing system is integrated with its loan origination platform, allowing
+customer service representatives to view the history of the customer relationship. SoFi operates its
+servicing platform from its Healdsburg office as well as new locations recently opened in Utah and
+Delaware.
+The company regularly reviews staffing capacity and does not rely on outside servicing support. Once
+funded loans are boarded onto SoFi’s proprietary servicing system, procedures are maintained that
+govern verification and monitoring.
+Borrowers are billed on a monthly basis on either of two billing cycles, and statements are delivered
+prior to the payment due date. If a borrower enrolls in autopay after disbursement, an autopay discount
+rate of 0.25% is applied, the loan is recapitalized and the monthly payment is reduced, which would be
+available to the borrower while enrolled. A significant percentage (88.9% by count) of the consumer loan
+borrowers pay via ACH.
+Collections activities begin on the first day after the payment due date, with notes maintained for
+collection activities. SoFi uses calls made by collection agents and written notices as part of its collection
+practices. Calls are recorded and agent performance is tracked. Delinquencies are tracked on a daily
+basis. Skip trace activities are conducted and include obtaining a valid address and telephone number.
+SoFi offers four types of forbearance as workout options: unemployment forbearance, military
+forbearance, natural disaster forbearance and admin forbearance. Payment holidays, re-aging or formal
+repayment plans are not offered. Charge-offs occur during the month in which a loan becomes 120 days
+delinquent. Third-party collection agencies and law firms are used for charged off debt collections.
+SoFi’s limited performance history is shown below:
+Page 8 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+SoFi Managed Portfolio – Cumulative Gross Defaults %
+Exhibit 2 SoFi Managed Portfolio - Cumulative Gross Defaults %
+Source: DBRS Morningstar.
+In an effort to provide professional support to its borrowers and to improve servicing communication
+with both challenged and performing customers, SoFi established a Career Services group to provide
+borrowers assistance, at no charge, with professional networking, resume design, interview practice and
+salary negotiation. Any SoFi obligor may choose to use career counseling, regardless of employment
+status.
+The core servicing system was developed on the same platform as the origination platform. The
+borrower and loan information is integrated in the transition from origination to servicing. All sensitive
+customer data is encrypted and access is limited. SoFi maintains measures to ensure business continuity
+in the event of a significant business disruption by creating secure, encrypted back-ups of customer and
+internal data on a regular basis.
+SoFi benefits from having SST provide back-up servicing. SST was engaged as Back-Up Servicer in
+September 2015 and is experienced in servicing receivables, having serviced loans and receivables with
+an original balance of more than $28.0 billion. SST was founded in 1995 and provides primary servicing
+for portfolio transfers, conduits and ABS, and back-up servicing to the ABS term and warehouse lending
+markets. SST provides end-to-end loan servicing solutions for auto, RV, marine, motorcycle, powersport
+and unsecured consumer loans, as well as credit cards and other consumer receivables. As of June 30,
+2021, SST services 666,699 active accounts with an aggregate balance of approximately $5 billion. It
+manages deficiency/charge-off placements on a contingency-fee basis through one or more service
+providers.
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+14.00%
+1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 67 69 71 73
+2015 - Q2 2015 - Q3 2015 - Q4 2016 - Q1 2016 - Q2 2016 - Q3 2016 - Q4 2017 - Q1 2017 - Q2
+2017 - Q3 2017 - Q4 2018 - Q1 2018 - Q2 2018 - Q3 2018 - Q4 2019 - Q1 2019 - Q2 2019 - Q3
+2019 - Q4 2020 - Q1 2020 - Q2 2020 - Q3 2020 - Q4 2021 - Q1 2021 - Q2
+Page 9 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Collateral
+SCLP 2021-1 consists of consumer loans to high-credit quality borrowers who have significant incomes
+and excess cash flow. The following table is a comparison of certain characteristics of the consumer
+loans, broken down by tenor, backing SCLP 2021-1 as of the Cut-Off Date.
+24 Month 36 Month 48 Month 60 Month 72 Month 84 Month Total
+Aggregate Original Principal Balance ($) 28,011,189 52,322,203 63,069,282 90,262,454 11,073,033 15,576,684 260,314,845
+Aggregate Current Principal Balance ($) 25,556,791 49,385,232 60,881,341 88,043,786 10,813,605 15,319,895 250,000,650
+Number of Loans 1,157 1,785 1,672 2,400 329 468 7,811
+Average Current Loan Size ($) 22,089 27,667 36,412 36,685 32,868 32,735 32,006
+Average Original Loan Size ($) 24,210 29,312 37,721 37,609 33,657 33,284 33,327
+Weighted Average Original Term (months) 24 36 48 60 72 84 51
+Weighted Average Remaining Term (months) 21 33 45 57 69 81 48
+Remaining Term (range) 19 to 23 31 to 35 43 to 47 55 to 59 67 to 71 79 to 83 19 to 83
+Weighted Average Seasoning (months) 3 3 3 3 3 3 3
+Seasoning (range) 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5
+Weighted Average FICO 764 756 746 752 761 760 753
+Weighted Average Borrower Rate (%) 8.32 9.46 11.37 11.55 11.78 13.22 10.88
+Borrower Rate (range) (%) 5.37 to
+14.99
+5.74 to
+15.13
+7.09 to
+16.33
+7.53 to
+17.50
+9.14 to
+14.55
+11.09 to
+15.84
+5.37 to
+17.50
+Weighted Average FCF ($) 7,061 6,398 5,905 6,263 5,630 6,129 6,248
+Weighted Average Income ($) 182,414 167,102 161,540 164,648 144,914 155,986 164,808
+Weighted Average Credit Score 764 757 746 752 761 761 754
+SoFi underwriting procedures incorporate the results of an FCF and STP analysis for each obligor.
+Approximately 54.7% of the pool consists of loans with a original balance of less than $50,000. DBRS
+Morningstar analyzed the impact of the FCF and average income and compared those measures to the
+aggregate pool above. On average, loans with original balances less than $50,000 had a weighted
+average FCF of approximately 78.7% of the weighted average FCF for the entire pool, and loans with
+original balances greater than or equal to $50,000 had a weighted average FCF of approximately 125.7%
+of the weighted average FCF for the entire pool. Likewise, loans with original balances less than $50,000
+had a lower weighted average income than that of the entire pool, while loans with original balances
+greater than or equal to $50,000 had a higher weighted average income than that of the
+entire pool.
+Page 10 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Loans With Original Balances Less Than $50,000
+24 Month 36 Month 48 Month 60 Month 72 Month 84 Month Total
+Aggregate Original Principal Balance ($) 18,197,632 32,037,399 30,848,813 44,311,168 7,493,463 9,838,632 142,727,108
+Aggregate Current Principal Balance ($) 16,648,563 30,249,579 29,735,015 43,179,109 7,321,886 9,700,346 136,834,500
+Number of Loans 1,016 1,483 1,184 1,717 269 369 6,038
+Average Current Loan Size ($) 16,386 20,398 25,114 25,148 27,219 26,288 22,662
+Average Original Loan Size ($) 17,911 21,603 26,055 25,807 27,857 26,663 23,638
+Weighted Average Original Term 24 36 48 60 72 84 50
+Weighted Average Remaining Term 21 33 45 57 69 81 47
+Remaining Term (range) 19 to 23 31 to 35 43 to 47 55 to 59 67 to 71 79 to 83 19 to 83
+Weighted Average Seasoning 3 3 3 3 3 3 3
+Seasoning (range) 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5
+Weighted Average FICO 763 749 742 746 759 756 749
+Weighted Average Borrower Rate (%) 8.56 9.89 11.71 12.11 11.91 13.42 11.18
+Borrower Rate (range) (%) 5.37 to
+14.99
+5.74 to
+15.13
+7.09 to
+16.33
+7.53 to
+17.50
+9.14 to
+14.55
+11.09 to
+15.84
+5.37 to
+17.50
+Weighted Average FCF ($) 5,605 4,939 4,581 4,878 4,916 4,914 4,920
+Weighted Average Income ($) 144,412 128,642 123,505 129,131 127,125 127,023 129,403
+Weighted Average Credit Score 763 749 742 746 759 756 749
+Loans With Original Balances Greater Than or Equal to $50,000
+24 Month 36 Month 48 Month 60 Month 72 Month 84 Month Total
+Aggregate Original Principal Balance ($) 9,813,557 20,284,804 32,220,469 45,951,286 3,579,569 5,738,052 117,587,737
+Aggregate Current Principal Balance ($) 8,908,227 19,135,653 31,146,326 44,864,676 3,491,719 5,619,549 113,166,150
+Number of Loans 141 302 488 683 60 99 1,773
+Average Current Loan Size ($) 63,179 63,363 63,824 65,688 58,195 56,763 63,827
+Average Original Loan Size ($) 69,600 67,168 66,026 67,279 59,659 57,960 66,321
+Weighted Average Original Term 24 36 48 60 72 84 51
+Weighted Average Remaining Term 21 33 45 57 69 82 49
+Remaining Term (range) 19 to 23 31 to 35 43 to 47 55 to 59 67 to 71 79 to 83 19 to 83
+Weighted Average Seasoning 3 3 3 3 3 2 3
+Seasoning (range) 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5 1 to 5
+Weighted Average FICO 766 768 749 758 764 769 759
+Weighted Average Borrower Rate (%) 7.87 8.79 11.06 11.00 11.50 12.87 10.51
+Borrower Rate (range) (%) 5.62 to
+13.93
+5.74 to
+13.95
+7.14 to
+15.93
+7.78 to
+15.27
+9.43 to
+13.75
+11.09 to
+15.14
+5.62 to
+15.93
+Weighted Average FCF ($) 9,782 8,704 7,169 7,596 7,127 8,226 7,855
+Weighted Average Income ($) 253,436 227,900 197,851 198,831 182,217 205,980 207,617
+Weighted Average Credit Score 766 768 749 758 765 768 759
+Page 11 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Following the summary tables is a comparison of the SCLP 2021-1 deal to other SCLP deals.
+SCLP 2021-1 SCLP 2020-1 SCLP 2019-4 SCLP 2019-3 SCLP 2019-2 SCLP 2019-1
+Closing Date October-21 February-20 September-19 June-19 May-19 February-19
+Collateral Characteristics
+Aggregate Current Principal Balance ($) 250,000,650 400,000,069 500,007,452 600,040,276 600,011,892 525,096,826
+Number of Loans 7,811 13,033 15,712 18,597 19,529 16,599
+Average Current Loan Size ($) 32,006 30,691 31,823 32,265 30,724 31,634
+Weighted Average Borrower Rate (%) 10.88 11.32 11.44 11.59 11.21 11.20
+Weighted Average Original Term 51 53 56 58 61 60
+Weighted Average Remaining Term 48 49 53 55 54 56
+Weighted Average FICO 753 753 756 755 754 753
+Weighted Average FCF ($) 6,248 6,139 5,760 5,789 5,620 5,696
+Weighted Average Income ($) 164,808 165,563 156,226 155,896 150,741 151,144
+Percent of 24 Month Loans (%) 10.2 5.8 5.1 3.4 0.3 0.0
+Percent of 36 Month Loans (%) 19.8 19.3 14.4 15.0 15.8 17.8
+Percent of 48 Month Loans (%) 24.4 18.6 17.3 16.0 13.3 13.0
+Percent of 60 Month Loans (%) 35.2 45.0 49.3 44.8 42.1 43.9
+Percent of 72 Month Loans (%) 4.3 3.0 3.4 4.4 5.3 4.9
+Percent of 84 Month Loans (%) 6.1 8.3 10.5 16.3 23.2 20.5
+Top 3 States (%)
+1 CA 12.2 CA 13.1 CA 13.0 CA 13.5 CA 13.5 CA 13.1
+2 TX 11.2 TX 11.9 TX 12.3 TX 11.2 TX 10.9 TX 11.8
+3 FL 7.2 NY 7.2 NY 7.5 NY 7.4 NY 7.3 NY 7.6
+Notes ($)
+Total 232,500,000 372,000,000 465,000,000 549,200,000 549,000,000 480,700,000
+Class A 187,000,000 299,200,000 360,000,000 420,000,000 414,000,000 351,800,000
+Class B 13,200,000 21,200,000 29,500,000 31,100,000 36,000,000 39,400,000
+Class C 16,100,000 33,200,000 47,500,000 62,500,000 54,000,000 51,500,000
+Class D 16,200,000 18,400,000 28,000,000 35,600,000 45,000,000 38,000,000
+Credit Enhancement
+CE 25.67 25.67 28.47 30.46 31.46 33.46
+Initial 7.00 7.00 7.00 8.47 8.50 8.45
+Target 10.50 10.50 10.50 11.00 11.00 11.35
+Floor 1.00 1.00 1.00 1.00 1.00 1.00
+Reserve Account* 0.50 0.50 0.50 0.50 0.50 0.50
+Reserve Account is calculated as a percentage of the initial Note balance.
+Page 12 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Transaction Structure
+Structural Summary
+Source: DBRS Morningstar.
+Dates
+• Date of Issuance is on or about October 7, 2021.
+• Cut-Off Date means the close of business on August 22, 2021.
+• Monthly Payment Date means the 25th day of each month, commencing November 26, 2021.
+• Final Maturity Date means September 25, 2030.
+Page 13 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Priority of Payments
+On each payment date, available funds will be applied in the following order of priority:
+First, an amount equal to the Senior Transaction Fees (includes the Indenture Trustee Fee (the
+greater of $500 per month or 0.01% per annum), Owner Trustee and Underlying Trustee Fee
+($11,000 per annum), Servicing Fee (0.575% per annum), Back-Up Servicing Fee (included in
+Servicing Fee), Administration Fees (0.05% per annum; includes the Loan Data Agent fee equal to
+the greater of $2,500 per month or 0.01% per annum and a separate amount for ratings
+maintenance expenses, capped at $31,000 per annum), Extraordinary Expenses of the Indenture
+Trustee (capped at $25,000 per annum), Extraordinary Expenses of the Owner Trustee (capped at
+$25,000 per annum), Extraordinary Expenses of the Underlying Trustee (capped at $15,000 per
+annum), Extraordinary Expenses of a successor Servicer (capped at $25,000 per annum),
+Extraordinary Expenses of the Loan Data Agent (capped at $5,000 per annum), and franchise fees
+and taxes (capped at $10,000 per annum) then due (including amounts not paid on prior Monthly
+Payment Dates), pro rata, based upon the amounts due to such parties;
+Second, to the Holders of the Class A Notes, an amount equal to interest due on the Class A Notes
+(including any overdue interest), pro rata, based upon the amounts due each Holder of Class A
+Notes;
+Third, to the Holders of the Class B Notes, an amount equal to interest due on the Class B Notes
+(including any overdue interest), pro rata, based upon the amounts due each Holder of Class B
+Notes;
+Fourth, to the Holders of the Class A Notes and Class B Notes, principal payments in an amount
+equal to the First Priority Principal Distribution Amount for such Monthly Payment Date, first to the
+Holders of the Class A Notes (pro rata, based upon the respective Principal Amounts of the Class A
+Notes), until the Class A Notes have been paid in full and then to the Holders of the Class B Notes
+(pro rata, based upon the respective Principal Amounts of the Class B Notes);
+Fifth, to the Holders of the Class C Notes, an amount equal to interest due on the Class C Notes
+(including any overdue interest), pro rata, based upon the amounts due each Holder of Class C
+Notes;
+Sixth, to the Holders of the Class A Notes, Class B Notes and Class C Notes, principal payments in
+an amount equal to the Second Priority Principal Distribution Amount for such Monthly Payment
+Date, first to the Holders of the Class A Notes (pro rata, based upon the respective Principal
+Amounts of the Class A Notes), until the Class A Notes have been paid in full, then to the Holders
+of the Class B Notes (pro rata, based upon the respective Principal Amounts of the Class B Notes),
+until the Class B Notes have been paid in full and then to the Holders of the Class C Notes (pro rata,
+based upon the respective Principal Amounts of the Class C Notes);
+Seventh, to the Holders of the Class D Notes, an amount equal to interest due on the Class D Notes
+(including any overdue interest), pro rata, based upon the amounts due each Holder of Class D
+Notes;
+Eighth, to the Holders of the Notes, principal payments in an amount equal to the Third Priority
+Principal Distribution Amount for such Monthly Payment Date, first to the Holders of the Class A
+Notes (pro rata, based upon the respective Principal Amounts of the Class A Notes), until the Class
+A Notes have been paid in full, then to the Holders of the Class B Notes (pro rata, based upon the
+Page 14 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+respective Principal Amounts of the Class B Notes), until the Class B Notes have been paid in full,
+then to the Holders of the Class C Notes (pro rata, based upon the respective Principal Amounts of
+the Class C Notes), until the Class C Notes have been paid in full and then to the Holders of the
+Class D Notes (pro rata, based upon the respective Principal Amounts of the Class D Notes);
+Ninth, to the Reserve Account, the amount, if any, necessary to increase the balance to the Reserve
+Account Requirement for such Monthly Payment Date;
+Tenth, to the Holders of the Notes, principal payments in an amount equal to the Regular Principal
+Distribution Amount for such Monthly Payment Date, first to the Holders of the Class A Notes (pro
+rata, based upon the respective Principal Amounts of the Class A Notes), until the Class A Notes
+have been paid in full, then to the Holders of the Class B Notes (pro rata, based upon the respective
+Principal Amounts of the Class B Notes), until the Class B Notes have been paid in full, then to
+Holders of the Class C Notes (pro rata, based upon the respective Principal Amounts of the Class C
+Notes), until the Class C Notes have been paid in full and then to Holders of the Class D Notes (pro
+rata, based upon the respective Principal Amounts of the Class D Notes);
+Eleventh, to the Indenture Trustee, the Underlying Trustee, each Servicer, the Back-up Servicer and
+the Administrator, an amount equal to the Subordinate Transaction Fees (means (a) any
+Extraordinary Expenses of the Indenture Trustee, that are not payable as Senior Transaction Fees
+(capped at $75,000 per annum), (b) any Extraordinary Expenses of the Owner Trustee or the
+Underlying Trustee that are not payable as Senior Transaction Fees (capped at $40,000 per annum),
+(c) any Extraordinary Expenses of the Servicer that are not payable as Senior Transaction Fees, (d)
+any Extraordinary Expenses of the Loan Data Agent that are not payable as Senior Transaction Fees
+(capped at $20,000 per annum) and (e) any Extraordinary Expenses of the Administrator) then due
+(including amounts not paid on prior Monthly Payment Dates), pro rata, based upon the amounts
+due to such parties;
+Twelfth, to the Administrator, an amount equal to the Net Investment Income received; and
+Thirteenth, any remainder to the Certificateholders, pro rata, based upon the respective notional
+amounts of the Certificates.
+Page 15 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Priority of Payments Summary
+Source: DBRS Morningstar.
+Page 16 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Priority of Payments Defined Terms
+Principal Distribution Amount
+Principal Distribution Amount includes the First Priority Principal Distribution Amount, the Second
+Priority Principal Distribution Amount, the Third Priority Principal Distribution Amount and the Regular
+Principal Distribution Amount.
+First Priority Principal Distribution Amount
+Prior to the Final Maturity Date of the Class B Notes, an amount equal to the lesser of (a) the
+amount (if any), by which (i) Available Funds remaining after the required prior applications
+described in clauses (1) through (3) in the Priority of Payments above exceeds (ii) Net Investment
+Income for such Monthly Payment Date and (b) the amount (if any) by which (i) the aggregate
+Principal Amount of the Outstanding Class A Notes and Class B Notes exceeds (ii) the Pool Balance;
+and
+On or after the Final Maturity Date of the Class B Notes, the aggregate Principal Amount of the
+Class A Notes and Class B Notes Outstanding.
+Second Priority Principal Distribution Amount
+Prior to the Final Maturity Date of the Class C Notes, an amount equal to the lesser of (a) the
+amount (if any), by which (i) Available Funds remaining after the required prior applications
+described in clauses (1) through (5) in the Priority of Payments above exceeds (ii) Net Investment
+Income for such Monthly Payment Date and (b) the amount (if any) by which (i) the aggregate
+Principal Amount of the Outstanding Class A Notes, Class B Notes and Class C Notes exceeds (ii)
+the Pool Balance; and
+On or after the Final Maturity Date of the Class C Notes, the Principal Amount of the Class C Notes
+Outstanding.
+Third Priority Principal Distribution Amount
+Prior to the Final Maturity Date of the Class D Notes, an amount equal to the lesser of (a) the
+amount (if any), by which (i) Available Funds remaining after the required prior applications
+described in clauses (1) through (7) in the Priority of Payments above exceeds (ii) Net Investment
+Income for such Monthly Payment Date and (b) the amount (if any) by which (i) the aggregate
+Principal Amount of the Outstanding Notes exceeds (ii) the Pool Balance; and
+On or after the Final Maturity Date of the Class D Notes, the Principal Amount of the Class D Notes
+Outstanding.
+Regular Principal Distribution Amount
+When no Turbo Trigger is in effect (except as specified in clause (3) below), an amount equal to the
+lesser of (a) the Available Funds remaining after the required prior applications described in clauses
+(1) through (9) in the Priority of Payments above or (b) the amount, if any, by which (i) the sum of
+the aggregate Principal Amount of the Outstanding Notes plus the Specified Overcollateralization
+Amount exceeds (ii) the Pool Balance, and
+Page 17 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+When a Turbo Trigger is in effect (except as specified in clause (3) below), an amount equal to the
+lesser of (a) the amount, if any, by which (i) the Available Funds remaining after the required prior
+applications described in clauses (1) through (9) in the Priority of Payments above exceeds (ii) Net
+Investment Income for such Monthly Payment Date and (b) the aggregate Principal Amount of the
+Outstanding Notes.
+Additionally, Regular Principal Distribution Amount will revert to all other amounts then held in the
+Distribution Account and the Reserve Account on the first Monthly Payment Date following the sale
+of the Portfolio Loans.
+Servicer Termination Events
+The transaction will include the following servicer termination events:
+Failure by Servicer to duly observe or perform in any material respect any of its covenants,
+obligations or agreements set forth in the Loan Servicing Agreement (other than with respect to
+any payment, transfer or deposit as required by the Loan Servicing Agreement) that continues
+unremedied for a period of 60 days after the earlier of a Responsible Officer of Servicer obtaining
+knowledge of such failure or its receipt of written notice of such failure, requiring the same to be
+remedied, from Purchaser,
+Failure by Servicer to maintain licenses, approvals, qualifications and authorizations to do business
+or service any Loans in any jurisdiction where the related Borrowers are residents, to the extent
+required under Applicable Law, and such failure continues unremedied for a period of 60 days after
+the earlier of the date upon which Servicer received written notice of such failure from any
+Regulatory Authority; provided, however, that such termination shall only be effective with respect
+to any Loans where the Borrower is resident in such jurisdiction; or
+A Servicer Insolvency Event shall have occurred; or
+Any representation or warranty made by Servicer shall prove to be untrue or incomplete in any
+material respect such as to create a Material Adverse Effect and continues unremedied for a period
+of 60 days after the earlier of a Responsible Officer of Servicer obtaining knowledge of such failure
+or its receipt of written notice of such failure, requiring the same to be remedied, from Purchaser;
+or
+Any failure by Servicer to make any payment, transfer or deposit as required by this Agreement
+which continues unremedied for a period of two Business Days after the earlier of a Responsible
+Officer of Servicer obtaining knowledge of such failure and Servicer’s receipt of notice of such
+failure from Purchaser; or
+Any Regulatory Authority shall have condemned, seized or appropriated, or shall have assumed
+custody or control of, all or any substantial part of the property of Servicer, or shall have taken any
+action to displace the management of Servicer or to curtail its authority in the conduct of its
+business as Servicer, or shall have taken any action in the nature of enforcement to remove, limit or
+restrict the licensing or approval of Servicer as a servicer of consumer loans.
+Page 18 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Events of Default
+The transaction will include standard events of default, which contain cure periods and call for
+acceleration of the principal balance of the Notes. Events of default include the following:
+Default in the due and punctual payment of any interest on any Class A Note and such default
+continues for two Business Days.
+If no Class A Notes are outstanding, default in the due and punctual payment of any interest on
+any Class B Note and such default continues for two Business Days.
+If no Class A Notes or Class B Notes are outstanding, default in the due and punctual payment of
+any interest on any Class C Note and such default continues for two Business Days.
+If no Class A Notes, Class B Notes or Class C Notes are outstanding, default in the due and
+punctual payment of any interest on any Class D Note and such default continues for two Business
+Days.
+Default in the due and punctual payment of the principal of any Note on the Final Maturity Date.
+Default in the performance of any of the Issuer’s obligations with respect to the transmittal of
+moneys to be credited to the Distribution Account under the provisions of the Indenture, and such
+default shall have continued for a period of ten days.
+Default in the performance or observance of any other of the covenants, agreements or conditions
+on the part of the Issuer, the Administration Agreement, or the Securities, or any representation or
+warranty made by the Issuer, the Administration Agreement, or the Underlying Trust Agreement
+shall prove to have been false in any material respect when made, and such default shall have
+continued for a period of 60 days after written notice.
+Certain events of bankruptcy or insolvency of the Issuer.
+If the only Event of Default is that specified in clause (7) above, then the Indenture Trustee shall not
+incur Extraordinary Expenses in excess of $150,000 in connection with such Event of Default unless the
+Holders of the Notes have agreed to pay such Extraordinary
+Expenses as provided in the Indenture.
+Credit Enhancement
+Credit enhancement will consist of the Reserve Account, overcollateralization and subordination.
+Outstanding Balance ($) Balance (%) Credit Enhancement (%)
+Class A Notes 187,000,000 74.80 25.67
+Class B Notes 13,200,000 5.28 20.37
+Class C Notes 16,100,000 6.44 13.95
+Class D Notes 16,200,000 6.48 7.47
+Total Note Balance 232,500,000 93.00
+Overcollateralization 17,500,650 7.00
+Reserve Account* 1,162,500 0.50
+Reserve Account is calculated as a percentage of the initial Note balance at the Closing Date.
+• Reserve Account Requirement means an amount equal to $1,162,500. This amount is fully funded and
+non-declining.
+• Initial Overcollateralization will be 7.00% of the Initial Pool Balance at the Closing Date.
+Page 19 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+• Specified Overcollateralization Amount will be equal to the greater of $2,500,006 or 10.50% of the
+current Pool Balance. A Turbo Trigger is included in the structure. A Turbo Trigger will be in effect if
+either: the Pool Balance is less than 10% of the Initial Pool Balance or the Cumulative Net Loss Rate has
+exceeded the applicable Cumulative Net Loss Rate Trigger Amount set forth in Appendix A. This Turbo
+Trigger is curable at certain dates. This structural trigger will cause a lockout of any distributions to the
+Certificateholders, further enhancing the speed of paydown of the Notes if tripped.
+Cash Flow Analysis
+DBRS Morningstar incorporates a stressed cash flow analysis in its rating process. In the cash flow
+modeling analysis, several inputs were stressed in order to test whether the transaction cash flows
+could withstand potential performance and liquidity deterioration of the collateral at the requested
+rating levels of AAA (sf), AA (sf), A (sf), and BBB (sf). Different assumptions were made for each term
+bucket (two, three, four, five, six, and seven years), including different loss timing curves and different
+prepayment curves. Also incorporated in this transaction is a hardship deferment stress because of the
+increased utilization by borrowers related to the effects of the coronavirus. Hardship deferment
+utilization stresses were formulated based on the DBRS Morningstar evaluation of industry-specific data,
+which were adjusted to reflect the Sponsor’s experience and deferment policies, and the proposed
+ratings. DBRS Morningstar stressed deferments to test liquidity risk early in the life of the transaction’s
+cash flows.
+DBRS Morningstar developed separate expected case default curves for each term bucket based on
+SoFi’s historical performance as well as proxy data from peers in the consumer loan space. Four loss
+timing curves were modeled for each term bucket to assess the sensitivity of the transaction structure to
+the timing of defaults, including a front-loaded scenario, a middle-loaded scenario, a back-loaded
+scenario and an evenly spread scenario. The timing of defaults reflects the potential for various
+economic conditions and applies a high level of stress on the transaction’s cash flows to test the
+resilience of the Notes.
+In addition to the loss timing curves, three prepayment curves were modeled for each term bucket to
+assess the sensitivity of the transaction structure to the timing of prepayments. While faster-thanexpected prepayments may lower the credit risk of the transaction because the securitization trust is
+exposed to a shorter period of default risk, at the same time, faster prepayments may lower the amount
+of excess spread generated by the underlying collateral, thus reducing the amount of credit
+enhancement available to absorb losses. The updated expected case CNL assumptions due to the
+expected impact of the coronavirus pandemic for the SCLP 2021-1 pool by term segments are as follows:
+Loan Term CNL (%)
+24 month 1.38
+36 month 2.75
+48 month 3.85
+60 month 7.98
+72 month 8.80
+84 month 11.55
+Page 20 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Break-even cash flow stress analysis demonstrated the maximized cumulative defaults (until the first
+dollar of Note defaults) while keeping all other AAA (sf) AA (sf), A (sf), and BBB (sf) assumptions the
+same. Based upon the most constraining cash flow scenario, the SCLP 2021-1 transaction is able to
+withstand cumulative defaults of approximately 35.46% for AAA (sf), 30.95% for AA (sf), 24.84% for A
+(sf), and 17.25% for BBB (sf). This represents multiples of approximately 6.43 times (x) for AAA (sf), 5.61x
+for AA (sf), 4.50x for A (sf), and 3.13x for BBB (sf) of the DBRS Morningstar expected case cumulative
+default rate expectation for the SCLP 2021-1 pool.
+Please refer to Appendix A for additional cash flow assumption details.
+Legal Structure and Opinions
+SCLP 2021-1 is a special-purpose entity structured to be bankruptcy remote by restricting the Issuer’s
+operations so that it does not engage in business with, or incur liabilities to, any other entity which may
+bring bankruptcy proceedings against the Issuer.
+DBRS Morningstar expects to receive an opinion of counsel to the effect that the transfer of the loans to
+the trust constitutes a true sale and that the trust assets will not be consolidated with those of SoFi in
+the event of bankruptcy. Additionally, DBRS Morningstar expects to receive an opinion of counsel that
+the trustee has a first-perfected security interest in the trust assets.
+DBRS Morningstar expects to receive an opinion of counsel to the effect that the Notes will be treated
+as debt for federal income tax purposes rather than as an interest in the loans and other assets of the
+trust, or as an equity interest in the Issuer.
+The Issuer intends to treat this transaction as a financing, reflecting the Notes as its indebtedness for
+tax and financial accounting purposes.
+In addition, the SCLP 2021-1 transaction structure, representations and warranties, as well as
+documentation, were reviewed for consistency with the DBRS Morningstar Legal Criteria for U.S.
+Structured Finance.
+Page 21 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Appendix A — Cash Flow Details
+Capital Structure
+Class Size ($) Collateral (%)
+Hard Credit
+Enhancement (%) Coupon (%) Multiple Range (x)
+DBRS Morningstar
+Multiple (x) Rating Constraining Scenario
+A 187,000,000 74.80 25.67 [TBD] 3.00 – 5.25 4.15 AAA (sf) Front Curve
+B 13,200,000 5.28 20.39 [TBD] 2.50 – 4.25 3.40 AA (sf) Front Curve
+C 16,100,000 6.44 13.95 [TBD] 2.00 – 3.25 2.65 A (sf) Back Curve
+D 16,200,000 6.48 7.47 [TBD] 1.75 – 2.50 2.20 BBB (sf) Back Curve
+Total 232,500,000 93.00
+OC 17,500,650 7.00
+Initial (%)1 Target (%)2 Floor ($) Model Assumptions
+Specified Overcollateralization Amount 7.00 10.50 2,500,006 DBRS Morningstar Expected Net Loss (%) 5.52
+Reserve Account3
+0.50 0.50 1,162,500 Recovery Rate (%) 5
+Recovery Lag (months) 3
+1 Initial overcollateralization is calculated as a percentage of the Initial Pool Balance at the Closing Date.
+2 Target overcollateralization is calculated as a percentage of the Pool Balance.
+3 Reserve Account is calculated as a percentage of the Initial Note balance at the Closing Date and is non-declining.
+Voluntary Prepay Speeds (CPR %)
+24 Month Loans 36 Month Loans 48 Month Loans
+Year 1 2 Year 1 2 3 Year 1 2 3 4
+AAA (sf) 22.50 37.50 AAA (sf) 18.00 25.50 33.00 AAA (sf) 18.00 23.00 28.00 33.00
+AA (sf) 21.00 35.00 AA (sf) 16.80 23.80 30.80 AA (sf) 16.80 21.47 26.13 30.80
+A (sf) 19.50 32.50 A (sf) 15.60 22.10 28.60 A (sf) 15.60 19.93 24.27 28.60
+BBB (sf) 18.00 30.00 BBB (sf) 14.40 20.40 26.40 BBB (sf) 14.40 18.40 22.40 26.40
+60 Month Loans 72 Month Loans
+Year 1 2 3 4 5 Year 1 2 3 4 5 6
+AAA (sf) 10.50 15.00 19.50 24.00 28.50 AAA (sf) 10.50 14.10 17.70 21.30 24.90 28.50
+AA (sf) 9.80 14.00 18.20 22.40 26.60 AA (sf) 9.80 13.16 16.52 19.88 23.24 26.60
+A (sf) 9.10 13.00 16.90 20.80 24.70 A (sf) 9.10 12.22 15.32 18.46 21.58 24.70
+BBB (sf) 8.40 12.00 15.60 19.20 22.80 BBB (sf) 8.40 11.28 14.16 17.04 19.92 22.80
+84 Month Loans
+Year 1 2 3 4 5 6 7
+AAA (sf) 10.50 13.50 16.50 19.50 22.50 25.50 28.50
+AA (sf) 9.80 12.60 15.40 18.20 21.00 23.80 26.60
+A (sf) 9.10 11.70 14.30 16.90 19.50 22.10 24.70
+BBB (sf) 7.70 9.90 12.10 14.30 16.50 18.70 20.90
+Page 22 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+Triggers
+CNL Trigger
+Period Level (%) Period Level (%) Period Level (%)
+1 3.00 14 7.00 27 7.00
+2 3.00 15 7.00 28 7.25
+3 3.00 16 7.00 29 7.50
+4 4.00 17 7.00 30 8.00
+5 4.00 18 7.00 31 8.25
+6 4.00 19 7.00 32 8.50
+7 5.00 20 7.00 33 8.75
+8 5.00 21 7.00 34 and thereafter 9.00
+9 5.00 22 7.00
+10 6.00 23 7.00
+11 6.00 24 7.00
+12 6.00 25 7.00
+13 7.00 26 7.00
+Loss Timing Curves (%)
+24 Month Loans Front-Loaded Curve Middle-Loaded Curve Back-Loaded Curve Constant Curve
+Months 1-6 70 55 40 50
+Months 7-12 30 45 60 50
+36 / 48 Month Loans Front-Loaded Curve Middle-Loaded Curve Back-Loaded Curve Constant Curve
+Year 1 70 55 60 50
+Year 2 30 45 40 50
+60 / 72 Month Loans Front-Loaded Curve Middle-Loaded Curve Back-Loaded Curve Constant Curve
+Year 1 40 30 20 25
+Year 2 30 35 35 25
+Year 3 25 30 35 25
+Year 4 5 5 10 25
+84 Month Loans Front-Loaded Curve Middle-Loaded Curve Back-Loaded Curve Constant Curve
+Year 1 35 15 10 20
+Year 2 30 30 20 20
+Year 3 20 30 40 20
+Year 4 10 20 20 20
+Year 5 5 5 10 20
+Hardship Deferment Utilization (%)
+AAA (sf) 5.00
+AA (sf) 4.00
+A (sf) 3.00
+BBB (sf) 2.00
+Transaction Fees & Expenses4
+Servicing Fee5
+57.5 bps per annum
+Indenture Trustee Fee 1 bp (minimum $500/month) per annum
+Administration Fee 5 bps per annum
+Owner Trustee Fee ($) 5,000 per annum
+Underlying Trustee Fee ($) 6,000 per annum
+Loan Data Agent Fee 1 bp (minimum $2,500/month) per annum
+Transition Fee ($) 25,000 per annum
+Extraordinary Expenses ($) 95,000 (cap) per annum
+Ratings Maintenance Expenses ($) 31,000 (cap) per annum
+Tax Accounting and Reporting Expenses ($) 10,000 (cap) per annum
+4 DBRS Morningstar typically assumes the maximum fees and expenses considered in the waterfall. DBRS Morningstar runs the maximum fees and
+expenses in the earliest period possible.
+5 Includes fees due to the Back-Up Servicer.
+Page 23 of 23 SoFi Consumer Loan Program 2021-1 Trust | September 27, 2021
+About DBRS Morningstar
+DBRS Morningstar is a full-service global credit ratings business with approximately 700 employees around the world. We’re a market leader in
+Canada, and in multiple asset classes across the U.S. and Europe.
+We rate more than 3,000 issuers and nearly 60,000 securities worldwide, providing independent credit ratings for financial institutions, corporate and
+sovereign entities, and structured finance products and instruments. Market innovators choose to work with us because of our agility, transparency,
+and tech-forward approach.
+DBRS Morningstar is empowering investor success as the go-to source for independent credit ratings. And we are bringing transparency,
+responsiveness, and leading-edge technology to the industry.
+That’s why DBRS Morningstar is the next generation of credit ratings.
+Learn more at dbrsmorningstar.com.
+The DBRS Morningstar group of companies consists of DBRS, Inc. (Delaware, U.S.)(NRSRO, DRO affiliate); DBRS Limited (Ontario, Canada)(DRO,
+NRSRO affiliate); DBRS Ratings GmbH (Frankfurt, Germany)(EU CRA, NRSRO affiliate, DRO affiliate); and DBRS Ratings Limited (England and
+Wales)(UK CRA, NRSRO affiliate, DRO affiliate). For more information on regulatory registrations, recognitions and approvals of the DBRS
+Morningstar group of companies, please see: https://www.dbrsmorningstar.com/research/225752/highlights.pdf.
+The DBRS Morningstar group of companies are wholly-owned subsidiaries of Morningstar, Inc.
+© 2021 DBRS Morningstar. All Rights Reserved. The information upon which DBRS Morningstar ratings and other types of credit opinions and
+reports are based is obtained by DBRS Morningstar from sources DBRS Morningstar believes to be reliable. DBRS Morningstar does not audit the
+information it receives in connection with the analytical process, and it does not and cannot independently verify that information in every instance.
+The extent of any factual investigation or independent verification depends on facts and circumstances. DBRS Morningstar ratings, other types of
+credit opinions, reports and any other information provided by DBRS Morningstar are provided “as is” and without representation or warranty of any
+kind. DBRS Morningstar hereby disclaims any representation or warranty, express or implied, as to the accuracy, timeliness, completeness,
+merchantability, fitness for any particular purpose or non-infringement of any of such information. In no event shall DBRS Morningstar or its directors,
+officers, employees, independent contractors, agents and representatives (collectively, DBRS Morningstar Representatives) be liable (1) for any
+inaccuracy, delay, loss of data, interruption in service, error or omission or for any damages resulting therefrom, or (2) for any direct, indirect,
+incidental, special, compensatory or consequential damages arising from any use of ratings and rating reports or arising from any error (negligent or
+otherwise) or other circumstance or contingency within or outside the control of DBRS Morningstar or any DBRS Morningstar Representative, in
+connection with or related to obtaining, collecting, compiling, analyzing, interpreting, communicating, publishing or delivering any such information.
+No DBRS Morningstar entity is an investment advisor. DBRS Morningstar does not provide investment, financial or other advice. Ratings, other types
+of credit opinions, other analysis and research issued or published by DBRS Morningstar are, and must be construed solely as, statements of opinion
+and not statements of fact as to credit worthiness, investment, financial or other advice or recommendations to purchase, sell or hold any securities.
+A report with respect to a DBRS Morningstar rating or other credit opinion is neither a prospectus nor a substitute for the information assembled,
+verified and presented to investors by the issuer and its agents in connection with the sale of the securities. DBRS Morningstar may receive
+compensation for its ratings and other credit opinions from, among others, issuers, insurers, guarantors and/or underwriters of debt securities. DBRS
+Morningstar is not responsible for the content or operation of third party websites accessed through hypertext or other computer links and DBRS
+Morningstar shall have no liability to any person or entity for the use of such third party websites. This publication may not be reproduced,
+retransmitted or distributed in any form without the prior written consent of DBRS Morningstar. ALL DBRS MORNINGSTAR RATINGS AND OTHER
+TYPES OF CREDIT OPINIONS ARE SUBJECT TO DISCLAIMERS AND CERTAIN LIMITATIONS. PLEASE READ THESE DISCLAIMERS AND LIMITATIONS
+AT https://www.dbrsmorningstar.com/about/disclaimer. ADDITIONAL INFORMATION REGARDING DBRS MORNINGSTAR RATINGS AND OTHER
+TYPES OF CREDIT OPINIONS, INCLUDING DEFINITIONS, POLICIES AND METHODOLOGIES, ARE AVAILABLE ON https://www.dbrsmorningstar.com.
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+Name :BITORE
+ITEM_ID :1337.188931
+[Pull requests](((title :bitcoin')))
+Issues
+Marketplace);)
+Explore
+
+@zakwarlord7
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+https://github.com/github
+/
+docs
+Public
+Code
+Issues
+110
+Pull requests
+40
+Discussions
+Actions
+Projects
+3
+Security
+Insights
+Update about-releases.md and Rename to MINUTEMAN
+Open
+zakwarlord7 wants to merge 1 commit into github:main from zakwarlord7:patch-43
++7 −7
+Conversation 0
+Commits 1
+Checks 0
+Files changed 1
+Conversation
+zakwarlord7
+zakwarlord7 commented now
+Why:
+document:
+notification:
+e-mail :zachryiixixiiwood@gmail.com
+phone : (469) 697-4300
+website :www.chase.com
+DoB :1994-10-15
+SSN :633-44-1725
+TxDL :00037305581
+Closes [issue link]
+
+What's being changed (if available, include any code snippets, screenshots, or gifs):
+Check off the following:
+I have reviewed my changes in staging (look for the "Automatically generated comment" and click the links in the "Preview" column to view your latest changes).
+For content changes, I have completed the self-review checklist.
+Writer impact (This section is for GitHub staff members only):
+This pull request impacts the contribution experience
+I have added the 'writer impact' label
+I have added a description and/or a video demo of the changes below (e.g. a "before and after video")
+@zakwarlord7
+Update about-releases.md
+
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+'"'''''Approves'''''' '@'-'' '[22/8']'"''
+
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+Approves
+
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+'"'-'' '[22/7']'"''
+
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+[22/8]
+[22/15]
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+[22/14]
+[22/14]
+[22/14]
+[22/14]
+[22/14]
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+[22/8]
+[22/8]
+[22/8]
+[22/8]
+[22/8]
+@zakwarlord7
+Author
+zakwarlord7 commented 9 days ago
+Approve- [22/8]
+
+@zakwarlord7 zakwarlord7 closed this 9 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 9 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 9 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 9 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 9 days ago
+@zakwarlord7 zakwarlord7 reopened this 6 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 6 days ago • 
+<google-sheets-html-origin=ALINE Pay, ADPCheck, FSDD, Garnishment Services, EBTS, Other<!--td=border.1h.ref-1Px_solid.#:.(CCC).br_mso-data-placement:same-cell=style>
+
+<style type="text/css">ALINE Pay, ADPCheck, FSDD, Garnishment Services, EBTS, Other
+@zakwarlord7 zakwarlord7 requested a review from a team as a code owner 6 days ago
+@zakwarlord7 zakwarlord7 closed this 5 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 reopened this 5 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 5 days ago • 
+From Content-Location: chrome://media-app/
+Subject: Receipt from U.S. Department of the Treasury 26May2022.pdf
+Date: Thu, 18 Aug 2022 11:33:45 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+type="text/html";
+boundary="----MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----"
+
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/html
+Content-ID: frame-AA29D9386ECB461289324451CE14301B@mhtml.blink
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://media-app/
+
+"en"><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-301df6=
+0b-ced2-41b5-9287-cc6c65963b39@mhtml.blink" />
+<title>Receipt from U.S. Department of the Treasury 26May2022.pdf</title> <iframe src=3D"cid:frame-5386E8CE93C0FEC882F84CCB86C23F04@mhtm= l.blink" allow=3D"fullscreen; cross-origin-isolated;"></iframe> ------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN---- Content-Type: text/css Content-Transfer-Encoding: quoted-printable Content-Location: cid:css-301df60b-ced2-41b5-9287-cc6c65963b39@mhtml.blink
+@charset "utf-8";
+
+body { background-color: rgb(32, 33, 36); height: 100vh; margin: 0px; overf=
+low: hidden; position: relative; }
+
+@media (prefers-color-scheme: dark) {
+body { background-color: rgb(32, 33, 36); }
+}
+
+@media (prefers-color-scheme: light) {
+body { background-color: white; }
+}
+
+iframe { border: 0px; height: 100%; user-select: none; width: 100%; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/html
+Content-ID: frame-5386E8CE93C0FEC882F84CCB86C23F04@mhtml.blink
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-untrusted://media-app/app.html
+
+"en-US"><meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7c0a=
+7143-c9b4-419d-838d-b5b491534c4f@mhtml.blink" /><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-46df397d-0df7-4068-97c6-12d9d6b0ad54@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-adb3f47=
+d-59f7-4d04-96cc-5bbf920c1a73@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-745a135f-7b04-4f94-9414-ab86826e2c2a@mhtml.bl=
+ink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-70851f45-=
+f9ab-4a49-a838-e9ad463c8801@mhtml.blink" /><link rel=3D"stylesheet" type=3D=
+"text/css" href=3D"cid:css-eaa9e7d0-d5c5-4485-bac9-6f3bcbc9c9d1@mhtml.blink=
+" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-cefabaec-5ad=
+e-41d7-9a5a-6b84565a952b@mhtml.blink" /><link rel=3D"stylesheet" type=3D"te=
+xt/css" href=3D"cid:css-592ff836-5b97-49de-a520-e0a52e5f229b@mhtml.blink" /=
+097-b40d-9f67c063c433@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-e768af81-1abd-4cfd-bc7d-1cc0227d9115@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8f6bfeda-cfa2-4d4b=
+-92ed-63be6f6edcdc@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-68c5b06f-33c2-40e3-8c0b-34a30996cf66@mhtml.blink" /><link=
+rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-799cc82e-cd5a-4af7-93=
+e2-fdb7e728714c@mhtml.blink" />
+
+=20 =20 =20 =20 =20 =20 =20 =20
+<= /div>
+Expand side= bar Expand sidebar =20
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
 
 
-Reference Code:1256A
+=20
+<div class=3D"navigation-panel-container">
+
+<ea-icon-button id=3D"navigation-panel-open" class=3D"navigation-pane=
+l-button open" rtlflip=3D"" dir=3D"ltr" sizing=3D"dense" type=3D"default">
+<svg height=3D"24" id=3D"ic_navigate_previous" viewBox=3D"0 0 24 24" =
+width=3D"24" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www=
+.w3.org/1999/xlink" slot=3D"">
+
+<polygon id=3D"ic_navigate_previous-a" points=3D"8.004 16.59 12.949 12 8.00=
+4 7.41 9.526 6 16.004 12 9.526 18">
+
+<use fill-rule=3D"evenodd" transform=3D"matrix(-1 0 0 1 24.008 0)" xlink:hr=
+ef=3D"#ic_navigate_previous-a">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Collapse sidebar">
 
 
-Investment Products  • Not FDIC Insured  • No Bank Guarantee  • May Lose Value
 
-Banking products and services are provided by Morgan Stanley Private Bank, National Association, Member FDIC.
+
+
+<ea-tooltip for=3D"navigation-panel-open" label=3D"Collapse sidebar" =
+style=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"navigation-panel-open" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Collapse sidebar
+<template shadowmode=3D"open">
+=20
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+=20
+<backlight-pdf-sidebar class=3D"navigation-pa=
+nel"><template shadowmode=3D"open">
+<div class=3D"container pages ">
+<div class=3D"navigation-panel-top-bar">
+
+<div class=3D"close-panel-button-placeholder">
+
+<span id=3D"divider-container">
+<span id=3D"divider">
+
+
+
+<template shadowmode=3D"open">
+
+<!---=
+->
+<backlight-pdf-thumbnail active=3D"">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<button class=3D"thumbnail-container" tabindex=3D"0">
+<div class=3D"thumbnail-page-number">1
+
+<canvas class=3D"thumbnail-image" height=3D"120" width=3D"93"></can=
+vas>
+
+
+
+
+=20
+
+
+
+
+<div class=3D"overlay-elements">
+
+<backlight-load-error errorname=3D"">
+<template shadowmode=3D"open"></backlight-load-er=
+ror>
+
+=20
+=20
+<template shadowmode=3D"open"><!----=
+  <div class=3D"backlight-drop-target">
+    <slot></slot>
+   =20
+   =20
+    <div class=3D"drag-prompt drag-prompt-container">
+      <ea-icon dir=3D"ltr" aria-hidden=3D"true"><template shadowmode=3D=
+"open"><svg height=3D"100%" id=3D"ic_open-file=
+" viewBox=3D"0 0 32 32" width=3D"100%" xmlns=3D"http://www.w3.org/2000/svg"=
+
+<path d=3D"M18.5 11H26.5L18.5 3V11Z">
+<path d=3D"M24.5 29H7.5C6.39543 29 5.5 28.1046 5.5 27V5C5.5 3.89543 6.39311=
+3 7.49768 3H18.5L21 5.5H8V26.5H24V8.5L26.5 11V27.0049C26.5 28.1095 25.6046=
+29 24.5 29Z">
+<path d=3D"M12.7389 20.7061L14.6512 18.742V24H17.3488V18.742L19.261 20.7061=
+L21.1685 18.742L16 14L10.8315 18.742L12.7389 20.7061Z">
+      <p><!--?lit$069645387$--></p>
+    </div>
+    <div class=3D"scrim drag-prompt"></div>
+  </div>
+  <input type=3D"file" multiple=3D"" style=3D"display:none">
+</template></backlight-drop-target><template shadowmode=3D"open"><!----=
+  <main>
+    <!--?lit$069645387$--><backlight-app-bar filename=3D"Receipt from U=
+.S. Department of the Treasury 26May2022.pdf" omitbottompadding=3D"" hasfil=
+eopen=3D""><template shadowmode=3D"open">
+<div id=3D"app-toolbar">
+
+<ea-button id=3D"open-button" primary=3D"" dir=3D"ltr" label=3D"O=
+pen file" unelevated=3D"">
+<template shadowmode=3D"open">
+<button id=3D"button" class=3D"mdc-button mdc-button--unelevated " a=
+ria-label=3D"Open file">
+
+
+<span class=3D"leading-icon">
+<slot name=3D"icon">
+
+
+
+<span class=3D"mdc-button__label">Open file</=
+span>
+<span class=3D"slot-container ">
+
+
+<span class=3D"trailing-icon">
+<slot name=3D"trailingIcon">
+
+
+
+
+=20
+<backlight-app-bar-filename title=3D"Receipt =
+from U.S. Department of the Treasury 26May2022.pdf"><template shadowmode=3D=
+"open">
+<paper-input type=3D"text" tabindex=3D"" no-label-float=3D"" label=3D=
+"Filename" aria-disabled=3D"false">
+<template shadowmode=3D"open">
+=20
+
+<paper-input-container id=3D"container" dir=3D"ltr">
+
+  <slot name=3D"prefix" slot=3D"prefix"></slot>
+
+  <label aria-hidden=3D"true" slot=3D"label" for=3D"input-1" id=3D"pape=
+r-input-label-1">Filename
+
+  <!-- Need to bind maxlength so that the paper-input-char-counter work=
+s correctly -->
+<iron-input slot=3D"input" class=3D"input-element" id=3D"input-1">
+<input autocomplete=3D"off" placeholder=3D"" autocapitalize=3D"none=
+" autocorrect=3D"off" aria-describedby=3D"" aria-labelledby=3D"paper-input-=
+label-1" type=3D"text">
+<template shadowmode=3D"open">
+=20
+<slot id=3D"content">
+  <slot name=3D"suffix" slot=3D"suffix"></slot>
+
+  <dom-if style=3D"display: none;"><template is=3D"dom-if"></template><=
+/dom-if>
+
+  <dom-if style=3D"display: none;"><template is=3D"dom-if"></template><=
+/dom-if>
+
+<template shadowmode=3D"open">
+=20
+
+=20
+
+<div class=3D"input-wrapper">
+  <span class=3D"prefix"><slot name=3D"prefix"></slot></span>
+
+  <div id=3D"labelAndInputContainer" class=3D"input-content label-is-hi=
+dden">
+<slot name=3D"label">
+<slot name=3D"input"><slot name=3D"after-input">
+  <span class=3D"suffix"><slot name=3D"suffix"></slot></span>
+</div>
+
+<div class=3D"underline">
+  <div class=3D"unfocused-line"></div>
+  <div class=3D"focused-line"></div>
+</div>
+
+<div class=3D"add-on-content">
+  <slot name=3D"add-on"></slot>
+</div>
+
+
+
+=20
+=20
+
+<div class=3D"controls">
+
+<div class=3D"control-group">
+<!=
+---->
+<div id=3D"icon-button-2283726-container">
+
+<ea-toggleable-icon-button id=3D"icon-button-2283726" ink=3D"blue">
+<svg height=3D"20" id=3D"ic_info" viewBox=3D"0 0 20 20" width=3D"20=
+" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" slot=3D"offIcon">
+
+<path d=3D"M9,14 L11,14 L11,10 L9,10 L9,14 Z M10,2 C5.584,2 2,5.584 2,10 C2=
+,14.416 5.584,18 10,18 C14.416,18 18,14.416 18,10 C18,5.584 14.416,2 10,2 Z=
+M10,16 C6.6925,16 4,13.3075 4,10 C4,6.6925 6.6925,4 10,4 C13.3075,4 16,6.6=
+925 16,10 C16,13.3075 13.3075,16 10,16 Z M9,8 L11,8 L11,6 L9,6 L9,8 Z" id=
+=3D"ic_info-a">
+
+<use fill-rule=3D"evenodd" xlink:href=3D"#ic_info-a">
+<template shadowmode=3D"open">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex " aria-pressed=3D"false" aria-label=3D"Info">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-up=
+graded--unbounded " style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-siz=
+e:20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mw=
+c-ripple>
+<span class=3D"mdc-icon-button__icon"><slot name=3D"offIcon"><i cla=
+ss=3D"material-icons">
+<span class=3D"mdc-icon-button__icon mdc-icon-button__icon--on"><sl=
+ot name=3D"onIcon"><i class=3D"material-icons"></=
+slot>
+
+
+
+<ea-tooltip for=3D"icon-button-2283726" label=3D"Info" style=3D"dis=
+play: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-2283726" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Info
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-79847359-container">
+
+<ea-icon-button id=3D"icon-button-79847359" type=3D"default" dir=3D"l=
+tr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_share" viewBox=3D"0 0 20 20" width=3D"20"=
+xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path clip-rule=3D"evenodd" d=3D"M14 12C13.21 12 12.5 12.31 11.97 12.81L7.9=
+1 10.7C7.96 10.47 8 10.24 8 10C8 9.76 7.96 9.53 7.91 9.3L11.96 7.19C12.49 7=
+.69 13.21 8 14 8C15.66 8 17 6.66 17 5C17 3.34 15.66 2 14 2C12.34 2 11 3.34 =
+11 5C11 5.24 11.04 5.48 11.09 5.7L7.04 7.81C6.5 7.31 5.79 7 5 7C3.34 7 2 8.=
+34 2 10C2 11.66 3.34 13 5 13C5.79 13 6.5 12.69 7.04 12.19L11.09 14.31C11.04=
+14.53 11 14.76 11 15C11 16.66 12.34 18 14 18C15.66 18 17 16.66 17 15C17 13=
+.34 15.66 12 14 12ZM14 4C14.55 4 15 4.45 15 5C15 5.55 14.55 6 14 6C13.45 6 =
+13 5.55 13 5C13 4.45 13.45 4 14 4ZM5 11C4.45 11 4 10.55 4 10C4 9.45 4.45 9 =
+5 9C5.55 9 6 9.45 6 10C6 10.55 5.55 11 5 11ZM14 16C13.45 16 13 15.55 13 15C=
+13 14.45 13.45 14 14 14C14.55 14 15 14.45 15 15C15 15.55 14.55 16 14 16Z" f=
+ill-rule=3D"evenodd">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Share">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-79847359" label=3D"Share" style=3D"d=
+isplay: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-79847359" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Share
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-2775249712-container">
+
+<ea-icon-button id=3D"icon-button-2775249712" type=3D"default" dir=3D=
+"ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_fit-width" viewBox=3D"0 0 20 20" width=3D=
+"20" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path clip-rule=3D"evenodd" d=3D"M16 4C17.1046 4 18 4.89543 18 6V16H16V6H4V=
+16H2V6C2 4.89543 2.89543 4 4 4H16ZM8.5 15V16H7.5V15H8.5ZM14.5 15V16H13.5V15=
+H14.5ZM6.5 15V16H5.5V15H6.5ZM10.5 15V16H9.5V15H10.5ZM12.5 15V16H11.5V15H12.=
+5Z" fill-rule=3D"evenodd">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Fit to width">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-2775249712" label=3D"Fit to width" s=
+tyle=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-2775249712" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" styl=
+e=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pap=
+er-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-c=
+olor);">
+Fit to width
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-947364257-container">
+
+<ea-icon-button id=3D"icon-button-947364257" type=3D"default" dir=3D"=
+ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_zoom_out" viewBox=3D"0 0 20 20" width=3D"=
+20" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path d=3D"M17.49,16 L13.76,12.27 C14.53,11.2 15,9.91 15,8.5 C15,4.91 12.09=
+,2 8.5,2 C4.91,2 2,4.91 2,8.5 C2,12.09 4.91,15 8.5,15 C9.91,15 11.2,14.53 1=
+2.27,13.76 L16,17.49 L17.49,16 Z M8.5,13 C6.01,13 4,10.99 4,8.5 C4,6.01 6.0=
+1,4 8.5,4 C10.99,4 13,6.01 13,8.5 C13,10.99 10.99,13 8.5,13 Z M11.5,7.5 L11=
+.5,9.5 L5.5,9.5 L5.5,7.5 L11.5,7.5 Z" fill-rule=3D"evenodd">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Zoom out">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-947364257" label=3D"Zoom out" style=
+=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-947364257" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Zoom out
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<backlight-confirmation-textfield outlined=3D"" type=3D"text" arialab=
+el=3D"Zoom percentage" pattern=3D"\s*\d{2}\d?%?\s*" style=3D"width: 60px;">
+<template shadowmode=3D"open">
+<label class=3D"mdc-text-field mdc-text-field--no-label mdc-text-fiel=
+d--outlined">
+
+
+<mwc-notched-outline class=3D"mdc-notched-outline">
+
+<template shadowmode=3D"open">
+<span class=3D"mdc-notched-outline ">
+<span class=3D"mdc-notched-outline__leading">
+<span class=3D"mdc-notched-outline__notch">
+
+
+<span class=3D"mdc-notched-outline__trailing">
+
+
+
+
+<input class=3D"mdc-text-field__input" type=3D"text" placeholder=3D""=
+pattern=3D"\s*\d{2}\d?%?\s*" aria-label=3D"Zoom percentage" style=3D"text-=
+align: center;">
+
+
+
+
+
+
+
+<div id=3D"icon-button-1554580594-container">
+
+<ea-icon-button id=3D"icon-button-1554580594" type=3D"default" dir=3D=
+"ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_zoom_in" viewBox=3D"0 0 20 20" width=3D"2=
+0" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path d=3D"M17.49,16 L13.76,12.27 C14.53,11.2 15,9.91 15,8.5 C15,4.91 12.09=
+,2 8.5,2 C4.91,2 2,4.91 2,8.5 C2,12.09 4.91,15 8.5,15 C9.91,15 11.2,14.53 1=
+2.27,13.76 L16,17.49 L17.49,16 Z M8.5,13 C6.01,13 4,10.99 4,8.5 C4,6.01 6.0=
+1,4 8.5,4 C10.99,4 13,6.01 13,8.5 C13,10.99 10.99,13 8.5,13 Z M9.5,7.5 L11.=
+5,7.5 L11.5,9.5 L9.5,9.5 L9.5,11.5 L7.5,11.5 L7.5,9.5 L5.5,9.5 L5.5,7.5 L7.=
+5,7.5 L7.5,5.5 L9.5,5.5 L9.5,7.5 Z" fill-rule=3D"evenodd">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Zoom in">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-1554580594" label=3D"Zoom in" style=
+=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-1554580594" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" styl=
+e=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pap=
+er-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-c=
+olor);">
+Zoom in
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-77382285-container">
+
+<ea-icon-button id=3D"icon-button-77382285" type=3D"default" dir=3D"l=
+tr" sizing=3D"dense">
+<svg height=3D"24" id=3D"print_24px" viewBox=3D"0 0 24 24" width=3D"2=
+4" xmlns=3D"http://www.w3.org/2000/svg" slot=3D""><path d=3D"M19 8h-1V3H6v5=
+H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zm-3 11H8v-4h8v4zm0=
+-11H8V5h8v3zm2 4.5c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z">=
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Print">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-77382285" label=3D"Print" style=3D"d=
+isplay: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-77382285" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Print
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-2043376075-container">
+
+<ea-icon-button id=3D"icon-button-2043376075" type=3D"default" dir=3D=
+"ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_delete" viewBox=3D"0 0 20 20" width=3D"20=
+" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.org/199=
+9/xlink" slot=3D"">
+
+<path d=3D"M13,3 L13,2 L7,2 L7,3 L3,3 L3,5 L4,5 L4,16 C4,17.1 4.9,18 6,18 L=
+14,18 C15.1,18 16,17.1 16,16 L16,5 L17,5 L17,3 L13,3 Z M14,16 L6,16 L6,5 L1=
+4,5 L14,16 Z" id=3D"ic_delete-a">
+
+<use fill-rule=3D"evenodd" xlink:href=3D"#ic_delete-a">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Delete">
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-2043376075" label=3D"Delete" style=
+=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-2043376075" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" styl=
+e=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pap=
+er-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-c=
+olor);">
+Delete
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<span class=3D"divider">
+
+
+<div class=3D"control-group">
+
+<backlight-confirmation-textfield outlined=3D"" type=3D"text" arialab=
+el=3D"Page number" pattern=3D"\s*\d+\s*" textalign=3D"end" style=3D"width: =
+40px;">
+<template shadowmode=3D"open">
+<label class=3D"mdc-text-field mdc-text-field--no-label mdc-text-fiel=
+d--outlined">
+
+
+<mwc-notched-outline class=3D"mdc-notched-outline">
+
+<template shadowmode=3D"open">
+<span class=3D"mdc-notched-outline ">
+<span class=3D"mdc-notched-outline__leading">
+<span class=3D"mdc-notched-outline__notch">
+
+
+<span class=3D"mdc-notched-outline__trailing">
+
+
+
+
+<input class=3D"mdc-text-field__input" type=3D"text" placeholder=3D""=
+pattern=3D"\s*\d+\s*" aria-label=3D"Page number" style=3D"text-align: end;=
+">
+
+
+
+
+
+
+
+
+/
+<template shadowmode=3D"open">
+
+
+
+<backlight-uneditable-text style=3D"min-width: 16px; padding-inline-s=
+tart: 4px;">
+1
+<template shadowmode=3D"open">
+
+
+
+<span class=3D"divider">
+
+
+<div class=3D"control-group">
+
+<div id=3D"icon-button-427243323-container">
+
+<ea-icon-button id=3D"icon-button-427243323" type=3D"default" dir=3D"=
+ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_rotate_90_anticlockwise" viewBox=3D"0 0 2=
+0 20" width=3D"20" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path d=3D"M11.3994949,1.63794193 L12.648961,2.88794193 L11.5466729,3.98988=
+436 C15.1606632,4.26524596 18.0073593,7.28489093 18.0073593,10.9694174 C18.=
+0073593,14.8354106 14.8733526,17.9694174 11.0073593,17.9694174 C10.0582025,=
+17.9694174 9.15316781,17.7805079 8.32780267,17.4382364 L9.91641789,15.85005=
+2 C10.2675805,15.9282001 10.6326565,15.9694174 11.0073593,15.9694174 C13.76=
+87831,15.9694174 16.0073593,13.7308411 16.0073593,10.9694174 C16.0073593,8.=
+26069785 13.853418,6.05505826 11.1648887,5.9718518 L12.648961,7.45894193 L1=
+1.3994949,8.70900974 L7.86396103,5.17347584 L11.3994949,1.63794193 Z M6.449=
+74747,6.5876894 L11.3994949,11.5374369 L6.44974747,16.4871843 L1.5,11.53743=
+69 L6.44974747,6.5876894 Z M6.44974747,9.41611652 L4.32842712,11.5374369 L6=
+.44974747,13.6587572 L8.57106781,11.5374369 L6.44974747,9.41611652 Z" fill-=
+rule=3D"evenodd">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Rotate counterclockwise">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-427243323" label=3D"Rotate countercl=
+ockwise" style=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-427243323" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Rotate counterclockwise
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-575645666-container">
+
+<ea-toggleable-icon-button id=3D"icon-button-575645666" ink=3D"blue=
+">
+<svg height=3D"24" id=3D"text_fields_24px" viewBox=3D"0 0 24 24" wi=
+dth=3D"24" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"offIcon"><path d=3D=
+"M2 4v3h5v13h3V7h5V4H2zm20 5h-9v3h3v8h3v-8h3V9z"><template sha=
+dowmode=3D"open">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex " aria-pressed=3D"false" aria-label=3D"Text annotation"=
+
+        <mwc-ripple unbounded=3D"">
+        <template shadowmode=3D"open"><!---->
+    <div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+<span class=3D"mdc-icon-button__icon"><slot name=3D"offIcon"><i cla=
+ss=3D"material-icons">
+<span class=3D"mdc-icon-button__icon mdc-icon-button__icon--on"><sl=
+ot name=3D"onIcon"><i class=3D"material-icons"></=
+slot>
+
+
+
+<ea-tooltip for=3D"icon-button-575645666" label=3D"Text annotation"=
+style=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-575645666" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Text annotation
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-3709949292-container">
+
+<ea-toggleable-icon-button id=3D"icon-button-3709949292" ink=3D"blu=
+e">
+<svg height=3D"20" id=3D"ic_annotation" viewBox=3D"0 0 20 20" width=
+=3D"20" xmlns=3D"http://www.w3.org/2000/svg" slot=3D"offIcon">
+<path clip-rule=3D"evenodd" d=3D"M5.46205 4.85122C5.19176 4.73674 4.58144 5=
+.30033 3.97112 5.92557L2.44531 4.41973C2.63713 4.18196 2.89869 3.91778 3.21=
+257 3.60076C3.43055 3.38061 4.43322 2.5 5.58411 2.5C6.34265 2.5 7.77255 3.1=
+0762 7.77255 5.01854C7.77255 6.21617 7.31917 6.90304 6.63909 7.90693C6.2467=
+4 8.48813 5.33126 10.0468 5.0261 11.0067C4.71222 11.9665 4.94763 12.6974 5.=
+33998 12.6974C5.69938 12.6974 6.05879 12.2604 6.27993 11.9916C6.28947 11.98=
+6.29876 11.9687 6.30778 11.9577C6.50831 11.7464 7.79871 10.2053 8.3044 9.5=
+6248C8.96704 8.74351 10.6498 7.06155 12.6115 7.06155C15.1749 7.06155 15.994=
+5 9.3071 16.1252 10.7601H18.2788V12.9616H16.134C15.7852 17.1621 13.466 18.3=
+333 12.0448 18.3333C10.5016 18.3333 9.24604 17.1093 9.24604 15.6123C9.24604=
+14.1152 10.6411 11.447 13.9368 10.8834C13.9306 10.8391 13.9248 10.7939 13.=
+9188 10.7482C13.8328 10.0855 13.7318 9.3071 12.4023 9.3071C11.3124 9.3071 9=
+.89996 11.0243 8.84497 12.3364L8.83393 12.3502C7.87133 13.5501 7.10636 14.5=
+037 6.17699 14.7757C5.39229 15.0134 4.52913 14.8637 3.87521 14.3706C3.12539=
+13.807 2.70688 12.8736 2.70688 11.7464C2.70688 9.89058 4.4326 7.33358 5.02=
+236 6.45972C5.10984 6.33011 5.17232 6.23752 5.20048 6.18975C5.46205 5.75825=
+5.89799 5.02735 5.46205 4.85122ZM11.4258 15.5594C11.4258 15.9645 11.8007 1=
+6.1935 12.071 16.1935C12.6813 16.1935 13.6665 15.4978 13.9281 13.1289C12.06=
+22 13.6221 11.4258 15.0311 11.4258 15.5594Z" fill-rule=3D"evenodd">
+<template shadowmode=3D"open">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex " aria-pressed=3D"false" aria-label=3D"Annotate">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded" style=3D"--mdc-ripple-fg-scale:1.8; --mdc-ripple-fg-size:=
+20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px;"></mwc-=
+ripple>
+<span class=3D"mdc-icon-button__icon"><slot name=3D"offIcon"><i cla=
+ss=3D"material-icons">
+<span class=3D"mdc-icon-button__icon mdc-icon-button__icon--on"><sl=
+ot name=3D"onIcon"><i class=3D"material-icons"></=
+slot>
+
+
+
+<ea-tooltip for=3D"icon-button-3709949292" label=3D"Annotate" style=
+=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-3709949292" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" styl=
+e=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pap=
+er-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-c=
+olor);">
+Annotate
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<span class=3D"divider">
+
+
+<div class=3D"control-group">
+
+<div id=3D"icon-button-2641156-container">
+
+<ea-icon-button disabled=3D"" id=3D"icon-button-2641156" type=3D"defa=
+ult" rtlflip=3D"" dir=3D"ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_undo" viewBox=3D"0 0 20 20" width=3D"20" =
+xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path d=3D"M8.492,9.99235931 L7.24264069,11.2426407 L3,7 L7.24264069,2.7573=
+5931 L8.492,4.00735931 L6.499,5.99935931 L12,6 C14.7614237,6 17,8.23857625 =
+17,11 C17,13.6887547 14.8776933,15.8818181 12.2168896,15.9953805 L12,16 L6,=
+16 L6,14 L12,14 C13.6568542,14 15,12.6568542 15,11 C15,9.34314575 13.656854=
+2,8 12,8 L6.499,7.99935931 L8.492,9.99235931 Z" fill-rule=3D"evenodd"></pat=
+h>
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Undo" disabled=3D"">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-su=
+rface--disabled mdc-ripple-upgraded--unbounded " style=3D"--mdc-ripple-fg-s=
+cale:1.8; --mdc-ripple-fg-size:20px; --mdc-ripple-left:8px; --mdc-ripple-to=
+p:8px;">
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-2641156" label=3D"Undo" style=3D"dis=
+play: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-2641156" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Undo
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<div id=3D"icon-button-2543134-container">
+
+<ea-icon-button disabled=3D"" id=3D"icon-button-2543134" type=3D"defa=
+ult" rtlflip=3D"" dir=3D"ltr" sizing=3D"dense">
+<svg height=3D"20" id=3D"ic_redo" viewBox=3D"0 0 20 20" width=3D"20" =
+xmlns=3D"http://www.w3.org/2000/svg" slot=3D"">
+<path d=3D"M8.492,9.99235931 L7.24264069,11.2426407 L3,7 L7.24264069,2.7573=
+5931 L8.492,4.00735931 L6.499,5.99935931 L12,6 C14.7614237,6 17,8.23857625 =
+17,11 C17,13.6887547 14.8776933,15.8818181 12.2168896,15.9953805 L12,16 L6,=
+16 L6,14 L12,14 C13.6568542,14 15,12.6568542 15,11 C15,9.34314575 13.656854=
+2,8 12,8 L6.499,7.99935931 L8.492,9.99235931 Z" fill-rule=3D"evenodd" trans=
+form=3D"matrix(-1 0 0 1 20 0)">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex" aria-label=3D"Redo" disabled=3D"">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-su=
+rface--disabled mdc-ripple-upgraded--unbounded " style=3D"--mdc-ripple-fg-s=
+cale:1.8; --mdc-ripple-fg-size:20px; --mdc-ripple-left:8px; --mdc-ripple-to=
+p:8px;">
+
+
+
+
+
+<ea-tooltip for=3D"icon-button-2543134" label=3D"Redo" style=3D"dis=
+play: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"icon-button-2543134" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor);">
+Redo
+<template shadowmode=3D"open">
+=20
+
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<span class=3D"divider">
+
+
+
+<div class=3D"commit-controls">
+<div aria-live=3D"polite" aria-atomic=3D"true" aria-describedby=
+=3D"action-area-description">
+<div id=3D"action-area-description"></div=
+
+        <!--?lit$069645387$--><!--?lit$069645387$--><!----><!----><!---=
+->
+
+<div class=3D"control-box">
+<backlight-overflow-menu dir=3D"ltr">
+<template shadowmode=3D"open" shadowdelegatesfocus=3D"">
+
+<ea-toggleable-icon-button id=3D"more-options-button" ink=3D"defaul=
+t" aria-expanded=3D"true">
+<svg height=3D"20" id=3D"ic_more-options" viewBox=3D"0 0 20 20" wid=
+th=3D"20" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3=
+.org/1999/xlink" slot=3D"onIcon">
+
+<path d=3D"M14,10 C14,8.896 14.896,8 16,8 C17.105,8 18,8.896 18,10 C18,11.1=
+05 17.105,12 16,12 C14.896,12 14,11.105 14,10 Z M12,10 C12,11.105 11.105,12=
+10,12 C8.896,12 8,11.105 8,10 C8,8.896 8.896,8 10,8 C11.105,8 12,8.896 12,=
+10 Z M6,10 C6,11.105 5.105,12 4,12 C2.896,12 2,11.105 2,10 C2,8.896 2.896,8=
+4,8 C5.105,8 6,8.896 6,10 Z" id=3D"ic_more-options-a">
+
+<use fill-rule=3D"evenodd" transform=3D"rotate(90 10 10)" xlink:href=3D"#ic=
+_more-options-a">
+<template shadowmode=3D"open">
+<div class=3D"extended-tap-target">
+<button class=3D"mdc-icon-button mdc-icon-but=
+ton--display-flex mdc-icon-button--on" aria-label=3D"More options" aria-has=
+popup=3D"true" aria-expanded=3D"true">
+<mwc-ripple unbounded=3D"">
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded mdc-ripple-upg=
+raded--unbounded mdc-ripple-surface--hover" style=3D"--mdc-ripple-fg-scale:=
+1.8; --mdc-ripple-fg-size:20px; --mdc-ripple-left:8px; --mdc-ripple-top:8px=
+;">
+
+<span class=3D"mdc-icon-button__icon"><slot name=3D"offIcon"><i cla=
+ss=3D"material-icons">
+<span class=3D"mdc-icon-button__icon mdc-icon-button__icon--on"><sl=
+ot name=3D"onIcon"><i class=3D"material-icons"></=
+slot>
+
+
+
+<ea-tooltip for=3D"more-options-button" label=3D"More options" styl=
+e=3D"display: contents;">
+
+<paper-tooltip aria-hidden=3D"true" fit-to-visible-bounds=3D"" for=3D=
+"more-options-button" offset=3D"8" role=3D"tooltip" tabindex=3D"-1" style=
+=3D"--paper-tooltip-background:var(--cros-tooltip-background-color); --pape=
+r-tooltip-opacity:1; --paper-tooltip-text-color:var(--cros-tooltip-label-co=
+lor); right: 0px; left: auto; top: 56px;">
+More options
+<template shadowmode=3D"open">
+=20
+<div id=3D"tooltip" class=3D"hidden">
+  <slot></slot>
+</div>
+
+
+
+
+<ea-menu dir=3D"ltr" innerrole=3D"menu">
+<template shadowmode=3D"open">
+<mwc-menu stayopenonbodyclick=3D"" quick=3D"" defaultfocus=3D"NONE"=
+corner=3D"BOTTOM_END" menucorner=3D"END" y=3D"-2" x=3D"-6" innerrole=3D"me=
+nu" open=3D"">
+
+<div tabindex=3D"0" aria-label=3D"More options" aria-orientation=3D"v=
+ertical" role=3D"menu" id=3D"entries-container">
+
+
+
+<ea-menu-list-item id=3D"find" aria-haspopup=3D"false" hasmeta=3D=
+"" role=3D"menuitem" mwc-list-item=3D"" tabindex=3D"-1" aria-disabled=3D"fa=
+lse">
+Find=E2=80=A6
+
+<label slot=3D"meta"><!--?lit$069645387$-=
+->Ctrl + F
+<template shadowmode=3D"open">
+
+
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded">
+</templ=
+ate>
+
+
+<span class=3D"mdc-deprecated-list-item__text">
+
+
+
+<span class=3D"mdc-deprecated-list-item__meta material-icons">
+<slot name=3D"meta">
+
+
+
+
+<ea-menu-list-item id=3D"save-as-overflow-menu" aria-haspopup=3D"=
+false" hasmeta=3D"" role=3D"menuitem" mwc-list-item=3D"" tabindex=3D"-1" ar=
+ia-disabled=3D"false">
+Save as
+
+<label slot=3D"meta"><!--?lit$069645387$-=
+->Ctrl + S
+<template shadowmode=3D"open">
+
+
+<template shadowmode=3D"open">
+<div class=3D"mdc-ripple-surface mdc-ripple-upgraded" style=3D"--md=
+c-ripple-fg-scale:1.76739; --mdc-ripple-fg-size:129px; --mdc-ripple-fg-tran=
+slate-end:43px, -46.5px; --mdc-ripple-fg-translate-start:28.5px, -50.5px;">=
+Open in PDF viewer
+Open=E2=80=A6
+Help
+Licenses
+Learn more
+Send feedback
+=20
+=20
+<span id=3D"label"></span>
+<slot></slot>
+
+
+
+<template shadowmode=3D=
+"open">
+=20
+<div aria-live=3D"polite">
+<ea-a11y-announcer aria-live=3D"polite" st=
+yle=3D"position: absolute; height: 0px; width: 0px; overflow: hidden;">Rece=
+ipt from U.S. Department of the Treasury 26May2022.pdf<=
+/body>
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7c0a7143-c9b4-419d-838d-b5b491534c4f@mhtml.blink
+@charset "utf-8";
+
+body { margin: 0px; overflow: hidden; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-46df397d-0df7-4068-97c6-12d9d6b0ad54@mhtml.blink
+
+@charset "utf-8";
+
+html { --paper-font-common-base_-font-family: "Roboto", "Noto", sans-serif=
+; --paper-font-common-base--webkit-font-smoothing: antialiased; --paper-f=
+ont-common-code-font-family: "Roboto Mono", "Consolas", "Menlo", monospac=
+e; --paper-font-common-code--webkit-font-smoothing: antialiased; --paper-=
+font-common-expensive-kerning-text-rendering: optimizeLegibility; --paper=
+-font-common-nowrap-white-space: nowrap; --paper-font-common-nowrap-ove=
+rflow: hidden; --paper-font-common-nowrap-text-overflow: ellipsis; --pape=
+r-font-display4-font-family: var(--paper-font-common-base-font-family);=
+--paper-font-display4--webkit-font-smoothing: var(--paper-font-common-ba=
+se--webkit-font-smoothing); --paper-font-display4-white-space: var(--pa=
+per-font-common-nowrap-white-space); --paper-font-display4-overflow: va=
+r(--paper-font-common-nowrap-overflow); --paper-font-display4-text-over=
+flow: var(--paper-font-common-nowrap-text-overflow); --paper-font-display=
+4-font-size: 112px; --paper-font-display4-font-weight: 300; --paper-fon=
+t-display4-letter-spacing: -0.044em; --paper-font-display4-line-height:=
+120px; --paper-font-display3-font-family: var(--paper-font-common-base-=
+font-family); --paper-font-display3--webkit-font-smoothing: var(--paper-=
+font-common-base--webkit-font-smoothing); --paper-font-display3-white-s=
+pace: var(--paper-font-common-nowrap-white-space); --paper-font-display3=
+-overflow: var(--paper-font-common-nowrap-overflow); --paper-font-displa=
+y3-text-overflow: var(--paper-font-common-nowrap-text-overflow); --pape=
+r-font-display3-font-size: 56px; --paper-font-display3-font-weight: 400=
+; --paper-font-display3-letter-spacing: -0.026em; --paper-font-display3-=
+line-height: 60px; --paper-font-display2-font-family: var(--paper-font-c=
+ommon-base-font-family); --paper-font-display2--webkit-font-smoothing: =
+var(--paper-font-common-base--webkit-font-smoothing); --paper-font-displa=
+y2-font-size: 45px; --paper-font-display2-font-weight: 400; --paper-fon=
+t-display2-letter-spacing: -0.018em; --paper-font-display2-line-height:=
+48px; --paper-font-display1-font-family: var(--paper-font-common-base-=
+font-family); --paper-font-display1--webkit-font-smoothing: var(--paper-f=
+ont-common-base--webkit-font-smoothing); --paper-font-display1-font-siz=
+e: 34px; --paper-font-display1-font-weight: 400; --paper-font-display1-=
+letter-spacing: -0.01em; --paper-font-display1-line-height: 40px; --paper=
+-font-headline-font-family: var(--paper-font-common-base-font-family); =
+--paper-font-headline--webkit-font-smoothing: var(--paper-font-common-bas=
+e--webkit-font-smoothing); --paper-font-headline-font-size: 24px; --pap=
+er-font-headline-font-weight: 400; --paper-font-headline-letter-spacing=
+: -0.012em; --paper-font-headline-line-height: 32px; --paper-font-title-=
+font-family: var(--paper-font-common-base-font-family); --paper-font-tit=
+le--webkit-font-smoothing: var(--paper-font-common-base--webkit-font-sm=
+oothing); --paper-font-title-white-space: var(--paper-font-common-nowrap=
+-white-space); --paper-font-title-overflow: var(--paper-font-common-nowr=
+ap-overflow); --paper-font-title-text-overflow: var(--paper-font-common=
+-nowrap-text-overflow); --paper-font-title-font-size: 20px; --paper-fon=
+t-title-font-weight: 500; --paper-font-title-line-height: 28px; --paper=
+-font-subhead-font-family: var(--paper-font-common-base-font-family); -=
+-paper-font-subhead--webkit-font-smoothing: var(--paper-font-common-base=
+--webkit-font-smoothing); --paper-font-subhead-font-size: 16px; --paper-=
+font-subhead-font-weight: 400; --paper-font-subhead-line-height: 24px; =
+--paper-font-body2-font-family: var(--paper-font-common-base-font-famil=
+y); --paper-font-body2--webkit-font-smoothing: var(--paper-font-common-ba=
+se--webkit-font-smoothing); --paper-font-body2-font-size: 14px; --paper=
+-font-body2-font-weight: 500; --paper-font-body2-line-height: 24px; --p=
+aper-font-body1-font-family: var(--paper-font-common-base-font-family);=
+--paper-font-body1--webkit-font-smoothing: var(--paper-font-common-base=
+--webkit-font-smoothing); --paper-font-body1-font-size: 14px; --paper-fo=
+nt-body1-font-weight: 400; --paper-font-body1-line-height: 20px; --pape=
+r-font-caption-font-family: var(--paper-font-common-base-font-family); =
+--paper-font-caption--webkit-font-smoothing: var(--paper-font-common-base=
+--webkit-font-smoothing); --paper-font-caption-white-space: var(--paper=
+-font-common-nowrap-white-space); --paper-font-caption-overflow: var(--=
+paper-font-common-nowrap-overflow); --paper-font-caption-text-overflow:=
+var(--paper-font-common-nowrap-text-overflow); --paper-font-caption-fo=
+nt-size: 12px; --paper-font-caption-font-weight: 400; --paper-font-captio=
+n-letter-spacing: 0.011em; --paper-font-caption-line-height: 20px; --pa=
+per-font-menu-font-family: var(--paper-font-common-base-font-family); -=
+-paper-font-menu--webkit-font-smoothing: var(--paper-font-common-base--=
+webkit-font-smoothing); --paper-font-menu-white-space: var(--paper-font-c=
+ommon-nowrap-white-space); --paper-font-menu-overflow: var(--paper-font=
+-common-nowrap-overflow); --paper-font-menu-text-overflow: var(--paper-=
+font-common-nowrap-text-overflow); --paper-font-menu-font-size: 13px; -=
+-paper-font-menu-font-weight: 500; --paper-font-menu-line-height: 24px;=
+--paper-font-button-font-family: var(--paper-font-common-base-font-fam=
+ily); --paper-font-button--webkit-font-smoothing: var(--paper-font-common=
+-base--webkit-font-smoothing); --paper-font-button-white-space: var(--p=
+aper-font-common-nowrap-white-space); --paper-font-button-overflow: var=
+(--paper-font-common-nowrap-overflow); --paper-font-button-text-overflo=
+w: var(--paper-font-common-nowrap-text-overflow); --paper-font-button-f=
+ont-size: 14px; --paper-font-button-font-weight: 500; --paper-font-button=
+-letter-spacing: 0.018em; --paper-font-button-line-height: 24px; --pape=
+r-font-button-text-transform: uppercase; --paper-font-code2-font-family=
+: var(--paper-font-common-code-font-family); --paper-font-code2--webkit=
+-font-smoothing: var(--paper-font-common-code--webkit-font-smoothing); --=
+paper-font-code2-font-size: 14px; --paper-font-code2-font-weight: 700; =
+--paper-font-code2-line-height: 20px; --paper-font-code1-font-family: v=
+ar(--paper-font-common-code-font-family); --paper-font-code1--webkit-fo=
+nt-smoothing: var(--paper-font-common-code--webkit-font-smoothing); --pap=
+er-font-code1-font-size: 14px; --paper-font-code1-font-weight: 500; --p=
+aper-font-code1-_line-height: 20px; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-adb3f47d-59f7-4d04-96cc-5bbf920c1a73@mhtml.blink
+
+@charset "utf-8";
+
+[hidden] { display: none !important; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-745a135f-7b04-4f94-9414-ab86826e2c2a@mhtml.blink
+
+@charset "utf-8";
+
+html { --layout_-display: flex; --layout-inline-display: inline-flex; --=
+layout-horizontal-display: var(--layout-display); --layout-horizontal-=
+-ms-flex-direction: row; --layout-horizontal--webkit-flex-direction: row=
+; --layout-horizontal-flex-direction: row; --layout-horizontal-reverse-=
+display: var(--layout-display); --layout-horizontal-reverse--ms-flex-di=
+rection: row-reverse; --layout-horizontal-reverse--webkit-flex-direction:=
+row-reverse; --layout-horizontal-reverse-flex-direction: row-reverse; --=
+layout-vertical-display: var(--layout-display); --layout-vertical--ms=
+-flex-direction: column; --layout-vertical--webkit-flex-direction: column=
+; --layout-vertical-flex-direction: column; --layout-vertical-reverse-d=
+isplay: var(--layout-display); --layout-vertical-reverse--ms-flex-direc=
+tion: column-reverse; --layout-vertical-reverse--webkit-flex-direction: c=
+olumn-reverse; --layout-vertical-reverse-flex-direction: column-reverse; =
+--layout-wrap--ms-flex-wrap: wrap; --layout-wrap--webkit-flex-wrap: wra=
+p; --layout-wrap-flex-wrap: wrap; --layout-wrap-reverse--ms-flex-wrap: =
+wrap-reverse; --layout-wrap-reverse--webkit-flex-wrap: wrap-reverse; --la=
+yout-wrap-reverse-flex-wrap: wrap-reverse; --layout-flex-auto--ms-flex:=
+1 1 auto; --layout-flex-auto--webkit-flex: 1 1 auto; --layout-flex-auto=
+-flex: 1 1 auto; --layout-flex-none--ms-flex: none; --layout-flex-none-=
+-webkit-flex: none; --layout-flex-none-flex: none; --layout-flex--ms-f=
+lex: 1 1 1.00000e-9px; --layout-flex--webkit-flex: 1; --layout-flex-fle=
+x: 1; --layout-flex--webkit-flex-basis: 1.00000e-9px; --layout-flex-fle=
+x-basis: 1.00000e-9px; --layout-flex-2--ms-flex: 2; --layout-flex-2--we=
+bkit-flex: 2; --layout-flex-2-flex: 2; --layout-flex-3--ms-flex: 3; --l=
+ayout-flex-3--webkit-flex: 3; --layout-flex-3-flex: 3; --layout-flex-4=
+--ms-flex: 4; --layout-flex-4--webkit-flex: 4; --layout-flex-4-flex: 4=
+; --layout-flex-5--ms-flex: 5; --layout-flex-5--webkit-flex: 5; --layou=
+t-flex-5-flex: 5; --layout-flex-6--ms-flex: 6; --layout-flex-6--webki=
+t-flex: 6; --layout-flex-6-flex: 6; --layout-flex-7--ms-flex: 7; --layo=
+ut-flex-7--webkit-flex: 7; --layout-flex-7-flex: 7; --layout-flex-8--=
+ms-flex: 8; --layout-flex-8--webkit-flex: 8; --layout-flex-8-flex: 8; -=
+-layout-flex-9--ms-flex: 9; --layout-flex-9--webkit-flex: 9; --layout-f=
+lex-9-flex: 9; --layout-flex-10--ms-flex: 10; --layout-flex-10--webki=
+t-flex: 10; --layout-flex-10-flex: 10; --layout-flex-11--ms-flex: 11; -=
+-layout-flex-11--webkit-flex: 11; --layout-flex-11-flex: 11; --layout-f=
+lex-12--ms-flex: 12; --layout-flex-12--webkit-flex: 12; --layout-flex-1=
+2-flex: 12; --layout-start--ms-flex-align: start; --layout-start--web=
+kit-align-items: flex-start; --layout-start-align-items: flex-start; --la=
+yout-center--ms-flex-align: center; --layout-center--webkit-align-items=
+: center; --layout-center-align-items: center; --layout-end--ms-flex-al=
+ign: end; --layout-end--webkit-align-items: flex-end; --layout-end-alig=
+n-items: flex-end; --layout-baseline--ms-flex-align: baseline; --layout-b=
+aseline--webkit-align-items: baseline; --layout-baseline-align-items: b=
+aseline; --layout-start-justified--ms-flex-pack: start; --layout-start-ju=
+stified--webkit-justify-content: flex-start; --layout-start-justified-j=
+ustify-content: flex-start; --layout-center-justified--ms-flex-pack: cent=
+er; --layout-center-justified--webkit-justify-content: center; --layout-c=
+enter-justified-justify-content: center; --layout-end-justified--ms-fle=
+x-pack: end; --layout-end-justified--webkit-justify-content: flex-end; --=
+layout-end-justified-justify-content: flex-end; --layout-around-justified=
+--ms-flex-pack: distribute; --layout-around-justified--webkit-justify-c=
+ontent: space-around; --layout-around-justified-justify-content: space-ar=
+ound; --layout-justified--ms-flex-pack: justify; --layout-justified--we=
+bkit-justify-content: space-between; --layout-justified-justify-content: =
+space-between; --layout-center-center--ms-flex-align: var(--layout-center=
+--ms-flex-align); --layout-center-center--webkit-align-items: var(--lay=
+out-center--webkit-align-items); --layout-center-center-align-items: va=
+r(--layout-center-align-items); --layout-center-center--ms-flex-pack: v=
+ar(--layout-center-justified--ms-flex-pack); --layout-center-center--we=
+bkit-justify-content: var(--layout-center-justified--webkit-justify-conte=
+nt); --layout-center-center-justify-content: var(--layout-center-justifie=
+d-justify-content); --layout-self-start--ms-align-self: flex-start; --l=
+ayout-self-start--webkit-align-self: flex-start; --layout-self-start-al=
+ign-self: flex-start; --layout-self-center--ms-align-self: center; --layo=
+ut-self-center--webkit-align-self: center; --layout-self-center-align-s=
+elf: center; --layout-self-end--ms-align-self: flex-end; --layout-self-en=
+d--webkit-align-self: flex-end; --layout-self-end-align-self: flex-end;=
+--layout-self-stretch--ms-align-self: stretch; --layout-self-stretch--=
+webkit-align-self: stretch; --layout-self-stretch-align-self: stretch; --=
+layout-self-baseline--ms-align-self: baseline; --layout-self-baseline--=
+webkit-align-self: baseline; --layout-self-baseline-align-self: baseline;=
+--layout-start-aligned--ms-flex-line-pack: start; --layout-start-aligned=
+--ms-align-content: flex-start; --layout-start-aligned--webkit-align-co=
+ntent: flex-start; --layout-start-aligned-align-content: flex-start; --la=
+yout-end-aligned--ms-flex-line-pack: end; --layout-end-aligned--ms-alig=
+n-content: flex-end; --layout-end-aligned--webkit-align-content: flex-end=
+; --layout-end-aligned-align-content: flex-end; --layout-center-aligned-=
+-ms-flex-line-pack: center; --layout-center-aligned--ms-align-content: c=
+enter; --layout-center-aligned--webkit-align-content: center; --layout-ce=
+nter-aligned-align-content: center; --layout-between-aligned--ms-flex-l=
+ine-pack: justify; --layout-between-aligned--ms-align-content: space-betw=
+een; --layout-between-aligned--webkit-align-content: space-between; --lay=
+out-between-aligned-align-content: space-between; --layout-around-aligned=
+--ms-flex-line-pack: distribute; --layout-around-aligned--ms-align-cont=
+ent: space-around; --layout-around-aligned--webkit-align-content: space-a=
+round; --layout-around-aligned-align-content: space-around; --layout-bloc=
+k-display: block; --layout-relative-position: relative; --layout-fit-=
+position: absolute; --layout-fit-top: 0; --layout-fit-right: 0; --layou=
+t-fit-bottom: 0; --layout-fit-left: 0; --layout-scroll--webkit-overfl=
+ow-scrolling: touch; --layout-scroll-overflow: auto; --layout-fullbleed-=
+margin: 0; --layout-fullbleed-height: 100vh; --layout-fixed-top-positi=
+on: fixed; --layout-fixed-top-top: 0; --layout-fixed-top-left: 0; --lay=
+out-fixed-top-right: 0; --layout-fixed-right-position: fixed; --layout-=
+fixed-right-top: 0; --layout-fixed-right-_right: 0; --layout-fixed-right=
+_-bottom: 0; --layout-fixed-bottom-position: fixed; --layout-fixed-botto=
+m-right: 0; --layout-fixed-bottom-bottom: 0; --layout-fixed-bottom-le=
+ft: 0; --layout-fixed-left-position: fixed; --layout-fixed-left-top: 0;=
+--layout-fixed-left-bottom: 0; --layout-fixed-left-left: 0; --layout-i=
+nvisible-_visibility: hidden !important; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-70851f45-f9ab-4a49-a838-e9ad463c8801@mhtml.blink
+
+@charset "utf-8";
+
+[hidden] { display: none !important; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-eaa9e7d0-d5c5-4485-bac9-6f3bcbc9c9d1@mhtml.blink
+
+@charset "utf-8";
+
+html { --google-red-100: #f4c7c3; --google-red-300: #e67c73; --google-red-5=
+00: #db4437; --google-red-700: #c53929; --google-blue-100: #c6dafc; --googl=
+e-blue-300: #7baaf7; --google-blue-500: #4285f4; --google-blue-700: #3367d6=
+; --google-green-100: #b7e1cd; --google-green-300: #57bb8a; --google-green-=
+500: #0f9d58; --google-green-700: #0b8043; --google-yellow-100: #fce8b2; --=
+google-yellow-300: #f7cb4d; --google-yellow-500: #f4b400; --google-yellow-7=
+00: #f09300; --google-grey-100: #f5f5f5; --google-grey-300: #e0e0e0; --goog=
+le-grey-500: #9e9e9e; --google-grey-700: #616161; --paper-red-50: #ffebee; =
+--paper-red-100: #ffcdd2; --paper-red-200: #ef9a9a; --paper-red-300: #e5737=
+3; --paper-red-400: #ef5350; --paper-red-500: #f44336; --paper-red-600: #e5=
+3935; --paper-red-700: #d32f2f; --paper-red-800: #c62828; --paper-red-900: =
+#b71c1c; --paper-red-a100: #ff8a80; --paper-red-a200: #ff5252; --paper-red-=
+a400: #ff1744; --paper-red-a700: #d50000; --paper-pink-50: #fce4ec; --paper=
+-pink-100: #f8bbd0; --paper-pink-200: #f48fb1; --paper-pink-300: #f06292; -=
+-paper-pink-400: #ec407a; --paper-pink-500: #e91e63; --paper-pink-600: #d81=
+b60; --paper-pink-700: #c2185b; --paper-pink-800: #ad1457; --paper-pink-900=
+: #880e4f; --paper-pink-a100: #ff80ab; --paper-pink-a200: #ff4081; --paper-=
+pink-a400: #f50057; --paper-pink-a700: #c51162; --paper-purple-50: #f3e5f5;=
+--paper-purple-100: #e1bee7; --paper-purple-200: #ce93d8; --paper-purple-3=
+00: #ba68c8; --paper-purple-400: #ab47bc; --paper-purple-500: #9c27b0; --pa=
+per-purple-600: #8e24aa; --paper-purple-700: #7b1fa2; --paper-purple-800: #=
+6a1b9a; --paper-purple-900: #4a148c; --paper-purple-a100: #ea80fc; --paper-=
+purple-a200: #e040fb; --paper-purple-a400: #d500f9; --paper-purple-a700: #a=
+a00ff; --paper-deep-purple-50: #ede7f6; --paper-deep-purple-100: #d1c4e9; -=
+-paper-deep-purple-200: #b39ddb; --paper-deep-purple-300: #9575cd; --paper-=
+deep-purple-400: #7e57c2; --paper-deep-purple-500: #673ab7; --paper-deep-pu=
+rple-600: #5e35b1; --paper-deep-purple-700: #512da8; --paper-deep-purple-80=
+0: #4527a0; --paper-deep-purple-900: #311b92; --paper-deep-purple-a100: #b3=
+88ff; --paper-deep-purple-a200: #7c4dff; --paper-deep-purple-a400: #651fff;=
+--paper-deep-purple-a700: #6200ea; --paper-indigo-50: #e8eaf6; --paper-ind=
+igo-100: #c5cae9; --paper-indigo-200: #9fa8da; --paper-indigo-300: #7986cb;=
+--paper-indigo-400: #5c6bc0; --paper-indigo-500: #3f51b5; --paper-indigo-6=
+00: #3949ab; --paper-indigo-700: #303f9f; --paper-indigo-800: #283593; --pa=
+per-indigo-900: #1a237e; --paper-indigo-a100: #8c9eff; --paper-indigo-a200:=
+#536dfe; --paper-indigo-a400: #3d5afe; --paper-indigo-a700: #304ffe; --pap=
+er-blue-50: #e3f2fd; --paper-blue-100: #bbdefb; --paper-blue-200: #90caf9; =
+--paper-blue-300: #64b5f6; --paper-blue-400: #42a5f5; --paper-blue-500: #21=
+96f3; --paper-blue-600: #1e88e5; --paper-blue-700: #1976d2; --paper-blue-80=
+0: #1565c0; --paper-blue-900: #0d47a1; --paper-blue-a100: #82b1ff; --paper-=
+blue-a200: #448aff; --paper-blue-a400: #2979ff; --paper-blue-a700: #2962ff;=
+--paper-light-blue-50: #e1f5fe; --paper-light-blue-100: #b3e5fc; --paper-l=
+ight-blue-200: #81d4fa; --paper-light-blue-300: #4fc3f7; --paper-light-blue=
+-400: #29b6f6; --paper-light-blue-500: #03a9f4; --paper-light-blue-600: #03=
+9be5; --paper-light-blue-700: #0288d1; --paper-light-blue-800: #0277bd; --p=
+aper-light-blue-900: #01579b; --paper-light-blue-a100: #80d8ff; --paper-lig=
+ht-blue-a200: #40c4ff; --paper-light-blue-a400: #00b0ff; --paper-light-blue=
+-a700: #0091ea; --paper-cyan-50: #e0f7fa; --paper-cyan-100: #b2ebf2; --pape=
+r-cyan-200: #80deea; --paper-cyan-300: #4dd0e1; --paper-cyan-400: #26c6da; =
+--paper-cyan-500: #00bcd4; --paper-cyan-600: #00acc1; --paper-cyan-700: #00=
+97a7; --paper-cyan-800: #00838f; --paper-cyan-900: #6064; --paper-cyan-a1=
+00: #84ffff; --paper-cyan-a200: #18ffff; --paper-cyan-a400: #00e5ff; --pape=
+r-cyan-a700: #00b8d4; --paper-teal-50: #e0f2f1; --paper-teal-100: #b2dfdb; =
+--paper-teal-200: #80cbc4; --paper-teal-300: #4db6ac; --paper-teal-400: #26=
+a69a; --paper-teal-500: #9688; --paper-teal-600: #00897b; --paper-teal-70=
+0: #00796b; --paper-teal-800: #00695c; --paper-teal-900: #004d40; --paper-t=
+eal-a100: #a7ffeb; --paper-teal-a200: #64ffda; --paper-teal-a400: #1de9b6; =
+--paper-teal-a700: #00bfa5; --paper-green-50: #e8f5e9; --paper-green-100: #=
+c8e6c9; --paper-green-200: #a5d6a7; --paper-green-300: #81c784; --paper-gre=
+en-400: #66bb6a; --paper-green-500: #4caf50; --paper-green-600: #43a047; --=
+paper-green-700: #388e3c; --paper-green-800: #2e7d32; --paper-green-900: #1=
+b5e20; --paper-green-a100: #b9f6ca; --paper-green-a200: #69f0ae; --paper-gr=
+een-a400: #00e676; --paper-green-a700: #00c853; --paper-light-green-50: #f1=
+f8e9; --paper-light-green-100: #dcedc8; --paper-light-green-200: #c5e1a5; -=
+-paper-light-green-300: #aed581; --paper-light-green-400: #9ccc65; --paper-=
+light-green-500: #8bc34a; --paper-light-green-600: #7cb342; --paper-light-g=
+reen-700: #689f38; --paper-light-green-800: #558b2f; --paper-light-green-90=
+0: #33691e; --paper-light-green-a100: #ccff90; --paper-light-green-a200: #b=
+2ff59; --paper-light-green-a400: #76ff03; --paper-light-green-a700: #64dd17=
+; --paper-lime-50: #f9fbe7; --paper-lime-100: #f0f4c3; --paper-lime-200: #e=
+6ee9c; --paper-lime-300: #dce775; --paper-lime-400: #d4e157; --paper-lime-5=
+00: #cddc39; --paper-lime-600: #c0ca33; --paper-lime-700: #afb42b; --paper-=
+lime-800: #9e9d24; --paper-lime-900: #827717; --paper-lime-a100: #f4ff81; -=
+-paper-lime-a200: #eeff41; --paper-lime-a400: #c6ff00; --paper-lime-a700: #=
+aeea00; --paper-yellow-50: #fffde7; --paper-yellow-100: #fff9c4; --paper-ye=
+llow-200: #fff59d; --paper-yellow-300: #fff176; --paper-yellow-400: #ffee58=
+; --paper-yellow-500: #ffeb3b; --paper-yellow-600: #fdd835; --paper-yellow-=
+700: #fbc02d; --paper-yellow-800: #f9a825; --paper-yellow-900: #f57f17; --p=
+aper-yellow-a100: #ffff8d; --paper-yellow-a200: #ffff00; --paper-yellow-a40=
+0: #ffea00; --paper-yellow-a700: #ffd600; --paper-amber-50: #fff8e1; --pape=
+r-amber-100: #ffecb3; --paper-amber-200: #ffe082; --paper-amber-300: #ffd54=
+f; --paper-amber-400: #ffca28; --paper-amber-500: #ffc107; --paper-amber-60=
+0: #ffb300; --paper-amber-700: #ffa000; --paper-amber-800: #ff8f00; --paper=
+-amber-900: #ff6f00; --paper-amber-a100: #ffe57f; --paper-amber-a200: #ffd7=
+40; --paper-amber-a400: #ffc400; --paper-amber-a700: #ffab00; --paper-orang=
+e-50: #fff3e0; --paper-orange-100: #ffe0b2; --paper-orange-200: #ffcc80; --=
+paper-orange-300: #ffb74d; --paper-orange-400: #ffa726; --paper-orange-500:=
+#ff9800; --paper-orange-600: #fb8c00; --paper-orange-700: #f57c00; --paper=
+-orange-800: #ef6c00; --paper-orange-900: #e65100; --paper-orange-a100: #ff=
+d180; --paper-orange-a200: #ffab40; --paper-orange-a400: #ff9100; --paper-o=
+range-a700: #ff6500; --paper-deep-orange-50: #fbe9e7; --paper-deep-orange-1=
+00: #ffccbc; --paper-deep-orange-200: #ffab91; --paper-deep-orange-300: #ff=
+8a65; --paper-deep-orange-400: #ff7043; --paper-deep-orange-500: #ff5722; -=
+-paper-deep-orange-600: #f4511e; --paper-deep-orange-700: #e64a19; --paper-=
+deep-orange-800: #d84315; --paper-deep-orange-900: #bf360c; --paper-deep-or=
+ange-a100: #ff9e80; --paper-deep-orange-a200: #ff6e40; --paper-deep-orange-=
+a400: #ff3d00; --paper-deep-orange-a700: #dd2c00; --paper-brown-50: #efebe9=
+; --paper-brown-100: #d7ccc8; --paper-brown-200: #bcaaa4; --paper-brown-300=
+: #a1887f; --paper-brown-400: #8d6e63; --paper-brown-500: #795548; --paper-=
+brown-600: #6d4c41; --paper-brown-700: #5d4037; --paper-brown-800: #4e342e;=
+--paper-brown-900: #3e2723; --paper-grey-50: #fafafa; --paper-grey-100: #f=
+5f5f5; --paper-grey-200: #eeeeee; --paper-grey-300: #e0e0e0; --paper-grey-4=
+00: #bdbdbd; --paper-grey-500: #9e9e9e; --paper-grey-600: #757575; --paper-=
+grey-700: #616161; --paper-grey-800: #424242; --paper-grey-900: #212121; --=
+paper-blue-grey-50: #eceff1; --paper-blue-grey-100: #cfd8dc; --paper-blue-g=
+rey-200: #b0bec5; --paper-blue-grey-300: #90a4ae; --paper-blue-grey-400: #7=
+8909c; --paper-blue-grey-500: #607d8b; --paper-blue-grey-600: #546e7a; --pa=
+per-blue-grey-700: #455a64; --paper-blue-grey-800: #37474f; --paper-blue-gr=
+ey-900: #263238; --dark-divider-opacity: 0.12; --dark-disabled-opacity: 0.3=
+8; --dark-secondary-opacity: 0.54; --dark-primary-opacity: 0.87; --light-di=
+vider-opacity: 0.12; --light-disabled-opacity: 0.3; --light-secondary-opaci=
+ty: 0.7; --light-primary-opacity: 1; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cefabaec-5ade-41d7-9a5a-6b84565a952b@mhtml.blink
+
+@charset "utf-8";
+
+html { --primary-text-color: var(--light-theme-text-color); --primary-backg=
+round-color: var(--light-theme-background-color); --secondary-text-color: v=
+ar(--light-theme-secondary-color); --disabled-text-color: var(--light-theme=
+-disabled-color); --divider-color: var(--light-theme-divider-color); --erro=
+r-color: var(--paper-deep-orange-a700); --primary-color: var(--paper-indigo=
+-500); --light-primary-color: var(--paper-indigo-100); --dark-primary-color=
+: var(--paper-indigo-700); --accent-color: var(--paper-pink-a200); --light-=
+accent-color: var(--paper-pink-a100); --dark-accent-color: var(--paper-pink=
+-a400); --light-theme-background-color: #ffffff; --light-theme-base-color: =
+#000000; --light-theme-text-color: var(--paper-grey-900); --light-theme-sec=
+ondary-color: #737373; --light-theme-disabled-color: #9b9b9b; --light-theme=
+-divider-color: #dbdbdb; --dark-theme-background-color: var(--paper-grey-90=
+0); --dark-theme-base-color: #ffffff; --dark-theme-text-color: #ffffff; --d=
+ark-theme-secondary-color: #bcbcbc; --dark-theme-disabled-color: #646464; -=
+-dark-theme-divider-color: #3c3c3c; --text-primary-color: var(--dark-theme-=
+text-color); --default-primary-color: var(--primary-color); }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-592ff836-5b97-49de-a520-e0a52e5f229b@mhtml.blink
+
+@charset "utf-8";
+
+html { --paper-input-container-shared-input-style_-position: relative; --p=
+aper-input-container-shared-input-style-outline: none; --paper-input-cont=
+ainer-shared-input-style-box-shadow: none; --paper-input-container-shared=
+-input-style-padding: 0; --paper-input-container-shared-input-style-mar=
+gin: 0; --paper-input-container-shared-input-style-width: 100%; --paper-i=
+nput-container-shared-input-style-max-width: 100%; --paper-input-containe=
+r-shared-input-style-background: transparent; --paper-input-container-sha=
+red-input-style-border: none; --paper-input-container-shared-input-style=
+-color: var(--paper-input-container-input-color, var(--primary-text-color)=
+); --paper-input-container-shared-input-style--webkit-appearance: none; -=
+-paper-input-container-shared-input-style-text-align: apply-shim-inherit;=
+--paper-input-container-shared-input-style-vertical-align: var(--paper-i=
+nput-container-input-align, bottom); --paper-input-container-shared-input-s=
+tyle-font-family: var(--paper-font-subhead-font-family); --paper-input-=
+container-shared-input-style--webkit-font-smoothing: var(--paper-font-sub=
+head--webkit-font-smoothing); --paper-input-container-shared-input-style=
+-font-size: var(--paper-font-subhead-font-size); --paper-input-container=
+-shared-input-style-font-weight: var(--paper-font-subhead-font-weight);=
+--paper-input-container-shared-input-style-line-height: var(--paper-font=
+-subhead-_line-height); }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a2c3fcac-6fe6-4097-b40d-9f67c063c433@mhtml.blink
+
+@charset "utf-8";
+
+[inert] { pointer-events: none; cursor: default; }
+
+[inert], [inert] * { user-select: none; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e768af81-1abd-4cfd-bc7d-1cc0227d9115@mhtml.blink
+
+@charset "utf-8";
+
+html { --shadow-transition_-transition: box-shadow 0.28s cubic-bezier(0.4,=
+0, 0.2, 1); --shadow-none-box-shadow: none; --shadow-elevation-2dp-box=
+-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), =
+0 3px 1px -2px rgba(0, 0, 0, 0.2); --shadow-elevation-3dp-box-shadow: 0 3=
+px 4px 0 rgba(0, 0, 0, 0.14), 0 1px 8px 0 rgba(0, 0, 0, 0.12), 0 3px 3px -2=
+px rgba(0, 0, 0, 0.4); --shadow-elevation-4dp-box-shadow: 0 4px 5px 0 rgb=
+a(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, =
+0, 0, 0.4); --shadow-elevation-6dp-box-shadow: 0 6px 10px 0 rgba(0, 0, 0,=
+0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.4)=
+; --shadow-elevation-8dp-box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), =
+0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.4); --sh=
+adow-elevation-12dp-box-shadow: 0 12px 16px 1px rgba(0, 0, 0, 0.14), 0 4p=
+x 22px 3px rgba(0, 0, 0, 0.12), 0 6px 7px -4px rgba(0, 0, 0, 0.4); --shadow=
+-elevation-16dp-box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30=
+px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.4); --shadow-el=
+evation-24dp-_box-shadow: 0 24px 38px 3px rgba(0, 0, 0, 0.14), 0 9px 46px =
+8px rgba(0, 0, 0, 0.12), 0 11px 15px -7px rgba(0, 0, 0, 0.4); }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8f6bfeda-cfa2-4d4b-92ed-63be6f6edcdc@mhtml.blink
+
+@charset "utf-8";
+
+.ink-canvas-parent { height: 100%; position: relative; width: 100%; }
+
+.ink-layer-container { height: 100%; position: relative; width: 100%; }
+
+.ink-engine { height: 100%; left: 0px; position: absolute; top: 0px; width:=
+100%; touch-action: none; }
+
+.above-ink-canvas { display: none; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-68c5b06f-33c2-40e3-8c0b-34a30996cf66@mhtml.blink
+
+@charset "utf-8";
+
+.ink-emscripten-engine { position: absolute; top: 0px; left: 0px; width: 10=
+0%; height: 100%; overflow: hidden; }
+
+.ink-engine { transform-origin: left top; outline: 0px; }
+
+canvas.ink-engine.focused-with-tab:focus { outline: var(--ink-canvas-outlin=
+e, 0); outline-offset: var(--ink-canvas-outline-offset, initial); }
+
+canvas.ink-engine[tabindex=3D"-1"] + div.post-canvas-tab-target, canvas.ink=
+-engine:focus + div.post-canvas-tab-target { display: none; }
+
+input.form-field { box-shadow: var(--ink-form-field-focus-box-shadow, 0 0 0=
+2px black); box-sizing: border-box; border: none; border-radius: 2px; outl=
+ine: none; position: absolute; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-799cc82e-cd5a-4af7-93e2-fdb7e728714c@mhtml.blink
+
+@charset "utf-8";
+
+.ink-scrollbar { --ink-internal-scrollbar-size: var(--ink-scrollbar-size, 8=
+px); cursor: default; position: absolute; }
+
+.ink-scrollbar:hover { --ink-scrollbar-color: var(--ink-scrollbar-color-hov=
+er, #80868B); --ink-scrollbar-size: var(--ink-scrollbar-hover-size, var(--i=
+nk-internal-scrollbar-size)); }
+
+.ink-scrollbar::-webkit-scrollbar { background-color: transparent; }
+
+.ink-scrollbar::-webkit-scrollbar-thumb { background-color: var(--ink-scrol=
+lbar-color, #80868B61); border-radius: var(--ink-scrollbar-border-radius, 0=
+); }
+
+@media (prefers-color-scheme: dark) {
+.ink-scrollbar:hover { --ink-scrollbar-color: var(--ink-scrollbar-color-h=
+over, #BDC1C6); }
+.ink-scrollbar::-webkit-scrollbar-thumb { background-color: var(--ink-scr=
+ollbar-color, #BDC1C661); }
+}
+
+.ink-scrollbar-vert { top: 0px; right: 0px; width: var(--ink-internal-scrol=
+lbar-size); height: 100%; overflow: hidden auto; }
+
+[dir=3D"rtl"] .ink-scrollbar-vert { left: 0px; right: auto; }
+
+.ink-scrollbar-vert::-webkit-scrollbar { width: var(--ink-internal-scrollba=
+r-size); }
+
+.ink-scrollbar-horz { bottom: 0px; left: 0px; width: 100%; height: var(--in=
+k-internal-scrollbar-size); overflow: auto hidden; direction: ltr; }
+
+.ink-scrollbar-horz::-webkit-scrollbar { height: var(--ink-internal-scrollb=
+ar-size); }
+
+.ink-scrollbar::-webkit-scrollbar-thumb { min-height: 30px; min-width: 30px=
+; }
+
+.ink-scrollbar-sizer-horz { width: 0px; height: 0.1px; visibility: hidden; =
+}
+
+.ink-scrollbar-sizer-vert { width: 0.1px; height: 0px; visibility: hidden; }
+------MultipartBoundary--nvyCrBZ35rOovtzu06pcMzyoPcgzCDvHeDo0xRcVaN------
+
+zakwarlord7
+zakwarlord7 reviewed 5 days ago
+Spammy 
+Author
+zakwarlord7 left a comment
+''''Approves''''
+
+@zakwarlord7 zakwarlord7 closed this 5 days ago
+@zakwarlord7 zakwarlord7 reopened this 5 days ago
+@zakwarlord7 zakwarlord7 closed this 5 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 deleted the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 restored the patch-43 branch 5 days ago
+@zakwarlord7 zakwarlord7 reopened this 5 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+From 8f2c2e6 Mon Sep 17 00:00:00 2001
+From: Tingluo Huang tingluohuang@github.com
+Date: Wed, 26 May 2021 12:05:22 -0400
+Subject: [PATCH 1/4] Update runner linux support platforms to include
+redhat/centos 8.
+
+.../hosting-your-own-runners/about-self-hosted-runners.md | 4 ++--
+1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/content/actions/hosting-your-own-runners/about-self-hosted-runners.md b/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
+index 13af927006c..89e55818139 100644
+--- a/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
++++ b/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
+@@ -77,8 +77,8 @@ The following operating systems are supported for the self-hosted runner applica
+
+Linux
+-- Red Hat Enterprise Linux 7
+-- CentOS 7
++- Red Hat Enterprise Linux 7 or later
++- CentOS 7 or later
+
+Oracle Linux 7
+Fedora 29 or later
+Debian 9 or later
+From 699d7bf Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Thu, 18 Aug 2022 18:54:40 -0500
+Subject: [PATCH 2/4] Update about-releases.md
+
+.../releasing-projects-on-github/about-releases.md | 14 +++++++-------
+1 file changed, 7 insertions(+), 7 deletions(-)
+
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md
+index 0736ff47076..5596db903ab 100644
+--- a/content/repositories/releasing-projects-on-github/about-releases.md
++++ b/content/repositories/releasing-projects-on-github/about-releases.md
+@@ -1,4 +1,4 @@
++---mainbranh
+title: About releases
+intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
+redirect_from:
+@@ -10,13 +10,13 @@ redirect_from:
+
+/github/administering-a-repository/about-releases
+/github/administering-a-repository/releasing-projects-on-github/about-releases
+versions:
+fpt: '*'
+ghes: '*'
+ghae: '*'
+ghec: '*'
+fpt: '#OPTIONAL::'
+ghes: '#OPTIONAL::*'
+ghae: '#OPTIONAL::*'
+ghec: '#OPTIONAL::*'
+topics:
+Repositories
+'require'' ':'' 'test''
++---trunk
+About releases
+{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4974 %}
+
+From d9116ad Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Sun, 21 Aug 2022 07:39:34 -0500
+Subject: [PATCH 3/4] Update jest.setup.js
+
+jest.setup.js | 16 +++++++++-------
+1 file changed, 9 insertions(+), 7 deletions(-)
+
+diff --git a/jest.setup.js b/jest.setup.js
+index a7f994411e5..53a2fc4909c 100644
+--- a/jest.setup.js
++++ b/jest.setup.js
+@@ -1,12 +1,14 @@
+-import failOnConsole from 'jest-fail-on-console'
++'"import: build_scripts:' continue-on-false-from:' 'require':' 'tests'"'' '"test: Runs'"' '"Runs: Run Tests'@.Travis.yml'"'' '"''
+// Jest tests don't fail in some cases where we would see an error in DevTools
+// Console when running locally and we would also see the error in the test
+// output. This includes the React Each child in a list should have a unique // "key" prop error example.
+//
+-// To catch this and fail tests in cases like this, we use jest-fail-on-console
+-// to fail on calls to console.error().
+-failOnConsole({
+
+shouldFailOnWarn: false,
+-})
++// To catch this and fail tests in cases like this, we use Create.func(items)items'='':' is'=''=' yargs(AGS))'.)'; \ +fail-on-console
++// to dispatch worksflow-call-on: dispatch
++const.func("+")`.
++console.func(+)::Pushs:' 'func("+")'=''=' '='':' '"=>:=::=>:join.func((c)'.'+'"console((r))'"':BUild:: On
+'"On:-on: Console'"''
+'"WOROKSFLOW_call-on: dispatchs-Windows-spring_up-frameworkigns-on:C:\Users$Home\Desktop-running'@'"$Desktop'"':',''
+From abb95d4 Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Sun, 21 Aug 2022 07:40:14 -0500
+Subject: [PATCH 4/4] Update jest.setup.js
+
+jest.setup.js | 15 +--------------
+1 file changed, 1 insertion(+), 14 deletions(-)
+
+diff --git a/jest.setup.js b/jest.setup.js
+index 53a2fc4909c..3a4d8098984 100644
+--- a/jest.setup.js
++++ b/jest.setup.js
+@@ -1,14 +1 @@
+-'"import: build_scripts:' continue-on-false-from:' 'require':' 'tests'"'' '"test: Runs'"' '"Runs: Run Tests'@.Travis.yml'"'' '"''
+-// Jest tests don't fail in some cases where we would see an error in DevTools
+-// Console when running locally and we would also see the error in the test
+-// output. This includes the React Each child in a list should have a unique -// "key" prop error example.
+-//
+-// To catch this and fail tests in cases like this, we use Create.func(items)items'='':' is'=''=' yargs(AGS))'.)'; \ -fail-on-console
+-// to dispatch worksflow-call-on: dispatch
+-const.func("+")`.
+-console.func(+)::Pushs:' 'func("+")'=''=' '='':' '"=>:=::=>:join.func((c)'.'+'"console((r))'"':BUild:: On
+
+'"On:-on: Console'"''
+'"WOROKSFLOW_call-on: dispatchs-Windows-spring_up-frameworkigns-on:C:\Users$Home\Desktop-running'@'"$Desktop'"':',''
++'"'require':'' 'test'"''
+
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md
+index 0736ff47076..5596db903ab 100644
+--- a/content/repositories/releasing-projects-on-github/about-releases.md
++++ b/content/repositories/releasing-projects-on-github/about-releases.md
+@@ -1,4 +1,4 @@
++---mainbranh
+title: About releases
+intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
+redirect_from:
+@@ -10,13 +10,13 @@ redirect_from:
+
+/github/administering-a-repository/about-releases
+/github/administering-a-repository/releasing-projects-on-github/about-releases
+versions:
+fpt: '*'
+ghes: '*'
+ghae: '*'
+ghec: '*'
+fpt: '#OPTIONAL::'
+ghes: '#OPTIONAL::*'
+ghae: '#OPTIONAL::*'
+ghec: '#OPTIONAL::*'
+topics:
+Repositories
+'require'' ':'' 'test''
++---trunk
+About releases
+{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4974 %}
+diff --git a/jest.setup.js b/jest.setup.js
+index a7f994411e5..3a4d8098984 100644
+--- a/jest.setup.js
++++ b/jest.setup.js
+@@ -1,12 +1 @@
+-import failOnConsole from 'jest-fail-on-console'
+-// ci:CI/tests.yml/Test'@travis.yml Runs Tests'@CI-thendeployees-tpoTravis-toFIx:: ALL: Automatically::log:logs::ALL: AUTOMATE AUTOMATES ALLlog\8backtrace**.cache'@dist/index.dir/src/code.dir/.dist'@sun.java.rog tests don't fail in some cases where we would see an error in DevTools
+-// Console when running locally and we would also see the error in the test
+-// output. This includes the React Each child in a list should have a unique -// "key" prop error example.
+-//
+-// To catch this and fail tests in cases like this, we use jest-fail-on-console
+-// to fail on calls to console.error().
+-failOnConsole({
+
+shouldFailOnWarn: false,
+-})
++'"'require':'' 'test'"''From 8f2c2e6 Mon Sep 17 00:00:00 2001
+From: Tingluo Huang tingluohuang@github.com
+Date: Wed, 26 May 2021 12:05:22 -0400
+Subject: [PATCH 1/4] Update runner linux support platforms to include
+redhat/centos 8.
+.../hosting-your-own-runners/about-self-hosted-runners.md | 4 ++--
+1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/content/actions/hosting-your-own-runners/about-self-hosted-runners.md b/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
+index 13af927006c..89e55818139 100644
+--- a/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
++++ b/content/actions/hosting-your-own-runners/about-self-hosted-runners.md
+@@ -77,8 +77,8 @@ The following operating systems are supported for the self-hosted runner applica
+
+Linux
+-- Red Hat Enterprise Linux 7
+-- CentOS 7
++- Red Hat Enterprise Linux 7 or later
++- CentOS 7 or later
+
+Oracle Linux 7
+Fedora 29 or later
+Debian 9 or later
+From 699d7bf Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Thu, 18 Aug 2022 18:54:40 -0500
+Subject: [PATCH 2/4] Update about-releases.md
+
+.../releasing-projects-on-github/about-releases.md | 14 +++++++-------
+1 file changed, 7 insertions(+), 7 deletions(-)
+
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md
+index 0736ff47076..5596db903ab 100644
+--- a/content/repositories/releasing-projects-on-github/about-releases.md
++++ b/content/repositories/releasing-projects-on-github/about-releases.md
+@@ -1,4 +1,4 @@
++---mainbranh
+title: About releases
+intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
+redirect_from:
+@@ -10,13 +10,13 @@ redirect_from:
+
+/github/administering-a-repository/about-releases
+/github/administering-a-repository/releasing-projects-on-github/about-releases
+versions:
+fpt: '*'
+ghes: '*'
+ghae: '*'
+ghec: '*'
+fpt: '#OPTIONAL::'
+ghes: '#OPTIONAL::*'
+ghae: '#OPTIONAL::*'
+ghec: '#OPTIONAL::*'
+topics:
+Repositories
+'require'' ':'' 'test''
++---trunk
+About releases
+{% ifversion fpt or ghec or ghes > 3.3 or ghae-issue-4974 %}
+
+From d9116ad Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Sun, 21 Aug 2022 07:39:34 -0500
+Subject: [PATCH 3/4] Update jest.setup.js
+
+jest.setup.js | 16 +++++++++-------
+1 file changed, 9 insertions(+), 7 deletions(-)
+
+diff --git a/jest.setup.js b/jest.setup.js
+index a7f994411e5..53a2fc4909c 100644
+--- a/jest.setup.js
++++ b/jest.setup.js
+@@ -1,12 +1,14 @@
+-import failOnConsole from 'jest-fail-on-console'
++'"import: build_scripts:' continue-on-false-from:' 'require':' 'tests'"'' '"test: Runs'"' '"Runs: Run Tests'@.Travis.yml'"'' '"''
+// Jest tests don't fail in some cases where we would see an error in DevTools
+// Console when running locally and we would also see the error in the test
+// output. This includes the React Each child in a list should have a unique // "key" prop error example.
+//
+-// To catch this and fail tests in cases like this, we use jest-fail-on-console
+-// to fail on calls to console.error().
+-failOnConsole({
+
+shouldFailOnWarn: false,
+-})
++// To catch this and fail tests in cases like this, we use Create.func(items)items'='':' is'=''=' yargs(AGS))'.)'; \ +fail-on-console
++// to dispatch worksflow-call-on: dispatch
++const.func("+")`.
++console.func(+)::Pushs:' 'func("+")'=''=' '='':' '"=>:=::=>:join.func((c)'.'+'"console((r))'"':BUild:: On
+'"On:-on: Console'"''
+'"WOROKSFLOW_call-on: dispatchs-Windows-spring_up-frameworkigns-on:C:\Users$Home\Desktop-running'@'"$Desktop'"':',''
+From abb95d4 Mon Sep 17 00:00:00 2001
+From: ZACHRY T WOOD 109656750+zakwarlord7@users.noreply.github.com
+Date: Sun, 21 Aug 2022 07:40:14 -0500
+Subject: [PATCH 4/4] Update jest.setup.js
+
+jest.setup.js | 15 +--------------
+1 file changed, 1 insertion(+), 14 deletions(-)
+
+diff --git a/jest.setup.js b/jest.setup.js
+index 53a2fc4909c..3a4d8098984 100644
+--- a/jest.setup.js
++++ b/jest.setup.js
+@@ -1,14 +1 @@
+-'"import: build_scripts:' continue-on-false-from:' 'require':' 'tests'"'' '"test: Runs'"' '"Runs: Run Tests'@.Travis.yml'"'' '"''
+-// Jest tests don't fail in some cases where we would see an error in DevTools
+-// Console when running locally and we would also see the error in the test
+-// output. This includes the React Each child in a list should have a unique -// "key" prop error example.
+-//
+-// To catch this and fail tests in cases like this, we use Create.func(items)items'='':' is'=''=' yargs(AGS))'.)'; \ -fail-on-console
+-// to dispatch worksflow-call-on: dispatch
+-const.func("+")`.
+-console.func(+)::Pushs:' 'func("+")'=''=' '='':' '"=>:=::=>:join.func((c)'.'+'"console((r))'"':BUild:: On
+
+'"On:-on: Console'"''
+'"WOROKSFLOW_call-on: dispatchs-Windows-spring_up-frameworkigns-on:C:\Users$Home\Desktop-running'@'"$Desktop'"':',''
++'"'require':'' 'test'"''
+
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+orpahand child cleanings process
+
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+'''Approves'''' :
+orphan children cleanings proceeses:
+
+@zakwarlord7 zakwarlord7 closed this 3 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md
+index 0736ff470763..5596db903abc 100644
+--- a/content/repositories/releasing-projects-on-github/about-releases.md
++++ b/content/repositories/releasing-projects-on-github/about-releases.md
+@@ -1,4 +1,4 @@
++---mainbranh
+title: About releases
+intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
+redirect_from:
+@@ -10,13 +10,13 @@ redirect_from:
+
+/github/administering-a-repository/about-releases
+/github/administering-a-repository/releasing-projects-on-github/about-releases
+versions:
+fpt: '*'
+ghes: '*'
+ghae: '*'
+ghec: '*'
+fpt: '#OPTIONAL::'
+ghes: '#OPTIONAL::*'
+ghae: '#OPTIONAL::*'
+ghec: '#OPTIONAL::*'
+topics:
+#This: Repositorys/WORKSLFOW_call-on: dispatch: WindowsXP88_99/frameworks/pop-kernal/thimbal/flask -pillow insta;llPhp -cask -brew
+kind: taps/tux/cow/ant/minutemen/MINUTEMAN/bitore.sig/tests'@BItore.sigs'@moejojojo/powderpuffgirls'@debbian-artifact.rpdm.tar.gz.Zip/.unzipped-module.exports: th.100X_flattened.pdf.exprots-module.RUNETIME.ENVIROMMENT;'@hrrps://siun.java.org: run-on: Runs:run:-on:run:Runs:run-on:runs:
+dispatch 'require'' ':'' 'test''
++---trunk
+-})
++'"'require':'' 'test'"''
+
+@zakwarlord7 zakwarlord7 reopened this 3 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md
+index 0736ff470763..5596db903abc 100644
+--- a/content/repositories/releasing-projects-on-github/about-releases.md
++++ b/content/repositories/releasing-projects-on-github/about-releases.md
+@@ -1,4 +1,4 @@
++---mainbranh
+title: About releases
+intro: 'You can create a release to package software, along with release notes and links to binary files, for other people to use.'
+redirect_from:
+@@ -10,13 +10,13 @@ redirect_from:
+
+/github/administering-a-repository/about-releases
+/github/administering-a-repository/releasing-projects-on-github/about-releases
+versions:
+fpt: ''
+ghes: ''
+ghae: ''
+ghec: ''
+fpt: '#OPTIONAL::'
+ghes: '#OPTIONAL::'
+ghae: '#OPTIONAL::'
+ghec: '#OPTIONAL::*'
+topics:
+#This: Repositorys/WORKSLFOW_call-on: dispatch: WindowsXP88_99/frameworks/pop-kernal/thimbal/flask -pillow insta;llPhp -cask -brew
+kind: taps/tux/cow/ant/minutemen/MINUTEMAN/bitore.sig/tests'@BItore.sigs'@moejojojo/powderpuffgirls'@debbian-artifact.rpdm.tar.gz.Zip/.unzipped-module.exports: th.100X_flattened.pdf.exprots-module.RUNETIME.ENVIROMMENT;'@hrrps://siun.java.org: run-on: Runs:run:-on:run:Runs:run-on:runs:
+dispatch 'require'' ':'' 'test''
++---trunk
+-})
++'"'require':'' 'test'"''
+
+@zakwarlord7 zakwarlord7 reopened this now
+Merge state
+Add more commits by pushing to the patch-43 branch on zakwarlord7/docs.
+
+Review required
+At least 1 approving review is required by reviewers with write access.
+1 pending reviewer
+Some checks haven’t completed yet
+8 expected checks
+Build and deploy Azure preview environment Expected — Waiting for status to be reported
+Required
+Prevent merging during deployment freezes Expected — Waiting for status to be reported
+Required
+test (content) Expected — Waiting for status to be reported
+Required
+test (graphql) Expected — Waiting for status to be reported
+Required
+test (meta) Expected — Waiting for status to be reported
+Required
+test (rendering) Expected — Waiting for status to be reported
+Required
+test (routing) Expected — Waiting for status to be reported
+Required
+test (unit) Expected — Waiting for status to be reported
+Required
+Merging is blocked
+Merging can be performed automatically with 1 approving review.
+You’re not authorized to merge this pull request.
+@zakwarlord7
+
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Remember, contributions to this repository should follow its contributing guidelines and code of conduct.
+ProTip! Add .patch or .diff to the end of URLs for Git’s plaintext views.
+Reviewers
+@github/docs-engineering
+docs-engineering
+At least 1 approving review is required to merge this pull request.
+
+Still in progress?
+Assignees
+No one assigned
+Labels
+None yet
+Projects
+None yet
+Milestone
+No milestone
+Development
+Successfully merging this pull request may close these issues.
+
+None yet
+
+Notifications
+Customize
+You’re receiving notifications because you’re watching this repository.
+3 participants
+@zakwarlord7
+@lolofofo056
+@TingluoHuang
+Allow edits and access to secrets by maintainers
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+@zakwarlord7 zakwarlord7 mentioned this pull request 3 days ago
+diff --git a/content/repositories/releasing-projects-on-github/about-releases.md b/content/repositories/releasing-projects-on-github/about-releases.md github/linguist#6033
+ Closed
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago
+HistoricalData.xls"
+
+@zakwarlord7 zakwarlord7 closed this 3 days ago
+zakwarlord7
+zakwarlord7 reviewed 3 days ago
+Spammy 
+Author
+zakwarlord7 left a comment
+'''''Approves''''' :
+
+@zakwarlord7 zakwarlord7 reopened this 3 days ago
+@zakwarlord7
+Author
+zakwarlord7 commented 3 days ago :
+Approcves-Counsel to the Director of Enforcement at U.S. Securities and Exchange Commission :
+Followers
+
+zakwarlord7 added 3 commits 3 days ago
+@zakwarlord7
+Update about-releases.md
+20f4dd2
+@zakwarlord7
+Update jest.setup.js
+fd360ce
+@zakwarlord7
+Update jest.setup.js
+5849de2
+@zakwarlord7 zakwarlord7 force-pushed the patch-43 branch from 45af4f8 to 5849de2 3 days ago
+Merge state
+Add more commits by pushing to the patch-43 branch on zakwarlord7/GitHub-doc. :
+
+Review required
+At least 1 approving review is required by reviewers with write access. 
+1 pending reviewer
+Some checks haven’t completed yet
+8 expected checks
+Build and deploy Azure preview environment Expected — Waiting for status to be reported
+Required
+Prevent merging during deployment freezes Expected — Waiting for status to be reported
+Required
+test (content) Expected — Waiting for status to be reported
+Required
+test (graphql) Expected — Waiting for status to be reported
+Required
+test (meta) Expected — Waiting for status to be reported
+Required
+test (rendering) Expected — Waiting for status to be reported
+Required
+test (routing) Expected — Waiting for status to be reported
+Required
+test (unit) Expected — Waiting for status to be reported
+Required
+This branch is out-of-date with the base branch
+Merge the latest changes from main into this branch.
+Merging is blocked
+Merging can be performed automatically with 1 approving review.
+ You’re not authorized to merge this pull request.
+@zakwarlord7
+
+ 
+Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
+Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
+Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
+Directly mention a user or team
+Reference an issue, pull request, or discussion
+Add saved reply
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Styling with Markdown is supported :
+Remember, contributions to this repository should follow its contributing guidelines and code of conduct.
+ ProTip! Add comments to specific lines under Files changed.
+Reviewers
+@github/docs-engineering
+docs-engineering :
+At least 1 approving review is required to merge this pull request.
+
+Still in progress? 
+Assignees
+No one assigned
+Labels
+None yet
+Projects
+None yet
+Milestone :
+r milestone :
+Development :
+Successfully merged this pull request may  be closed :
+
+None yet
+
+Notifications :
+Customize
+You’re receiving notifications because you’re watching this repository.
+1 participant
+@zakwarlord7
+Allow edits and access to secrets by maintainers
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact:
+GitHub:
+Pricing:
+API:
+Training:
+Blog:
+About:
+You have unread notifications:
+Reference Code :132624428 :
+Tracking nunmber :102393399156 :
+
+
+Investment Products  • Not FDIC Insured  • No Bank Guarantee  • May Lose Value :
+
+Banking products and services are provided by Morgan Stanley Private Bank, National Association, Member FDIC.:
 
 Check the background of E*TRADE Securities LLC on FINRA's BrokerCheck and see E*TRADE Securities LLC and E*TRADE Capital Management LLC Relationship Summary.
 
@@ -266,4 +3450,4 @@ market conditions, system performance, and other factors.
 
 Statement of Financial Condition    |   About Asset Protection    |   Account Agreements and Disclosures    |    Quarterly 606 Report    |    Business Continuity Plan    |   About Our Ads    |   Disclosure Library
 
-© 2022 E*TRADE from Morgan Stanley/Zachry Wood. All rights reserved. Version 1.0. 373w501m3.6 Acct....5264-5331
+© 2022 E*TRADE from Morgan Stanley/Zachry Wood. All rights reserved. Version 1.0. 373w501m3.6 Acct....5264-5331 :
