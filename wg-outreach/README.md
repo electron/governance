@@ -5,7 +5,7 @@ Grows the Electron community
 | Avatar | Name | Role | Time Zone |
 | ------ | ---- | ---- | --------- |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | **Chair** | PT (Vancouver) |
-| <img src="https://github.com/BlackHole1.png" width=100 alt="@BlackHole1">  | Kevin Cui [@BlackHole1](https://github.com/BlackHole1) | Member | BJT (Shanghai) |
+| <img src="https://github.com/BlackHole1.png" width=100 alt="@BlackHole1">  | Kevin Cui [@BlackHole1](https://github.com/BlackHole1) | Member | BJT (Hangzhou) |
 | <img src="https://github.com/bnb.png" width=100 alt="@bnb">  | Tierney Cyren [@bnb](https://github.com/bnb) | Member | ET (New York City) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
