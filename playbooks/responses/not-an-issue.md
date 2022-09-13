@@ -4,8 +4,6 @@ action:
  - close issue
 ---
 
-Thanks for reaching out!
+Thanks for reaching out and logging this issue! Because we treat our issues list as the team's backlog, we close issues that are questions since they don't represent a task needing to be completed. For most questions about Electron there are a lot of options. 
 
-The issues tracker is used for feature requests and bug reports, so you will probably have better luck with this question at one of the links at [the project's Community page](https://www.electronjs.org/community) -- in particular, be sure to give [the Electron Discord server](https://discord.com/invite/electron) a try.
-
-I hope this helps!
+Check out the [Electron community](https://www.electronjs.org/community#boilerplates). There are also a bunch of helpful people in this [Discord](https://discord.gg/electronjs) that should be willing to point you in the right direction. For your question, I'd recommend the Discord - we have many active help channels and mentors, as well as fellow devs, who can help you out.

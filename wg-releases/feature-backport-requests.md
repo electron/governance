@@ -1,6 +1,6 @@
 ## Feature Backport Requests
 
-Backporting non-breaking features to supported versions requires the approval of the Releases Working Group. Any feature PR that is targeting branch(es) other than master should be labeled with a `backport/requested 🗳` label.
+Backporting non-breaking features to supported versions requires the approval of the Releases Working Group. Any feature PR that is targeting branch(es) other than `main` should be labeled with a `backport/requested 🗳` label.
 
 The approval process works as follows:
 1. By requesting backport of a feature, the submitter of the PR is assuming responsibility for this feature on the requested branches.
@@ -14,4 +14,4 @@ The approval process works as follows:
   * Due to the distributed nature of the Releases WG, a backport request that doesn't have consensus may take longer to be approved or rejected until all available members can weigh in.
 4. Once a backport request has been decided upon the PR will be labeled appropriately with either a `backport/approved ✅` or `backport/declined ❌` label.
 
-Please note that during our quiet period during our [Final Beta Release](https://github.com/electron/governance/blob/master/wg-releases/major-release-process.md#final-beta-release), we will not accept feature backports to the major release line in beta.
+Please note that during our quiet period during our [Final Beta Release](./major-release-process.md#final-beta-release), we will not accept feature backports to the major release line in beta.

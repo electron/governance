@@ -8,8 +8,8 @@ Only authorized releasers have the ability to trigger Sudowoodo, and they can be
 
 In order to trigger a new release:
 
-1. Invoke `/sudowoodo` as a backslack command in the `#bot-releases` Slack channel.
-2. Choose the correct release branch (`master`, `5-0-x`, etc.) and release type (`stable`, `beta`, `nightly`) from the dropdown in the resulting dialog.
+1. Invoke `/sudowoodo` as a backslash command in the `#bot-releases` Slack channel.
+2. Choose the correct release branch (`main`, `5-0-x`, etc.) and release type (`stable`, `beta`, `nightly`) from the dropdown in the resulting dialog.
 3. Monitor the resulting release until builds are finished and Sudowoodo is preparing to publish the new release to npm
 4. Enter the OTP needed to publish the builds to npm (similarly gated to `sudowoodo-trainers`)
 5. Celebrate 🎉

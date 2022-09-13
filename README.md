@@ -39,7 +39,7 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 * [Releases WG](wg-releases)
   * [Overview](wg-releases/README.md)
   * [Associated Repositories](wg-releases/repos.md)
-  * [Meeting Notes](wg-releases/meetig-notes)
+  * [Meeting Notes](wg-releases/meeting-notes)
 * [Security WG](wg-security)
   * [Overview](wg-security/README.md)
   * [Meeting Notes](wg-security/meeting-notes)
@@ -74,4 +74,4 @@ The Electron organization and all repos therein adhere to the following [Code of
 
 ## License
 
-Electron is licensed with an [MIT License](https://github.com/electron/electron/blob/master/LICENSE).
+Electron is licensed with an [MIT License](https://github.com/electron/electron/blob/main/LICENSE).

@@ -25,7 +25,7 @@ After all the requirements above are completed, follow these steps below to add 
 
 6. Submit a pull request to add the new member's GitHub handle under the approved Working Group in the `config.yaml` file in [.permissions repo](https://github.com/electron/.permissions/). Typically the current WG chair will submit this.
 
-7. A member of [Community & Safety WG](https://github.com/electron/governance/tree/master/wg-community-safety#membership) adds an approval review the PR in .permissions repo.
+7. A member of [Community & Safety WG](../wg-community-safety/README.md#membership) adds an approval review the PR in .permissions repo.
 
 8. Merge .permissions PR. This final step will automatically add the new member to:
     * The WG's team on GitHub

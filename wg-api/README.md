@@ -24,7 +24,8 @@ Oversees public API design based on project principles.
 
 ## Associated Repositories
 
-* `electron/electron`
+* [`electron/electron`](https://github.com/electron/electron)
+* [`electron/zoilist`](https://github.com/electron/zoilist)
 
 ## Meeting Schedule
 
@@ -37,8 +38,7 @@ Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
 In order to become formal members of the WG, prospective members must:
 
-1. be actively contributing to the work of the WG,
-1. attend 2 out of 4 consecutive meetings, and
+1. be actively contributing to the work of the WG, and
 1. be approved by a 2/3rds majority of current WG members (rounded up).
     1. The prospective member shall leave the meeting during the deliberation and vote.
     1. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.

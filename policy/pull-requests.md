@@ -4,7 +4,7 @@ Be polite and assume the other parties are acting in good faith.
 
 ## Making Pull Requests
 
-The PR shall follow all the guidelines set forth in the repos' PR templates. For the example of `electron/electron`, [this template](https://github.com/electron/electron/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+The PR shall follow all the guidelines set forth in the repos' PR templates. For the example of `electron/electron`, [this template](https://github.com/electron/electron/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 If the PR fixes an issue, the PR must mention that issue in the PR body, e.g. [Fixes #123](https://help.github.com/en/articles/closing-issues-using-keywords).
 

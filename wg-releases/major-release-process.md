@@ -9,7 +9,7 @@ One week before stable promotion for a given release line, we should release a f
 Before releasing the final beta, we need to ensure we have fixed all stable blocker items. Afterwards, we need to ensure that there remain no unmerged pull requests targeting that branch. This entails two tasks:
 
 1) Run `/check-unmerged <branch-name>` in Slack and see if any PRs are returned
-2) Check open PRs to `master` on `electron/electron` and ensure that none of them carry the label `target/<branch-name>`
+2) Check open PRs to `main` on `electron/electron` and ensure that none of them carry the label `target/<branch-name>`
 
 If both tasks are complete, proceed with the final beta release.
 
@@ -63,7 +63,7 @@ After a new major line has been officially stabilized, we should begin to prepar
 
 For this, we need to ensure the following:
 
-* We have a new Node Module Version (NMV) for the line that follows what is about to become the new `master` major
+* We have a new Node Module Version (NMV) for the line that follows what is about to become the new `main` major
 * Sudowoodo is capable of handling betas for the new major line in its [release options](https://github.com/electron/sudowoodo/blob/master/src/slack-manager.ts#L240-L265)
 * [`node-abi`](https://github.com/lgeiger/node-abi) beta update
   * We should ensure that ABI version information is added for the first beta in the new major stabilization line
