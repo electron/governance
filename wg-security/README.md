@@ -15,8 +15,7 @@ incidents, and oversees rollout of fixes.
 | <img src="https://github.com/ppontes.png" width=100 alt="@ppontes">  | Pedro Pontes [@ppontes](https://github.com/ppontes) | Member | CET (Prague) |
 | <img src="https://github.com/StevenEBarbaro.png" width=100 alt="@StevenEBarbaro">  | Steve Barbaro [@StevenEBarbaro](https://github.com/StevenEBarbaro) | Member | ? |
 | <img src="https://github.com/belenko.png" width=100 alt="@belenko">  | Andrey Belenko [@belenko](https://github.com/belenko) | Member | CET (Prague) |
-| <img src="https://github.com/mlaurencin.png" width=100 alt="@mlaurencin">  | Michaela Laurencin [@mlaurencin](https://github.com/mlaurencin) | Observer (until Feb 2021) | PST |
-
+| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST |
 
 ## Current Objective and Key Results
 **Objective:**
