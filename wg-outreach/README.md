@@ -14,16 +14,6 @@ Grows the Electron community
 | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 
-## Current Objective and Key Results
-**Objective:**
-
-Electron has a healthy community that supports app developers and the larger dev community.
-
-**Initiatives:**
-* Electron Discord with 500 users and a documented moderation system
-* Post 1 technical blog post every other month (from maintainers or guest authors)
-* Amplify the work of the other working groups and get community feedback
-
 ## Membership Requirements
 
 ### Becoming a member
