@@ -19,15 +19,6 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/deermichel.png" width=100 alt="@deermichel">  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
 | <img src="https://github.com/raisinten.png" width=100 alt="@raisinten">  | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
 
-## Current Objective and Key Results
-
-**Objective:** Save expensive human time by offloading work to inexpensive computers.
-
-**Key Results:**
-* Reduce time-to-first-green, and time-to-all-greens in development.
-* Reduce number of times tests need to be re-run.
-* Reduce time to generate and deploy release builds.
-
 ## Areas of Responsibility
 
 * Releasing Electron according to schedule
@@ -71,24 +62,3 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 * **Sync Meeting** 1 hour each Wednesday, alternating between two times: [16:30 UTC](https://duckduckgo.com/?q=16%3A30+UTC&ia=answer) and [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer).
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
-
-## Current Objective and Key Results
-
-**Objective:**
-
-Reduce frustrations of major app consumers
-
-**Key Results:**
-
-* Lower the number of regressions experienced in major release lines.	
-* Reduce time to discovering regressions in major release lines.
-* Increase number of apps testing against the major release line in beta.
-* Improved quality and quantity of communication around release-related information.
-
-**Objective:**
-
-Save expensive humans time
-
-**Key Results:**
-
-* Make a person’s worth of time appear.

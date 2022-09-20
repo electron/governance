@@ -20,21 +20,6 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/georgexu99.png" width=100 alt="@blackhole1">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 
 
-## Current Objective and Key Results
-**Objective:**
-
-As a newcomer or experienced app developer, you can use Electron’s tooling and documentation to build your app well.
-
-**Key Results:**
-
-* [Spectron](https://github.com/electron-userland/spectron) and [Devtron](https://github.com/electron-userland/devtron) are no longer in limbo
-* [Electron Forge](https://github.com/electron-userland/electron-forge) v6 to the finish line
-* Website has a better information architecture
-
-Initiatives:
-* Allow access multiple versions of the docs on the website
-* Identify pain points in user documentation
-
 ## Areas of Responsibility
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
