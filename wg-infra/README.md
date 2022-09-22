@@ -34,6 +34,7 @@ In order to join the Infrastructure Working Group, an aspiring member must:
 
 1. Show a continued interest in the systems this group is responsible for
 2. Be a long-trusted member of the maintainers community
+3. TBD, this group is still forming primarily in an organizational capacity, when the initial storm is over this list will be updated with a more accurate set of requirements
 
 ## WG Removal Policy
 
