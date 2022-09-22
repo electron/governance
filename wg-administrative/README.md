@@ -16,7 +16,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 
 ## Areas of Responsibility
 
-The AWG aims to ensure the collective health of the maintainers and working groups, while additionally offering assistance as necessary through means that may not fall on any existing working group, such as a mechanism for escalation.
+The AWG aims to ensure the collective health of the maintainers and working groups, while offering support as necessary through means that may not fall on any existing working group, such as a mechanism for escalation.
 
 *The AWG should not make individual technical decisions.*
 
