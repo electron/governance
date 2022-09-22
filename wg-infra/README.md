@@ -1,0 +1,42 @@
+# Infrastructure WG
+
+Oversees all infrastructure, bots, automation, services and systems that support the Electron maintainers group.
+
+## Membership
+
+| Avatar | Name | Role | Time Zone |
+| -------------------------------------------|----------------------|----------------------------| -------- |
+| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
+| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
+
+## Areas of Responsibility
+
+* Cloud Services
+  * Heroku
+  * AWS
+  * Azure
+  * GitHub
+  * Grafana
+  * Goma
+  * CircleCI
+  * Appveyor
+  * Sentry
+  * Slack
+  * 1Password
+  * NPM
+* Electron Bots
+* Permission and Access Controls (Sheriff, etc.)
+
+## Rules for Membership
+
+In order to join the Infrastructure Working Group, an aspiring member must:
+
+1. Show a continued interest in the systems this group is responsible for
+2. Be a long-trusted member of the maintainers community
+
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the Infrastructure WG confers notable permissions.
