@@ -16,7 +16,7 @@ This documents the process of leaving Electron Governance. A contributor is no l
 4. A Slack Admin demotes the member's account from Full Member to Multi-Channel Guest
     * Message in `#wg-community-safety` to request this.
     * Any member of Community & Safety WG is a Slack admin.
-    * A demotes MCG has access to `#random`, `#ask-anything`, and in certain circumstances other channels by WG vote.
+    * A demoted MCG has access to `#random`, `#ask-anything`, and in certain circumstances other channels by WG vote.  By default, all non-guest channels should be removed from their channel list to keep those spaces safe.
 
 5. Message in `#access-requests` that the contributor has left Electron Governance.
 
