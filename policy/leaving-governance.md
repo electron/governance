@@ -11,16 +11,17 @@ This documents the process of leaving Electron Governance. A contributor is no l
     * The WG's team on GitHub
     * The WG's user group on Slack
 
-3. A Slack Admin demotes the member's account from Full Member to Multi-Channel Guest
+3. Reset the former member's Slack account email to a personal email.
+
+4. A Slack Admin demotes the member's account from Full Member to Multi-Channel Guest
     * Message in `#wg-community-safety` to request this.
     * Any member of Community & Safety WG is a Slack admin.
+    * A demotes MCG has access to `#random`, `#ask-anything`, and in certain circumstances other channels by WG vote.
 
-4. Message in `#access-request` that the contributor has left Electron Governance.
+5. Message in `#access-requests` that the contributor has left Electron Governance.
 
-5. Disable the former member's GSuite account
+6. Disable the former member's GSuite account
   * The account needs to be manually disabled, and 30 days later will be deleted.
     * See [details on GSuite permissions](./permissions.md#gsuite).
   
-6. Remove the former member from the [Electron organization](https://github.com/electron/) on GitHub.
-
-7. Reset the former member's Slack account email to a personal email.
+7. Remove the former member from the [Electron organization](https://github.com/electron/) on GitHub.
