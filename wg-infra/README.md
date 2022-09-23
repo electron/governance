@@ -24,8 +24,8 @@ Oversees all infrastructure, bots, automation, services and systems that support
   * Sentry
   * Slack
   * 1Password
-  * NPM
-* Electron Bots
+  * NPM (Including CFA)
+* Electron Bots - Specifically the hosting systems and deployments, actual bot implementations may be owned by other working groups.
 * Permission and Access Controls (Sheriff, etc.)
 
 ## Rules for Membership
