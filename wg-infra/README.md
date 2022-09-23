@@ -38,6 +38,6 @@ In order to join the Infrastructure Working Group, an aspiring member must:
 
 ## WG Removal Policy
 
-If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.  The vote must pass with a majority (>50% of sitting members excluding the subject of the vote).
 
 This is done primarily to ensure that there are no open avenues of compromise for the project given that the Infrastructure WG confers notable permissions.
