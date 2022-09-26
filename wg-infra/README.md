@@ -27,6 +27,11 @@ Oversees all infrastructure, bots, automation, services and systems that support
   * NPM (Including CFA)
 * Electron Bots - Specifically the hosting systems and deployments, actual bot implementations may be owned by other working groups.
 * Permission and Access Controls (Sheriff, etc.)
+* Maintainer tooling
+  * [`electron/build-tools`](https://github.com/electron/build-tools)
+  * [`electron/build-images`](https://github.com/electron/build-images)
+  * [`electron/build-tools-installer`](https://github.com/electron/build-tools-installer)
+  * [`electron/sheriff`](https://github.com/electron/sheriff)
 
 ## Rules for Membership
 
