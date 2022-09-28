@@ -34,7 +34,7 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Associated Repositories](wg-ecosystem/repos.md)
   * [Meeting Notes](wg-ecosystem/meeting-notes)
 * [Infra WG](wg-infra)
- * [Overview](wg-infra/README.md)
+  * [Overview](wg-infra/README.md)
 * [Outreach WG](wg-outreach)
   * [Overview](wg-outreach/README.md)
   * [Meeting Notes](wg-outreach/meeting-notes)
