@@ -17,9 +17,9 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 | +----------------------+ +----------------------+ +----------------------+ |
 | |       Outreach       | |       Releases       | |       Security       | |
 | +----------------------+ +----------------------+ +----------------------+ |
-|                          +----------------------+                          |
-|                          |       Upgrades       |                          |
-|                          +----------------------+                          |
+|             +----------------------+  +----------------------+             |
+|             |       Upgrades       |  |    Infrastructure    |             |
+|             +----------------------+  +----------------------+             |
 +----------------------------------------------------------------------------+
 ```
 
@@ -47,6 +47,9 @@ The Electron governance system is comprised of Working Groups that oversee diffe
   * [Overview](wg-upgrades/README.md)
   * [Associated Repositories](wg-upgrades/repos.md)
   * [Meeting Notes](wg-upgrades/meeting-notes)
+* [Infrastructure WG](wg-infra)
+  * [Overview](wg-infra/README.md)
+  * [Meeting Notes](wg-infra/meeting-notes)
 * [Administrative WG](wg-administrative)
 
 ## Definitions
