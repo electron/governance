@@ -7,6 +7,7 @@
 /wg-api/ @electron/wg-api
 /wg-community-safety/ @electron/wg-community-safety
 /wg-ecosystem/ @electron/wg-ecosystem
+/wg-infra/ @electron/wg-infra
 /wg-outreach/ @electron/wg-outreach
 /wg-releases/ @electron/wg-releases
 /wg-security/ @electron/wg-security
