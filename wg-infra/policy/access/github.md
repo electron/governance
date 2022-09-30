@@ -20,7 +20,7 @@ All approved owners shall be listed below:
 
 Adding and removing people from this list requires good reasoning and a vote from the Administrative Working Group.
 
-The process to make a change to the list below is outlined in the [Administrative Working Group Documentation](../wg-administrative/github-ownership-access.md).  If the request is approved a member of the Administrative Working Group shall make a pull request to this file to update the above list.
+The process to make a change to the list below is outlined in the [Administrative Working Group Documentation](../../../wg-administrative/github-ownership-access.md).  If the request is approved a member of the Administrative Working Group shall make a pull request to this file to update the above list.
 
 ## Repository Administrators
 
@@ -28,7 +28,7 @@ There is currently no direct-grant of "Admin" permissions for repositories.  To 
 
 ## Repository Write Access
 
-All [maintainers](../charter/README.md#definitions) are granted "Write" permissions to all
+All [maintainers](../../../charter/README.md#definitions) are granted "Write" permissions to all
 **public** `electron/*` repositories that their working groups are responsible for with the following exceptions:
 
 * [`electron/archaeologist`](https://github.com/electron/archaeologist)

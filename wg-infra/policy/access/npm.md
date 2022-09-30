@@ -4,7 +4,7 @@
 
 ## Access to the "electron" Organization on NPM
 
-All [maintainers](../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default, new maintainers will be added to the `developers` team. At a minimum a maintainer's `npm` account must have `auth-and-write` 2FA configured.
+All [maintainers](../../../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default, new maintainers will be added to the `developers` team. At a minimum a maintainer's `npm` account must have `auth-and-write` 2FA configured.
 
 ### NPM Teams
 
@@ -16,7 +16,7 @@ There are three teams on NPM, `developers`, `cfa`, `electron`.
 
 The only user in the `electron` team will be the "electron-bot" user.  As such the only user with permission to publish the `electron` package should always be "electron-bot".  Publishing of this package will be triggered through `sudowoodo`.
 
-The only user in the `cfa` team will be the "electron-cfa" user.  As such the only user with permission to publish packages in the `electron` organization should be "electron-cfa".  As no humans have publish rights to any of these packages they should all be configured with `semantic-release` and the `@electron/semantic-release-npm-cfa` plugin.  For information on how to configure this plugin for use with a new package head over to [`electron/cfa`](https://github.com/electron/cfa).
+The only user in the `cfa` team will be the "electron-cfa" user.  As such the only user with permission to publish packages in the `electron` organization should be "electron-cfa".  As no humans have publish rights to any of these packages they should all be configured with `semantic-release` and the `@electron/semantic-release-npm-cfa` plugin.  For information on how to configure this plugin for use with a new package head over to [`continuousauth/web`](https://github.com/continuousauth/web).
 
 ## Human access to individual packages
 

@@ -4,15 +4,15 @@
 
 Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace.
 
-Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md)
+Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../../../wg-community-safety/slack-access.md)
 
 ## Full Users
 
-All [maintainers](../charter/README.md#definitions) shall have a full-access Slack account on Electron HQ.
+All [maintainers](../../../charter/README.md#definitions) shall have a full-access Slack account on Electron HQ.
 
 ## Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some [collaborators](../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack. The process for requesting guest access for a collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
+In a variety of situations, some [collaborators](../../../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack. The process for requesting guest access for a collaborator is detailed in the [Community & Safety Working Group Documentation](../../../wg-community-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 
@@ -24,6 +24,6 @@ Private channels are discouraged unless there is a clear need, e.g. for sensitiv
 
 ## Shared Slack Channels
 
-For communicating with larger groups of [collaborators](../charter/README.md#definitions) from external companies sometimes it is more appropriate to create a single shared channel than it is to invite everyone individually as a guest.
+For communicating with larger groups of [collaborators](../../../charter/README.md#definitions) from external companies sometimes it is more appropriate to create a single shared channel than it is to invite everyone individually as a guest.
 
 All shared channels should be public and have to be approved by a Slack Owner before they can be linked.  If a shared private channel needs to be created, a reason should be provided when requesting the channel.

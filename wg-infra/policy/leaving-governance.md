@@ -22,6 +22,6 @@ This documents the process of leaving Electron Governance. A contributor is no l
 
 6. Disable the former member's GSuite account
   * The account needs to be manually disabled, and 30 days later will be deleted.
-    * See [details on GSuite permissions](./permissions.md#gsuite).
+    * See [details on GSuite permissions](./access/gsuite.md).
   
 7. Remove the former member from the [Electron organization](https://github.com/electron/) on GitHub.
