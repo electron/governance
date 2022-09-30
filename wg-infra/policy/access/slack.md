@@ -12,7 +12,7 @@ All [maintainers](../charter/README.md#definitions) shall have a full-access Sla
 
 ## Multi-Channel / Single-Channel Guests
 
-In a variety of situations, some [collaborators](../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack.  The exact process for requesting guest access for yourself or another collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
+In a variety of situations, some [collaborators](../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack. The process for requesting guest access for a collaborator is detailed in the [Community & Safety Working Group Documentation](../wg-community-safety/slack-access.md).
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 
@@ -26,4 +26,4 @@ Private channels are discouraged unless there is a clear need, e.g. for sensitiv
 
 For communicating with larger groups of [collaborators](../charter/README.md#definitions) from external companies sometimes it is more appropriate to create a single shared channel than it is to invite everyone individually as a guest.
 
-All shared channels should be public and have to be approved by a Slack Owner before they can be linked.  If you have a specific need for a private shared channel you must provide reasoning when creating the shared channel request.
+All shared channels should be public and have to be approved by a Slack Owner before they can be linked.  If a shared private channel needs to be created, a reason should be provided when requesting the channel.

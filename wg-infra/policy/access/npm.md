@@ -4,7 +4,7 @@
 
 ## Access to the "electron" Organization on NPM
 
-All [maintainers](../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default you will be added to the `developers` team.  At a minimum your `npm` account must have `auth-and-write` 2FA configured.
+All [maintainers](../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default, new maintainers will be added to the `developers` team. At a minimum a maintainer's `npm` account must have `auth-and-write` 2FA configured.
 
 ### NPM Teams
 

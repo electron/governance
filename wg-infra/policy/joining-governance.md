@@ -1,6 +1,6 @@
 # Joining Electron Governance
 
-This documents the process for becoming a member of Electron Governance. Being a member of Electron Governance means you are actively a member of at least one Working Group.
+This documents the process for becoming a member of Electron Governance. Membership in Electron Governance requires at least one active membership in a Working Group.
 
 ## Requirements
 
@@ -10,4 +10,4 @@ This documents the process for becoming a member of Electron Governance. Being a
 
 ## Process
 
-The process for onboarding a new member into Electron Governance is documented and governed via a workflow in the #wg-infra channel.  To use it please ensure the above requirements are met and then trigger the `Onboard Maintainer` workflow.  This workflow will guide you through the process and ping the appropriate teams when required.
+The process for onboarding a new member into Electron Governance is documented and governed via a workflow in the #wg-infra channel.  To use it please ensure the above requirements are met and then trigger the `Onboard Maintainer` workflow. This workflow will guide the onboarding process and ping the appropriate teams when required.

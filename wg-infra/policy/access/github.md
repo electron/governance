@@ -2,7 +2,7 @@
 
 ## Controlling Access
 
-GitHub repository access and permissions are controlled via the yaml file in [electron/.permissions](https://github.com/electron/.permissions).  You can see the current state and PR in updates over there.
+GitHub repository access and permissions are controlled via the yaml file in [electron/.permissions](https://github.com/electron/.permissions).  Existing access permissions can be viewed there.
 
 ## Organization Owners
 
@@ -18,11 +18,13 @@ All approved owners shall be listed below:
 | John Kleinschmidt | @jkleinsc | 11-17-2020 |
 | Samuel Attard | @MarshallOfSound | 11-17-2020 |
 
-Adding and removing people from this list requires good reasoning and a vote from the Administrative Working Group. If you wish to request a change to this list please follow the process outlined in the [Administrative Working Group Documentation](../wg-administrative/github-ownership-access.md).  If the request is approved a member of the Administrative Working Group shall make a pull request to this file to update the above list.
+Adding and removing people from this list requires good reasoning and a vote from the Administrative Working Group.
+
+The process to make a change to the list below is outlined in the [Administrative Working Group Documentation](../wg-administrative/github-ownership-access.md).  If the request is approved a member of the Administrative Working Group shall make a pull request to this file to update the above list.
 
 ## Repository Administrators
 
-There is currently no direct-grant of "Admin" permissions for repositories.  If you need to perform a task that requires Admin permissions please mention the @owners GitHub team when submitting your pull request to `.permissions`.
+There is currently no direct-grant of "Admin" permissions for repositories.  To perform a task that requires Admin permissions, mention the @owners GitHub team when submitting a pull request to `.permissions`.
 
 ## Repository Write Access
 
