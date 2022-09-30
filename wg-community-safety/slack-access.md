@@ -4,7 +4,9 @@
 
 All members of the Administrative Working Group shall be granted the "Owner" role in Slack.
 
-Certain members of the Infrastructure Working Group can be granted the "Owner" role in Slack, current infra owners are listed below.  Adding members of the Infrastructure Working Group as owners requires a vote from the Administrative Working Group.
+Certain members of the Infrastructure Working Group can be granted the "Owner" role in Slack. Adding members of the Infrastructure Working Group as owners requires a vote from the Administrative Working Group.
+
+Current infra owners are listed below:
 
 | Name | Slack Handle | Date Granted |
 |------|-----------------|--------------|
