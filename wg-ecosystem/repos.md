@@ -17,6 +17,7 @@
 * [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
 * [`electron/electronjs.org`](https://github.com/electron/electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
+* [`electron/fiddle-core`](https://github.com/electron/fiddle-core)
 * [`electron/get`](https://github.com/electron/get)
 * [`electron/hubdown`](https://github.com/electron/hubdown)
 * [`electron/i18n`](https://github.com/electron/i18n)
