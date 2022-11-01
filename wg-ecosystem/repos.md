@@ -31,6 +31,7 @@
 * [`electron/symbolicate-mac`](https://github.com/electron/symbolicate-mac)
 * [`electron/template`](https://github.com/electron/template)
 * [`electron/typescript-definitions`](https://github.com/electron/typescript-definitions)
+* [`electron/universal`](https://github.com/electron/universal)
 * [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 * [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
 * [`electron/windows-installer`](https://github.com/electron/windows-installer)
