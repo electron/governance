@@ -40,9 +40,9 @@ These are our core values, as voted by the maintainers, in order of importance. 
  * A _maintainer_ is anyone who plays an active role in governance.
  * A _collaborator_ is active in the community, but not in governance.
  * A _participant_ is anyone who is a maintainer or collaborator.
- * A _working group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
- * A _chair_ is the acting leader of a working group that uses the [Rotating Chair Model](rotating-chair-model.md).
- * A [_delegate_](#Delegation) is a chosen representative of a working group.
+ * A _Working Group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
+ * A _chair_ is the acting leader of a Working Group that uses the [Rotating Chair Model](rotating-chair-model.md).
+ * A [_delegate_](#Delegation) is a chosen representative of a Working Group.
 
 ## Participation
 
@@ -68,21 +68,23 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 All Working Groups have these core responsibilities:
  * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
- * They shall choose a model of work to support reaching the working group's goals.
+ * They shall choose a model of work to support reaching the Working Group's goals.
  * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
  * They shall be collaborative and work [in good faith](#Core-Values) with other Working Groups.
 
 ### Meetings
 
-Group members live and work in many time zones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
+Group members live and work in many timezones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
 
-Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenient for the members.
+Working Groups with members across diverse timezones should make an effort to include all members in decisions, votes, and meetings. Such Working Groups may consider using third-party tools for this purpose, like coordinating meeting times that work for members in different timezones.
+
+Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized.
 
 ### Delegation
 
 Delegates have responsibilities to their Working Group: they represent the collective will of that group to others.
 
-Delegates are [chosen](#Reaching-Agreement) by the members of their Working Group.
+Delegates are [chosen](#Reaching-Agreement) by the members of their Working Group, either when the need for one arises or for a short period of time not longer than four weeks when a delegate may be needed multiple times in rapid succession.
 
 ### Reaching Agreement
 
@@ -90,21 +92,17 @@ If an issue affects only one Working Group, that group can make decisions [on it
 
 If an issue affects more than one Working Group, those groups are encouraged to work towards agreement together.
 
-If agreement cannot be reached, delegates from all Working Groups shall try to decide the matter with a vote. A reasonable effort shall be made to let all interested working groups participate in this, but any working group may decide abstain.
+If agreement cannot be reached, delegates from all involved Working Groups must try to decide the matter with a vote. A reasonable effort must be made to let all interested Working Groups participate in this, but any Working Group may choose abstain.
 
-If agreement still cannot be reached, the issue may be brought to the Administrative Working Group, which has final say.
+If agreement still cannot be reached, the issue may be brought to the Administrative Working Group which has final say.
 
-Regardless of how agreement is reached, the participating groups shall make a reasonable effort to record and post their decisions for transparency.
+Regardless of how agreement is reached, the participating groups must make a reasonable effort to record and post their decisions for transparency.
 
 # Electorate
 
-The **Electorate** is the body who holds the ability to alter the charter and appoint members of the administrative working group.
+The **Electorate** is the body who holds the ability to alter the charter and appoint members of the [Administrative Working Group](#Administrative-Working-Group).
 
-Designing a new Electorate is currently out-of-scope for this charter.
-Instead we make the implicit status-quo explicit.
-GitHub will act as the Electorate with the intention of overseeing a replacement after the current governance is rolled out.
-
-We want an Electorate which can balance several factors:
+The Electorate should try to balance several factors in its composition of members:
 
 1. new contributors
 2. long-time contributors
@@ -112,8 +110,9 @@ We want an Electorate which can balance several factors:
 4. financial contributions
 5. tenured contributions
 
-There is no explicit timeline around this,
-but this charter expects it to be addressed in a reasonable timeframe.
+Initially, the Electorate was GitHub. Designing a new Electorate is still out-of-scope for this charter. Instead, we will make the implicit status-quo explicit: the Administrative Working Group is comprised of managers from Microsoft and Slack.
+
+There is no explicit timeline around designing a better electorate, but this charter expects it to be addressed in a reasonable timeframe.
 
 ## Administrative Working Group
 
@@ -121,12 +120,12 @@ See the [Working Group README](../wg-administrative)
 
 The Administrative Working Group (AWG) is chartered with the responsibility to ensure governance is serving the best needs of the project and community.
 The AWG has authority to act on the project, granted by the electorate.
-The AWG in turn delegates its authority to all other working groups.
+The AWG in turn delegates its authority to all other Working Groups.
 
 To prevent the AWG from becoming the sole political power of the project,
-it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other working groups.
+it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other Working Groups.
 The AWG should principally serve as a _circuit breaker_.
-If a delegate working group is failing to meet its responsibilities, the AWG may intervene up to and including altering group members, or altering the groups authority, responsibilities, or existence.
+If a delegate Working Group is failing to meet its responsibilities, the AWG may intervene up to and including altering group members, or altering the groups authority, responsibilities, or existence.
 
 > **Authors note:**
 > The current Electorate/AWG mix places almost all the power in the hands of a few large corporations at the outset. While not ideal to many, this was chosen because it represents the present status-quo, as of writing. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
