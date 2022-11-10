@@ -85,12 +85,14 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
 * `clipboard.read([clipboardType])`
   * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
   * Ensure that raw formats are preserved
-    * Custom MIME types e.g. `electron/filepath`
+    * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
+    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)
   * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.
 * `clipboard.write(data[, clipboardType]])​`
   * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
   * Ensure that raw formats are preserved
-    * Custom MIME types e.g. `electron/filepath`
+    * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
+    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)    
   * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.    
   
 **APIs to Add**
@@ -103,8 +105,46 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
 ```js
 const { serialize, deserialize } = require("v8")
 
-function availableFormats(clipboardType) {
-  const clipboardItems = clipboard.read(clipboardType);
+async function readClipboard(format, clipboardType) {
+  const clipboardItems = await clipboard.read(clipboardType);  
+  const foundItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(format);
+  });
+  if (foundItem) {
+    const buffer = await findTextItem.getType(format);
+    return buffer.toString();
+  }
+}
+
+async function writeClipboard(format, text, clipboardType) {
+  return clipboard.write([
+    {
+      [format]: Buffer.from(text)
+    }
+  ], clipboardType);
+}
+
+async function readBuffer(format, clipboardType) {
+  const clipboardItems = await clipboard.read(clipboardType);
+  const foundItem = clipboardItems.find(clipboardItem => {
+    return clipboardItem.types.includes(format);
+  });
+  if (foundItem) {
+    const buffer = foundItem.getType(format);
+    return buffer;
+  }
+}
+
+async function writeBuffer(format, buffer, clipboardType) {
+  return clipboard.write([
+    {
+      [format]: buffer
+    }
+  ], clipboardType);
+}
+
+async function availableFormats(clipboardType) {
+  const clipboardItems = await clipboard.read(clipboardType);
   const clipboardFormats = [];  
   for (const clipboardItem of clipboardItems) {
     for (const type of clipboardItem.types) {
@@ -116,103 +156,67 @@ function availableFormats(clipboardType) {
   return clipboardFormats;
 }
 
-function has(format, clipboardType) {
-  const clipboardItems = clipboard.read(clipboardType);
-  const bookmarkItem = clipboardItems.find(clipboardItem => {
+async function has(format, clipboardType) {
+  const clipboardItems = await clipboard.read(clipboardType);
+  const matchingClipboardItem = clipboardItems.find(clipboardItem => {
     return clipboardItem.types.includes(format);
   });
-  if (bookmarkItem) {
+  if (matchingClipboardItem) {
     return true;
   }
 }
 
-const BOOKMARK_MIME_TYPE = 'electron/bookmark';
-function readBookmark() {
-  const clipboardItems = clipboard.read();  
-  const bookmarkItem = clipboardItems.find(clipboardItem => {
-    return clipboardItem.types.includes(BOOKMARK_MIME_TYPE);
-  });
+const BOOKMARK_MIME_TYPE = 'web electron/bookmark';
+async function readBookmark() {
+  const bookmarkItem = await readBuffer(BOOKMARK_MIME_TYPE);
   if (bookmarkItem) {
-    const buffer = bookmarkItem.getType(BOOKMARK_MIME_TYPE);
-    return deserialize(buffer);
+    return deserialize(bookmarkItem);
   }
 }
 
-function writeBookmark(title, url) {
+async function writeBookmark(title, url) {
   const buffer = serialize({
     text: title,
     bookmark: url    
   });
-  clipboard.write([
-    {
-      [BOOKMARK_MIME_TYPE]: buffer
-    }
-  ]);
+  return writeBuffer(BOOKMARK_MIME_TYPE, buffer);
 }
 
-function readBuffer(format) {
-  const clipboardItems = clipboard.read(clipboardType);  
-  const foundItem = clipboardItems.find(clipboardItem => {
-    return clipboardItem.types.includes(format);
-  });
-  if (foundItem) {
-    const buffer = foundItem.getType(format);
-    return buffer;
+const FILE_PATH_MIME_TYPE = 'web electron/filepath';
+async function readFilePaths() {
+  const filePathsItem = await readBuffer(FILE_PATH_MIME_TYPE);
+  if (filePathsItem) {
+    return deserialize(filePathsItem);
   }
 }
 
-function writeBuffer(format, buffer, clipboardType) {
-  clipboard.write([
-    {
-      [format]: buffer
-    }
-  ], clipboardType);
+async function writeFilePaths(paths) {
+  const filePathsBuffer = serialize(paths);
+  return writeBuffer(BOOKMARK_MIME_TYPE, filePathsBuffer);
 }
 
-const FILE_PATH_MIME_TYPE = 'electron/filepath';
-function readFilePaths() {
-  const filepaths = [];
-  const clipboardItems = clipboard.read();
-  const clipboardFormats = [];  
-  for (const clipboardItem of clipboardItems) {
-    if (clipboardItem.types.includes(FILE_PATH_MIME_TYPE)) {
-      const buffer = await findTextItem.getType(FILE_PATH_MIME_TYPE);
-      filepaths.push(buffer.toString());      
-    }
-  }
-  return filepaths;
-}
-
-function writeFilePaths(paths) {
-  const filePathClipboardItems = paths.map(path => {
-    return {
-      [FILE_PATH_MIME_TYPE]: Buffer.from(text)
-    }
-  })
-}
-
-const FIND_TEXT_MIME_TYPE = 'electron/findtext';
-function readFindText() {
+const FIND_TEXT_MIME_TYPE = 'web electron/findtext';
+async function readFindText() {
   return readClipboard(FIND_TEXT_MIME_TYPE);
 }
 
-function writeFindText(text) {
-  writeClipboard(FIND_TEXT_MIME_TYPE, text);
+async function writeFindText(text) {
+  return writeClipboard(FIND_TEXT_MIME_TYPE, text);
 }
 
 const HTML_MIME_TYPE = 'text/html';
-function readHTML(clipboardType) {
+async function readHTML(clipboardType) {
   return readClipboard(HTML_MIME_TYPE, clipboardType);
 }
 
-function writeHTML(markup, clipboardType) {
-  writeClipboard(HTML_MIME_TYPE, markup, clipboardType);
+async function writeHTML(markup, clipboardType) {
+  return writeClipboard(HTML_MIME_TYPE, markup, clipboardType);
 }
 
 const PNG_MIME_TYPE = 'image/png';
 const JPEG_MIME_TYPE = 'image/jpeg';
-function readImage(clipboardType)​ {
-  const clipboardItems = clipboard.read(clipboardType);
+async function readImage(clipboardType)​ {
+  const clipboardItems = await clipboard.read(clipboardType);
   //Look for PNG first  
   let foundItem = clipboardItems.find(clipboardItem => {
     return clipboardItem.types.includes(PNG_MIME_TYPE);
@@ -233,12 +237,12 @@ function readImage(clipboardType)​ {
   }
 }
 
-function writeImage(image, clipboardType)​ {
+async function writeImage(image, clipboardType)​ {
   const buffer = image.getBitmap();
   const dataUrl = image.toDataURL();
   const regex = /^data:(.+\/.+);.*$/;
   const matches = dataUrl.match(regex);
-  clipboard.write([
+  return clipboard.write([
     {
       [matches[1]]: buffer
     }
@@ -246,31 +250,12 @@ function writeImage(image, clipboardType)​ {
 }
 
 const RTF_MIME_TYPE = 'application/rtf';
-function readRTF(clipboardType) {
+async function readRTF(clipboardType) {
   return readClipboard(RTF_MIME_TYPE, clipboardType);
 }
 
-function writeRTF(text, clipboardType)​ {
-  writeClipboard(RTF_MIME_TYPE, text, clipboardType);
-}
-
-function readClipboard(format, clipboardType) {
-  const clipboardItems = clipboard.read(clipboardType);  
-  const foundItem = clipboardItems.find(clipboardItem => {
-    return clipboardItem.types.includes(format);
-  });
-  if (foundItem) {
-    const buffer = await findTextItem.getType(format);
-    return buffer.toString();
-  }
-}
-
-function writeClipboard(format, text, clipboardType) {
-  clipboard.write([
-    {
-      [format]: Buffer.from(text)
-    }
-  ], clipboardType);
+async function writeRTF(text, clipboardType)​ {
+  return writeClipboard(RTF_MIME_TYPE, text, clipboardType);
 }
 ```
 
