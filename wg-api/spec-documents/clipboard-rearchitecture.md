@@ -83,13 +83,18 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
 
 **APIs to Modify**
 * `clipboard.read([clipboardType])`
-  * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
+  * `clipboardType` string (optional) - Can be `selection` or `clipboard`; default is `clipboard`. `selection` is only available on Linux.
+  * This API will be modified to bring into spec compliance with the [Web API clipboard.read](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
+  * Returns a Promise that resolves with an array of [ClipboardItem](https://developer.mozilla.org/en-US/docs/Web/API/ClipboardItem) objects containing the 
+    clipboard's contents. The promise is rejected if permission to access the clipboard is not granted.
   * Ensure that raw formats are preserved
     * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
     the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)
-  * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.
 * `clipboard.write(data[, clipboardType]])​`
-  * Modify to bring into spec compliance with [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read) `clipboard.read`
+  * `data` an array of [ClipboardItem](https://developer.mozilla.org/en-US/docs/Web/API/ClipboardItem) objects containing data to be written to the clipboard.
+  * `clipboardType` string (optional) - Can be `selection` or `clipboard`; default is `clipboard`. `selection` is only available on Linux.
+  * This API will be modified to bring into spec compliance with the [Web API`clipboard.write](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/write).
+  * Returns a Promise which is resolved when the data has been written to the clipboard. The promise is rejected if the clipboard is unable to complete the clipboard access.
   * Ensure that raw formats are preserved
     * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
     the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)    
