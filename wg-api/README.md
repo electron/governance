@@ -13,8 +13,8 @@ Oversees public API design based on project principles.
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock">  | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (Charlottesville) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
+| <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock">  | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (Charlottesville) |
 | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
 
 ## Areas of Responsibility
