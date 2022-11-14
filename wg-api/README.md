@@ -15,6 +15,7 @@ Oversees public API design based on project principles.
 | <img src="https://github.com/itsananderson.png" width=100 alt="@itsananderson">  | Will Anderson [@itsananderson](https://github.com/itsananderson) | Member | PT (Seattle) |
 | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
 | <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock">  | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (Charlottesville) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
 
 ## Areas of Responsibility
 
