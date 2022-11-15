@@ -111,6 +111,13 @@ If you need to express a state which is a combination of properties, which might
 
 See https://w3ctag.github.io/design-principles/#string-constants.
 
+### Use milliseconds for time measurement
+If you are designing an API that accepts a time measurement, express the time measurement in milliseconds.
+
+Even if seconds (or some other time unit) are more natural in the domain of an API, sticking with milliseconds ensures that APIs are interoperable with one another. This means that authors don’t need to convert values used in one API to be used in another API, or keep track of which time unit is needed where.
+
+See https://w3ctag.github.io/design-principles/#milliseconds
+
 ## Classes
 
 ### Use a class's name as the module name
