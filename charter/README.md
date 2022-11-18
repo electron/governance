@@ -1,8 +1,12 @@
 # Electron Governance Charter
 
+<!--
+TODO:
+- would be cool to get some icons / art for these values for use on the website (Sam)
+  - +1 (Charles)
+-->
+
 ## Core Values
-<!-- Side note, would be cool to get some icons / art for these values for use on the website (Sam) -->
-<!-- :+1: (Charles) -->
 
 These are our core values, as voted by the maintainers, in order of importance. When in doubt, these should guide our decisions.
 
@@ -36,15 +40,16 @@ These are our core values, as voted by the maintainers, in order of importance. 
  * A _maintainer_ is anyone who plays an active role in governance.
  * A _collaborator_ is active in the community, but not in governance.
  * A _participant_ is anyone who is a maintainer or collaborator.
- * A _working group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
- * A [_chair_](#Leadership) leads a working group.
+ * A _Working Group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
+ * A _chair_ is the acting leader of a Working Group that uses the [Rotating Chair Model](rotating-chair-model.md).
+ * A [_delegate_](#Delegation) is a chosen representative of a Working Group.
 
 ## Participation
 
  * [Code of Conduct](../CODE_OF_CONDUCT.md)
  * [Using Slack](../policy/slack.md)
  * [Triaging Issues](../playbooks/README.md)
-<!-- * [Using Pull Requests](FIXME: link to PR etiquette doc) -->
+ * [Using Pull Requests](../policy/pull-requests.md)
 
 ## Working Groups
 
@@ -63,56 +68,23 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 All Working Groups have these core responsibilities:
  * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
- * They shall [select](#Leadership-Terms-and-Selection) a chair to [represent](#Leadership-Responsibilities) the group.
+ * They shall choose a model of work to support reaching the Working Group's goals.
  * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
  * They shall be collaborative and work [in good faith](#Core-Values) with other Working Groups.
 
 ### Meetings
 
-Group members live and work in many time zones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
+Group members live and work in many timezones, so synchronous meetings aren't always possible. No one should feel like they need to attend a meeting at an inconvenient time for their voice to be heard. If a group is to make a decision by voting, it shall make a reasonable effort to inform all members about the vote and give them a chance to vote outside of the meeting itself.
 
-Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized. Groups may use [Doodle](https://doodle.com) or a similar mechanism to decide on meeting times that are convenient for the members.
+Working Groups with members across diverse timezones should make an effort to include all members in decisions, votes, and meetings. Such Working Groups may consider using third-party tools for this purpose, like coordinating meeting times that work for members in different timezones.
 
-### Leadership
+Members should have the opportunity to read a summary of the meeting and share pertinent opinions before voting is finalized.
 
-#### Leadership Terms and Selection
+### Delegation
 
-Each Working Group shall be led by a Chair.
+Delegates have responsibilities to their Working Group: they represent the collective will of that group to others.
 
-The Chair shall have a four month term. A person is eligible to chair the Working Group if and only if they satisfy all conditions:
-  1. They wish to serve as Chair.
-  1. They are a member of the Working Group.
-  1. They are not the chair of more than one other Working Group. (i.e. One person may chair a maximum of two Working Groups at a time)
-  1. They have not Chaired that Working Group more recently than any eligible member. (Think of “shuffle play” music)
-
-A Working Group can not have the same chair twice in a row. If the only person willing to serve next is the current chair, this is a sign of an unhealthy group and should be addressed by the Administrative Working Group.
-
-The group will make a reasonable effort to notify potential candidates that a new term is coming so that interested parties can declare their eligibility.
-
-A chair is selected at random from the set of eligible candidates. The candidates and selection are to be documented and made public.
-
-A chair's term does not need to begin at the same time as other chairs' terms.
-
-If a chair steps down, a new one is selected and a new four-month term begins (i.e., interim Chairs are not needed)
-
-#### Leadership Responsibilities
-
-Chairs have responsibilities to their Working Group: they represent the collective will of that group to others.
-
-Chairs have responsibilities to their parent Working Group: they ensure that their Working Group is carrying out its mission.
-
-Chairs have responsibility to all participants in transparently reporting the group's activity.
-
-Chairs also have the following regular duties within their Working Groups:
-* Collect agenda items prior to each meeting to ensure a smooth and focused Working Group meeting.
-* Ensure that the Working Group is notified of the agenda for the meeting in a timely manner advance of the meeting.
-* Attend and lead each Working Group meeting.
-    * If the Chair is unable to attend a given meeting, they should delegate a pre-appointed person to lead the meeting in their stead.
-* Ensure meeting notes are uploaded to the `governance` repo in the Working Group's respective sub-folder following each meeting.
-* Check into persistent issues present on a given Working Group's repositories of responsibility (ex. bot failures)
-* Ensure that the WG roster list is an accurate reflection of current member activity.
-
-In addition to these responsibilities, a Chair may have additional responsibilities specific to their Working Group.
+Delegates are [chosen](#Reaching-Agreement) by the members of their Working Group, either when the need for one arises or for a short period of time not longer than four weeks when a delegate may be needed multiple times in rapid succession.
 
 ### Reaching Agreement
 
@@ -120,21 +92,17 @@ If an issue affects only one Working Group, that group can make decisions [on it
 
 If an issue affects more than one Working Group, those groups are encouraged to work towards agreement together.
 
-If agreement cannot be reached, the chairs of all Working Groups shall try to decide the matter with a vote. A reasonable effort shall be made to let all interested chairs participate in this, but any chair may abstain.
+If agreement cannot be reached, delegates from all involved Working Groups must try to decide the matter with a vote. A reasonable effort must be made to let all interested Working Groups participate in this, but any Working Group may choose abstain.
 
-If agreement still cannot be reached, the issue may be brought to the Administrative Working Group, which has final say.
+If agreement still cannot be reached, the issue may be brought to the Administrative Working Group which has final say.
 
-Regardless of how agreement is reached, the participating groups shall make a reasonable effort to record and post their decisions for transparency.
+Regardless of how agreement is reached, the participating groups must make a reasonable effort to record and post their decisions for transparency.
 
 # Electorate
 
-The **Electorate** is the body who holds the ability to alter the charter and appoint members of the administrative working group.
+The **Electorate** is the body who holds the ability to alter the charter and appoint members of the [Administrative Working Group](#Administrative-Working-Group).
 
-Designing a new Electorate is currently out-of-scope for this charter.
-Instead we make the implicit status-quo explicit.
-GitHub will act as the Electorate with the intention of overseeing a replacement after the current governance is rolled out.
-
-We want an Electorate which can balance several factors:
+The Electorate should try to balance several factors in its composition of members:
 
 1. new contributors
 2. long-time contributors
@@ -142,8 +110,9 @@ We want an Electorate which can balance several factors:
 4. financial contributions
 5. tenured contributions
 
-There is no explicit timeline around this,
-but this charter expects it to be addressed in a reasonable timeframe.
+Initially, the Electorate was GitHub. Designing a new Electorate is still out-of-scope for this charter. Instead, we will make the implicit status-quo explicit: the Administrative Working Group is comprised of managers from Microsoft and Slack.
+
+There is no explicit timeline around designing a better electorate, but this charter expects it to be addressed in a reasonable timeframe.
 
 ## Administrative Working Group
 
@@ -151,13 +120,12 @@ See the [Working Group README](../wg-administrative)
 
 The Administrative Working Group (AWG) is chartered with the responsibility to ensure governance is serving the best needs of the project and community.
 The AWG has authority to act on the project, granted by the electorate.
-The AWG in turn delegates its authority to all other working groups.
+The AWG in turn delegates its authority to all other Working Groups.
 
 To prevent the AWG from becoming the sole political power of the project,
-it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other working groups.
+it is expected that the AWG abstains from casting individual technical decisions that are the responsibility of other Working Groups.
 The AWG should principally serve as a _circuit breaker_.
-If a delegate working group is failing to meet its responsibilities, the AWG may intervene up to and including altering group members, or altering the groups authority, responsibilities, or existence.
+If a delegate Working Group is failing to meet its responsibilities, the AWG may intervene up to and including altering group members, or altering the groups authority, responsibilities, or existence.
 
-**Authors note:**
-
-> The current Electorate/AWG mix places almost all the power in the hands of a few large corporations at the outset. While not ideal to many, this was chosen because it represents today's status-quo. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
+> **Authors note:**
+> The current Electorate/AWG mix places almost all the power in the hands of a few large corporations at the outset. While not ideal to many, this was chosen because it represents the present status-quo, as of writing. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
