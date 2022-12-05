@@ -18,6 +18,7 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MT (Salt Lake City) |
 | <img src="https://github.com/deermichel.png" width=100 alt="@deermichel">  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
 | <img src="https://github.com/raisinten.png" width=100 alt="@raisinten">  | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
+| <img src="https://github.com/georgexu99.png" width=100 alt="@raisinten">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 
 ## Areas of Responsibility
 
