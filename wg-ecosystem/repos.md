@@ -10,7 +10,6 @@
 * [`electron/electron-packager`](https://github.com/electron/electron-packager)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-quick-start-typescript`](https://github.com/electron/electron-quick-start-typescript)
-* [`electron/electronjs.org`](https://github.com/electron/electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
 * [`electron/fiddle-core`](https://github.com/electron/fiddle-core)
 * [`electron/forge`](https://github.com/electron/forge)
@@ -34,4 +33,5 @@
 * [`electron/universal`](https://github.com/electron/universal)
 * [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 * [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
+* [`electron/website`](https://github.com/electron/website)
 * [`electron/windows-installer`](https://github.com/electron/windows-installer)
