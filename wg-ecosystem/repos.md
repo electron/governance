@@ -6,7 +6,6 @@
 * [`electron/download-stats`](https://github.com/electron/download-stats)
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-api-historian`](https://github.com/electron/electron-api-historian)
-* [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
 * [`electron/electron-packager`](https://github.com/electron/electron-packager)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-quick-start-typescript`](https://github.com/electron/electron-quick-start-typescript)
