@@ -17,7 +17,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 | <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
-| <img src="https://github.com/georgexu99.png" width=100 alt="@blackhole1">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
+| <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 
 
 ## Areas of Responsibility
@@ -30,9 +30,9 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Management of the Algolia search tooling
   * Management of translations via Crowdin
 * Tools (Core)
-  * Docs Linter
   * Download (`@electron/get`)
   * Fiddle
+  * Forge
   * Notarize
   * osx-sign
   * Packager
@@ -46,7 +46,6 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Devtron
   * electron-compile
   * electron-installer-\*
-  * Forge
   * Spectron
 
 ...and all other third party community based Electron tools.
@@ -57,31 +56,28 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 ### Electron Organization
 
-* [`electron/algolia-indices`](https://github.com/electron/algolia-indices)
 * [`electron/apps`](https://github.com/electron/apps)
 * [`electron/asar`](https://github.com/electron/asar)
 * [`electron/docs-parser`](https://github.com/electron/docs-parser)
 * [`electron/download-stats`](https://github.com/electron/download-stats)
 * [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 * [`electron/electron-api-historian`](https://github.com/electron/electron-api-historian)
-* [`electron/electron-docs`](https://github.com/electron/electron-docs)
-* [`electron/electron-docs-linter`](https://github.com/electron/electron-docs-linter)
-* [`electron/electron-notarize`](https://github.com/electron/electron-notarize)
-* [`electron/electron-osx-sign`](https://github.com/electron/electron-osx-sign)
 * [`electron/electron-packager`](https://github.com/electron/electron-packager)
 * [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 * [`electron/electron-quick-start-typescript`](https://github.com/electron/electron-quick-start-typescript)
-* [`electron/electron-rebuild`](https://github.com/electron/electron-rebuild)
-* [`electron/electronjs.org`](https://github.com/electron/electronjs.org)
 * [`electron/fiddle`](https://github.com/electron/fiddle)
+* [`electron/forge`](https://github.com/electron/forge)
 * [`electron/get`](https://github.com/electron/get)
 * [`electron/hubdown`](https://github.com/electron/hubdown)
 * [`electron/i18n`](https://github.com/electron/i18n)
 * [`electron/node-minidump`](https://github.com/electron/node-minidump)
 * [`electron/node-rcedit`](https://github.com/electron/node-rcedit)
-* [`electron/rcedit`](https://github.com/electron/rcedit)
+* [`electron/notarize`](https://github.com/electron/notarize)
+* [`electron/osx-sign`](https://github.com/electron/osx-sign)
+* [`electron/rebuild`](https://github.com/electron/rebuild)
 * [`electron/releases`](https://github.com/electron/releases)
 * [`electron/remote`](https://github.com/electron/remote)
+* [`electron/rcedit`](https://github.com/electron/rcedit)
 * [`electron/search-with-your-keyboard`](https://github.com/electron/search-with-your-keyboard)
 * [`electron/semantic-release-npm-cfa`](https://github.com/electron/semantic-release-npm-cfa)
 * [`electron/symbol-server`](https://github.com/electron/symbol-server)
@@ -90,12 +86,12 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 * [`electron/typescript-definitions`](https://github.com/electron/typescript-definitions)
 * [`electron/update-electron-app`](https://github.com/electron/update-electron-app)
 * [`electron/update.electronjs.org`](https://github.com/electron/update.electronjs.org)
+* [`electron/website`](https://github.com/electron/website)
 * [`electron/windows-installer`](https://github.com/electron/windows-installer)
 
 ### Electron Userland Organization
 
 * [`electron-userland/devtron`](https://github.com/electron/devtron)
-* [`electron-userland/electron-forge`](https://github.com/electron-userland/electron-forge)
 * [`electron-userland/electron-installer-common`](https://github.com/electron-userland/electron-installer-common)
 * [`electron-userland/electron-installer-debian`](https://github.com/electron-userland/electron-installer-debian)
 * [`electron-userland/electron-installer-dmg`](https://github.com/electron-userland/electron-installer-dmg)
