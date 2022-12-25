@@ -30,3 +30,4 @@ The AWG is open to welcoming new members. Please note that as a prerequisite, in
 
 ## Meeting Schedule
 
+Meetings are scheduled ad-hoc as needed, there is currently no recurring meeting scheduled.

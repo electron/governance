@@ -2,6 +2,10 @@
 
 > Oversees application to OpenJS
 
+# Current Status
+
+[Complete](https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/): In December 2019 the Electron project joined the OpenJS Foundation.
+
 # Responsibilities, Authority, and Limits
 
 1. This initiative is tasked to draft and submit the preliminary application to OpenJS.

@@ -2,6 +2,16 @@
 
 **Author:** Shelley Vohr
 
+## Status
+
+> Due to not tracking these states during implementation this RFC has version numbers instead of dates.
+
+| State | Date |
+|-------|------|
+| Proposed | v4 |
+| Approved | v6 |
+| Implemented | v8 |
+
 ## What We Do Now
 
 Right now, we create a new branch for every new minor release line. For example, there current exist branches for `4-0-x`, `4-1-x`, and as of recently, `4-2-x`.
