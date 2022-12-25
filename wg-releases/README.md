@@ -6,19 +6,19 @@ Oversees all release branches, and tooling to support releases.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | CET (Berlin) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/vertedinde.png" width=100 alt="@vertedinde">  | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
-| <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556">  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | JST (Nagano) |
-| <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
-| <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/mlaurencin.png" width=100 alt="@mlaurencin">  | Michaela Laurencin [@mlaurencin](https://github.com/mlaurencin) | Member | PT (Seattle) |
-| <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MT (Salt Lake City) |
-| <img src="https://github.com/deermichel.png" width=100 alt="@deermichel">  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
-| <img src="https://github.com/raisinten.png" width=100 alt="@raisinten">  | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
-| <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
+| <img src="https://github.com/codebytere.png" width="100px" alt="@codebytere" />  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | CET (Berlin) |
+| <img src="https://github.com/jkleinsc.png" width="100px" alt="@jkleinsc" />  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
+| <img src="https://github.com/ckerr.png" width="100px" alt="@ckerr" />  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/vertedinde.png" width="100px" alt="@vertedinde" />  | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
+| <img src="https://github.com/deepak1556.png" width="100px" alt="@deepak1556" />  | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | JST (Nagano) |
+| <img src="https://github.com/sofianguy.png" width="100px" alt="@sofianguy" />  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+| <img src="https://github.com/zcbenz.png" width="100px" alt="@zcbenz" />  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
+| <img src="https://github.com/marshallofsound.png" width="100px" alt="@marshallofsound" />  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/mlaurencin.png" width="100px" alt="@mlaurencin" />  | Michaela Laurencin [@mlaurencin](https://github.com/mlaurencin) | Member | PT (Seattle) |
+| <img src="https://github.com/clavin.png" width="100px" alt="@clavin" />  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MT (Salt Lake City) |
+| <img src="https://github.com/deermichel.png" width="100px" alt="@deermichel" />  | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
+| <img src="https://github.com/raisinten.png" width="100px" alt="@raisinten" />  | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
+| <img src="https://github.com/georgexu99.png" width="100px" alt="@georgexu99" />  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 
 ## Areas of Responsibility
 
@@ -29,11 +29,11 @@ Oversees all release branches, and tooling to support releases.
   * Listening and responding to feedback
 * Management of Heroku apps for [associated repositories](#associated-repositories)
 * Triaging issues and organizing beta stabilization issues for discussion.
-* Determining which [features](feature-backport-requests.md) are allowed to be backported to release lines.
+* Determining which [features](./feature-backport-requests) are allowed to be backported to release lines.
 
 ## Leadership Responsibilities
 
-In addition to responsibilities outlined in the [Charter](../charter/README.md), a Chair of the Releases Working Group should:
+In addition to responsibilities outlined in the [Charter](../charter), a Chair of the Releases Working Group should:
 
 * Run regular release audits for [supported branches](https://electronjs.org/docs/tutorial/support#supported-versions) using [`unreleased`](https://github.com/electron/unreleased).
   * Check for unmerged backports and pull requests needing manual (non-[trop](https://github.com/electron/trop)) backports to release branches.
@@ -42,7 +42,7 @@ In addition to responsibilities outlined in the [Charter](../charter/README.md),
 
 ## Associated Repositories
 
-See [repos.md](repos.md)
+See [repos](./repos)
 
 ## Rules for Membership
 

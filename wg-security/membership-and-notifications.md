@@ -1,3 +1,7 @@
+---
+title: Membership & Notifications
+---
+
 # Security WG Membership & Notifications
 
 ## Membership

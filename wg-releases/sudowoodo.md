@@ -1,3 +1,7 @@
+---
+title: Sudowoodo
+---
+
 ## Releasing Electron
 
 Electron's Release process is performed using a Slack-based bot system called Sudowoodo, which lives [here](https://github.com/electron/sudowoodo).

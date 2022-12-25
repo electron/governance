@@ -6,18 +6,18 @@ Oversees the projects that make Electron app development easier.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/molant.png" width=100 alt="@molant">  | Antón Molleda [@molant](https://github.com/molant) | Chair | PT (Seattle) |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
-| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
-| <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
-| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
-| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
-| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
-| <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
+| <img src="https://github.com/molant.png" width="100px" alt="@molant" />  | Antón Molleda [@molant](https://github.com/molant) | Chair | PT (Seattle) |
+| <img src="https://github.com/ckerr.png" width="100px" alt="@ckerr" />  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/dsanders11.png" width="100px" alt="@dsanders11" />  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
+| <img src="https://github.com/erickzhao.png" width="100px" alt="@erickzhao" />  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
+| <img src="https://github.com/felixrieseberg.png" width="100px" alt="@felixrieseberg" />  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
+| <img src="https://github.com/kilian.png" width="100px" alt="@kilian" />  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
+| <img src="https://github.com/malept.png" width="100px" alt="@malept" />  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
+| <img src="https://github.com/marshallofsound.png" width="100px" alt="@marshallofsound" />  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/Toinane.png" width="100px" alt="@Toinane" />  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
+| <img src="https://github.com/VerteDinde.png" width="100px" alt="@VerteDinde" />  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/blackhole1.png" width="100px" alt="@blackhole1" />  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
+| <img src="https://github.com/georgexu99.png" width="100px" alt="@georgexu99" />  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 
 
 ## Areas of Responsibility

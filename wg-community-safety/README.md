@@ -6,13 +6,13 @@ Oversees removal/bans from community.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/lee-dohm.png" width=100 alt="@lee-dohm"> | Lee Dohm [@lee-dohm](https://github.com/lee-dohm) | **Chair** | PT (Seattle) |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
-| <img src="https://github.com/groundwater.png" width=100 alt="@groundwater">  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
-| <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
-| <img src="https://github.com/tonyganch.png" width=100 alt="@tonyganch">  | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
+| <img src="https://github.com/lee-dohm.png" width="100px" alt="@lee-dohm" /> | Lee Dohm [@lee-dohm](https://github.com/lee-dohm) | **Chair** | PT (Seattle) |
+| <img src="https://github.com/ckerr.png" width="100px" alt="@ckerr" />  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/codebytere.png" width="100px" alt="@codebytere" />  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
+| <img src="https://github.com/groundwater.png" width="100px" alt="@groundwater" />  | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
+| <img src="https://github.com/jkleinsc.png" width="100px" alt="@jkleinsc" />  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
+| <img src="https://github.com/sofianguy.png" width="100px" alt="@sofianguy" />  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+| <img src="https://github.com/tonyganch.png" width="100px" alt="@tonyganch" />  | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
 
 ## Areas of Responsibility
 

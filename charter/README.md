@@ -1,3 +1,7 @@
+---
+title: Charter
+---
+
 # Electron Governance Charter
 
 <!--

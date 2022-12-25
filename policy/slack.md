@@ -1,3 +1,9 @@
+---
+title: Slack Etiquette
+description: Guidelines for how to use the ElectronHQ Maintainer Slack
+hide_title: false
+---
+
 # ElectronHQ Slack Workspace
 
 The people working on Electron organize their work using Slack, a "hub for teamwork". Even if you've worked with Slack before, it might be a good idea to review some of the guidelines about what's considered good etiquette in our workspace.

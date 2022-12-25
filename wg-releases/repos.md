@@ -1,4 +1,4 @@
-# Repositories that `wg-releases` owns
+# Releases Owned Repositories
 
 - [`electron/bugbot`](https://github.com/electron/bugbot)
 - [`electron/cation`](https://github.com/electron/cation)

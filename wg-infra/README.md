@@ -6,9 +6,9 @@ Oversees all infrastructure, bots, automation, services and systems that support
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
+| <img src="https://github.com/marshallofsound.png" width="100px" alt="@marshallofsound" />  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/codebytere.png" width="100px" alt="@codebytere" />  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
+| <img src="https://github.com/jkleinsc.png" width="100px" alt="@jkleinsc" />  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 
 ## Areas of Responsibility
 

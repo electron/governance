@@ -260,7 +260,7 @@ Emitted at the end of user-initiated scrolling.
 ## Rollout Plan
 
 - duplicate the BrowserView API (setAutoResize, setBounds etc.) into View API; targeting Electron v21
-- add the documentation to [Views API (Part 1)](views-api-1-content-view.md); targeting Electron v21
+- add the documentation to [Views API (Part 1)](./views-api-1-content-view); targeting Electron v21
 - adjust BaseWindow API to support the hierarchy of views (WebContentsViews); targeting Electron v21
 - add the ScrollView API (as experimental); targeting Electron v22
 - optimization the ScrollView with WebContentsViews for performance; targeting Electron v22
