@@ -11,6 +11,6 @@ The version of Electron you reported this on has been superseded by newer releas
 
 If you're still experiencing this issue in the latest version of Electron, please add a comment specifying the version you're testing with and any other new information that a maintainer trying to reproduce the issue should know.
 
-I'm setting the `blocked/need-info` label for the above reasons. If wd don't see a response in 10 days, I'll close this issue.
+I'm setting the `blocked/need-info` label for the above reasons. If we don't see a response in 10 days, I'll close this issue.
 
 Thanks in advance! Your help is appreciated.
