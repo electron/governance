@@ -4,7 +4,7 @@
 >
 > *From Wikipedia*
 
-The above describes medical triage but it is clear that it also applies to our situation. Triage is a process of sifting through all the things that we could work on to select the few things that we will work on. In order to maximize the impact we have for the people that use Atom, things that will get top priority are items that are well-described, clearly presented and have obvious benefit.
+The above describes medical triage but it is clear that it also applies to our situation. Triage is a process of sifting through all the things that we could work on to select the few things that we will work on. In order to maximize the impact we have for the people that use Electron, things that will get top priority are items that are well-described, clearly presented and have obvious benefit.
 
 Additionally, we want to encourage helpful feedback and meaningful participation. In order to do this, we will have to be clear about what we need from people so that we can deliver what they need. This also means that we will have to be very clear and decisive when we are not getting the information or cooperation we need so that we can move on. Just like in an emergency room, if it is a choice between spending several hours to have a 10% chance of saving one person or spending several hours definitely saving multiple people, the choice is clear.
 
@@ -16,7 +16,7 @@ Additionally, we want to encourage helpful feedback and meaningful participation
   * What pull requests *will not* be reviewed for acceptance
 * Outline exactly what is expected for an issue to meet the "triage bar" so that issues that don't meet the bar can be closed
 * Reduce the amount of time and back-and-forth needed to take an issue from being first-opened to `triaged` or closed
-* Accept input from the community that helps us deliver meaningful results back to the Atom community
+* Accept input from the community that helps us deliver meaningful results back to the Electron community
 
 ## The Issues List Is Our Backlog
 
