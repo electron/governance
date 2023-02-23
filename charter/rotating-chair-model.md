@@ -5,7 +5,7 @@ The Rotating Chair Model is a model of a Working Group that appoints a leader to
 ## Working Group Responsibilities
 
 A Working Group that uses the Rotating Chair Model has an additional core responsibility:
-* They shall [select](#Chair-Terms-and-Selection) a rotating chair to [lead](#Chair-Responsibilities) the group and ensure the Working Group's goals are fulfilled.
+* They shall [select](#chair-terms-and-selection) a rotating chair to [lead](#chair-responsibilities) the group and ensure the Working Group's goals are fulfilled.
 
 ## Chair Terms and Selection
 
