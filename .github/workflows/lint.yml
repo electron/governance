@@ -33,6 +33,7 @@ jobs:
       run: npx electron-markdownlint "**/*.md"
     - name: Lint links
       run: npx electron-lint-markdown-links --root . --ignore-path .markdownlintignore "**/*.md"
+      if: ${{ always() }}
     - name: Check external links
       run: npx electron-lint-markdown-links --root . --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
       if: ${{ github.event.inputs.fetch-external-links }}
