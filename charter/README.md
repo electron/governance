@@ -42,7 +42,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
  * A _participant_ is anyone who is a maintainer or collaborator.
  * A _Working Group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
  * A _chair_ is the acting leader of a Working Group that uses the [Rotating Chair Model](rotating-chair-model.md).
- * A [_delegate_](#Delegation) is a chosen representative of a Working Group.
+ * A [_delegate_](#delegation) is a chosen representative of a Working Group.
 
 ## Participation
 
@@ -70,7 +70,7 @@ All Working Groups have these core responsibilities:
  * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
  * They shall choose a model of work to support reaching the Working Group's goals.
  * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
- * They shall be collaborative and work [in good faith](#Core-Values) with other Working Groups.
+ * They shall be collaborative and work [in good faith](#core-values) with other Working Groups.
 
 ### Meetings
 
@@ -84,11 +84,11 @@ Members should have the opportunity to read a summary of the meeting and share p
 
 Delegates have responsibilities to their Working Group: they represent the collective will of that group to others.
 
-Delegates are [chosen](#Reaching-Agreement) by the members of their Working Group, either when the need for one arises or for a short period of time not longer than four weeks when a delegate may be needed multiple times in rapid succession.
+Delegates are [chosen](#reaching-agreement) by the members of their Working Group, either when the need for one arises or for a short period of time not longer than four weeks when a delegate may be needed multiple times in rapid succession.
 
 ### Reaching Agreement
 
-If an issue affects only one Working Group, that group can make decisions [on its own](#Meetings).
+If an issue affects only one Working Group, that group can make decisions [on its own](#meetings).
 
 If an issue affects more than one Working Group, those groups are encouraged to work towards agreement together.
 
@@ -100,7 +100,7 @@ Regardless of how agreement is reached, the participating groups must make a rea
 
 # Electorate
 
-The **Electorate** is the body who holds the ability to alter the charter and appoint members of the [Administrative Working Group](#Administrative-Working-Group).
+The **Electorate** is the body who holds the ability to alter the charter and appoint members of the [Administrative Working Group](#administrative-working-group).
 
 The Electorate should try to balance several factors in its composition of members:
 

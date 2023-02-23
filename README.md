@@ -65,9 +65,9 @@ The Electron governance system is comprised of Working Groups that oversee diffe
 All Working Groups have these core responsibilities:
 
 * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
-* They shall [select](charter/README.md#Leadership-Terms-and-Selection) a chair to [represent](charter/README.md#Leadership-Responsibilities) the group.
+* They shall [select](charter/rotating-chair-model.md#chair-terms-and-selection) a chair to [represent](charter/rotating-chair-model.md#chair-responsibilities) the group.
 * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
-* They shall be collaborative and work [in good faith](charter/README.md#Core-Values) with other Working Groups.
+* They shall be collaborative and work [in good faith](charter/README.md#core-values) with other Working Groups.
 
 See [charter/README.md](./charter/README.md) for more information.
 

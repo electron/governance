@@ -110,6 +110,6 @@ These repos are sorted alphabetically, their order does not reflect that any of 
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
 
-## Membership
+## Joining the Ecosystem WG
 
 Prospective new members should reach out to an existing member to ask to be invited to the regular meetings and to be added as a Slack guest to #wg-ecosystem. That person may be added to the working group by a 2/3rds vote of WG members at a WG meeting. The prospective member should leave the meeting while the deliberation & vote is underway, and be informed only of the outcome of the vote (approved/not approved).
