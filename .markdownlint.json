@@ -1,0 +1,14 @@
+{
+  "extends": "@electron/lint-roller/configs/markdownlint.json",
+  "blanks-around-fences": false,
+  "blanks-around-headings": false,
+  "blanks-around-headers": false,
+  "blanks-around-lists": false,
+  "fenced-code-language": false,
+  "ol-prefix": false,
+  "no-multiple-blanks": false,
+  "no-shortcut-reference-links": false,
+  "no-trailing-spaces": false,
+  "ul-indent": false,
+  "ul-style": false
+}
