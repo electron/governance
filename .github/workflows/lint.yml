@@ -7,6 +7,11 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      fetch-external-links:
+        type: boolean
+        description: Check if external links are broken
 
 permissions:
   contents: read
@@ -24,7 +29,10 @@ jobs:
       run: npm init --yes
     - name: Install @electron/lint-roller
       run: npm install --save-dev @electron/lint-roller
-    - name: Lint
-      run: |
-        npx electron-markdownlint "**/*.md"
-        npx electron-lint-markdown-links --root . --ignore-path .markdownlintignore "**/*.md"
+    - name: Run markdownlint
+      run: npx electron-markdownlint "**/*.md"
+    - name: Lint links
+      run: npx electron-lint-markdown-links --root . --ignore-path .markdownlintignore "**/*.md"
+    - name: Check external links
+      run: npx electron-lint-markdown-links --root . --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
+      if: ${{ github.event.inputs.fetch-external-links }}
