@@ -50,11 +50,11 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
   * Already implemented per specification.
 * `clipboard.writeText(text[, type])`
   * Already implemented per specification.
+* `clipboard.has(format[, type])` 
+  * Convenience method to quickly check if a particular format is available.
 
 **APIs to Remove**
 * `clipboard.availableFormats([type])`
-  * Superseded by `clipboard.read` [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
-* `clipboard.has(format[, type])` 
   * Superseded by `clipboard.read` [Web API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/read)
 * `clipboard.readBookmark()`
   * Superseded by `clipboard.read` with custom `electron/bookmark` MIME type
@@ -88,16 +88,18 @@ Alignment with W3C where possible, with some additional APIs exposed to handle d
   * Returns a Promise that resolves with an array of [ClipboardItem](https://developer.mozilla.org/en-US/docs/Web/API/ClipboardItem) objects containing the 
     clipboard's contents. The promise is rejected if permission to access the clipboard is not granted.
   * Ensure that raw formats are preserved
-    * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
-    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)
+  * Custom MIME types e.g. `electron application/filepath` will be used to allow support of non-standard clipboard formats.  This follows 
+    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md#custom-formats).
+    The exception here is that instead of using the `web` prefix, we will use the `electron` prefix to prevent possible collisions with custom web formats.
 * `clipboard.write(data[, clipboardType]])​`
   * `data` an array of [ClipboardItem](https://developer.mozilla.org/en-US/docs/Web/API/ClipboardItem) objects containing data to be written to the clipboard.
   * `clipboardType` string (optional) - Can be `selection` or `clipboard`; default is `clipboard`. `selection` is only available on Linux.
   * This API will be modified to bring into spec compliance with the [Web API`clipboard.write](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/write).
   * Returns a Promise which is resolved when the data has been written to the clipboard. The promise is rejected if the clipboard is unable to complete the clipboard access.
   * Ensure that raw formats are preserved
-    * Custom MIME types e.g. `electron/filepath` will be supported to allow support of non-standard clipboard formats.  This follows 
-    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md)    
+  * Custom MIME types e.g. `electron application/filepath` will be used to allow support of non-standard clipboard formats.  This follows 
+    the W3C proposal for supporting [Web Custom formats for Async Clipboard API](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md#custom-formats).
+    The exception here is that instead of using the `web` prefix, we will use the `electron` prefix to prevent possible collisions with custom web formats.
   * clipboardType is only used for Linux to specify if clipboard is regular clipboard or `selection` clipboard.    
   
 **APIs to Add**
@@ -171,7 +173,7 @@ async function has(format, clipboardType) {
   }
 }
 
-const BOOKMARK_MIME_TYPE = 'web electron/bookmark';
+const BOOKMARK_MIME_TYPE = 'electron application/bookmark';
 async function readBookmark() {
   const bookmarkItem = await readBuffer(BOOKMARK_MIME_TYPE);
   if (bookmarkItem) {
@@ -187,7 +189,7 @@ async function writeBookmark(title, url) {
   return writeBuffer(BOOKMARK_MIME_TYPE, buffer);
 }
 
-const FILE_PATH_MIME_TYPE = 'web electron/filepath';
+const FILE_PATH_MIME_TYPE = 'electron application/filepath';
 async function readFilePaths() {
   const filePathsItem = await readBuffer(FILE_PATH_MIME_TYPE);
   if (filePathsItem) {
@@ -200,7 +202,7 @@ async function writeFilePaths(paths) {
   return writeBuffer(BOOKMARK_MIME_TYPE, filePathsBuffer);
 }
 
-const FIND_TEXT_MIME_TYPE = 'web electron/findtext';
+const FIND_TEXT_MIME_TYPE = 'electron application/findtext';
 async function readFindText() {
   return readClipboard(FIND_TEXT_MIME_TYPE);
 }
