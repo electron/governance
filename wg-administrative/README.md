@@ -18,7 +18,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 
 The AWG aims to ensure the collective health of the maintainers and working groups, while offering support as necessary through means that may not fall on any existing working group, such as a mechanism for escalation.
 
-*The AWG should not make individual technical decisions.*
+_The AWG should not make individual technical decisions._
 
 It is important that other working groups have autonomy and agency to fulfill their responsibilities.
 

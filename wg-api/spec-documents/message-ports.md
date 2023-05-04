@@ -36,7 +36,7 @@ Node.js took inspiration from the Channel Messaging API when they designed the [
 
 ### Transferables
 
-In the `postMessage` API, one of the options available when sending a message is to pass a list of _transferables_ to be passed along with the message. These objects, once transferred through `postMessage`, are no longer accessible to the sender, and ownership is transferred to the receiver. Some examples of transferable objects are `ArrayBuffer`, `ImageBitmap` and `MessagePort`.
+In the `postMessage` API, one of the options available when sending a message is to pass a list of *transferables* to be passed along with the message. These objects, once transferred through `postMessage`, are no longer accessible to the sender, and ownership is transferred to the receiver. Some examples of transferable objects are `ArrayBuffer`, `ImageBitmap` and `MessagePort`.
 
 References to transferred objects can appear in the message data, and when deserialized, the message on the receiving end will contain references to those transferred objects in the appropriate place.
 
@@ -117,7 +117,7 @@ Emitted when the channel is closed.
 ::::
 
 > [name=Samuel Attard]
-> Is there a way to tell if a message port has been closed _after_ the fact.  E.g. `port.isClosed` or something?  Otherwise I assume `postMessage` will throw if the port is closed and you try to send a message.
+> Is there a way to tell if a message port has been closed *after* the fact.  E.g. `port.isClosed` or something?  Otherwise I assume `postMessage` will throw if the port is closed and you try to send a message.
 
 ## Example usage of new API
 
