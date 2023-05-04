@@ -190,7 +190,7 @@ In Blink, `MessagePort` is a fairly thin wrapper around a Mojo pipe. Node's mess
 In our current IPC implementation we have a boolean flag for whether an IPC message is 'internal' or not, and we avoid exposing internal IPCs to users. Using the new channel messaging API, it would be possible to create an 'internal' channel over which such messages could be sent—in fact, we could create as many different channels as we liked. In particular, it would be useful to separate each different Electron API into its own channel, which would eliminate the possibility of namespace collision between APIs, and additionally provide a security feature: possession of the channel port implies permission to use the API, and without a port it would be impossible to use that feature.
 
 > [name=Samuel Attard]
-> This design would be that _all_ APIs would by definition become async in the renderer if they required IPC to back them as I'm assuming we wouldn't make a `postMessageSync` API.  This means all usages of `sendSync` or `invokeSync` either get stuck on the old API or have to have breaking API changes.  It sounds like a lot of our internal impls wouldn't be able to use this because of this restriction.
+> This design would be that *all* APIs would by definition become async in the renderer if they required IPC to back them as I'm assuming we wouldn't make a `postMessageSync` API.  This means all usages of `sendSync` or `invokeSync` either get stuck on the old API or have to have breaking API changes.  It sounds like a lot of our internal impls wouldn't be able to use this because of this restriction.
 
 ### 'close' event
 
