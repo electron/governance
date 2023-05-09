@@ -17,7 +17,7 @@ Slack allows users to ping everyone present in a channel using three groups: `@h
 
 ### Channel Names
 
-Slack uses channels to organize work into "chat rooms". You can read more about Slack channels and [how to use them here](https://slackhq.com/how-to-organize-your-work-life-into-slack-channels). In order to organize channels, we're using _prefixes_. We recommend that you consider using one when creating new channels:
+Slack uses channels to organize work into "chat rooms". You can read more about Slack channels and [how to use them here](https://slack.com/resources/using-slack/how-to-organize-your-slack-channels). In order to organize channels, we're using _prefixes_. We recommend that you consider using one when creating new channels:
 
 * `announce-`: Announcement channels, not used for general chatter – and excellent for following along.
 * `proj-`: Project-specific channels, like `proj-typescript` or `proj-newsletter`.
