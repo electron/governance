@@ -18,7 +18,7 @@ It is currently not possible to add scrolling functionality around BrowserViews:
 
 More details of the use-case and challenges related to workarounds: [#32751](https://github.com/electron/electron/issues/32751)
 
-![](https://user-images.githubusercontent.com/2891206/150981006-84fe796e-60bd-43c0-952d-831d1bfd9998.gif)
+![ScrollView concept](https://user-images.githubusercontent.com/2891206/150981006-84fe796e-60bd-43c0-952d-831d1bfd9998.gif)
 
 ## Usage Example
 

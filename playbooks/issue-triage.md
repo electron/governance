@@ -80,17 +80,17 @@ Once an issue is triaged, the maintainers can work on addressing it. {{Insert st
 * The issue is closed with `help-wanted` and an explanation that this is not something the maintainers will be working on soon, but well-written Pull Requests would be accepted
 * The issue is closed for some other reason
 
-Just because something goes on the backlog doesn't mean that it will be addressed immediately. But the idea is that all issues that are open will be periodically reviewed and kept in the priority list. Since we will be reviewing _all_ open issues at fixed time intervals, we will need to keep this list manageable and realistic.
+Just because something goes on the backlog doesn't mean that it will be addressed immediately. But the idea is that all issues that are open will be periodically reviewed and kept in the priority list. Since we will be reviewing *all* open issues at fixed time intervals, we will need to keep this list manageable and realistic.
 
 ## Old, Untouched Issues
 
-Despite everyone's best efforts, old issues will always exist. If you find one that hasn't been touched in a quite a while _and_ you are unable to recreate the behavior, update the issue with the [`old-untouched` response](responses/old-untouched.md)
+Despite everyone's best efforts, old issues will always exist. If you find one that hasn't been touched in a quite a while *and* you are unable to recreate the behavior, update the issue with the [`old-untouched` response](responses/old-untouched.md)
 
 ## Common Responses
 
 This section outlines several common scenarios, and the responses and labels we recommend using for issue triage. It also tries to address several commonly asked questions for those new to the issue triage process.
 
-_NB: The reponses below are meant to be a guide for someone new to triaging issues in Electron, not requirements. If you find an issue while triaging that you think needs a different response than is recommended here, use your own judgement._
+*NB: The reponses below are meant to be a guide for someone new to triaging issues in Electron, not requirements. If you find an issue while triaging that you think needs a different response than is recommended here, use your own judgement.*
 
 #### Low Quality/Spam
 

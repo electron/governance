@@ -43,7 +43,7 @@ Keep in mind that this is not the 100% complete maintainer's guide to pull reque
 
 ## Work In Progress
 
-Pull requests that are works in progress should be the exception rather than the rule. If the pull request doesn't see any updates to the body or its content within two weeks of the time we look at it, close the pull request with [the stale pull request message](responses/stale-pull-request.md).
+Pull requests that are works in progress should be the exception rather than the rule. If the pull request doesn't see any updates to the body or its content within two weeks of the time we look at it, close the pull request with [the stale pull request message](responses/work-in-progress.md).
 
 ## More Information Needed
 
