@@ -18,6 +18,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
 | <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
 | <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
+| <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao">  | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
 
 
 ## Areas of Responsibility
