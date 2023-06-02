@@ -5,6 +5,7 @@ The Rotating Chair Model is a model of a Working Group that appoints a leader to
 ## Working Group Responsibilities
 
 A Working Group that uses the Rotating Chair Model has an additional core responsibility:
+
 * They shall [select](#chair-terms-and-selection) a rotating chair to [lead](#chair-responsibilities) the group and ensure the Working Group's goals are fulfilled.
 
 ## Chair Terms and Selection
@@ -12,6 +13,7 @@ A Working Group that uses the Rotating Chair Model has an additional core respon
 The Chair has a term that is written in the Working Group's own charter. By default, that term is four months.
 
 A person is eligible to chair the Working Group if and only if they satisfy all conditions:
+
 1. They wish to serve as chair.
 2. They are a member of the Working Group.
 3. They are not the chair of more than one other Working Group.
@@ -36,10 +38,11 @@ Chairs have responsibilities to their Working Group: they ensure that their Work
 Chairs have responsibility to all participants in transparently reporting the group's activity.
 
 Chairs also have the following regular duties within their Working Groups:
+
 * Collect agenda items prior to each meeting to ensure a smooth and focused Working Group meeting.
 * Ensure that the Working Group is notified of the agenda for the meeting in a timely manner advance of the meeting.
 * Attend and lead each Working Group meeting.
-    * If the chair is unable to attend a meeting, they should appoint another member to lead the meeting in their stead.
+  * If the chair is unable to attend a meeting, they should appoint another member to lead the meeting in their stead.
 * Ensure meeting notes are uploaded to the `governance` repo in the Working Group's respective subdirectory following each meeting.
 * Check into persistent issues present on their Working Group's repositories of responsibility (ex. bot failures).
 * Ensure that the WG roster list accurately reflects current membership.

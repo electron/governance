@@ -37,23 +37,23 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 ## Definitions
 
- * A _maintainer_ is anyone who plays an active role in governance.
- * A _collaborator_ is active in the community, but not in governance.
- * A _participant_ is anyone who is a maintainer or collaborator.
- * A _Working Group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
- * A _chair_ is the acting leader of a Working Group that uses the [Rotating Chair Model](rotating-chair-model.md).
- * A [_delegate_](#delegation) is a chosen representative of a Working Group.
+* A _maintainer_ is anyone who plays an active role in governance.
+* A _collaborator_ is active in the community, but not in governance.
+* A _participant_ is anyone who is a maintainer or collaborator.
+* A _Working Group_ is a group of maintainers that is formed to take responsibility for certain aspects of the Electron project. Normally these groups will meet regularly but in some cases will only meet as required to fulfill their responsibilities.
+* A _chair_ is the acting leader of a Working Group that uses the [Rotating Chair Model](rotating-chair-model.md).
+* A [_delegate_](#delegation) is a chosen representative of a Working Group.
 
 ## Participation
 
- * [Code of Conduct](../CODE_OF_CONDUCT.md)
- * [Using Slack](../policy/slack.md)
- * [Triaging Issues](../playbooks/README.md)
- * [Using Pull Requests](../policy/pull-requests.md)
+* [Code of Conduct](../CODE_OF_CONDUCT.md)
+* [Using Slack](../policy/slack.md)
+* [Triaging Issues](../playbooks/README.md)
+* [Using Pull Requests](../policy/pull-requests.md)
 
 ## Working Groups
 
-| Working Group  | Repo | Description | 
+| Working Group  | Repo | Description |
 |:---------------|:------|-------------|
 | Administrative | [wg-administrative](../wg-administrative) | Administrates Governance |
 | Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
@@ -67,10 +67,11 @@ These are our core values, as voted by the maintainers, in order of importance. 
 ### Responsibilities
 
 All Working Groups have these core responsibilities:
- * They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
- * They shall choose a model of work to support reaching the Working Group's goals.
- * They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
- * They shall be collaborative and work [in good faith](#core-values) with other Working Groups.
+
+* They shall decide for themselves, and publicly post, their rules, e.g. how decisions are made, when meetings are held, and who may attend.
+* They shall choose a model of work to support reaching the Working Group's goals.
+* They shall keep meeting notes, including agenda items, discussion points, and outcomes for everyone to review.
+* They shall be collaborative and work [in good faith](#core-values) with other Working Groups.
 
 ### Meetings
 

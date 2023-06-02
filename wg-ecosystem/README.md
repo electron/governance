@@ -20,7 +20,6 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 | <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao">  | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
 
-
 ## Areas of Responsibility
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.

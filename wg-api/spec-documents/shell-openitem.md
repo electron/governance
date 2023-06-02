@@ -10,7 +10,7 @@
 
 ## Impetus
 
-At the moment, the return value of `shell.openItem(item)` arguably does not accurately reflect the success of the underlying operation being performed. 
+At the moment, the return value of `shell.openItem(item)` arguably does not accurately reflect the success of the underlying operation being performed.
 
 For example, on Linux, `true` can be returned when the file being passed as `item` doesn't exist, since it effectively returns the success of spawning `xdg-open` and not the exit code of `xdg-open` itself.
 
@@ -20,7 +20,7 @@ This new design will resolve ambiguities and allow users to more accurately unde
 
 The new method will adhere to the following semantics:
 
-```
+```markdown
 ### `shell.openPath(path)`
 
 * `path` String

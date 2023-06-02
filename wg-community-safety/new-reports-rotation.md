@@ -1,4 +1,5 @@
 # Community & Safety WG
+
 Rotation list for ensuring new reports get handled in a timely manner. Any report that comes in should be documented and a decision on next steps should be made within 24 hours. Each rotation will last 2 weeks so that they're synced with our WG meetings.
 
 | Dates | Point Person |

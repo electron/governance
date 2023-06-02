@@ -19,14 +19,13 @@ All.
 
 The following parameter changes will be made:
 
-
-```
+```markdown
 * `marginsType` Integer (optional) - Specifies the type of margins to use. Uses 0 for	default margin, 1 for no margin, and 2 for minimum margin.
 ```
-  
+
 will become
 
-```
+```markdown
 * `margins` Object (optional)
     * `marginType` String (optional) - Can be `default`, `none`, `printableArea`, or `custom`. If `custom` is chosen, you will also need to specify `top`, `bottom`, `left`, and `right`.
     * `top` Number (optional) - The top margin of the printed web page, in pixels.

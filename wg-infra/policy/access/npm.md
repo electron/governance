@@ -1,6 +1,6 @@
 # NPM
 
-> ⚠️ This document currently described an ideal reality, not what is currently configured.  It will either be updated or implemented at some point in the future ⚠️ 
+> ⚠️ This document currently described an ideal reality, not what is currently configured.  It will either be updated or implemented at some point in the future ⚠️
 
 ## Access to the "electron" Organization on NPM
 

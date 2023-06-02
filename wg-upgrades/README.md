@@ -40,21 +40,22 @@ Meeting notes may be viewed in [meeting-notes](meeting-notes).
 ## Joining the Upgrades WG
 
 In order to become formal members of the WG, prospective members must:
+
 1. be actively contributing to the work of the Upgrades WG, and
 2. be approved by a 2/3rds majority of current WG members (rounded up).
     1. The prospective member shall leave the meeting during the deliberation and vote.
     2. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.
     3. Members not able to attend the meeting at which the vote occurs may submit their vote to the Chair prior to the meeting.
-    
+
 If you're interested in joining the Upgrades Working Group, reach out to an [existing member](#membership) and ask to be invited to the regular meeting and as a guest to the #wg-upgrades channel in Slack.
 
 ### Actively contributing
 
 "Actively contributing" doesn't necessarily mean writing code, and it doesn't mean you have to be full-time on Electron Upgrades. It does mean that you should be in regular communication with the Upgrades WG (including attending meetings), and it does mean that you should be materially contributing to the project in some way. Some examples of actively contributing:
 
-- You maintain a piece of code that integrates with Chromium (possibly including some patches), and it occasionally breaks during major Chromium upgrades. You don't write code every week, but you're available in the Slack channel to field questions about that component.
-- You communicate regularly with the team maintaining one of Electron's dependencies, and help to coordinate releases and connect people on those teams to Electron. You don't write any code in Electron, but you help out reviewing the occasional PR.
-- You help triage bugs reported on Electron's issue tracker related to Electron's dependencies. 
+* You maintain a piece of code that integrates with Chromium (possibly including some patches), and it occasionally breaks during major Chromium upgrades. You don't write code every week, but you're available in the Slack channel to field questions about that component.
+* You communicate regularly with the team maintaining one of Electron's dependencies, and help to coordinate releases and connect people on those teams to Electron. You don't write any code in Electron, but you help out reviewing the occasional PR.
+* You help triage bugs reported on Electron's issue tracker related to Electron's dependencies.
 
 This is not an exhaustive list of ways you could be involved in the Upgrades WG. If you're not sure whether the Upgrades-related work you're doing counts as "actively contributing", reach out to a [member](#membership) and ask. 🙂
 

@@ -26,7 +26,4 @@ It is important that other working groups have autonomy and agency to fulfill th
 
 The AWG is open to welcoming new members. Please note that as a prerequisite, interested parties must manage a substantial investment in the project, including supporting teams that contain regular Electron contributors
 
-
-
 ## Meeting Schedule
-
