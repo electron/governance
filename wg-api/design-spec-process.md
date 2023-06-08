@@ -3,6 +3,7 @@
 ## What Is This Used For?
 
 The API Working Group should function as a clear escalation path towards resolving differing perspectives for the following API changes:
+
 * A new API
 * An API removal with replacement
 * An API deprecation and removal with no replacement

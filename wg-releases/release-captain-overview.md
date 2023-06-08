@@ -19,37 +19,43 @@ If you're not able to be the Release Captain during a specific period, or need o
 ## Responsibilites
 
 ### Ongoing (Week 1-8)
+
 * Review the current pre-release branch [project board][] for new items
 * Ensure that all items that block stable release have assigned members
-* Post a "go/no go" in the Releases Slack channel, to cancel a meeting if the [meeting agenda] is empty
-* Work through the [meeting agenda] to address action items
-    * Lead backport request voting process
-    * Assign a person to handle backports
-    * Address Questions/Comments/Ideas
+* Post a "go/no go" in the Releases Slack channel, to cancel a meeting if the [meeting agenda][] is empty
+* Work through the [meeting agenda][] to address action items
+  * Lead backport request voting process
+  * Assign a person to handle backports
+  * Address Questions/Comments/Ideas
 
 ### Start of Shift (Week 1)
+
 * Clone the [project board][] (select "Draft issues will be copied if selected" checkmark)
-    * ask an admin to make the board public
+  * ask an admin to make the board public
 * Update all items in the "beta prep" and "stable prep" columns
-    * This includes updating due dates, and adding any new items
+  * This includes updating due dates, and adding any new items
 * Make sure that the Releases WG Google Calendar is up to date with Stable & Beta dates
 
 ### Beta Prep (Week 3-4)
+
 * At the Releases WG meeting, go through the [project board][] and ensure all beta prep items have owners
 * Review new minor/feat PRs for any needed documentation updates
 * Review Chromium and Electron release notes for any upcoming deprecations (OS, API, etc)
-    * Check `BUILD.gn` in Chromium for details as well
+  * Check `BUILD.gn` in Chromium for details as well
 
 ### Beta Release (Week 4)
+
 * Ensure the beta is released on time
-    * In #bot-sudowoodo, go through the workflow to release the beta
-    * If you are not a releaser, make sure that a releaser is assigned
+  * In #bot-sudowoodo, go through the workflow to release the beta
+  * If you are not a releaser, make sure that a releaser is assigned
 
 ### Stable Prep (Week 7)
+
 * At the Releases WG meeting, go through the [project board][] and ensure all stable prep items have owners
 * Follow up with owners as the due dates approach, to make sure they're completed.
 
 ### Stable Release (Week 8)
+
 * Ensure the stable release is released on time
 * Perform a hand-off with the next Release Captain
 * Move any open or important items to the new pre-release branch [project board][].
@@ -57,7 +63,6 @@ If you're not able to be the Release Captain during a specific period, or need o
 ### Questions?
 
 If you have any questions, post in the Releases WG channel! While the Release Captain leads the release, they should never have to do a release alone - it's the responsibility of the entire working group. Always ask questions or ask for help if you need it.
-
 
 <!-- Link labels -->
 

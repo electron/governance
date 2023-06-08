@@ -31,7 +31,6 @@ incidents, and oversees rollout of fixes.
   * Security review of parts of the codebase
   * Security sign-off on IPC and certain API related changes
 
-
 ## Associated Repositories
 
 All repositories in the `electron` organization along with exclusive access
@@ -43,6 +42,6 @@ See [Membership and Notifications](membership-and-notifications.md)
 
 ## Meeting Schedule
 
-- **Sync Meeting** 1hr Weekly @ Wednesday 9:30AM PT
+* **Sync Meeting** 1hr Weekly @ Wednesday 9:30AM PT
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes) as they become available.

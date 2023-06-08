@@ -1,7 +1,9 @@
 # Outreach WG
+
 Grows the Electron community
 
 ## Membership
+
 | Avatar | Name | Role | Time Zone |
 | ------ | ---- | ---- | --------- |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | **Chair** | PT (Vancouver) |
@@ -24,20 +26,21 @@ Anyone interested in supporting the Electron community is invited to consider jo
 
 Being an active member of this working group requires that you actively participate in Electron's outreach efforts. Unlike other working groups, our mandate is broad and the ways in which you could support the Electron community are manyfold. With that in mind, membership requirements are equally roomy:
 
- * We expect members to regularly attend working group meetings
- * We expect members to actively devote time or other resources to outreach work on an ongoing basis
+* We expect members to regularly attend working group meetings
+* We expect members to actively devote time or other resources to outreach work on an ongoing basis
 
 Examples for work include writing or improving onboarding documentation, meeting and communicating with companies building apps on top of Electron, organizing conferences or meetups, or answering developer questions on social media. Helping developers building apps with Electron and community members interested in contributing to Electron can take on countless forms.
 
 ## Areas of Responsibility
 
-- Onboarding for new members
-- Reaching out to companies
-- Developer Evangelism / Developer Relations / Developer Advocate
-- Reaching out to Electron communities
-- Electron meetup events
+* Onboarding for new members
+* Reaching out to companies
+* Developer Evangelism / Developer Relations / Developer Advocate
+* Reaching out to Electron communities
+* Electron meetup events
 
 ## Meeting Schedule
-- **Sync Meeting** 60 min meeting every other Monday @ [18:00 UTC](https://duckduckgo.com/?q=18%3A00+UTC&ia=answer)
+
+* **Sync Meeting** 60 min meeting every other Monday @ [18:00 UTC](https://duckduckgo.com/?q=18%3A00+UTC&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).

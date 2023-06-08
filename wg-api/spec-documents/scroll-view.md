@@ -5,7 +5,8 @@
 This spec proposes to add an experimental native ScrollView component to Electron.
 
 ## Platforms
-* macOS 
+
+* macOS
 * Windows
 * Linux
 
@@ -45,13 +46,12 @@ scroll.setContentSize({ width: 2000, height: 500 })
 win.addChildView(scroll)
 ```
 
-
 ## API Design
 
-- `View` - The base class for native UI elements.
-- `ImageView` - The native UI element that displays image.
-- `WebContentsView` - The native UI element that displays the content of `WebContents`.
-- `ScrollView` - The native UI element that make any View scrollable.
+* `View` - The base class for native UI elements.
+* `ImageView` - The native UI element that displays image.
+* `WebContentsView` - The native UI element that displays the content of `WebContents`.
+* `ScrollView` - The native UI element that make any View scrollable.
 
 ## View
 
@@ -115,8 +115,7 @@ with `addChildView`.
 
 Emitted when the view's size has been changed.
 
- 
-## BaseWindow 
+## BaseWindow
 
 ### New instance methods
 
@@ -132,7 +131,6 @@ Emitted when the view's size has been changed.
 
 Returns `View[]` - an array of all Views that have been attached
 with `addChildView`.
-
 
 ## ScrollView
 
@@ -172,6 +170,7 @@ Returns the `size` of the contents.
 * `mode` string - Can be `disabled`, `enabled-but-hidden`, `enabled`. Default is `enabled`.
 
 Controls how the horizontal scroll bar appears and functions.
+
 * `disabled` - The scrollbar is hidden.
 * `enabled-but-hidden` - The scrollbar is hidden whether or not the contents are larger than the viewport, but the pane will respond to scroll events. _Linux_  _Windows_
 *`enabled` - The scrollbar will be visible if the contents are larger than the viewport.
@@ -195,10 +194,11 @@ Returns `string` - vertical scrollbar mode.
 * `elasticity` string - Can be `automatic`, `none`, `allowed`. Default is `automatic`.
 
 The scroll view’s horizontal scrolling elasticity mode.
-A scroll view can scroll its contents past its bounds to achieve an elastic effect. 
+A scroll view can scroll its contents past its bounds to achieve an elastic effect.
 When set to `automatic`, scrolling the horizontal axis beyond its document
 bounds only occurs if the document width is greater than the view width,
 or the vertical scroller is hidden and the horizontal scroller is visible.
+
 * `automatic` - Automatically determine whether to allow elasticity on this axis.
 * `none` - Disallow scrolling beyond document bounds on this axis.
 * `allowed` - Allow content to be scrolled past its bounds on this axis in an elastic fashion.
@@ -259,8 +259,8 @@ Emitted at the end of user-initiated scrolling.
 
 ## Rollout Plan
 
-- duplicate the BrowserView API (setAutoResize, setBounds etc.) into View API; targeting Electron v21
-- add the documentation to [Views API (Part 1)](views-api-1-content-view.md); targeting Electron v21
-- adjust BaseWindow API to support the hierarchy of views (WebContentsViews); targeting Electron v21
-- add the ScrollView API (as experimental); targeting Electron v22
-- optimization the ScrollView with WebContentsViews for performance; targeting Electron v22
+* duplicate the BrowserView API (setAutoResize, setBounds etc.) into View API; targeting Electron v21
+* add the documentation to [Views API (Part 1)](views-api-1-content-view.md); targeting Electron v21
+* adjust BaseWindow API to support the hierarchy of views (WebContentsViews); targeting Electron v21
+* add the ScrollView API (as experimental); targeting Electron v22
+* optimization the ScrollView with WebContentsViews for performance; targeting Electron v22

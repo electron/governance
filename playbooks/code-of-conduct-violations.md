@@ -13,9 +13,9 @@ For first offenses, the process is:
 Violation text:
 
 ```markdown
-[[at-mention]] your comment was deleted as a violation of the {{project code of conduct link}} as it
-[[was insulting or derogatory/contained sexualized content/is considered harassment/published others'
-personal information/is unprofessional conduct]]. You may consider this an official warning.
+{{at-mention}} your comment was deleted as a violation of the {{project code of conduct link}} as it
+{{was insulting or derogatory/contained sexualized content/is considered harassment/published others'
+personal information/is unprofessional conduct}}. You may consider this an official warning.
 ```
 
 ## More than warnings
