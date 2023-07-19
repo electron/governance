@@ -68,3 +68,9 @@ For this, we need to ensure the following:
 * [`node-abi`](https://github.com/lgeiger/node-abi) beta update
   * We should ensure that ABI version information is added for the first beta in the new major stabilization line
     * See [this PR](https://github.com/lgeiger/node-abi/pull/67) for an example
+
+## Node Upgrades Policy
+
+Patch upgrades of Node that contain significant security or bug fixes, and are submitted more than 2 weeks prior to a stable release date will be accepted into an Electron alpha or beta release branch.
+
+Minor upgrades of Node that contain significant security or bug fixes, and are submitted more than 2 weeks prior to a stable release date will be accepted into an Electron alpha or beta release branch on a case-by-case basis. These requests will be reviewed and voted on by the Releases Working Group, to ensure minimal disruption for developers who may be consuming alpha or beta releases
