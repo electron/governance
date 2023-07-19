@@ -19,6 +19,7 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
 | <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
 | <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao">  | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
+| <img src="https://github.com/erikian.png" width=100 alt="@erikian">  | Erik Moura  [@erikian](https://github.com/erikian) | Member | BRT (Francisco Beltrão) |
 
 ## Areas of Responsibility
 
