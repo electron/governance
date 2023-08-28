@@ -12,7 +12,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin">  | Kevin Nguyen [@PlaineKevin](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@nornagon">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
+| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
 
 ## Areas of Responsibility
 
