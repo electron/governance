@@ -2,7 +2,7 @@
 
 ## Slack Owners / Admins
 
-Slack requires a single Primary Owner, who will be selected by the Admin WG. [Jacob Groundwater](https://github.com/groundwater) is the current Primary Owner of the Slack Workspace.
+Slack requires a single Primary Owner, who will be selected by the Admin WG. [Samuel Attard](https://github.com/marshallofsound) is the current Primary Owner of the Slack Workspace.
 
 Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../../../wg-community-safety/slack-access.md)
 
