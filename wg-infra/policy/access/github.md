@@ -13,10 +13,10 @@ All approved owners shall be listed below:
 | Name | GitHub Username | Date Granted |
 |------|-----------------|--------------|
 | Charles Kerr | @ckerr | 11-17-2020 |
-| Shelley Vohr | @codebytere | 11-17-2020 |
-| Jacob Groundwater | @groundwater | 11-17-2020 |
 | John Kleinschmidt | @jkleinsc | 11-17-2020 |
+| Keeley Hammond | @VerteDinde | 10-02-2023 |
 | Samuel Attard | @MarshallOfSound | 11-17-2020 |
+| Shelley Vohr | @codebytere | 11-17-2020 |
 
 Adding and removing people from this list requires good reasoning and a vote from the Administrative Working Group.
 
