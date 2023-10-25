@@ -13,8 +13,6 @@ incidents, and oversees rollout of fixes.
 | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
 | <img src="https://github.com/ppontes.png" width=100 alt="@ppontes">  | Pedro Pontes [@ppontes](https://github.com/ppontes) | Member | CET (Prague) |
-| <img src="https://github.com/StevenEBarbaro.png" width=100 alt="@StevenEBarbaro">  | Steve Barbaro [@StevenEBarbaro](https://github.com/StevenEBarbaro) | Member | ? |
-| <img src="https://github.com/belenko.png" width=100 alt="@belenko">  | Andrey Belenko [@belenko](https://github.com/belenko) | Member | CET (Prague) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
 
