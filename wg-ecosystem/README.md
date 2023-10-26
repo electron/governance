@@ -6,7 +6,6 @@ Oversees the projects that make Electron app development easier.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/molant.png" width=100 alt="@molant">  | Antón Molleda [@molant](https://github.com/molant) | Chair | PT (Seattle) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
 | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
