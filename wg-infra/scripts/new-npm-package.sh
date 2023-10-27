@@ -67,7 +67,7 @@ npm access revoke @electron:developers "$PACKAGE_NAME"
 export NPM_TOKEN=$(op item get $ELECTRON_CFA_ITEM --fields label="Auth Token")
 
 echo -e '\n'✅ Required 2FA for $PRETTY_PACKAGE
-npm access 2fa-required "$PACKAGE_NAME" --otp=$(op item get $ELECTRON_CFA_GENERATOR_ITEM_ID --otp)
+npm access set mfa=publish "$PACKAGE_NAME" --otp=$(op item get $ELECTRON_CFA_GENERATOR_ITEM_ID --otp)
 
 export NPM_TOKEN=.
 unset NPM_TOKEN
