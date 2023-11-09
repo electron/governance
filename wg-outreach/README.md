@@ -1,6 +1,10 @@
 # Outreach WG
 
-Grows the Electron community
+Electron's Outreach Working Group is responsible for managing Electron's community presence through social media, the [official Electron blog](https://www.electronjs.org/blog), the [community Discord server](https://discord.gg/electronjs), and usergroups (e.g. [Electron China](https://github.com/electronjs-cn)).
+
+The Outreach WG also manages relations between Electron governance and apps or developers interested in participating in maintenance or otherwise contributing to the open source process.
+
+It also manages Electron's presence at in-person and online developer spaces (e.g. tech conferences, open source programs, etc.)
 
 ## Membership
 
@@ -29,14 +33,6 @@ Being an active member of this working group requires that you actively particip
 * We expect members to actively devote time or other resources to outreach work on an ongoing basis
 
 Examples for work include writing or improving onboarding documentation, meeting and communicating with companies building apps on top of Electron, organizing conferences or meetups, or answering developer questions on social media. Helping developers building apps with Electron and community members interested in contributing to Electron can take on countless forms.
-
-## Areas of Responsibility
-
-* Onboarding for new members
-* Reaching out to companies
-* Developer Evangelism / Developer Relations / Developer Advocate
-* Reaching out to Electron communities
-* Electron meetup events
 
 ## Meeting Schedule
 
