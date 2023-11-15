@@ -47,6 +47,12 @@ In order to become formal members of the WG, prospective members must:
 
 If you're interested in joining the API Working Group, reach out to an [existing member](#membership) and ask to be invited to the regular meeting and as a guest to the #wg-api channel in Slack.
 
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the API WG confers notable permissions.
+
 ### Actively contributing
 
 "Actively contributing" doesn't necessarily mean writing code. It does mean that you should be in regular communication with the API WG (including attending meetings), and it does mean that you should be materially contributing to the project in some way. If you're not sure whether the work you're doing counts as "materially contributing", reach out to a [member](#membership) and ask. 🙂
