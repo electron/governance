@@ -143,4 +143,4 @@ For the safety and security of the project, all maintainers who have been offboa
 
 ### Emeritus Status
 
-When a former maintainer is offboarded, they will be automatically moved to Emeritus status within the governance repo. There is no minimum required period of servicing as a working group member for this status - any working group member who served for any length of time, but is no longer part of the working group, is eligible.
+When a former maintainer is offboarded, they will be automatically moved to Emeritus status within the governance repo. There is no minimum required period of serving as a working group member for this status - any working group member who served for any length of time, but is no longer part of the working group, is eligible.
