@@ -130,3 +130,17 @@ If a delegate Working Group is failing to meet its responsibilities, the AWG may
 
 > **Authors note:**
 > The current Electorate/AWG mix places almost all the power in the hands of a few large corporations at the outset. While not ideal to many, this was chosen because it represents the present status-quo, as of writing. The choice to delay defining an Electorate was made to _ensure_ it was not rushed, and that we have time to balance project stakeholders large and small.
+
+## Onboarding / Offboarding
+
+### Offboarding
+
+Occasionally, Electron maintainers will become inactive, or must step down from the project for personal or professional reasons. When this happens, it is important to reduce the risk to the project of compromised accounts with administrative permissions. This is not intended as a judgement on any individual member, simply a risk mitigation strategy for the project as a whole.
+
+If a maintainer no longer wishes to be a part of a working group, they should let the working group know via Slack or by submitting a PR removing themselves from the working group in governance. If a maintainer becomes inactive, the working group may choose to vote the member out via their own process - this process will be defined by each individual working group.
+
+For the safety and security of the project, all maintainers who have been offboarded from all working groups will be removed from GitHub member status and GSuite. They may also be moved to a multi-channel guest in the maintainer Slack.
+
+### Emeritus Status
+
+When a former maintainer is offboarded, they will be automatically moved to Emeritus status within the governance repo. There is no minimum required period of serving as a working group member for this status - any working group member who served for any length of time, but is no longer part of the working group, is eligible.

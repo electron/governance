@@ -15,6 +15,20 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST (Portland) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
 
+## Emeritus Members
+
+<details>
+  <summary>Emeritus Members</summary>
+
+  | Avatar | Name | Role | Time Zone |
+  | -------------------------------------------|----------------------|----------------------------| -------- |
+  | <img src="https://github.com/alexeykuzmin.png" width=100 alt="@alexeykuzmin"> | Alexey Kuzmin [@alexeykuzmin](https://github.com/alexeykuzmin) | Member | CET (Prague) |
+  | <img src="https://github.com/brenca.png" width=100 alt="@brenca"> | Heilig Benedek [@brenca](https://github.com/brenca) | Member | CET (Budapest) |
+  | <img src="https://github.com/loc.png" width=100 alt="@loc"> | Andy Locascio [@loc](https://github.com/loc) | Member | PT (San Francisco) |
+  | <img src="https://github.com/ryzokuken.png" width=100 alt="@ryzokuken"> | Ujjwal Sharma [@ryzokuken](https://github.com/ryzokuken) | Member | ? |
+  | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh"> | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
+</details>
+
 ## Areas of Responsibility
 
 * Ensuring that Chromium and Node upgrades happen in a timely fashion

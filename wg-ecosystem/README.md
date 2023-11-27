@@ -20,6 +20,22 @@ Oversees the projects that make Electron app development easier.
 | <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao">  | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
 | <img src="https://github.com/erikian.png" width=100 alt="@erikian">  | Erik Moura  [@erikian](https://github.com/erikian) | Member | BRT (Francisco Beltrão) |
 
+## Emeritus Members
+
+<details>
+  <summary>Emeritus Members</summary>
+
+  | Avatar | Name | Role | Time Zone |
+  | -------------------------------------------|----------------------|----------------------------| -------- |
+  | <img src="https://github.com/molant.png" width=100 alt="@molant"> | Antón Molleda [@molant](https://github.com/molant) | Chair | PT (Seattle) |
+  | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+  | <img src="https://github.com/vhashimotoo.png" width=100 alt="@vhashimotoo"> | Vlad Hashimoto [@vhashimotoo](https://github.com/vhashimotoo) | Chair | CET (Germany, Frankfurt am Main) |
+  | <img src="https://github.com/bandantonio.png" width=100 alt="@bandantonio"> | Anton Zolotukhin [@bandantonio](https://github.com/bandantonio) | Observer (until December 2020) | EET (Kharkov) |
+  | <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey"> | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
+  | <img src="https://github.com/miniak.png" width=100 alt="@miniak"> | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
+  | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh"> | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
+</details>
+
 ## Areas of Responsibility
 
 These projects are sorted alphabetically, their order does not reflect that any of them are "better" or "more important" than others.
@@ -49,6 +65,12 @@ These projects are sorted alphabetically, their order does not reflect that any 
   * Spectron
 
 ...and all other third party community based Electron tools.
+
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the Ecosystem WG confers notable permissions.
 
 ## Associated Repositories
 

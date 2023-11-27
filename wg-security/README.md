@@ -39,6 +39,12 @@ to `electron/security`.
 
 See [Membership and Notifications](membership-and-notifications.md)
 
+## WG Removal Policy
+
+If a sitting member of the WG has not been active in a meaningful way for at least one month, the WG may vote to remove them from its set of sitting members.
+
+This is done primarily to ensure that there are no open avenues of compromise for the project given that the Security WG confers notable permissions.
+
 ## Meeting Schedule
 
 * **Sync Meeting** 1hr Weekly @ Wednesday 9:30AM PT

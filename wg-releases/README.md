@@ -19,6 +19,21 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (Seattle) |
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
 
+## Emeritus Members
+
+<details>
+  <summary>Emeritus Members</summary>
+
+  | Avatar | Name | Role | Time Zone |
+  | -------------------------------------------|----------------------|----------------------------| -------- |
+  | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+  | <img src="https://github.com/deermichel.png" width=100 alt="@deermichel"> | Micha Hanselmann [@deermichel](https://github.com/deermichel) | Member | CET (Prague) |
+  | <img src="https://github.com/amclegg.png" width=100 alt="@amclegg"> | Anna Clegg [@amclegg](https://github.com/amclegg) | Member | PT (San Francisco) |
+  | <img src="https://github.com/alexeykuzmin.png" width=100 alt="@alexeykuzmin"> | Alexey Kuzmin [@alexeykuzmin](https://github.com/alexeykuzmin) | Member | CET (Prague) |
+  | <img src="https://github.com/binarymuse.png" width=100 alt="@binarymuse"> | Michelle Tilley [@BinaryMuse](https://github.com/binarymuse) | Member | PT (San Francisco) |
+  | <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao"> | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Observer | PT (San Francisco) |
+</details>
+
 ## Areas of Responsibility
 
 * Releasing Electron according to schedule
