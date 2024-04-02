@@ -18,6 +18,7 @@ It also manages Electron's presence at in-person and online developer spaces (e.
 | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg"> | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/alicelovescake.png" width=100 alt="@alicelovescake">  | Alice Zhao [@alicelovescake](https://github.com/alicelovescake) | Member | PT (San Francisco) |
 
 ## Emeritus Members
 
