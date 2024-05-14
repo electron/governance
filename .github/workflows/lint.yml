@@ -36,4 +36,4 @@ jobs:
       if: ${{ always() }}
     - name: Check external links
       run: npx lint-roller-markdown-links --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
-      if: ${{ github.event.inputs.fetch-external-links }}
+      if: ${{ inputs.fetch-external-links }}
