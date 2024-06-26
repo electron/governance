@@ -14,6 +14,7 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MST (Salt Lake City) |
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST (Portland) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
+| <img src="https://github.com/alicelovescake.png" width=100 alt="@alicelovescake">  | Alice Zhao [@alicelovescake](https://github.com/alicelovescake) | Member | PST (San Francisco) |
 
 ## Emeritus Members
 
