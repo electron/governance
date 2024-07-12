@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This process was deprecated in favor of the public RFC process. See [electron/rfcs](https://github.com/electron/rfcs) for more information.
+
 # API Spec Process
 
 ## What Is This Used For?
