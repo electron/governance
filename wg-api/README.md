@@ -6,7 +6,7 @@ Oversees public API design based on project principles.
 
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | CET (Berlin) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
 | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
@@ -39,7 +39,7 @@ In order to become formal members of the WG, prospective members must:
 1. Be approved by a 2/3rds majority of current WG members (rounded up). A meeting will be scheduled to commence voting.
     1. The prospective member shall leave the meeting during the deliberation and vote.
     1. The meeting notes shall contain only the outcome of the vote (approved/not approved), not the individual votes.
-    1. Members not able to attend the meeting at which the vote occurs may submit their vote to the Chair prior to the meeting.
+    1. If quorum is unable to be met, an asynchronous vote via Slack can be used as a substitute with the same approval rules.
 
 If you're interested in joining the API Working Group, reach out to an [existing member](#membership) and ask to be invited as a guest to the #wg-api channel in Slack.
 
