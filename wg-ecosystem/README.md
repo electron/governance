@@ -129,7 +129,6 @@ to the latest LTS version. This upgrade process will be revisited annually.
 As of July 2024, our current plan is to upgrade all packages to a minimum of Node.js 22 when that version
 reaches its LTS date ([see Node.js release schedule for more details](https://nodejs.org/en/about/previous-releases#release-schedule)).
 
-
 ## Meeting Schedule
 
 **Sync Meeting** 1 hour every other Tuesday @ [17:00 UTC](https://duckduckgo.com/?q=17%3A00+UTC&ia=answer)
