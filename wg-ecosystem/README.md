@@ -126,8 +126,9 @@ If too much friction arises from the burden of maintaining EOL versions of Node.
 dependencies or CI issues), we will perform a blanket upgrade of supported Node.js versions for all our packages
 to the latest LTS version. This upgrade process will be revisited annually.
 
-As of July 2024, our current plan is to upgrade all packages to a minimum of Node.js 22 when that version
-reaches its LTS date ([see Node.js release schedule for more details](https://nodejs.org/en/about/previous-releases#release-schedule)).
+As of July 2024, our current plan is to upgrade all packages to the earliest Node.js version where `require()`
+of synchronous ESM graphs will be supported (see [nodejs/node#51977](https://github.com/nodejs/node/pull/51977) and [nodejs/node#53500](https://github.com/nodejs/node/pull/53500))
+some point after that version reaches its LTS date ([see Node.js release schedule for more details](https://nodejs.org/en/about/previous-releases#release-schedule)).
 
 ## Meeting Schedule
 
