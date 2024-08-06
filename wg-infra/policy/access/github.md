@@ -6,13 +6,12 @@ GitHub repository access and permissions are controlled via the yaml file in [el
 
 ## Organization Owners
 
-Maintainers are granted ownership based on a need-focused approval process.
+Maintainers are granted ownership based on a need-focused approval process, primarily this list should be a subset of WG Infra, membership to Infra does not imply access, but access without being a member is unlikely.
 
 All approved owners shall be listed below:
 
 | Name | GitHub Username | Date Granted |
 |------|-----------------|--------------|
-| Charles Kerr | @ckerr | 11-17-2020 |
 | John Kleinschmidt | @jkleinsc | 11-17-2020 |
 | Keeley Hammond | @VerteDinde | 10-02-2023 |
 | Samuel Attard | @MarshallOfSound | 11-17-2020 |
