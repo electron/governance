@@ -1,31 +1,42 @@
 # NPM
 
-> ⚠️ This document currently described an ideal reality, not what is currently configured.  It will either be updated or implemented at some point in the future ⚠️
-
 ## Access to the "electron" Organization on NPM
 
-All [maintainers](../../../charter/README.md#definitions) are entitled to be a "member" of the electron organization on NPM.  Permissions on on the `npm` org are managed by the Security Working Group.  Head over to the `#wg-security` channel on Slack to ask to be added.  By default, new maintainers will be added to the `developers` team. At a minimum a maintainer's `npm` account must have `auth-and-write` 2FA configured.
+Only two accounts are permitted access to the `@electron` org on NPM. Specifically `electron-cfa` and `electronhq`.
 
 ### NPM Teams
 
-There are three teams on NPM, `developers`, `cfa`, `electron`.
+There are two teams on NPM, `developers`, and`cfa`.
 
 * `developers` will have `read` access to all packages with the exception of the "electron" package.
 * `cfa` will have `read/write` on all packages with the exception of the "electron" package.
-* `electron` will have `read/write` on **only** the "electron" package.
-
-The only user in the `electron` team will be the "electron-bot" user.  As such the only user with permission to publish the `electron` package should always be "electron-bot".  Publishing of this package will be triggered through `sudowoodo`.
 
 The only user in the `cfa` team will be the "electron-cfa" user.  As such the only user with permission to publish packages in the `electron` organization should be "electron-cfa".  As no humans have publish rights to any of these packages they should all be configured with `semantic-release` and the `@electron/semantic-release-npm-cfa` plugin.  For information on how to configure this plugin for use with a new package head over to [`continuousauth/web`](https://github.com/continuousauth/web).
+
+## Access to the "electron" package on NPM
+
+The core `electron` package is the one exception to other NPM package rules, namely it is the only old package that we won't ever move into the `@electron` scope and it's the only package that won't be governed by CFA. Instead this package is limited to a third user `electron-nightly` whose only permission is to publish this package. Publishing of this package will be triggered through `sudowoodo`.
+
+At no point should any human have access to the `electron` NPM package.
 
 ## Human access to individual packages
 
 No human should ever have publish rights on their personal `npm` account to any Electron NPM package.
 
-## `electron-bot` credentials
+## New Packages
 
-Credentials for the "electron-bot" user will be stored on the 1-Password, access to these credentials will be controlled by the Releases Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Releases Working Group needs the 2FA secret to approve releases.
+All new packages should be created by the Infra Working Group in the `@electron` scope per the access restrictions outlined above.
 
-## `electron-cfa` credentials
+## Credentials
 
-Credentials for the "electron-cfa" user will be stored on the 1-Password, access to these credentials will be controlled by the Ecosystem Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Ecosystem Working Group needs the 2FA secret to approve releases.
+### `electronhq` credentials
+
+Credentials for the "electronhq" user will be stored on the 1-Password, access to these credentials will be controlled by the Infra Working Group. No other working group or user will be granted access to this account.
+
+### `electron-cfa` credentials
+
+Credentials for the "electron-cfa" user will be stored on the 1-Password, access to these credentials will be controlled by the Infra Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Ecosystem Working Group needs the 2FA secret to approve releases.
+
+### `electron-nightly` credentials
+
+Credentials for the "electron-nightly" user will be stored on the 1-Password, access to these credentials will be controlled by the Infra Working Group.  Access to the 2FA secret for this account will be administered separately to the username/password as most of the Releases Working Group needs the 2FA secret to approve releases.
