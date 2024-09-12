@@ -13,6 +13,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin">  | Kevin Nguyen [@PlaineKevin](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
+  | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg"> | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 
 ## Emeritus Members
 
@@ -25,7 +26,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
   | <img src="https://github.com/mgc.png" width=100 alt="@mgc">  | Matt Crocker [@mgc](https://github.com/mgc) | **Chair** | PT (San Francisco) |
   | <img src="https://github.com/molant.png" width=100 alt="@molant">  | Antón Molleda [@molant](https://github.com/molant) | Member | PST (Seattle) |
   | <img src="https://github.com/deanihansen.png" width=100 alt="@deanihansen">  | Deani Hansen [@deanihansen](https://github.com/deanihansen) | Member | PST (Vancouver) |
-  | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg"> | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
+
 </details>
 
 ## Areas of Responsibility
