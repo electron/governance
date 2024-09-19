@@ -7,6 +7,8 @@ Oversees removal/bans from community.
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MST (Salt Lake City) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
 | <img src="https://github.com/vertedinde.png" width=100 alt="@vertedinde">  | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
