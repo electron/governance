@@ -13,17 +13,19 @@ This document outlines the steps that members of the Electron Security Working G
 A member of the Security WG should assess the vulnerability to determine its severity and what options exist to potentially address it.
 
 Some possible options include:
+
 * Backporting a CL from Chromium to address a vulnerability in Chromium code.
 * Opening a new PR to Electron to fix a vulnerability in our source code.
 
 The assigned WG member then needs to determine the versions of Electron affected by the vulnerability.
 
 As an example, if the vulnerability originates upstream in Chrome, the member should:
+
 1. Find the CL that introduced the issue using [Chromium Review](https://chromium-review.googlesource.com/) and the reporter's information.
 2. Determine what Chromium version the CL was released in using [ChromiumDash](https://chromiumdash.appspot.com/commits).
 3. Determine what Electron version first contained the above Chromium version.
-  * If the issue is unpatched, a given fix would need to go to all supported lines after that version/
-  * If the issue has been patched upstream, the fix CL would need to go to all supported versions of Electron that contain the vulnerability and *not* the fix.
+
+If the issue is unpatched, a given fix would need to go to all supported lines after that version. If the issue has been patched upstream, the fix CL would need to go to all supported versions of Electron that contain the vulnerability and *not* the fix.
 
 Use npm's [semver website](https://semver.npmjs.com/) to validate the affected version range determined as a result of this process.
 
@@ -43,9 +45,9 @@ After assessing the vulnerability, we need to draft and fill out the advisory in
 * **Affected Versions:** Specify the Electron versions impacted by the vulnerability as determined in Step 1.
 * **Patched Versions:** Specify the Electron versions that contain the appropriate fix as per Step 2.
 * **Assess Severity:**
-  * Follow the Common Vulnerability Scoring System (CVSS) to assign a severity score using the [NIST Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator). 
+  * Follow the Common Vulnerability Scoring System (CVSS) to assign a severity score using the [NIST Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator).
     * Determining a score is often subjective, so it's useful for multiple WG members to score independently, compare scores and rationales, and come to a final score collaboratively.
-    * [Example Advisory](https://github.com/electron/electron/security/advisories/GHSA-7m48-wc93-9g85) for an ASAR Integrity bypass with a score of 6.1/10. 
+    * [Example Advisory](https://github.com/electron/electron/security/advisories/GHSA-7m48-wc93-9g85) for an ASAR Integrity bypass with a score of 6.1/10.
 * **Mitigation Steps:** Outline any temporary mitigations if the issue can't be fixed immediately.
   * If the issue cannot be mitigated except by updating to a patched version, that should be specified.
 * **Acknowledge The Reporter:** If applicable, provide credit to the reporter in the final advisory (with their permission).
