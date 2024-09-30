@@ -26,6 +26,7 @@ Oversees public API design based on project principles.
   | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
 
 </details>
+
 ## Areas of Responsibility
 
 * Define the process for which API changes are reviewed and approved.

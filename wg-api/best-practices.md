@@ -12,6 +12,9 @@ API changes which alter existing behavior can cause apps to break unexpectedly w
 
 If the behavior must change to support the feature, the change should be listed in [the breaking changes document](https://github.com/electron/electron/blob/main/docs/breaking-changes.md). Additionally, consider whether the change can be introduced in a way which permits a deprecation cycle, for instance introducing the new API under a new name and deprecating the old name while keeping the behavior unchanged for apps using the API under the old name.
 
+> [!NOTE]  
+> Changes that only affect TypeScript type definitions are not considered breaking changes.
+
 ### How will this API be extended in the future?
 
 What additional changes can you imagine being made to this API in the future? Are there any features that are not in the first version of a change you’re making that you would like to include in the future?
