@@ -32,10 +32,12 @@ function whatever(opts: { a: string, b?: boolean }) { /* ... */ }
 
 See https://w3ctag.github.io/design-principles/#prefer-dict-to-bool for more details.
 
-### Should the configured options be made extensible to third-party libraries?
+### How will third-party libraries interact with this API?
+
+When designing an API, consider that an app might have custom code and third-party libraries that both interact with that API. Can the API be designed so that multiple callers don't interfere with each other?
 
 If an API accepts configuring options, should it provide the ability to append to rather than replace those options?
-Would third-party libraries require special attention to API usage to avoid clobbering configured options?
+Can third-party libraries use the API without knowing what app-specific code is also using the API?
 
 See the [style guide for designing APIs when dealing with arrays.](#provide-createreadupdatedelete-options-when-dealing-with-arrays)
 
