@@ -32,6 +32,13 @@ function whatever(opts: { a: string, b?: boolean }) { /* ... */ }
 
 See https://w3ctag.github.io/design-principles/#prefer-dict-to-bool for more details.
 
+### Should the configured options be made extensible to third-party libraries?
+
+If an API accepts configuring options, should it provide the ability to append to rather than replace those options?
+Would third-party libraries require special attention to API usage to avoid clobbering configured options?
+
+See the [style guide for designing APIs when dealing with arrays.](#provide-createreadupdatedelete-options-when-dealing-with-arrays)
+
 ### What underlying Chromium or OS features does this API rely on?
 
 If the API you’re changing relies on underlying features provided by Chromium or by the operating system, how stable are those underlying features? How might those underlying features change in the future?
@@ -133,6 +140,26 @@ If you are designing an API that accepts a time measurement, express the time me
 Even if seconds (or some other time unit) are more natural in the domain of an API, sticking with milliseconds ensures that APIs are interoperable with one another. This means that authors don’t need to convert values used in one API to be used in another API, or keep track of which time unit is needed where.
 
 See https://w3ctag.github.io/design-principles/#milliseconds
+
+### Provide create/read/update/delete options when dealing with arrays
+
+If an API is designed to accept an array of items, consider providing methods of creating, reading, updating, and deleting items.
+
+In the case of third-party libraries, one might want to add a single item rather than replacing existings items.
+
+```js
+// Bad: third-party libraries can only replace registered schemes
+protocol.registerSchemesAsPrivileged([
+  { scheme: 'app', privileges: { standard: true } }
+])
+
+// Good: third-party libraries can create, read, update, and delete items
+if (protocol.getRegisteredSchemes().includes(scheme => scheme.scheme === 'app')) {
+  protocol.unregisterScheme({ scheme: 'app' })
+}
+protocol.registerScheme({ scheme: 'app', privileges: { standard: true } })
+protocol.updateScheme({ scheme: 'app', privileges: { secure: true } })
+```
 
 ## Classes
 
