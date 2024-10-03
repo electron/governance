@@ -157,7 +157,7 @@ protocol.registerSchemesAsPrivileged([
 
 // Good: third-party libraries can create, read, update, and delete items
 if (protocol.getPrivilegedSchemes().includes(scheme => scheme.scheme === 'app')) {
-  protocol.unregisterSchemeAsPrivileged('app' )
+  protocol.unregisterSchemeAsPrivileged('app')
 }
 protocol.registerSchemeAsPrivileged({ scheme: 'app', privileges: { standard: true } })
 protocol.updatePrivilegedScheme({ scheme: 'app', privileges: { secure: true } })
