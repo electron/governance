@@ -32,7 +32,7 @@ function whatever(opts: { a: string, b?: boolean }) { /* ... */ }
 
 See https://w3ctag.github.io/design-principles/#prefer-dict-to-bool for more details.
 
-### How will third-party libraries interact with this API?
+### How will isolated components (e.g. third-party libraries) interact with this API?
 
 When designing an API, consider that an app might have custom code and third-party libraries that both interact with that API. Can the API be designed so that multiple callers don't interfere with each other?
 
@@ -147,7 +147,7 @@ See https://w3ctag.github.io/design-principles/#milliseconds
 
 If an API is designed to accept an array of items, consider providing methods of creating, reading, updating, and deleting items.
 
-In the case of third-party libraries, one might want to add a single item rather than replacing existings items.
+In the case of isolated components (e.g. third-party libraries), one might want to add a single item rather than replacing existings items.
 
 ```js
 // Bad: third-party libraries can only replace registered schemes
