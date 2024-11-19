@@ -15,6 +15,8 @@ Oversees upgrades of upstream dependencies; specifically Chromium and Node.
 | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PST (Portland) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | EST (Harrisburg) |
 | <img src="https://github.com/alicelovescake.png" width=100 alt="@alicelovescake">  | Alice Zhao [@alicelovescake](https://github.com/alicelovescake) | Member | PST (San Francisco) |
+| <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock">  | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (New York City) |
+| <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
 
 ## Emeritus Members
 
