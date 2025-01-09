@@ -7,7 +7,6 @@ Oversees public API design based on project principles.
 | Avatar | Name | Role | Time Zone |
 | -------------------------------------------|----------------------|----------------------------| -------- |
 | <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
-| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/miniak.png" width=100 alt="@miniak">  | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
@@ -24,6 +23,7 @@ Oversees public API design based on project principles.
   | Avatar | Name | Role | Time Zone |
   | -------------------------------------------|----------------------|----------------------------| -------- |
   | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz">  | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
+  | <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 
 </details>
 
