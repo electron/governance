@@ -75,6 +75,6 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 ## Meeting Schedule
 
-* **Sync Meeting** 1 hour each Wednesday, alternating between two times: [16:30 UTC](https://duckduckgo.com/?q=16%3A30+UTC&ia=answer) and [23:00 UTC](https://duckduckgo.com/?q=23%3A00+UTC&ia=answer).
+* **Sync Meeting** 1 hour every Wednesday @ [9:30 PT](https://duckduckgo.com/?q=9%3A30+PT&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
