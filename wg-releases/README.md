@@ -15,6 +15,7 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MT (Salt Lake City) |
 | <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (Seattle) |
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
+| <img src="https://github.com/nikwen.png" width=100 alt="@nikwen">  | Niklas Wenzel [@nikwen](https://github.com/nikwen) | Member | CET (Berlin) |
 
 ## Emeritus Members
 
