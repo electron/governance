@@ -31,10 +31,12 @@ If you're not able to be the Release Captain during a specific period, or need o
 ### Start of Shift (Week 1)
 
 * Clone the [project board][] (select "Draft issues will be copied if selected" checkmark)
-  * ask an admin to make the board public
+  * Ask an admin to make the board public
 * Update all items in the "beta prep" and "stable prep" columns
   * This includes updating due dates, and adding any new items
 * Make sure that the Releases WG Google Calendar is up to date with Stable & Beta dates
+* Copy important issues from the previous two project boards to the new [project board][]
+  * Review unsorted issues from the (closed) [project board][] two releases prior to the new pre-release board
 
 ### Beta Prep (Week 3-4)
 
