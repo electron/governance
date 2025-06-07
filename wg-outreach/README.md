@@ -56,6 +56,6 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 ## Meeting Schedule
 
-* **Sync Meeting** 60 min meeting every other Monday @ [18:00 UTC](https://duckduckgo.com/?q=18%3A00+UTC&ia=answer)
+* **Sync Meeting** 60 min meeting every other Thursday @ [13:00 PT](https://duckduckgo.com/?q=13%3A00+PT&ia=answer)
 
 Meeting notes may be viewed in [meeting-notes](meeting-notes).
