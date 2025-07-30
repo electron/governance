@@ -166,6 +166,11 @@ protocol.registerSchemeAsPrivileged({ scheme: 'app', privileges: { standard: tru
 protocol.updatePrivilegedScheme({ scheme: 'app', privileges: { secure: true } })
 ```
 
+### Return null when no result from lookup functions
+
+APIs that intend to find an object by an identifier should return `null` in the
+case that the instance is not found.
+
 ## Classes
 
 ### Use a class's name as the module name
