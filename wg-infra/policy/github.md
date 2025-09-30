@@ -24,7 +24,7 @@ This property maps to one of the following security levels:
 
 ### Commit Signing
 
-All commits in the Electron Enterprise **must** be signed, either via SSH or GPG. This is an org-wide required check, fork PRs will be unable to merge and direct pushes will be rejected if your commits are not signed.
+All commits in the Electron Enterprise **must** be signed, either via SSH or GPG. This is an org-wide required check. Fork PRs will be unable to merge and direct pushes will be rejected if your commits are not signed.
 
 ### Branch Protections
 

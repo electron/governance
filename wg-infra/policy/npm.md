@@ -9,15 +9,15 @@ Maintainer access to npm is governed by the [npm access policy](./access/npm.md)
 NPM packages that Electron is responsible for must meet the following requirements:
 
 * Packages **must** be published from CI systems only
-* Automatic release credentials **must** be restricted to the default branch
+* Automatic release credentials **must** be restricted to protected branches
   * Per the [GitHub policy](github.md) this default branch must be protected as this is an eligible repository
 * Publishing system
   * Packages **should** be publised via an [OIDC Trusted Publisher](https://docs.npmjs.com/trusted-publishers)
   * Packages existing before August 9th 2025 **may** be published via [Continuous Auth](https://github.com/continuousauth/web)
 * Package Settings
-  * Packages **must** have a single owner
-    * Packages using OIDC Trusted Publisher's **must** be owned by the `electronhq` account
-    * Pacakes using Continuous Auth **must** be owned by the `electron-cfa` account
+  * Packages **must** have a single maintainer
+    * Packages using OIDC Trusted Publishers **must** be owned by the [`electronhq`](https://www.npmjs.com/~electronhq) account
+    * Packages using Continuous Auth **must** be owned by the [`electron-cfa`](https://www.npmjs.com/~electron-cfa) account
 
 ## Dependency Restrictions
 
