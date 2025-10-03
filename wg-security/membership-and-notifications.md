@@ -47,6 +47,7 @@ Public notifications provide broader disclosure of vulnerabilities, including:
 These announcements typically accompany new releases that fix the issue.
 
 **Where to find announcements:**
+
 - `#announce-security` in [ElectronHQ Slack](https://electronjs.org/maintainers/join)
 - Electron's [GHSA Feed](https://github.com/electron/electron/security)
 - [Electron blog](https://electronjs.org/blog)
