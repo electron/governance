@@ -34,7 +34,7 @@ These are limited-information advance warnings about upcoming releases. Dependin
 
 **Access:** Made via a private Slack channel on ElectronHQ. Contact the Security WG to join.
 
-**Confidentiality:** These notifications are confidential. Particupants may share the information only with the minimum number of employees required to ship or evaluate a fix. Use private channels only, and do not mention security issues in release notes until public notification occurs. Leaking information may result in revoked access to protect program integrity.
+**Confidentiality:** These notifications are confidential. Participants may share the information only with the minimum number of employees required to ship or evaluate a fix. Use private channels only, and do not mention security issues in release notes until public notification occurs. Leaking information may result in revoked access to protect program integrity.
 
 ### Public Notifications
 
