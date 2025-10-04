@@ -2,40 +2,52 @@
 
 ## Membership
 
-Due to the Security Working Group's sensitive role in responding to newly-reported vulnerabilities, membership on this Working Group is limited. The group has made a conscious decision to limit initial exposure to only those who will contribute to the fix.
+Due to the Security Working Group's sensitive role in responding to newly-reported vulnerabilities, membership is limited. The group has made a conscious decision to restrict initial exposure to only those who will contribute to fixes.
 
-People who want to join the Security WG should apply by notifying the WG, which will then vote at the next meeting. The vote shall be recorded only as "was accepted" or "was not accepted" rather than how each member voted.
+### Application Process
 
-When voting, members should consider: has the person shown a history of Electron maintenance that indicates they could contribute to the fixing of security issues? For example, do they have a history of commits to Electron? Have they worked with other maintainers in a constructive way?
+To join the Security WG, apply by notifying the group. The WG will vote at the next meeting, with results recorded only as "accepted" or "not accepted" (individual votes remain private).
 
-Based on that criteria, the WG encourages people whose applications were declined to continue collaborating with other maintainers, to continue landing PRs, to participate in other Working Groups, and to re-apply in the future.
+### Evaluation Criteria
+
+When voting, members consider whether the applicant has shown a history of Electron maintenance indicating they could contribute to fixing security issues:
+
+- Do they have a history of commits to Electron?
+- Have they worked constructively with other maintainers?
+
+Applicants whose applications are declined are encouraged to continue collaborating with maintainers, landing PRs, and participating in other Working Groups before reapplying in the future.
 
 ## Notifications
 
-### Need To Know
+### Need-to-Know Notifications
 
-These notifications are limited-information advance warnings that say that a new release is coming and, depending on the sensitivity and availability of invitation, _perhaps_ some of the following:
+These are limited-information advance warnings about upcoming releases. Depending on sensitivity and availability, they may include:
 
-* affected versions
-* affected platforms
-* possible mitigations
+- Affected versions
+- Affected platforms
+- Possible mitigations
 
-For example:
+**Example:**
+> A new security vulnerability has been confirmed affecting Electron 3.0 and above on all platforms. A new release to fix this is expected within the next week.
 
-> A new security vulnerability has been confirmed that affects Electron 3.0 and above on all platforms. A new release to fix this is expected in the next week.
+**Purpose:** To help Electron-based apps plan so they can deliver security fixes to users as quickly as possible.
 
-The intent of these is to help Electron-based apps do short-term planning so that they can get security fixes to their users as soon as possible.
+**Access:** Made via a private Slack channel on ElectronHQ. Contact the Security WG to join.
 
-These notifications will be made via a private Slack channel on ElectronHQ. If you'd like to join this channel, please contact the Security WG.
+**Confidentiality:** These notifications are confidential. Participants may share the information only with the minimum number of employees required to ship or evaluate a fix. Use private channels only, and do not mention security issues in release notes until public notification occurs. Leaking information may result in revoked access to protect program integrity.
 
 ### Public Notifications
 
-Public notifications are a wider disclosure of vulnerabilities. Unlike the "Need To Know" notifications, these will give some information about the vulnerability, e.g. what features are affected, mitigation strategies, and how the vulnerability was discovered.
+Public notifications provide broader disclosure of vulnerabilities, including:
 
-These announcements will typically be made alongside new releases which fix the issue.
+- Affected features
+- Mitigation strategies
+- How the vulnerability was discovered
 
-Places to look for these announcements:
+These announcements typically accompany new releases that fix the issue.
 
-* `#announce-security` in [ElectronHQ Slack](https://electronjs.org/maintainers/join)
-* Electron's [Twitter](https://twitter.com/electronjs) account
-* https://electronjs.org/blog
+**Where to find announcements:**
+
+- `#announce-security` in [ElectronHQ Slack](https://electronjs.org/maintainers/join)
+- Electron's [GHSA Feed](https://github.com/electron/electron/security)
+- [Electron blog](https://electronjs.org/blog)
