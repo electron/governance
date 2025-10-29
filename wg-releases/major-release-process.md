@@ -23,6 +23,13 @@ We need to ensure the following have owners and have been completed:
     * Link to timeline for subsequent major release
     * A list of breaking changes in the current stable line
     * References to any upcoming notable changes or deprecations
+  * Things to watch out for:
+    <!-- markdownlint-disable MD009 -->
+    * Remove all items from `New Features and Improvements` that have already been mentioned in previous blog posts  
+      _(We mention them again in the release notes but not in the blog post.)_
+    * Make sure that all code symbols are wrapped in backticks to properly appear as Markdown code
+      * In the prose
+      * In the release notes section of the blog post
 * Tweet - a tweet about the latest stable line & blog post from the official `@electronjs` twitter account
 * Updates to [Supported Versions](https://github.com/electron/electron/blob/master/docs/tutorial/support.md#currently-supported-versions)
 * Timeline for subsequent [major release version](https://electronjs.org/docs/tutorial/electron-timelines)
