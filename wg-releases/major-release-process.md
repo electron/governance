@@ -24,6 +24,7 @@ We need to ensure the following have owners and have been completed:
     * A list of breaking changes in the current stable line
     * References to any upcoming notable changes or deprecations
   * Things to watch out for:
+    <!-- markdownlint-disable MD009 -->
     * Remove all items from `New Features and Improvements` that have already been mentioned in previous blog posts  
       _(We mention them again in the release notes but not in the blog post.)_
     * Make sure that all code symbols are wrapped in backticks to properly appear as Markdown code
