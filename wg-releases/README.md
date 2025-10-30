@@ -75,8 +75,11 @@ If a sitting member of the WG has not been active in a meaningful way for at lea
 
 This is done primarily to ensure that there are no open avenues of compromise for the project given that the Releases WG confers notable permissions.
 
-## Meeting Schedule
+## Standard Meeting Structure
 
-* **Sync Meeting** 1 hour every Wednesday @ [9:30 PT](https://duckduckgo.com/?q=9%3A30+PT&ia=answer)
+The working group typically conducts a 1 hour weekly sync meeting. The structure of the meeting is as follows:
 
-Meeting notes may be viewed in [meeting-notes](meeting-notes).
+* Take attendance
+* Review open issues
+* Review and vote on open backport requests
+* Open floor for other agenda items/topics
