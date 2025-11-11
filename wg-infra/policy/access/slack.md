@@ -16,7 +16,7 @@ In a variety of situations, some [collaborators](../../../charter/README.md#defi
 
 * People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
 
-Before a Guest is added to a channel, a message must be posted to that channel stating the intent to add that guest to the channel. Every channel member must have 24 hours to raise concerns about the guest being added regardless of timezone. After 24 hours without any concerns raised, the guest may be added to the channel. It must be announced in the channel that the guest was added to ensure that all current members are aware a guest is now in that channel.
+Before a Guest is added to a channel, a message must be posted to that channel stating the intent to add that guest to the channel after 24 hours and asking for concerns to be raised. Every channel member must have 24 hours to raise concerns about the guest being added to the channel regardless of timezone. After 24 hours without any concerns raised, the guest may be added to the channel. It must be announced in the channel that the guest was added to ensure that all current members are aware a guest is now in that channel.
 
 ## Private Slack Channels
 
