@@ -4,10 +4,9 @@ The people working on Electron organize their work using Slack, a "hub for teamw
 Even if you've worked with Slack before, it might be a good idea to review some of the guidelines
 about what's considered good etiquette in our workspace.
 
-## Access
-
-For details on Slack access (e.g. member roles and inviting new guests), see the
-[Infrastructure WG policy document](../wg-infra/policy/access/slack.md).
+> [!TIP]
+> For details on Slack access (e.g. member roles and inviting new guests), see the
+> [Infrastructure WG access policy](../wg-infra/policy/access/slack.md).
 
 ## Guidelines
 
