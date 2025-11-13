@@ -77,7 +77,7 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 ## Standard Meeting Structure
 
-The working group typically conducts a 1 hour weekly sync meeting. The structure of the meeting is as follows:
+The working group typically conducts a 1 hour weekly sync meeting every Wednesday @ [9:30 PT](https://duckduckgo.com/?q=9%3A30+PT&ia=answer). The structure of the meeting is as follows:
 
 * Take attendance
 * Review open issues
