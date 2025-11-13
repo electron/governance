@@ -1,5 +1,9 @@
 # Slack
 
+> [!TIP]
+> For details on Slack usage (e.g. channels and etiquette), see the
+> [general Slack policy document](../../policy//slack.md).
+
 ## Owners
 
 All members of the Administrative Working Group shall be granted the "Owner" role in Slack.
