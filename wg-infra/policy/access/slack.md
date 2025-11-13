@@ -34,15 +34,25 @@ All Multi-Channel and Single-Channel Guests must fill out the [ElectronHQ Slack 
 before gaining Slack access. Once this form is filled out, the [Community & Safety Working Group](../../../wg-community-safety/README.md)
 will review the request. If the request is approved, the guest will be added to the applicable channel(s).
 
-> [!IMPORTANT]
-> **Adding guests to non-default channels**
->
-> Before a Guest is added to a channel, a message must be posted to that channel stating the intent to
-> add that guest to the channel after 24 hours and asking for concerns to be raised.
->
-> Every channel member must have 24 hours to raise concerns about the guest being added to the
-> channel regardless of timezone. After 24 hours without any concerns raised, the guest may be added
-> to the channel.
->
-> It must be announced in the channel that the guest was added to ensure that all current members are
-> aware a new guest is now in that channel.
+### Adding Guests to New Channels
+
+Before a Guest is added to a channel, a message must be posted to that channel stating the intent to
+add that guest to the channel after 24 hours and asking for concerns to be raised.
+
+Every channel member must have 24 hours to raise concerns about the guest being added to the
+channel regardless of timezone. After 24 hours without any concerns raised, the guest may be added
+to the channel.
+
+It must be announced in the channel that the guest was added to ensure that all current members are
+aware a new guest is now in that channel.
+
+### Shared Slack Channels
+
+For communicating with larger groups of [collaborators](../../../README.md#definitions) from
+external companies, sometimes it is more appropriate to create a single shared channel than it is to
+invite everyone individually as a guest.
+
+All shared channels should be public and have to be approved by a Slack Owner before they can be
+linked. If a shared private channel needs to be created, a reason should be provided when requesting
+the channel.
+

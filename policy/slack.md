@@ -36,24 +36,12 @@ creating new channels:
 * `event-`: Channels for individual events.
 * `app-`: Channels for specific apps, like `#app-slack`.
 
-### Prefer Channels, Avoid Direct Messages
+### Prefer Public Channels
 
 Keeping communication and decision-making processes allows future contributors to learn how, and why,
 decisions were made. Preserving context and allowing other contributors, both future and present,
 to catch up is one of the big benefits of using Slack. With that in mind, we heavily recommend that
 you use channels and avoid direct messages.
 
-### Private Slack Channels
-
 Private channels are discouraged unless there is a clear need (e.g. for sensitive information such
 as discussion of vulnerability reports).
-
-### Shared Slack Channels
-
-For communicating with larger groups of [collaborators](../../../charter/README.md#definitions) from
-external companies sometimes it is more appropriate to create a single shared channel than it is to
-invite everyone individually as a guest.
-
-All shared channels should be public and have to be approved by a Slack Owner before they can be
-linked. If a shared private channel needs to be created, a reason should be provided when requesting
-the channel.
