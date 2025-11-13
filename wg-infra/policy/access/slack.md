@@ -55,4 +55,3 @@ invite everyone individually as a guest.
 All shared channels should be public and have to be approved by a Slack Owner before they can be
 linked. If a shared private channel needs to be created, a reason should be provided when requesting
 the channel.
-
