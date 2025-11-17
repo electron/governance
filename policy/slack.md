@@ -12,7 +12,7 @@ about what's considered good etiquette in our workspace.
 
 ### Mentions: `@here` and `@channel`
 
-Slack allows users to ping everyone present in a channel using three groups: `@here` for all
+Slack allows users to ping everyone present in a channel several ways: `@here` for all
 active members in a channel and `@channel` for everyone in a channel. While we haven't disabled those
 groups, _do not use them unless absolutely necessary_. Push notifications are the equivalent of
 texting someone. Only use `@`-mentions with exactly the people you _need to reach_.
