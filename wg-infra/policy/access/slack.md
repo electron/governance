@@ -1,29 +1,61 @@
 # Slack
 
-## Slack Owners / Admins
+> [!TIP]
+> For details on Slack usage (e.g. channels and etiquette), see the
+> [general Slack policy document](../../../policy/slack.md).
 
-Slack requires a single Primary Owner, who will be selected by the Admin WG. [Samuel Attard](https://github.com/marshallofsound) is the current Primary Owner of the Slack Workspace.
+## Owners
 
-Slack Owners / Admins are assigned as per the [Community & Safety Working Group Documentation](../../../wg-community-safety/slack-access.md)
+All members of the Administrative Working Group shall be granted the "Owner" role in Slack.
 
-## Full Users
+Certain members of the Infrastructure Working Group can be granted the "Owner" role in Slack.
+Adding members of the Infrastructure Working Group as owners requires a vote from the Administrative Working Group.
 
-All [maintainers](../../../charter/README.md#definitions) shall have a full-access Slack account on Electron HQ.
+Current infra owners are listed below:
 
-## Multi-Channel / Single-Channel Guests
+| Name | Slack Handle | Date Granted |
+|------|-----------------|--------------|
+| Shelley Vohr | @codebytere | 09-28-2022 |
+| Samuel Attard | @marshallofsound | 09-28-2022 |
 
-In a variety of situations, some [collaborators](../../../charter/README.md#definitions) may be added as Guests to the Electron HQ Slack. The process for requesting guest access for a collaborator is detailed in the [Community & Safety Working Group Documentation](../../../wg-community-safety/slack-access.md).
+Slack requires a single Primary Owner, who will be selected by the Admin WG.
+[Samuel Attard](https://github.com/marshallofsound) is the current Primary Owner of the ElectronHQ workspace.
 
-* People attending Mini-Summits or Hackweeks should be added as single-channel guests to the related `event-*` channel.
+## Admins
 
-Before a Guest is added to a channel, a message must be posted to that channel stating the intent to add that guest to the channel after 24 hours and asking for concerns to be raised. Every channel member must have 24 hours to raise concerns about the guest being added to the channel regardless of timezone. After 24 hours without any concerns raised, the guest may be added to the channel. It must be announced in the channel that the guest was added to ensure that all current members are aware a guest is now in that channel.
+All members of the [Community & Safety Working Group](../../../wg-community-safety/README.md) have the
+"Admin" role in Slack.
 
-## Private Slack Channels
+## Members
 
-Private channels are discouraged unless there is a clear need, e.g. for sensitive information such as discussion of vulnerability reports.
+All [maintainers](../../../README.md#definitions) shall have a full-access Slack account on Electron HQ.
+When offboarding from governance, emeritus maintainers shall have their Slack accounts converted into
+Multi-Channel Guests.
 
-## Shared Slack Channels
+## Guests
 
-For communicating with larger groups of [collaborators](../../../charter/README.md#definitions) from external companies sometimes it is more appropriate to create a single shared channel than it is to invite everyone individually as a guest.
+All Multi-Channel and Single-Channel Guests must fill out the [ElectronHQ Slack Maintainer Group form](https://electronjs.org/maintainers/join)
+before gaining Slack access. Once this form is filled out, the [Community & Safety Working Group](../../../wg-community-safety/README.md)
+will review the request. If the request is approved, the guest will be added to the applicable channel(s).
 
-All shared channels should be public and have to be approved by a Slack Owner before they can be linked.  If a shared private channel needs to be created, a reason should be provided when requesting the channel.
+### Adding Guests to New Channels
+
+Before a Guest is added to a channel, a message must be posted to that channel stating the intent to
+add that guest to the channel after 24 hours and asking for concerns to be raised.
+
+Every channel member must have 24 hours to raise concerns about the guest being added to the
+channel regardless of timezone. After 24 hours without any concerns raised, the guest may be added
+to the channel.
+
+It must be announced in the channel that the guest was added to ensure that all current members are
+aware a new guest is now in that channel.
+
+### Shared Slack Channels
+
+For communicating with larger groups of [collaborators](../../../README.md#definitions) from
+external companies, sometimes it is more appropriate to create a single shared channel than it is to
+invite everyone individually as a guest.
+
+All shared channels should be public and have to be approved by a Slack Owner before they can be
+linked. If a shared private channel needs to be created, a reason should be provided when requesting
+the channel.
