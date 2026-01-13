@@ -1,0 +1,26 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run rotation_generator",
+      "type": "shell",
+      "command": "node wg-upgrades/rotation_generator.js",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Lint Markdown",
+      "type": "shell",
+      "command": "echo 'No linter configured. Consider adding markdownlint.'",
+      "presentation": {
+        "reveal": "silent"
+      }
+    }
+  ]
+}
