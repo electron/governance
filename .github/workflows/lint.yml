@@ -27,15 +27,13 @@ jobs:
       uses: actions/setup-node@b39b52d1213e96004bfcb1c61a8a6fa8ab84f3e8 # v4.0.1
       with:
         node-version: 20.x
-    - name: Create a Temporary package.json
-      run: npm init --yes
-    - name: Install @electron/lint-roller
-      run: npm install --save-dev @electron/lint-roller@^2.1.0
+    - name: Install
+      run: yarn install --immutable
     - name: Run markdownlint
-      run: npx electron-markdownlint "**/*.md"
+      run: yarn electron-markdownlint "**/*.md"
     - name: Lint links
-      run: npx lint-roller-markdown-links --ignore-path .markdownlintignore "**/*.md"
+      run: yarn lint-roller-markdown-links --ignore-path .markdownlintignore "**/*.md"
       if: ${{ always() }}
     - name: Check external links
-      run: npx lint-roller-markdown-links --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
+      run: yarn lint-roller-markdown-links --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
       if: ${{ inputs.fetch-external-links }}
