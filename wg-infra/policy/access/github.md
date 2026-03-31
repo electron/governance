@@ -11,7 +11,7 @@ Maintainers are granted ownership based on a need-focused approval process, prim
 All approved owners shall be listed below:
 
 | Name | GitHub Username | Date Granted |
-|------|-----------------|--------------|
+| ------ | ----------------- | -------------- |
 | John Kleinschmidt | @jkleinsc | 11-17-2020 |
 | Keeley Hammond | @VerteDinde | 10-02-2023 |
 | Samuel Attard | @MarshallOfSound | 11-17-2020 |

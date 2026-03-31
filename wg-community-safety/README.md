@@ -5,13 +5,13 @@ Oversees removal/bans from community.
 ## Membership
 
 | Avatar | Name | Role | Time Zone |
-| -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/clavin.png" width=100 alt="@clavin">  | Calvin Watford [@clavin](https://github.com/clavin) | Member | MST (Salt Lake City) |
-| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere">  | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
-| <img src="https://github.com/vertedinde.png" width=100 alt="@vertedinde">  | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
-| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc">  | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
+| ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
+| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr"> | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/clavin.png" width=100 alt="@clavin"> | Calvin Watford [@clavin](https://github.com/clavin) | Member | MST (Salt Lake City) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao"> | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere"> | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
+| <img src="https://github.com/vertedinde.png" width=100 alt="@vertedinde"> | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
+| <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc"> | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 
 ## Emeritus Members
 
@@ -19,11 +19,12 @@ Oversees removal/bans from community.
   <summary>Emeritus Members</summary>
 
   | Avatar | Name | Role | Time Zone |
-  | -------------------------------------------|----------------------|----------------------------| -------- |
+  | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
   | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater"> | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
   | <img src="https://github.com/lee-dohm.png" width=100 alt="@lee-dohm"> | Lee Dohm [@lee-dohm](https://github.com/lee-dohm) | **Chair** | PT (Seattle) |
-  | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy">  | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
-  | <img src="https://github.com/tonyganch.png" width=100 alt="@tonyganch">  | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
+  | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
+  | <img src="https://github.com/tonyganch.png" width=100 alt="@tonyganch"> | Tony Ganch [@tonyganch](https://github.com/tonyganch) | Member | CET (Prague) |
+
 </details>
 
 ## Areas of Responsibility

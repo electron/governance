@@ -53,16 +53,16 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 ## Working Groups
 
-| Working Group  | Repo | Description |
-|:---------------|:------|-------------|
+| Working Group | Repo | Description |
+| :------------ | :--- | ----------- |
 | Administrative | [wg-administrative](../wg-administrative) | Administrates Governance |
-| Community      | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
-| Ecosystem      | [wg-ecosystem](../wg-ecosystem/) | Makes Electron app development easier |
-| Outreach       | [wg-outreach](../wg-outreach/)   | Grows the community |
-| Releases       | [wg-releases](../wg-releases/)   | Coordinates new releases |
-| Security       | [wg-security](../wg-security/)   | Security review & response |
-| Upgrades       | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
-| API            | [wg-api](../wg-api/) | API design |
+| Community | [wg-community-safety](../wg-community-safety/) | Handles Code of Conduct issues |
+| Ecosystem | [wg-ecosystem](../wg-ecosystem/) | Makes Electron app development easier |
+| Outreach | [wg-outreach](../wg-outreach/) | Grows the community |
+| Releases | [wg-releases](../wg-releases/) | Coordinates new releases |
+| Security | [wg-security](../wg-security/) | Security review & response |
+| Upgrades | [wg-upgrades](../wg-upgrades/) | Ongoing Node & Chromium upgrades |
+| API | [wg-api](../wg-api/) | API design |
 
 ### Responsibilities
 
