@@ -14,7 +14,7 @@ Adding members of the Infrastructure Working Group as owners requires a vote fro
 Current infra owners are listed below:
 
 | Name | Slack Handle | Date Granted |
-|------|-----------------|--------------|
+| ------ | ----------------- | -------------- |
 | Shelley Vohr | @codebytere | 09-28-2022 |
 | Samuel Attard | @marshallofsound | 09-28-2022 |
 
