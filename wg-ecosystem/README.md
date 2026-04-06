@@ -5,22 +5,22 @@ Oversees the projects that make Electron app development easier.
 ## Membership
 
 | Avatar | Name | Role | Time Zone |
-| -------------------------------------------|----------------------|----------------------------| -------- |
-| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1">  | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
-| <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao">  | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
-| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr">  | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
-| <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11">  | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
-| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao">  | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
-| <img src="https://github.com/erikian.png" width=100 alt="@erikian">  | Erik Moura  [@erikian](https://github.com/erikian) | Member | BRT (Francisco Beltrão) |
-| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg">  | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
-| <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99">  | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
-| <img src="https://github.com/kilian.png" width=100 alt="@kilian">  | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
-| <img src="https://github.com/malept.png" width=100 alt="@malept">  | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
+| ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
+| <img src="https://github.com/blackhole1.png" width=100 alt="@blackhole1"> | Black-Hole [@blackhole1](https://github.com/blackhole1) | Member | BJT (Hangzhou) |
+| <img src="https://github.com/caoxiemeihao.png" width=100 alt="@caoxiemeihao"> | caoxiemeihao  [@caoxiemeihao](https://github.com/caoxiemeihao) | Member | BJT (Hangzhou) |
+| <img src="https://github.com/ckerr.png" width=100 alt="@ckerr"> | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
+| <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11"> | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
+| <img src="https://github.com/erickzhao.png" width=100 alt="@erickzhao"> | Erick Zhao [@erickzhao](https://github.com/erickzhao) | Member | PT (Vancouver) |
+| <img src="https://github.com/erikian.png" width=100 alt="@erikian"> | Erik Moura  [@erikian](https://github.com/erikian) | Member | BRT (Francisco Beltrão) |
+| <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg"> | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
+| <img src="https://github.com/georgexu99.png" width=100 alt="@georgexu99"> | George Xu [@georgexu99](https://github.com/georgexu99) | Member | PT (San Francisco) |
+| <img src="https://github.com/kilian.png" width=100 alt="@kilian"> | Kilian Valkhof [@kilian](https://github.com/kilian) | Member | CET (Netherlands) |
+| <img src="https://github.com/malept.png" width=100 alt="@malept"> | Mark Lee [@malept](https://github.com/malept) | Member | PT (Seattle) |
 | <img src="https://github.com/mmaietta.png" width=100 alt="@mmaietta"> | Mike Maietta [@mmaietta](https://github.com/mmaietta) | Member | PT (California) |
-| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound">  | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
-| <img src="https://github.com/Toinane.png" width=100 alt="@Toinane">  | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
-| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde">  | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
-| <img src="https://github.com/yangannyx.png" width=100 alt="@yangannyx">  | Anny Yang  [@yangannyx](https://github.com/yangannyx) | Member | PST (San Francisco) |
+| <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound"> | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
+| <img src="https://github.com/Toinane.png" width=100 alt="@Toinane"> | Toinane [@toinane](https://github.com/toinane) | Member | CET (France) |
+| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde"> | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/yangannyx.png" width=100 alt="@yangannyx"> | Anny Yang  [@yangannyx](https://github.com/yangannyx) | Member | PST (San Francisco) |
 
 ## Emeritus Members
 
@@ -28,7 +28,7 @@ Oversees the projects that make Electron app development easier.
   <summary>Emeritus Members</summary>
 
   | Avatar | Name | Role | Time Zone |
-  | -------------------------------------------|----------------------|----------------------------| -------- |
+  | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
   | <img src="https://github.com/molant.png" width=100 alt="@molant"> | Antón Molleda [@molant](https://github.com/molant) | Chair | PT (Seattle) |
   | <img src="https://github.com/sofianguy.png" width=100 alt="@sofianguy"> | Sofia Nguy [@sofianguy](https://github.com/sofianguy) | Member | PT (San Francisco) |
   | <img src="https://github.com/vhashimotoo.png" width=100 alt="@vhashimotoo"> | Vlad Hashimoto [@vhashimotoo](https://github.com/vhashimotoo) | Chair | CET (Germany, Frankfurt am Main) |
@@ -36,6 +36,7 @@ Oversees the projects that make Electron app development easier.
   | <img src="https://github.com/shiftkey.png" width=100 alt="@shiftkey"> | Brendan Forster [@shiftkey](https://github.com/shiftkey) | Member | AT (Canada) |
   | <img src="https://github.com/miniak.png" width=100 alt="@miniak"> | Milan Burda [@miniak](https://github.com/miniak) | Member | CET (Prague) |
   | <img src="https://github.com/nitsakh.png" width=100 alt="@nitsakh"> | Nitish Sakhawalkar [@nitsakh](https://github.com/nitsakh) | Member | PT (San Francisco) |
+
 </details>
 
 ## Areas of Responsibility

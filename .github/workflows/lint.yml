@@ -30,7 +30,7 @@ jobs:
     - name: Install
       run: yarn install --immutable
     - name: Run markdownlint
-      run: yarn electron-markdownlint "**/*.md"
+      run: yarn markdownlint-cli2 "**/*.md"
     - name: Lint links
       run: yarn lint-roller-markdown-links --ignore-path .markdownlintignore "**/*.md"
       if: ${{ always() }}
