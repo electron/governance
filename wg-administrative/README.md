@@ -22,6 +22,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 
   | Avatar | Name | Role | Time Zone |
   | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
+
     | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde"> | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Chair | PT (Portland) |
   | <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin"> | Kevin Nguyen [@PlaineKevin](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
   | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater"> | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
