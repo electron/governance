@@ -12,7 +12,7 @@ The initial group members consist of management from Microsoft, and Slack whose 
 | Avatar | Name | Role | Time Zone |
 | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc"> | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Chair | EST (Harrisburg) |
-| <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde"> | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Member | PT (Portland) |
+| <img src="https://github.com/feesh.png" width=100 alt="@feesh"> | Trish Ang [@feesh](https://github.com/feesh) | Member | PT (San Francisco) |
   | <img src="https://github.com/felixrieseberg.png" width=100 alt="@felixrieseberg"> | Felix Rieseberg [@felixrieseberg](https://github.com/felixrieseberg) | Member | PT (San Francisco) |
 
 ## Emeritus Members
@@ -22,6 +22,8 @@ The initial group members consist of management from Microsoft, and Slack whose 
 
   | Avatar | Name | Role | Time Zone |
   | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
+
+    | <img src="https://github.com/VerteDinde.png" width=100 alt="@VerteDinde"> | Keeley Hammond [@VerteDinde](https://github.com/VerteDinde) | Chair | PT (Portland) |
   | <img src="https://github.com/PlaineKevin.png" width=100 alt="@PlaineKevin"> | Kevin Nguyen [@PlaineKevin](https://github.com/PlaineKevin) | Chair | PT (Los Angeles) |
   | <img src="https://github.com/groundwater.png" width=100 alt="@groundwater"> | Jacob Groundwater [@groundwater](https://github.com/groundwater) | Member | PT (San Francisco) |
   | <img src="https://github.com/mgc.png" width=100 alt="@mgc"> | Matt Crocker [@mgc](https://github.com/mgc) | Chair | PT (San Francisco) |
