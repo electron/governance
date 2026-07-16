@@ -36,7 +36,6 @@ As a grandfather clause, the people holding the management-action privilege at a
 * [@ckerr](https://github.com/ckerr)
 * [@codebytere](https://github.com/codebytere)
 * [@dsanders11](https://github.com/dsanders11)
-* [@georgexu99](https://github.com/georgexu99)
 * [@jkleinsc](https://github.com/jkleinsc)
 * [@MarshallOfSound](https://github.com/MarshallOfSound)
 * [@VerteDinde](https://github.com/VerteDinde)
