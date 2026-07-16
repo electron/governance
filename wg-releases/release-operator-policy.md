@@ -10,11 +10,21 @@ A Release Operator shall be an active member of Electron governance, meaning a m
 
 ## Granting
 
-Any member of the Releases Working Group may nominate a governance member (including themselves) to become a Release Operator.
+Any member of the Releases Working Group may nominate a governance member to become a Release Operator. Members shall not nominate themselves; a nomination shall be made by a member of the Releases Working Group other than the nominee.
 
 Approval requires a super-majority vote of the Releases Working Group: at least 2/3 of the full sitting membership must vote in favor. A reasonable effort should be made to collect votes asynchronously from members who cannot attend the meeting, per the [Charter](../charter/README.md).
 
 The vote and its outcome shall be recorded in the Releases Working Group [meeting notes](meeting-notes).
+
+## Evaluating a nomination
+
+Release Operator status is a grant of trust, not a reward for activity. When voting on a nomination, members of the Releases Working Group should weigh whether the nominee is a known and trusted actor within the Electron ecosystem. Signals that support a nomination include:
+
+* A long track record of sustained contribution to Electron.
+* Being personally known to maintainers, including having met members of the Working Group in person.
+* Having their Electron work backed by a corporate entity that shares responsibility for their actions.
+
+These are signals, not requirements: none is individually necessary, and no combination guarantees approval. The vote remains a judgement of trust by the Working Group.
 
 ## Revoking
 
