@@ -46,7 +46,7 @@ These are our core values, as voted by the maintainers, in order of importance. 
 
 ## Participation
 
-* [Code of Conduct](../CODE_OF_CONDUCT.md)
+* [Code of Conduct](https://github.com/electron/.github/blob/main/CODE_OF_CONDUCT.md)
 * [Using Slack](../policy/slack.md)
 * [Triaging Issues](../playbooks/README.md)
 * [Using Pull Requests](../policy/pull-requests.md)
