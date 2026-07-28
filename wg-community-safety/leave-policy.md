@@ -4,7 +4,7 @@ Occasionally, Electron maintainers take a leave of absence from the project for 
 
 Because leaves of absence may be for private, personal reasons, notification of the Community and Safety Working Group may be made by sending an email to the [Code of Conduct notification email address][coc-email]. All communications through this email address are to be kept confidential.
 
-[coc-email]: ../CODE_OF_CONDUCT.md#enforcement
+[coc-email]: https://github.com/electron/.github/blob/main/CODE_OF_CONDUCT.md#reporting-an-issue
 
 ## Notification
 

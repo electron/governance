@@ -72,7 +72,7 @@ See [charter/README.md](./charter/README.md) for more information.
 
 ## Code of Conduct
 
-The Electron organization and all repos therein adhere to the following [Code of Conduct](CODE_OF_CONDUCT.md).
+The Electron organization and all repos therein adhere to the following [Code of Conduct](https://github.com/electron/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## License
 
