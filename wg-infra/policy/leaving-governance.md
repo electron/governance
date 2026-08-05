@@ -25,3 +25,6 @@ This documents the process of leaving Electron Governance. A contributor is no l
       * See [details on GSuite permissions](./access/gsuite.md).
 
 7. Remove the former member from the [Electron organization](https://github.com/electron/) on GitHub.
+
+8. Remove the former member from the `release-operators` team in the [.permissions repo](https://github.com/electron/.permissions/), if they are a member.
+    * This revokes their ability to perform management actions on Sudowoodo.
