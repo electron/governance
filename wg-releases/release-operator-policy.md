@@ -12,7 +12,7 @@ A Release Operator shall be an active member of Electron governance, meaning a m
 
 Any member of the Releases Working Group may nominate a governance member to become a Release Operator. Members shall not nominate themselves; a nomination shall be made by a member of the Releases Working Group other than the nominee.
 
-Approval requires a super-majority vote of the Releases Working Group: at least 2/3 of the full sitting membership must vote in favor. A reasonable effort should be made to collect votes asynchronously from members who cannot attend the meeting, per the [Charter](../charter/README.md).
+Approval requires a super-majority vote of the Releases Working Group: at least 2/3 (rounded up) of the full sitting membership must vote in favor. A reasonable effort should be made to collect votes asynchronously from members who cannot attend the meeting, per the [Charter](../charter/README.md).
 
 The vote and its outcome shall be recorded in the Releases Working Group [meeting notes](meeting-notes).
 
