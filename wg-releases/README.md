@@ -6,7 +6,7 @@ Oversees all release branches, and tooling to support releases.
 
 | Avatar | Name | Role | Time Zone |
 | ------------------------------------------- | ---------------------- | ---------------------------- | -------- |
-| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere"> | Shelley Vohr [@codebytere](https://github.com/codebytere) | **Chair** | CET (Berlin) |
+| <img src="https://github.com/codebytere.png" width=100 alt="@codebytere"> | Shelley Vohr [@codebytere](https://github.com/codebytere) | Member | CET (Berlin) |
 | <img src="https://github.com/jkleinsc.png" width=100 alt="@jkleinsc"> | John Kleinschmidt [@jkleinsc](https://github.com/jkleinsc) | Member | ET (Harrisburg) |
 | <img src="https://github.com/ckerr.png" width=100 alt="@ckerr"> | Charles Kerr [@ckerr](https://github.com/ckerr) | Member | CT (New Orleans) |
 | <img src="https://github.com/vertedinde.png" width=100 alt="@vertedinde"> | Keeley Hammond [@VerteDinde](https://github.com/vertedinde) | Member | PT (Portland) |
@@ -17,7 +17,6 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11"> | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
 | <img src="https://github.com/nikwen.png" width=100 alt="@nikwen"> | Niklas Wenzel [@nikwen](https://github.com/nikwen) | Member | CET (Berlin) |
 | <img src="https://github.com/rf-figma.png" width=100 alt="@rf-figma"> | Ryan Fitzgerald [@rf-figma](https://github.com/rf-figma) | Member | PT (San Francisco) |
-| <img src="https://github.com/nmggithub.png" width=100 alt="@nmggithub"> | Noah Gregory [@nmggithub](https://github.com/nmggithub) | Member | ET (United States) |
 
 ## Emeritus Members
 
@@ -35,6 +34,7 @@ Oversees all release branches, and tooling to support releases.
   | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556"> | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | JST (Nagano) |
   | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz"> | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
   | <img src="https://github.com/raisinten.png" width=100 alt="@raisinten"> | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
+  | <img src="https://github.com/nmggithub.png" width=100 alt="@nmggithub"> | Noah Gregory [@nmggithub](https://github.com/nmggithub) | Member | ET (United States) |
 
 </details>
 
@@ -51,12 +51,7 @@ Oversees all release branches, and tooling to support releases.
 
 ## Leadership Responsibilities
 
-In addition to responsibilities outlined in the [Charter](../charter/README.md), a Chair of the Releases Working Group should:
-
-* Run regular release audits for [supported branches](https://electronjs.org/docs/tutorial/support#supported-versions) using [`unreleased`](https://github.com/electron/unreleased).
-  * Check for unmerged backports and pull requests needing manual (non-[trop](https://github.com/electron/trop)) backports to release branches.
-* Ensure releases are run for supported branches passing the pre-set unreleased commit threshold.
-* Ensure relevant PRs are being backported to necessary branches, and that original PR openers are opening manual backports for those that trop is unable to handle itself.
+The Releases Working Group uses a rotating [Release Captain](release-captain-overview.md) to make sure each beta and stable release is released on schedule, and that all tasks supporting a given release are completed on time.
 
 ## Associated Repositories
 
@@ -67,7 +62,7 @@ See [repos.md](repos.md)
 In order to join the Releases Working Group, an aspiring member must:
 
 1. Regularly attend three meetings
-2. Request entry into Releases Working Group by asking the current Chair
+2. Request entry into Releases Working Group by asking an existing Releases Working Group member.
 3. Obtain consensus approval by vote of existing membership during a portion of a meeting which the requester shall not attend.
 
 ## WG Removal Policy
@@ -80,7 +75,6 @@ This is done primarily to ensure that there are no open avenues of compromise fo
 
 The working group typically conducts a 1 hour weekly sync meeting every Wednesday @ [9:30 PT](https://duckduckgo.com/?q=9%3A30+PT&ia=answer). The structure of the meeting is as follows:
 
-* Take attendance
-* Review open issues
+* Review open issues on relevant project boards
 * Review and vote on open backport requests
 * Open floor for other agenda items/topics
