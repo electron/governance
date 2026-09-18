@@ -17,7 +17,6 @@ Oversees all release branches, and tooling to support releases.
 | <img src="https://github.com/dsanders11.png" width=100 alt="@dsanders11"> | David Sanders [@dsanders11](https://github.com/dsanders11) | Member | PT (Santa Barbara) |
 | <img src="https://github.com/nikwen.png" width=100 alt="@nikwen"> | Niklas Wenzel [@nikwen](https://github.com/nikwen) | Member | CET (Berlin) |
 | <img src="https://github.com/rf-figma.png" width=100 alt="@rf-figma"> | Ryan Fitzgerald [@rf-figma](https://github.com/rf-figma) | Member | PT (San Francisco) |
-| <img src="https://github.com/nmggithub.png" width=100 alt="@nmggithub"> | Noah Gregory [@nmggithub](https://github.com/nmggithub) | Member | ET (United States) |
 
 ## Emeritus Members
 
@@ -35,6 +34,7 @@ Oversees all release branches, and tooling to support releases.
   | <img src="https://github.com/deepak1556.png" width=100 alt="@deepak1556"> | Deepak Mohan [@deepak1556](https://github.com/deepak1556) | Member | JST (Nagano) |
   | <img src="https://github.com/zcbenz.png" width=100 alt="@zcbenz"> | Cheng Zhao [@zcbenz](https://github.com/zcbenz) | Member | JST (Nagoya) |
   | <img src="https://github.com/raisinten.png" width=100 alt="@raisinten"> | Darshan Sen [@raisinten](https://github.com/raisinten) | Member | IST (Kolkata) |
+  | <img src="https://github.com/nmggithub.png" width=100 alt="@nmggithub"> | Noah Gregory [@nmggithub](https://github.com/nmggithub) | Member | ET (United States) |
 
 </details>
 
