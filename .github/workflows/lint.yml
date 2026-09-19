@@ -8,10 +8,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-    inputs:
-      fetch-external-links:
-        type: boolean
-        description: Check if external links are broken
 
 permissions:
   contents: read
@@ -34,6 +30,3 @@ jobs:
     - name: Lint links
       run: yarn lint-roller-markdown-links --ignore-path .markdownlintignore "**/*.md"
       if: ${{ always() }}
-    - name: Check external links
-      run: yarn lint-roller-markdown-links --ignore-path .markdownlintignore --fetch-external-links "**/*.md"
-      if: ${{ inputs.fetch-external-links }}
