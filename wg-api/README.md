@@ -14,7 +14,7 @@ Oversees public API design based on project principles.
 | <img src="https://github.com/marshallofsound.png" width=100 alt="@marshallofsound"> | Samuel Attard [@MarshallOfSound](https://github.com/marshallofsound) | Member | PT (Vancouver) |
 | <img src="https://github.com/reitowo.png" width=100 alt="@reitowo"> | Reito [@reitowo](https://github.com/reitowo) | Member | CST (Shanghai) |
 | <img src="https://github.com/samuelmaddock.png" width=100 alt="@samuelmaddock"> | Sam Maddock [@samuelmaddock](https://github.com/samuelmaddock) | Member | ET (New York City) |
-| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon">  | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
+| <img src="https://github.com/nornagon.png" width=100 alt="@nornagon"> | Jeremy Rose [@nornagon](https://github.com/nornagon) | Member | PT (San Francisco) |
 
 ## Emeritus Members
 
