@@ -248,6 +248,22 @@ Additionally, due to lack of function overloading, JavaScript class constructors
 
 If the class generates events, it should inherit from `EventEmitter` and use its interface for emitting events.
 
+Any details related to the event should be included in an event object.
+
+```javascript
+// ❌ Separate details object in addition to event object
+webContents.on('will-navigate', (event, details) => {
+  event.preventDefault()
+  const { url, frame } = details
+})
+
+// ✅ Event object passed with detail properties
+webContents.on('will-navigate', (event) => {
+  event.preventDefault()
+  const { url, frame } = event
+})
+```
+
 ### Use instance properties for non-assignable objects
 
 If an API of the class returns a _non-assignable_ `Object`, and the returned objects always strictly equal each other, the API should be implemented as property.
